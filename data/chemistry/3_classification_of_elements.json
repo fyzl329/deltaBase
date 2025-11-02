@@ -1,0 +1,1128 @@
+{
+  "metadata": {
+    "chapter": "classification_of_elements_and_periodicity_in_properties",
+    "type": "mcq",
+    "subject": "chemistry",
+    "chapterNumber": 3,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C3Q1",
+      "statement": "The element with atomic number 56 belongs to which block?",
+      "options": [
+        "d-block",
+        "s-block",
+        "f-block",
+        "p-block"
+      ],
+      "answer": "s-block"
+    },
+    {
+      "id": "C3Q2",
+      "statement": "Which of the following is the most metallic element?",
+      "options": [
+        "Al",
+        "Mg",
+        "Si",
+        "Na"
+      ],
+      "answer": "Na"
+    },
+    {
+      "id": "C3Q3",
+      "statement": "The correct order of atomic radii is:",
+      "options": [
+        "O < F < N",
+        "F < N < O",
+        "F < O < N",
+        "N < O < F"
+      ],
+      "answer": "F < O < N"
+    },
+    {
+      "id": "C3Q4",
+      "statement": "Which of the following has the highest electron gain enthalpy?",
+      "options": [
+        "Br",
+        "Cl",
+        "F",
+        "I"
+      ],
+      "answer": "Cl"
+    },
+    {
+      "id": "C3Q5",
+      "statement": "The ionization enthalpy is lowest for:",
+      "options": [
+        "Halogens",
+        "Noble gases",
+        "Alkaline earth metals",
+        "Alkali metals"
+      ],
+      "answer": "Alkali metals"
+    },
+    {
+      "id": "C3Q6",
+      "statement": "Which element has the highest electronegativity?",
+      "options": [
+        "S",
+        "F",
+        "O",
+        "Cl"
+      ],
+      "answer": "F"
+    },
+    {
+      "id": "C3Q7",
+      "statement": "The element with electronic configuration [Xe]4f¹⁴5d¹⁰6s²6p³ is a:",
+      "options": [
+        "Metalloid",
+        "Metal",
+        "Noble gas",
+        "Non-metal"
+      ],
+      "answer": "Metalloid"
+    },
+    {
+      "id": "C3Q8",
+      "statement": "Which of the following represents the correct order of increasing first ionization enthalpy?",
+      "options": [
+        "Na < Mg < Al",
+        "Al < Na < Mg",
+        "Na < Al < Mg",
+        "Mg < Na < Al"
+      ],
+      "answer": "Na < Al < Mg"
+    },
+    {
+      "id": "C3Q9",
+      "statement": "The element with Z = 120 would be placed in which group of the periodic table?",
+      "options": [
+        "Group 17",
+        "Group 1",
+        "Group 18",
+        "Group 2"
+      ],
+      "answer": "Group 2"
+    },
+    {
+      "id": "C3Q10",
+      "statement": "Which of the following has the smallest atomic radius?",
+      "options": [
+        "Be",
+        "Li",
+        "B",
+        "C"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "C3Q11",
+      "statement": "The correct order of ionic radii is:",
+      "options": [
+        "Al³⁺ < Mg²⁺ < Na⁺",
+        "Mg²⁺ < Na⁺ < Al³⁺",
+        "Na⁺ < Al³⁺ < Mg²⁺",
+        "Na⁺ < Mg²⁺ < Al³⁺"
+      ],
+      "answer": "Al³⁺ < Mg²⁺ < Na⁺"
+    },
+    {
+      "id": "C3Q12",
+      "statement": "Which element has the most negative electron gain enthalpy?",
+      "options": [
+        "Br",
+        "Cl",
+        "F",
+        "I"
+      ],
+      "answer": "Cl"
+    },
+    {
+      "id": "C3Q13",
+      "statement": "The element with atomic number 35 belongs to:",
+      "options": [
+        "Period 3, Group 17",
+        "Period 4, Group 15",
+        "Period 4, Group 17",
+        "Period 3, Group 15"
+      ],
+      "answer": "Period 4, Group 17"
+    },
+    {
+      "id": "C3Q14",
+      "statement": "Which of the following oxides is amphoteric?",
+      "options": [
+        "MgO",
+        "Na₂O",
+        "Al₂O₃",
+        "SiO₂"
+      ],
+      "answer": "Al₂O₃"
+    },
+    {
+      "id": "C3Q15",
+      "statement": "The element with the highest second ionization energy is:",
+      "options": [
+        "B",
+        "Li",
+        "Be",
+        "C"
+      ],
+      "answer": "Li"
+    },
+    {
+      "id": "C3Q16",
+      "statement": "Which of the following has the largest size?",
+      "options": [
+        "F⁻",
+        "Na⁺",
+        "Mg²⁺",
+        "O²⁻"
+      ],
+      "answer": "O²⁻"
+    },
+    {
+      "id": "C3Q17",
+      "statement": "The diagonal relationship is not shown by:",
+      "options": [
+        "B and Si",
+        "C and P",
+        "Be and Al",
+        "Li and Mg"
+      ],
+      "answer": "C and P"
+    },
+    {
+      "id": "C3Q18",
+      "statement": "Which of the following elements has the highest melting point?",
+      "options": [
+        "Al",
+        "Na",
+        "Si",
+        "Mg"
+      ],
+      "answer": "Si"
+    },
+    {
+      "id": "C3Q19",
+      "statement": "The element with Z = 38 belongs to:",
+      "options": [
+        "s-block",
+        "d-block",
+        "p-block",
+        "f-block"
+      ],
+      "answer": "s-block"
+    },
+    {
+      "id": "C3Q20",
+      "statement": "Which of the following has the highest hydration enthalpy?",
+      "options": [
+        "Rb⁺",
+        "Na⁺",
+        "K⁺",
+        "Li⁺"
+      ],
+      "answer": "Li⁺"
+    },
+    {
+      "id": "C3Q21",
+      "statement": "The correct order of electron gain enthalpy is:",
+      "options": [
+        "Te < Se < S < O",
+        "S < O < Se < Te",
+        "Se < Te < O < S",
+        "O < S < Se < Te"
+      ],
+      "answer": "O < S < Se < Te"
+    },
+    {
+      "id": "C3Q22",
+      "statement": "Which element shows maximum number of oxidation states?",
+      "options": [
+        "Co",
+        "Mn",
+        "Cr",
+        "Fe"
+      ],
+      "answer": "Mn"
+    },
+    {
+      "id": "C3Q23",
+      "statement": "The ionization energy of nitrogen is greater than that of oxygen because:",
+      "options": [
+        "Oxygen has higher electron gain enthalpy",
+        "Nitrogen has smaller atomic size",
+        "Oxygen has higher electronegativity",
+        "Nitrogen has half-filled p-orbitals"
+      ],
+      "answer": "Nitrogen has half-filled p-orbitals"
+    },
+    {
+      "id": "C3Q24",
+      "statement": "Which of the following is an actinide?",
+      "options": [
+        "All of these",
+        "Ce",
+        "U",
+        "Th"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "id": "C3Q25",
+      "statement": "The element with the highest electronegativity among the following is:",
+      "options": [
+        "Germanium",
+        "Tin",
+        "Lead",
+        "Carbon"
+      ],
+      "answer": "Carbon"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C3Q26",
+      "statement": "The correct order of electron gain enthalpy with negative sign is:",
+      "options": [
+        "I > Br > Cl > F",
+        "Cl > F > Br > I",
+        "Br > Cl > I > F",
+        "F > Cl > Br > I"
+      ],
+      "answer": "Cl > F > Br > I"
+    },
+    {
+      "id": "C3Q27",
+      "statement": "Which of the following represents the correct order of increasing electron gain enthalpy?",
+      "options": [
+        "Te < Se < O < S",
+        "O < Te < Se < S",
+        "Te < Se < S < O",
+        "S < O < Se < Te"
+      ],
+      "answer": "Te < Se < S < O"
+    },
+    {
+      "id": "C3Q28",
+      "statement": "The element with the highest first ionization potential is:",
+      "options": [
+        "Carbon",
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "id": "C3Q29",
+      "statement": "Which of the following ions has the maximum magnetic moment?",
+      "options": [
+        "Ti³⁺",
+        "V³⁺",
+        "Cr³⁺",
+        "Mn³⁺"
+      ],
+      "answer": "Mn³⁺"
+    },
+    {
+      "id": "C3Q30",
+      "statement": "The correct order of ionic radii is:",
+      "options": [
+        "Y³⁺ < Br⁻ < Rb⁺ < Sr²⁺",
+        "Sr²⁺ < Rb⁺ < Br⁻ < Y³⁺",
+        "Y³⁺ < Sr²⁺ < Rb⁺ < Br⁻",
+        "Br⁻ < Rb⁺ < Sr²⁺ < Y³⁺"
+      ],
+      "answer": "Y³⁺ < Sr²⁺ < Rb⁺ < Br⁻"
+    },
+    {
+      "id": "C3Q31",
+      "statement": "Which of the following has the highest bond dissociation energy?",
+      "options": [
+        "Cl₂",
+        "I₂",
+        "Br₂",
+        "F₂"
+      ],
+      "answer": "Cl₂"
+    },
+    {
+      "id": "C3Q32",
+      "statement": "The element which shows maximum number of oxidation states is:",
+      "options": [
+        "Titanium",
+        "Scandium",
+        "Manganese",
+        "Vanadium"
+      ],
+      "answer": "Manganese"
+    },
+    {
+      "id": "C3Q33",
+      "statement": "Which of the following represents the correct order of increasing atomic radius?",
+      "options": [
+        "N < C < B < Be",
+        "C < N < Be < B",
+        "B < C < N < Be",
+        "Be < B < C < N"
+      ],
+      "answer": "N < C < B < Be"
+    },
+    {
+      "id": "C3Q34",
+      "statement": "The correct order of metallic character is:",
+      "options": [
+        "Mg > Na > Al > Si",
+        "Si > Al > Mg > Na",
+        "Al > Mg > Na > Si",
+        "Na > Mg > Al > Si"
+      ],
+      "answer": "Na > Mg > Al > Si"
+    },
+    {
+      "id": "C3Q35",
+      "statement": "Which of the following has the highest hydration energy?",
+      "options": [
+        "Mg²⁺",
+        "K⁺",
+        "Al³⁺",
+        "Na⁺"
+      ],
+      "answer": "Al³⁺"
+    },
+    {
+      "id": "C3Q36",
+      "statement": "The element with the highest electron affinity is:",
+      "options": [
+        "Iodine",
+        "Fluorine",
+        "Bromine",
+        "Chlorine"
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "id": "C3Q37",
+      "statement": "Which of the following represents the correct order of electronegativity?",
+      "options": [
+        "C > N > O > F",
+        "F > O > N > C",
+        "F > O > C > N",
+        "O > F > N > C"
+      ],
+      "answer": "F > O > N > C"
+    },
+    {
+      "id": "C3Q38",
+      "statement": "The ionization energy will be maximum for:",
+      "options": [
+        "ns²np³",
+        "ns²np⁴",
+        "ns²np²",
+        "ns²np¹"
+      ],
+      "answer": "ns²np³"
+    },
+    {
+      "id": "C3Q39",
+      "statement": "Which of the following has the smallest ionic radius?",
+      "options": [
+        "Li⁺",
+        "B³⁺",
+        "C⁴⁺",
+        "Be²⁺"
+      ],
+      "answer": "C⁴⁺"
+    },
+    {
+      "id": "C3Q40",
+      "statement": "The correct order of second ionization potential is:",
+      "options": [
+        "F < O < N < C",
+        "C < N < O < F",
+        "C < O < N < F",
+        "O < N < F < C"
+      ],
+      "answer": "C < O < N < F"
+    },
+    {
+      "id": "C3Q41",
+      "statement": "Which of the following elements has the highest density?",
+      "options": [
+        "Os",
+        "Ir",
+        "Au",
+        "Pt"
+      ],
+      "answer": "Os"
+    },
+    {
+      "id": "C3Q42",
+      "statement": "The element which forms mostly covalent compounds is:",
+      "options": [
+        "Na",
+        "Ca",
+        "Al",
+        "C"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "C3Q43",
+      "statement": "Which of the following has the highest boiling point?",
+      "options": [
+        "HBr",
+        "HF",
+        "HI",
+        "HCl"
+      ],
+      "answer": "HF"
+    },
+    {
+      "id": "C3Q44",
+      "statement": "The correct order of acidic strength is:",
+      "options": [
+        "H₂O < H₂S < H₂Se < H₂Te",
+        "H₂Te < H₂Se < H₂S < H₂O",
+        "H₂S < H₂O < H₂Se < H₂Te",
+        "H₂Se < H₂S < H₂O < H₂Te"
+      ],
+      "answer": "H₂O < H₂S < H₂Se < H₂Te"
+    },
+    {
+      "id": "C3Q45",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "CaO",
+        "NaCl",
+        "MgO",
+        "LiF"
+      ],
+      "answer": "MgO"
+    },
+    {
+      "id": "C3Q46",
+      "statement": "The element with atomic number 57 belongs to:",
+      "options": [
+        "d-block",
+        "p-block",
+        "s-block",
+        "f-block"
+      ],
+      "answer": "f-block"
+    },
+    {
+      "id": "C3Q47",
+      "statement": "Which of the following has the highest reducing power?",
+      "options": [
+        "K",
+        "Rb",
+        "Cs",
+        "Na"
+      ],
+      "answer": "Cs"
+    },
+    {
+      "id": "C3Q48",
+      "statement": "The correct order of basic strength of oxides is:",
+      "options": [
+        "SiO₂ < Al₂O₃ < MgO < Na₂O",
+        "MgO < Na₂O < Al₂O₃ < SiO₂",
+        "Na₂O < MgO < Al₂O₃ < SiO₂",
+        "Al₂O₃ < SiO₂ < Na₂O < MgO"
+      ],
+      "answer": "SiO₂ < Al₂O₃ < MgO < Na₂O"
+    },
+    {
+      "id": "C3Q49",
+      "statement": "Which of the following has the highest polarizing power?",
+      "options": [
+        "Al³⁺",
+        "Si⁴⁺",
+        "Mg²⁺",
+        "Na⁺"
+      ],
+      "answer": "Si⁴⁺"
+    },
+    {
+      "id": "C3Q50",
+      "statement": "The element which is liquid over the widest range of temperature is:",
+      "options": [
+        "Ga",
+        "Hg",
+        "Cs",
+        "Fr"
+      ],
+      "answer": "Ga"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C3Q51",
+      "statement": "The correct order of electron affinity is:",
+      "options": [
+        "O < S < Se < Te",
+        "S < O < Se < Te",
+        "Se < Te < O < S",
+        "Te < Se < S < O"
+      ],
+      "answer": "Te < Se < S < O"
+    },
+    {
+      "id": "C3Q52",
+      "statement": "Which of the following has the highest third ionization energy?",
+      "options": [
+        "Titanium",
+        "Scandium",
+        "Vanadium",
+        "Calcium"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "id": "C3Q53",
+      "statement": "The element with the highest melting point among the following is:",
+      "options": [
+        "Chromium",
+        "Tantalum",
+        "Tungsten",
+        "Molybdenum"
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "id": "C3Q53",
+      "statement": "Which of the following has the highest hydration energy?",
+      "options": [
+        "Rb⁺",
+        "Li⁺",
+        "Na⁺",
+        "K⁺"
+      ],
+      "answer": "Li⁺"
+    },
+    {
+      "id": "C3Q54",
+      "statement": "The correct order of ionic mobility in aqueous solution is:",
+      "options": [
+        "Li⁺ < Na⁺ < K⁺ < Rb⁺",
+        "Rb⁺ < K⁺ < Na⁺ < Li⁺",
+        "Na⁺ < Li⁺ < K⁺ < Rb⁺",
+        "K⁺ < Na⁺ < Li⁺ < Rb⁺"
+      ],
+      "answer": "Li⁺ < Na⁺ < K⁺ < Rb⁺"
+    },
+    {
+      "id": "C3Q55",
+      "statement": "Which of the following has the highest bond order?",
+      "options": [
+        "O₂⁻",
+        "O₂⁺",
+        "O₂",
+        "O₂²⁻"
+      ],
+      "answer": "O₂⁺"
+    },
+    {
+      "id": "C3Q56",
+      "statement": "The element which shows +6 oxidation state is:",
+      "options": [
+        "Chromium",
+        "Molybdenum",
+        "Tungsten",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "id": "C3Q57",
+      "statement": "Which of the following has the highest electrical conductivity?",
+      "options": [
+        "Aluminum",
+        "Silver",
+        "Gold",
+        "Copper"
+      ],
+      "answer": "Silver"
+    },
+    {
+      "id": "C3Q58",
+      "statement": "The correct order of stability of +2 oxidation state is:",
+      "options": [
+        "Pb < Sn < Ge < Si",
+        "Sn < Pb < Ge < Si",
+        "Ge < Si < Sn < Pb",
+        "Si < Ge < Sn < Pb"
+      ],
+      "answer": "Si < Ge < Sn < Pb"
+    },
+    {
+      "id": "C3Q59",
+      "statement": "Which of the following has the highest electron affinity?",
+      "options": [
+        "Antimony",
+        "Nitrogen",
+        "Phosphorus",
+        "Arsenic"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "id": "C3Q60",
+      "statement": "The element with the highest ionization energy in the periodic table is:",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Fluorine",
+        "Neon"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "id": "C3Q61",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "LiF",
+        "NaF",
+        "NaCl",
+        "LiCl"
+      ],
+      "answer": "LiF"
+    },
+    {
+      "id": "C3Q62",
+      "statement": "The correct order of reducing power of halide ions is:",
+      "options": [
+        "I⁻ < Br⁻ < Cl⁻ < F⁻",
+        "F⁻ < Cl⁻ < Br⁻ < I⁻",
+        "Cl⁻ < Br⁻ < F⁻ < I⁻",
+        "Br⁻ < Cl⁻ < I⁻ < F⁻"
+      ],
+      "answer": "F⁻ < Cl⁻ < Br⁻ < I⁻"
+    },
+    {
+      "id": "C3Q63",
+      "statement": "Which of the following has the highest polarizing power?",
+      "options": [
+        "Sc³⁺",
+        "K⁺",
+        "Ti⁴⁺",
+        "Ca²⁺"
+      ],
+      "answer": "Ti⁴⁺"
+    },
+    {
+      "id": "C3Q64",
+      "statement": "The element which is known as 'chemical twin' of zirconium is:",
+      "options": [
+        "Vanadium",
+        "Titanium",
+        "Niobium",
+        "Hafnium"
+      ],
+      "answer": "Hafnium"
+    },
+    {
+      "id": "C3Q65",
+      "statement": "Which of the following has the highest bond dissociation energy?",
+      "options": [
+        "O₂",
+        "Cl₂",
+        "N₂",
+        "F₂"
+      ],
+      "answer": "N₂"
+    },
+    {
+      "id": "C3Q66",
+      "statement": "The correct order of atomic radii for the elements of second period is:",
+      "options": [
+        "Ne < F < O < N < C < B < Be < Li",
+        "Ne > F > O > N > C > B > Be > Li",
+        "Li < Be > B > C > N > O > F > Ne",
+        "Li < Be < B < C < N < O < F < Ne"
+      ],
+      "answer": "Ne > F > O > N > C > B > Be > Li"
+    },
+    {
+      "id": "C3Q67",
+      "statement": "Which of the following has the highest hydration energy?",
+      "options": [
+        "Mg²⁺",
+        "Ca²⁺",
+        "Sr²⁺",
+        "Be²⁺"
+      ],
+      "answer": "Be²⁺"
+    },
+    {
+      "id": "C3Q68",
+      "statement": "The element which shows maximum covalency of 6 is:",
+      "options": [
+        "Arsenic",
+        "Nitrogen",
+        "Antimony",
+        "Phosphorus"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "id": "C3Q69",
+      "statement": "Which of the following has the highest melting point?",
+      "options": [
+        "Germanium",
+        "Diamond",
+        "Silicon",
+        "Graphite"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "C3Q70",
+      "statement": "The correct order of ionization energy is:",
+      "options": [
+        "B < Be < N < C",
+        "Be < B < N < C",
+        "B < Be < C < N",
+        "Be < B < C < N"
+      ],
+      "answer": "B < Be < N < C"
+    },
+    {
+      "id": "C3Q71",
+      "statement": "Which of the following has the highest electron gain enthalpy?",
+      "options": [
+        "Tellurium",
+        "Selenium",
+        "Oxygen",
+        "Sulfur"
+      ],
+      "answer": "Sulfur"
+    },
+    {
+      "id": "C3Q72",
+      "statement": "The element which is most abundant in the earth's crust is:",
+      "options": [
+        "Aluminum",
+        "Iron",
+        "Silicon",
+        "Oxygen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "C3Q73",
+      "statement": "Which of the following has the highest reducing character?",
+      "options": [
+        "Na",
+        "Cs",
+        "K",
+        "Rb"
+      ],
+      "answer": "Cs"
+    },
+    {
+      "id": "C3Q74",
+      "statement": "The correct order of basic strength of hydroxides is:",
+      "options": [
+        "NaOH < LiOH < KOH < RbOH",
+        "KOH < NaOH < LiOH < RbOH",
+        "RbOH < KOH < NaOH < LiOH",
+        "LiOH < NaOH < KOH < RbOH"
+      ],
+      "answer": "LiOH < NaOH < KOH < RbOH"
+    },
+    {
+      "id": "C3Q75",
+      "statement": "Which of the following has the highest boiling point?",
+      "options": [
+        "PH₃",
+        "NH₃",
+        "AsH₃",
+        "SbH₃"
+      ],
+      "answer": "NH₃"
+    }
+  ],
+  "jee": [
+    {
+      "id": "C3Q76",
+      "statement": "The correct order of electron affinity is:",
+      "options": [
+        "F < Cl > Br > I",
+        "F > Cl > Br > I",
+        "Br > Cl > F > I",
+        "Cl > F > Br > I"
+      ],
+      "answer": "F < Cl > Br > I"
+    },
+    {
+      "id": "C3Q77",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "MgBr₂",
+        "MgO",
+        "MgCl₂",
+        "MgF₂"
+      ],
+      "answer": "MgO"
+    },
+    {
+      "id": "C3Q78",
+      "statement": "The element with the highest second ionization energy is:",
+      "options": [
+        "Lithium",
+        "Boron",
+        "Beryllium",
+        "Carbon"
+      ],
+      "answer": "Lithium"
+    },
+    {
+      "id": "C3Q79",
+      "statement": "Which of the following has the highest hydration energy?",
+      "options": [
+        "Li⁺",
+        "Mg²⁺",
+        "Al³⁺",
+        "Be²⁺"
+      ],
+      "answer": "Al³⁺"
+    },
+    {
+      "id": "C3Q80",
+      "statement": "The correct order of ionic radii is:",
+      "options": [
+        "S²⁻ < Cl⁻ < K⁺ < Ca²⁺",
+        "Cl⁻ < S²⁻ < K⁺ < Ca²⁺",
+        "K⁺ < Ca²⁺ < Cl⁻ < S²⁻",
+        "Ca²⁺ < K⁺ < Cl⁻ < S²⁻"
+      ],
+      "answer": "Ca²⁺ < K⁺ < Cl⁻ < S²⁻"
+    },
+    {
+      "id": "C3Q81",
+      "statement": "Which of the following has the highest bond order?",
+      "options": [
+        "N₂⁻",
+        "N₂⁺",
+        "N₂²⁻",
+        "N₂"
+      ],
+      "answer": "N₂"
+    },
+    {
+      "id": "C3Q82",
+      "statement": "The element which shows maximum number of oxidation states in its compounds is:",
+      "options": [
+        "Chromium",
+        "Manganese",
+        "Iron",
+        "Cobalt"
+      ],
+      "answer": "Manganese"
+    },
+    {
+      "id": "C3Q83",
+      "statement": "Which of the following has the highest electrical conductivity?",
+      "options": [
+        "Silver",
+        "Copper",
+        "Gold",
+        "Aluminum"
+      ],
+      "answer": "Silver"
+    },
+    {
+      "id": "C3Q84",
+      "statement": "The correct order of stability of +2 oxidation state is:",
+      "options": [
+        "Ge < Si < Sn < Pb",
+        "Si < Ge < Sn < Pb",
+        "Pb < Sn < Ge < Si",
+        "Sn < Pb < Ge < Si"
+      ],
+      "answer": "Si < Ge < Sn < Pb"
+    },
+    {
+      "id": "C3Q85",
+      "statement": "Which of the following has the highest electron affinity?",
+      "options": [
+        "Antimony",
+        "Nitrogen",
+        "Phosphorus",
+        "Arsenic"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "id": "C3Q86",
+      "statement": "The element with the highest ionization energy in the periodic table is:",
+      "options": [
+        "Helium",
+        "Fluorine",
+        "Hydrogen",
+        "Neon"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "id": "C3Q87",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "NaF",
+        "NaCl",
+        "LiF",
+        "LiCl"
+      ],
+      "answer": "LiF"
+    },
+    {
+      "id": "C3Q88",
+      "statement": "The correct order of reducing power of halide ions is:",
+      "options": [
+        "F⁻ < Cl⁻ < Br⁻ < I⁻",
+        "I⁻ < Br⁻ < Cl⁻ < F⁻",
+        "Br⁻ < Cl⁻ < I⁻ < F⁻",
+        "Cl⁻ < Br⁻ < F⁻ < I⁻"
+      ],
+      "answer": "F⁻ < Cl⁻ < Br⁻ < I⁻"
+    },
+    {
+      "id": "C3Q89",
+      "statement": "Which of the following has the highest polarizing power?",
+      "options": [
+        "K⁺",
+        "Ca²⁺",
+        "Ti⁴⁺",
+        "Sc³⁺"
+      ],
+      "answer": "Ti⁴⁺"
+    },
+    {
+      "id": "C3Q90",
+      "statement": "The element which is known as 'chemical twin' of zirconium is:",
+      "options": [
+        "Vanadium",
+        "Hafnium",
+        "Niobium",
+        "Titanium"
+      ],
+      "answer": "Hafnium"
+    },
+    {
+      "id": "C3Q91",
+      "statement": "Which of the following has the highest bond dissociation energy?",
+      "options": [
+        "F₂",
+        "N₂",
+        "Cl₂",
+        "O₂"
+      ],
+      "answer": "N₂"
+    },
+    {
+      "id": "C3Q92",
+      "statement": "The correct order of atomic radii for the elements of second period is:",
+      "options": [
+        "Ne < F < O < N < C < B < Be < Li",
+        "Li < Be > B > C > N > O > F > Ne",
+        "Li < Be < B < C < N < O < F < Ne",
+        "Ne > F > O > N > C > B > Be > Li"
+      ],
+      "answer": "Ne > F > O > N > C > B > Be > Li"
+    },
+    {
+      "id": "C3Q93",
+      "statement": "Which of the following has the highest hydration energy?",
+      "options": [
+        "Sr²⁺",
+        "Mg²⁺",
+        "Be²⁺",
+        "Ca²⁺"
+      ],
+      "answer": "Be²⁺"
+    },
+    {
+      "id": "C3Q94",
+      "statement": "The element which shows maximum covalency of 6 is:",
+      "options": [
+        "Nitrogen",
+        "Antimony",
+        "Arsenic",
+        "Phosphorus"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "id": "C3Q95",
+      "statement": "Which of the following has the highest melting point?",
+      "options": [
+        "Diamond",
+        "Germanium",
+        "Silicon",
+        "Graphite"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": "C3Q96",
+      "statement": "The correct order of ionization energy is:",
+      "options": [
+        "B < Be < N < C",
+        "B < Be < C < N",
+        "Be < B < N < C",
+        "Be < B < C < N"
+      ],
+      "answer": "B < Be < N < C"
+    },
+    {
+      "id": "C3Q97",
+      "statement": "Which of the following has the highest electron gain enthalpy?",
+      "options": [
+        "Selenium",
+        "Tellurium",
+        "Sulfur",
+        "Oxygen"
+      ],
+      "answer": "Sulfur"
+    },
+    {
+      "id": "C3Q98",
+      "statement": "The element which is most abundant in the earth's crust is:",
+      "options": [
+        "Silicon",
+        "Iron",
+        "Aluminum",
+        "Oxygen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "C3Q99",
+      "statement": "Which of the following has the highest reducing character?",
+      "options": [
+        "Rb",
+        "Cs",
+        "K",
+        "Na"
+      ],
+      "answer": "Cs"
+    },
+    {
+      "id": "C3Q100",
+      "statement": "The correct order of basic strength of hydroxides is:",
+      "options": [
+        "KOH < NaOH < LiOH < RbOH",
+        "RbOH < KOH < NaOH < LiOH",
+        "NaOH < LiOH < KOH < RbOH",
+        "LiOH < NaOH < KOH < RbOH"
+      ],
+      "answer": "LiOH < NaOH < KOH < RbOH"
+    }
+  ]
+}

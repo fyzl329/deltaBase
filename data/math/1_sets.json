@@ -1,0 +1,1241 @@
+{
+  "metadata": {
+    "chapter": "sets",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 1,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M1Q1",
+      "statement": "If \\(A=\\{1,2,3\\}\\) and \\(B=\\{3,4\\}\\), then \\(A\\cup B=\\)",
+      "options": [
+        "\\(\\{3\\}\\)",
+        "\\(\\{1,2\\}\\)",
+        "\\(\\emptyset\\)",
+        "\\(\\{1,2,3,4\\}\\)"
+      ],
+      "answer": "\\(\\{1,2,3,4\\}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q2",
+      "statement": "With \\(U=\\{1,2,3,4,5,6\\}\\) and \\(A=\\{2,4,6\\}\\), the complement \\(A'\\) is",
+      "options": [
+        "\\(\\{2,4,6\\}\\)",
+        "\\(\\{1,2,3,4,5,6\\}\\)",
+        "\\(\\emptyset\\)",
+        "\\(\\{1,3,5\\}\\)"
+      ],
+      "answer": "\\(\\{1,3,5\\}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q3",
+      "statement": "Number of elements in the power set \\(\\mathcal{P}(A)\\) when \\(|A|=4\\) equals",
+      "options": [
+        "24",
+        "16",
+        "4",
+        "8"
+      ],
+      "answer": "16",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q4",
+      "statement": "If \\(A\\subseteq B\\), then \\(A\\cap B\\) equals",
+      "options": [
+        "\\(A\\)",
+        "\\(\\emptyset\\)",
+        "\\(B\\)",
+        "\\(U\\)"
+      ],
+      "answer": "\\(A\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q5",
+      "statement": "Which of the following is a finite set?",
+      "options": [
+        "Set of integers",
+        "Set of months of a year",
+        "Set of natural numbers",
+        "Set of prime numbers"
+      ],
+      "answer": "Set of months of a year",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q6",
+      "statement": "If \\(A=\\{a,b,c\\}\\), then \\(|\\mathcal{P}(A)|=\\)",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "8"
+      ],
+      "answer": "8",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q7",
+      "statement": "Which statement is true for any sets \\(A,B\\)?",
+      "options": [
+        "\\(A\\cap B\\subseteq A\\)",
+        "\\(A\\cup B\\subseteq A\\)",
+        "\\(A\\subseteq A\\cap B\\)",
+        "\\(A\\cup B= A\\) always"
+      ],
+      "answer": "\\(A\\cap B\\subseteq A\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q8",
+      "statement": "If \\(A=\\{1,3,5\\}\\), \\(B=\\{1,2,3\\}\\), then \\(A\\Delta B\\) is",
+      "options": [
+        "\\(\\{1,3\\}\\)",
+        "\\(\\{2,3,5\\}\\)",
+        "\\(\\{2,5\\}\\)",
+        "\\(\\{1,2,3,5\\}\\)"
+      ],
+      "answer": "\\(\\{2,5\\}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q9",
+      "statement": "The null set is denoted by",
+      "options": [
+        "\\(\\emptyset\\)",
+        "\\(N\\)",
+        "\\(\\phi\\) (lowercase Greek letter)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(\\emptyset\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q10",
+      "statement": "If \\(A\\cap B=\\emptyset\\), then \\(A\\) and \\(B\\) are",
+      "options": [
+        "Universal",
+        "Equal",
+        "Disjoint",
+        "Equivalent"
+      ],
+      "answer": "Disjoint",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q11",
+      "statement": "If \\(|A|=3, |B|=2\\), the maximum possible \\(|A\\cup B|\\) is",
+      "options": [
+        "2",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q12",
+      "statement": "Identify the universal set for studying school subjects for one class",
+      "options": [
+        "\\(\\mathbb{N}\\)",
+        "\\(\\{\\text{Math, Physics}\\}\\)",
+        "\\(\\{\\text{All subjects taught in the class}\\}\\)",
+        "\\(\\emptyset\\)"
+      ],
+      "answer": "\\(\\{\\text{All subjects taught in the class}\\}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q13",
+      "statement": "Choose the correct identity for all \\(A,B\\):",
+      "options": [
+        "Neither",
+        "\\(A\\cup(B\\cap C)=(A\\cup B)\\cap(A\\cup C)\\)",
+        "Both",
+        "\\(A\\cap(B\\cup C)=(A\\cap B)\\cup(A\\cap C)\\)"
+      ],
+      "answer": "Both",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q14",
+      "statement": "If \\(A=\\{x\\in\\mathbb{Z}\\mid -2\\le x\\le 2\\}\\), then \\(A\\) equals",
+      "options": [
+        "\\(\\{-2,-1,1,2\\}\\)",
+        "\\(\\{-1,0,1,2\\}\\)",
+        "\\(\\{-2,-1,0,1,2\\}\\)",
+        "\\(\\{0,1,2\\}\\)"
+      ],
+      "answer": "\\(\\{-2,-1,0,1,2\\}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q15",
+      "statement": "If \\(A\\subseteq B\\), which is always true?",
+      "options": [
+        "\\(A'\\subseteq B'\\)",
+        "None",
+        "\\(B'\\subseteq A'\\)",
+        "\\(A'=B'\\)"
+      ],
+      "answer": "\\(B'\\subseteq A'\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q16",
+      "statement": "The cardinality of \\(\\{\\emptyset,\\{\\emptyset\\}\\}\\) is",
+      "options": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "answer": "2",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q17",
+      "statement": "If \\(U=\\{1,2,3,4,5\\}\\), \\(A=\\{2,3\\}\\), then \\(A'\\cap A=\\)",
+      "options": [
+        "\\(A'\\)",
+        "\\(A\\)",
+        "\\(\\emptyset\\)",
+        "\\(U\\)"
+      ],
+      "answer": "\\(\\emptyset\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q18",
+      "statement": "Which is an identity for any set \\(A\\)?",
+      "options": [
+        "\\(A\\subset A'\\)",
+        "\\(A\\cap A'=U\\)",
+        "\\(A\\cup A'=U\\)",
+        "\\(A\\Delta A= A\\)"
+      ],
+      "answer": "\\(A\\cup A'=U\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q19",
+      "statement": "If \\(A=\\{2,4,6,8\\}\\), number of proper subsets of \\(A\\) is",
+      "options": [
+        "15",
+        "16",
+        "8",
+        "7"
+      ],
+      "answer": "15",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q20",
+      "statement": "Identify the set-builder form of \\(\\{1,4,9,16\\}\\)",
+      "options": [
+        "\\(\\{x:x=3n\\}\\)",
+        "\\(\\{x:x=n, n\\le 4\\}\\)",
+        "\\(\\{x:x=n^2, n\\in\\mathbb{N},1\\le n\\le 4\\}\\)",
+        "\\(\\{x:x=2n\\}\\)"
+      ],
+      "answer": "\\(\\{x:x=n^2, n\\in\\mathbb{N},1\\le n\\le 4\\}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q21",
+      "statement": "If \\(A\\cap B=A\\), then which must hold?",
+      "options": [
+        "\\(A=B\\)",
+        "\\(A\\cap B=\\emptyset\\)",
+        "\\(A\\subseteq B\\)",
+        "\\(B\\subseteq A\\)"
+      ],
+      "answer": "\\(A\\subseteq B\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q22",
+      "statement": "Which Venn description matches: elements in \\(A\\) but not in \\(B\\)?",
+      "options": [
+        "\\(A\\cap B\\)",
+        "\\(A\\cup B\\)",
+        "\\(B\\setminus A\\)",
+        "\\(A\\setminus B\\)"
+      ],
+      "answer": "\\(A\\setminus B\\)",
+      "type": "graphical"
+    },
+    {
+      "id": "M1Q23",
+      "statement": "If \\(A\\) and \\(B\\) are finite with \\(|A|=m, |B|=n\\) and disjoint, then \\(|A\\cup B|=\\)",
+      "options": [
+        "\\(m+n\\)",
+        "\\(mn\\)",
+        "\\(m-n\\)",
+        "\\(2^{m+n}\\)"
+      ],
+      "answer": "\\(m+n\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q24",
+      "statement": "Fill in: \\(A\\Delta B=(A\\cup B)\\setminus\\,\\_\\_\\_\\)",
+      "options": [
+        "\\(B\\)",
+        "\\(A\\cap B\\)",
+        "\\(A\\)",
+        "\\(A'\\cup B'\\)"
+      ],
+      "answer": "\\(A\\cap B\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q25",
+      "statement": "Choose the tautology:",
+      "options": [
+        "\\(A\\subset A\\)",
+        "\\(A'=A\\)",
+        "\\(A\\cap U=\\emptyset\\)",
+        "\\(A\\subseteq A\\)"
+      ],
+      "answer": "\\(A\\subseteq A\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q26",
+      "statement": "If \\(A=\\{\\text{vowels in ENGLISH}\\}\\), then \\(A\\) equals",
+      "options": [
+        "\\(\\{a,e,i,o,u,y\\}\\)",
+        "\\(\\{a,e,i\\}\\)",
+        "\\(\\{a,e,i,o\\}\\)",
+        "\\(\\{a,e,i,o,u\\}\\)"
+      ],
+      "answer": "\\(\\{a,e,i,o,u\\}\\)",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M1Q26",
+      "statement": "If \\(|A|=20, |B|=15, |A\\cap B|=7\\), then \\(|A\\cup B|=\\)",
+      "options": [
+        "27",
+        "35",
+        "28",
+        "22"
+      ],
+      "answer": "28",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q27",
+      "statement": "In a survey of 80 students, 50 like math, 45 like physics, 20 like both. How many like neither?",
+      "options": [
+        "5",
+        "15",
+        "35",
+        "25"
+      ],
+      "answer": "10",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q28",
+      "statement": "If \\(A\\cup X=B\\) and \\(A\\cap X=\\emptyset\\), then \\(X=\\)",
+      "options": [
+        "\\(U\\)",
+        "\\(B\\setminus A\\)",
+        "\\(A\\)",
+        "\\(B\\)"
+      ],
+      "answer": "\\(B\\setminus A\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q29",
+      "statement": "For finite disjoint sets \\(A,B,C\\) with sizes 3,4,5 respectively, \\(|A\\cup B\\cup C|=\\)",
+      "options": [
+        "12",
+        "7",
+        "15",
+        "9"
+      ],
+      "answer": "12",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q30",
+      "statement": "Using inclusion-exclusion: \\(|A\\cup B\\cup C|=\\)",
+      "options": [
+        "\\(|A|+|B|+|C|-|A\\cap B|-|B\\cap C|\\)",
+        "\\(|A|+|B|+|C|-|A\\cap B|-|B\\cap C|-|C\\cap A|+|A\\cap B\\cap C|\\)",
+        "None",
+        "\\(|A|+|B|+|C|\\)"
+      ],
+      "answer": "\\(|A|+|B|+|C|-|A\\cap B|-|B\\cap C|-|C\\cap A|+|A\\cap B\\cap C|\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q31",
+      "statement": "Solve for \\(X\\): \\(X\\cup A=A\\) and \\(X\\cap A=\\emptyset\\). Then \\(X=\\)",
+      "options": [
+        "\\(\\emptyset\\)",
+        "\\(A'\\)",
+        "\\(A\\)",
+        "\\(U\\)"
+      ],
+      "answer": "\\(\\emptyset\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q32",
+      "statement": "If \\(A\\Delta B=\\emptyset\\), then",
+      "options": [
+        "\\(A\\subset B\\)",
+        "\\(A=B\\)",
+        "\\(B\\subset A\\)",
+        "\\(A,B\\) disjoint"
+      ],
+      "answer": "\\(A=B\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q33",
+      "statement": "Let \\(U\\) be 1-100. If \\(A=\\{\\text{multiples of 3}\\}\\), \\(B=\\{\\text{multiples of 5}\\}\\). Then \\(|A\\cup B|=\\)",
+      "options": [
+        "45",
+        "47",
+        "53",
+        "60"
+      ],
+      "answer": "47",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q34",
+      "statement": "With \\(U=\\{1..50\\}\\), \\(A=\\{\\text{squares}\\}\\), \\(B=\\{\\text{cubes}\\}\\). Find \\(|A\\cap B|\\).",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": "2",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q35",
+      "statement": "Given \\(A\\subseteq B\\), which identity is true?",
+      "options": [
+        "\\(A\\Delta B= A\\cup B\\)",
+        "\\(A\\Delta B=\\emptyset\\)",
+        "\\(A\\Delta B=A\\)",
+        "\\(A\\Delta B= B\\setminus A\\)"
+      ],
+      "answer": "\\(A\\Delta B= B\\setminus A\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q36",
+      "statement": "If \\(A,B\\) finite and \\(|A\\cup B|=30\\), \\(|A|=18\\), \\(|B|=20\\), then \\(|A\\cap B|=\\)",
+      "options": [
+        "14",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q37",
+      "statement": "Which De Morgan law is correct?",
+      "options": [
+        "\\((A\\cup B)'=A'\\cap B'\\)",
+        "\\((A\\cup B)'=A'\\cup B'\\)",
+        "None",
+        "\\((A\\cap B)'=A'\\cap B'\\)"
+      ],
+      "answer": "\\((A\\cup B)'=A'\\cap B'\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q38",
+      "statement": "If \\(X\\) satisfies \\(A\\cap X=B\\cap X\\) and \\(A\\cup X=B\\cup X\\), then",
+      "options": [
+        "\\(B\\subset A\\)",
+        "\\(A=B\\)",
+        "No conclusion",
+        "\\(A\\subset B\\)"
+      ],
+      "answer": "\\(A=B\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q39",
+      "statement": "Number of subsets of \\(\\{1,2,\\dots,10\\}\\) with even cardinality is",
+      "options": [
+        "256",
+        "640",
+        "1024",
+        "512"
+      ],
+      "answer": "512",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q40",
+      "statement": "How many subsets of \\(\\{1,2,\\dots,10\\}\\) contain both 1 and 2?",
+      "options": [
+        "512",
+        "128",
+        "64",
+        "256"
+      ],
+      "answer": "256",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q41",
+      "statement": "If \\(A=(B\\cup C)\\setminus(B\\cap C)\\), then \\(A\\) is",
+      "options": [
+        "\\(B\\setminus C\\)",
+        "\\(B\\Delta C\\)",
+        "\\(B\\cap C\\)",
+        "\\(B\\cup C\\)"
+      ],
+      "answer": "\\(B\\Delta C\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q42",
+      "statement": "Let \\(U=\\{1..n\\}\\). Number of subsets containing no consecutive integers equals the \\((n+2)\\)th",
+      "options": [
+        "Triangular number",
+        "Fibonacci number",
+        "Catalan number",
+        "Prime"
+      ],
+      "answer": "Fibonacci number",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q43",
+      "statement": "Solve: \\((A\\cup B)\\cap(A\\cup B')=\\)",
+      "options": [
+        "\\(B\\)",
+        "\\(A\\)",
+        "\\(A\\cap B\\)",
+        "\\(A\\cup B\\)"
+      ],
+      "answer": "\\(A\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q44",
+      "statement": "Number of 3-element subsets of a 10-element set is",
+      "options": [
+        "45",
+        "720",
+        "120",
+        "90"
+      ],
+      "answer": "120",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q45",
+      "statement": "Let \\(A=\\{x\\in\\mathbb{N}: x\\le 30,\\, x\\equiv 1\\pmod 3\\}\\). Then \\(|A|=\\)",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": "10",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q46",
+      "statement": "If \\(A\\subseteq U\\) and \\(|U|=n\\), number of supersets of \\(A\\) within \\(U\\) is",
+      "options": [
+        "\\(\\binom{n}{|A|}\\)",
+        "\\(2^{n-|A|}\\)",
+        "\\(n-|A|\\)",
+        "\\(2^{|A|}\\)"
+      ],
+      "answer": "\\(2^{n-|A|}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q47",
+      "statement": "How many subsets of \\(\\{1..12\\}\\) have sum even?",
+      "options": [
+        "2048",
+        "1536",
+        "1024",
+        "4096"
+      ],
+      "answer": "2048",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q48",
+      "statement": "If \\(A\\cap X=\\emptyset\\) and \\(|A|=7, |U|=20\\), number of possible \\(X\\subseteq U\\) is",
+      "options": [
+        "\\(2^{13}\\)",
+        "\\(2^{7}\\)",
+        "\\(2^{20}\\)",
+        "\\(\\binom{13}{|X|}\\)"
+      ],
+      "answer": "\\(2^{13}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q49",
+      "statement": "Choose correct absorption law:",
+      "options": [
+        "None",
+        "\\(A\\cup(A\\cap B)=B\\)",
+        "\\(A\\cup(A\\cap B)=A\\)",
+        "\\(A\\cap(A\\cup B)=B\\)"
+      ],
+      "answer": "\\(A\\cup(A\\cap B)=A\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q50",
+      "statement": "If \\(A,B\\) are finite with \\(|A|=m, |B|=n\\), number of ordered pairs \\((X,Y)\\) with \\(X\\subseteq A, Y\\subseteq B\\) is",
+      "options": [
+        "\\(m^n\\)",
+        "\\(2^{mn}\\)",
+        "\\(2^{m+n}\\)",
+        "\\(mn\\)"
+      ],
+      "answer": "\\(2^{m+n}\\)",
+      "type": "numerical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M1Q51",
+      "statement": "In a class of 100, 60 take Math, 55 take Physics, 50 take Chemistry; 30 take Math & Physics, 25 Physics & Chemistry, 20 Math & Chemistry, 10 take all three. Number taking exactly one subject is",
+      "options": [
+        "40",
+        "30",
+        "45",
+        "25"
+      ],
+      "answer": "45",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q52",
+      "statement": "Let \\(A,B,C\\subseteq U\\). If \\(X=(A\\cup B)'\\cup(A\\cap C)\\), simplify \\(X\\).",
+      "options": [
+        "\\(B'\\cup C\\)",
+        "\\(A'\\cup C\\)",
+        "\\(A'\\cap B'\\cup A\\cap C\\)",
+        "\\((A\\cap B)'\\)"
+      ],
+      "answer": "\\(A'\\cap B'\\cup A\\cap C\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q53",
+      "statement": "If \\(A\\subseteq B\\subseteq C\\) and \\(|C\\setminus A|=10, |B\\setminus A|=3, |C\\setminus B|=4\\), then \\(|C\\setminus A|=\\)",
+      "options": [
+        "7",
+        "10",
+        "14",
+        "6"
+      ],
+      "answer": "10",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q54",
+      "statement": "How many subsets of \\(\\{1..20\\}\\) contain no two consecutive integers?",
+      "options": [
+        "6765",
+        "17711",
+        "4181",
+        "10946"
+      ],
+      "answer": "17711",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q55",
+      "statement": "For integers 1..n, number of subsets with all elements same parity equals",
+      "options": [
+        "\\(2^{n-2}+1\\)",
+        "\\(2^{n-1}+1\\)",
+        "\\(2^{n-1}\\)",
+        "\\(2^{n-2}+2\\)"
+      ],
+      "answer": "\\(2^{n-1}+1\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q56",
+      "statement": "Let family \\(\\mathcal{F}\\subseteq\\mathcal{P}(\\{1..n\\})\\) be closed under union and intersection. If \\(\\emptyset, \\{1..n\\}\\in\\mathcal{F}\\), the minimum possible size of \\(\\mathcal{F}\\) is",
+      "options": [
+        "\\(2^n\\)",
+        "2",
+        "n+1",
+        "4"
+      ],
+      "answer": "2",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q57",
+      "statement": "If \\(A\\Delta X=B\\) and \\(B\\Delta X=C\\), then \\(A\\Delta C=\\)",
+      "options": [
+        "\\(A\\)",
+        "\\(\\emptyset\\)",
+        "\\(C\\)",
+        "\\(B\\)"
+      ],
+      "answer": "\\(\\emptyset\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q58",
+      "statement": "Number of solutions in subsets \\(X\\subseteq\\{1..12\\}\\) to \\(|X|\\equiv 0\\pmod 3\\) equals",
+      "options": [
+        "All of these",
+        "\\(\\tfrac{1}{3}(2^{12}+2)\\)",
+        "\\(\\tfrac{1}{3}(2^{12}+2\\cdot(-1)^{12})\\)",
+        "\\(\\tfrac{1}{3}(4096+2)\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{3}(2^{12}+2)\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q59",
+      "statement": "Let \\(A_i=\\{i,i+1\\}\\) for \\(i=1..9\\). Find \\(|\\bigcup_{i=1}^9 A_i|\\).",
+      "options": [
+        "9",
+        "12",
+        "11",
+        "10"
+      ],
+      "answer": "10",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q60",
+      "statement": "If \\(A\\subseteq U\\) with \\(|U|=n\\), number of pairs \\((X,Y)\\) with \\(X\\subseteq Y\\subseteq U\\) and \\(A\\subseteq X\\) equals",
+      "options": [
+        "\\(2^{n-|A|}\\)",
+        "\\(n^{n-|A|}\\)",
+        "\\(\\binom{n}{|A|}\\)",
+        "\\(3^{n-|A|}\\)"
+      ],
+      "answer": "\\(3^{n-|A|}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q61",
+      "statement": "Let \\(A,B\\subseteq U\\). The number of \\(X\\subseteq U\\) with \\(X\\cap A=\\emptyset\\) and \\(B\\subseteq X\\) equals",
+      "options": [
+        "\\(2^{|U\\setminus (A\\cup B)|}\\)",
+        "\\(2^{|U|}\\)",
+        "\\(2^{|B|}\\)",
+        "\\(2^{|A|}\\)"
+      ],
+      "answer": "\\(2^{|U\\setminus (A\\cup B)|}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q62",
+      "statement": "Given \\(U=\\{1..n\\}\\). Number of subsets with maximum element exactly \\(k\\) is",
+      "options": [
+        "\\(2^{k-1}-1\\)",
+        "\\(\\binom{n}{k}\\)",
+        "\\(2^{k-1}\\)",
+        "\\(2^{k}-1\\)"
+      ],
+      "answer": "\\(2^{k-1}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q63",
+      "statement": "If \\(A\\cap X= B\\cap X\\) for all \\(X\\subseteq U\\), then",
+      "options": [
+        "\\(A=B\\)",
+        "\\(A\\subseteq B\\)",
+        "\\(B\\subseteq A\\)",
+        "No conclusion"
+      ],
+      "answer": "\\(A=B\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q64",
+      "statement": "How many partitions of a 5-element set exist?",
+      "options": [
+        "203",
+        "52",
+        "Both 203 and Bell(5)",
+        "Bell(5)"
+      ],
+      "answer": "Both 203 and Bell(5)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q65",
+      "statement": "If \\(A_i=\\{i,2i\\}\\) for \\(i=1..n\\), then \\(|\\bigcup A_i|\\) equals approximately",
+      "options": [
+        "\\(\\tfrac{3n}{2}\\)",
+        "\\(2n\\)",
+        "Depends on overlaps",
+        "\\(n\\)"
+      ],
+      "answer": "Depends on overlaps",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q66",
+      "statement": "Let \\(S\\subseteq\\mathbb{Z}\\) be closed under addition and contains 0,1. Then \\(S=\\)",
+      "options": [
+        "\\(\\mathbb{Z}\\)",
+        "Finite set",
+        "\\(\\mathbb{N}\\)",
+        "\\(2\\mathbb{Z}\\)"
+      ],
+      "answer": "\\(\\mathbb{Z}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q67",
+      "statement": "If \\(A\\subseteq B\\) and \\(|B\\setminus A|=k\\), number of intermediate sets \\(X\\) with \\(A\\subseteq X\\subseteq B\\) is",
+      "options": [
+        "\\(k!\\)",
+        "\\(k\\)",
+        "\\(\\binom{k}{2}\\)",
+        "\\(2^k\\)"
+      ],
+      "answer": "2^k",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q68",
+      "statement": "Number of antichains in \\(\\mathcal{P}(\\{1..n\\})\\) equals",
+      "options": [
+        "\\(2^n\\)",
+        "Both are same",
+        "\\(\\binom{n}{\\lfloor n/2\\rfloor}\\)",
+        "Sperner number"
+      ],
+      "answer": "Both are same",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q69",
+      "statement": "If \\(A\\cup X=U\\) and \\(A\\cap X=\\emptyset\\), then \\(X=\\)",
+      "options": [
+        "\\(\\emptyset\\)",
+        "\\(A'\\)",
+        "\\(A\\)",
+        "\\(U\\)"
+      ],
+      "answer": "\\(A'\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q70",
+      "statement": "Let \\(U\\) have \\(n\\) elements. The average size of a random subset is",
+      "options": [
+        "\\(n\\)",
+        "\\(n/2\\)",
+        "\\(n/4\\)",
+        "\\(2n\\)"
+      ],
+      "answer": "n/2",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q71",
+      "statement": "If \\(A_i\\subseteq U\\) and each element of \\(U\\) lies in exactly \\(r\\) of the \\(A_i\\), then \\(\\sum |A_i|=\\)",
+      "options": [
+        "\\(r|U|\\)",
+        "\\(|U|\\)",
+        "\\(r^2|U|\\)",
+        "\\(\\binom{|U|}{r}\\)"
+      ],
+      "answer": "r|U|",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q72",
+      "statement": "For \\(U=\\{1..n\\}\\), number of subsets with sum divisible by 3 equals",
+      "options": [
+        "\\(\\tfrac{1}{3}(2^n+2)\\)",
+        "\\(\\tfrac{1}{3}(2^n+2\\cdot\\Re(\\omega^n))\\)",
+        "\\(2^{n-1}\\)",
+        "\\(\\binom{n}{3}\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{3}(2^n+2\\cdot\\Re(\\omega^n))\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q73",
+      "statement": "If \\(A,B\\) are random subsets of an \\(n\\)-set, expected \\(|A\\cap B|\\) is",
+      "options": [
+        "\\(n/8\\)",
+        "\\(n/2\\)",
+        "\\(n/3\\)",
+        "\\(n/4\\)"
+      ],
+      "answer": "n/4",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q74",
+      "statement": "Let \\(f:\\mathcal{P}(U)\\to\\mathcal{P}(U)\\) be \\(f(X)=X'\\). Then \\(f\\circ f=\\)",
+      "options": [
+        "Id",
+        "Involution not identity",
+        "Empty map",
+        "Constant"
+      ],
+      "answer": "Id",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q75",
+      "statement": "If \\(A_1\\supset A_2\\supset\\dots\\supset A_k\\) with strict inclusions and \\(|A_1|=n\\), the minimum of \\(|A_k|\\) is",
+      "options": [
+        "\\(n-k\\)",
+        "\\(0\\)",
+        "\\(1\\)",
+        "\\(n-k+1\\)"
+      ],
+      "answer": "n-k+1",
+      "type": "analytical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M1Q76",
+      "statement": "For sets \\(A,B,C\\), prove-equivalent choice: \\((A\\Delta B)\\Delta C=\\)",
+      "options": [
+        "\\(A\\cup B\\cup C\\)",
+        "\\((A\\Delta C)\\cap B\\)",
+        "\\(A\\Delta(B\\Delta C)\\)",
+        "\\((A\\cap B)\\Delta C\\)"
+      ],
+      "answer": "\\(A\\Delta(B\\Delta C)\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q77",
+      "statement": "Let \\(U=\\{1..100\\}\\), \\(A=\\{x: x\\equiv 1\\pmod 4\\}\\), \\(B=\\{x: x\\equiv 2\\pmod 5\\}\\). Compute \\(|A\\cap B|\\).",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "answer": "5",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q78",
+      "statement": "Number of subsets of \\(\\{1..n\\}\\) with no two elements summing to \\(n+1\\) is",
+      "options": [
+        "\\(2^{\\lceil n/2\\rceil}\\)",
+        "\\(F_{n+2}\\)",
+        "\\(\\binom{n}{\\lfloor n/2\\rfloor}\\)",
+        "\\(3^{n}\\)"
+      ],
+      "answer": "\\(2^{\\lceil n/2\\rceil}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q79",
+      "statement": "Let \\(A\\subseteq\\{1..n\\}\\) maximize \\(|A|\\) with no 3-term arithmetic progression. Then \\(|A|\\) is about",
+      "options": [
+        "\\(n^{2/3}\\)",
+        "\\(n^{1/2}\\)",
+        "\\(n/\\log n\\)",
+        "\\(n/2\\)"
+      ],
+      "answer": "n/\\log n",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q80",
+      "statement": "If \\(A,B\\subseteq U\\) and \\(|A|=|B|\\), then there exists a bijection \\(f:A\\to B\\). This follows from",
+      "options": [
+        "Pigeonhole principle",
+        "Inclusion-exclusion",
+        "De Morgan",
+        "Schroeder-Bernstein"
+      ],
+      "answer": "Schr\\\"oder-Bernstein",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q81",
+      "statement": "Number of set partitions of \\(\\{1..n\\}\\) into exactly \\(k\\) nonempty blocks equals",
+      "options": [
+        "\\(k^n\\)",
+        "\\(B(n)\\)",
+        "\\(S(n,k)\\)",
+        "\\(\\binom{n}{k}\\)"
+      ],
+      "answer": "\\(S(n,k)\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q82",
+      "statement": "How many subsets of \\(\\{1..2n\\}\\) contain exactly one element from each pair \\(\\{i, i+n\\}\\)?",
+      "options": [
+        "\\(\\binom{2n}{n}\\)",
+        "\\(2\\cdot n!\\)",
+        "\\(n!\\)",
+        "\\(2^n\\)"
+      ],
+      "answer": "2^n",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q83",
+      "statement": "For \\(U=\\{1..n\\}\\), number of chains \\(X_1\\subset X_2\\subset\\dots\\subset X_k\\) equals",
+      "options": [
+        "\\(\\binom{n}{0}\\binom{n}{1}\\cdots\\binom{n}{k-1}\\)",
+        "\\(\\binom{n}{k}k!\\)",
+        "\\(\\binom{n}{k}\\)",
+        "\\(\\binom{n}{k}2^{n-k}\\)"
+      ],
+      "answer": "\\(\\binom{n}{k}k!\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q84",
+      "statement": "Let \\(A\\subseteq\\{1..n\\}\\). Number of supersets \\(X\\) with \\(|X|=r\\) is",
+      "options": [
+        "\\(\\binom{|A|}{r}\\)",
+        "\\(\\binom{n}{r}\\)",
+        "\\(\\binom{n-|A|}{r-|A|}\\)",
+        "\\(\\binom{r}{|A|}\\)"
+      ],
+      "answer": "\\(\\binom{n-|A|}{r-|A|}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q85",
+      "statement": "If \\(A_i\\subseteq U\\) with \\(|A_i|=m\\) and every \\(x\\in U\\) belongs to exactly \\(r\\) sets, then \\(\\sum_{i}|A_i|=\\)",
+      "options": [
+        "\\(r^2\\)",
+        "\\(r|U|\\)",
+        "\\(m|U|\\)",
+        "\\(rm\\)"
+      ],
+      "answer": "r|U|",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q86",
+      "statement": "Choose correct identity: \\((A\\setminus B)\\cup(B\\setminus A)=\\)",
+      "options": [
+        "\\(A\\cap B\\)",
+        "\\(A\\Delta B\\)",
+        "\\(A\\cup B\\)",
+        "\\(U\\)"
+      ],
+      "answer": "\\(A\\Delta B\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q87",
+      "statement": "Let \\(U\\) be of size \\(n\\). Number of pairs \\((X,Y)\\) with \\(X\\cap Y=\\emptyset\\) equals",
+      "options": [
+        "\\(n!\\)",
+        "\\(\\binom{n}{2}\\)",
+        "\\(2^n\\)",
+        "\\(3^n\\)"
+      ],
+      "answer": "3^n",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q88",
+      "statement": "How many subsets of \\(\\{1..n\\}\\) avoid both 1 and 2 being present together?",
+      "options": [
+        "\\(2^{n-1}+2^{n-2}\\)",
+        "\\(3\\cdot 2^{n-2}\\)",
+        "\\(3^{n-2}\\)",
+        "\\(2^{n-1}\\)"
+      ],
+      "answer": "3\\cdot 2^{n-2}",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q89",
+      "statement": "If \\(\\mathcal{F}\\subseteq\\mathcal{P}(\\{1..n\\})\\) has no two sets where one contains the other, then \\(|\\mathcal{F}|\\le\\)",
+      "options": [
+        "\\(\\binom{n}{1}\\)",
+        "\\(2^n\\)",
+        "\\(n!\\)",
+        "\\(\\binom{n}{\\lfloor n/2\\rfloor}\\)"
+      ],
+      "answer": "\\(\\binom{n}{\\lfloor n/2\\rfloor}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q90",
+      "statement": "Number of solutions in subsets to \\(|X|\\equiv 1\\pmod 2\\) for an \\(n\\)-set equals",
+      "options": [
+        "\\(n\\cdot 2^{n-1}\\)",
+        "\\(2^{n-1}\\)",
+        "\\(2^n\\)",
+        "\\(\\binom{n}{1}\\)"
+      ],
+      "answer": "2^{n-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q91",
+      "statement": "For \\(U\\) of size \\(n\\), expected value of \\(|X\\Delta Y|\\) for random \\(X,Y\\subseteq U\\) equals",
+      "options": [
+        "\\(n\\)",
+        "\\(n/4\\)",
+        "\\(n/2\\)",
+        "\\(3n/4\\)"
+      ],
+      "answer": "n/2",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q92",
+      "statement": "Let \\(A\\subseteq\\{1..n\\}\\). How many \\(X\\) satisfy \\(X\\Delta A=A\\)?",
+      "options": [
+        "\\(2^{n-|A|}\\)",
+        "2",
+        "\\(2^{|A|}\\)",
+        "1"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q93",
+      "statement": "If \\(A_i\\) are all \\(k\\)-element subsets of \\(\\{1..n\\}\\), number of pairs with disjoint intersection is",
+      "options": [
+        "\\(\\binom{n}{k}\\binom{k}{k}\\)",
+        "\\(\\binom{n}{2k}\\)",
+        "\\(\\binom{n}{k}\\binom{n-k}{k}\\)",
+        "\\(\\binom{n}{k}^2\\)"
+      ],
+      "answer": "\\(\\binom{n}{k}\\binom{n-k}{k}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q94",
+      "statement": "For \\(U\\) of size \\(n\\), number of ordered triples \\((X,Y,Z)\\) pairwise disjoint equals",
+      "options": [
+        "\\(n!\\)",
+        "\\(3^n\\)",
+        "\\(\\binom{n}{3}\\)",
+        "\\(4^n\\)"
+      ],
+      "answer": "4^n",
+      "type": "numerical"
+    },
+    {
+      "id": "M1Q95",
+      "statement": "Evaluate \\(\\sum_{X\\subseteq U}(-1)^{|X|}\\).",
+      "options": [
+        "\\(n\\)",
+        "1",
+        "\\(2^n\\)",
+        "0"
+      ],
+      "answer": "0",
+      "type": "conceptual"
+    },
+    {
+      "id": "M1Q96",
+      "statement": "Number of partitions of an \\(n\\)-set into blocks of even size equals",
+      "options": [
+        "\\(S(n,2)\\)",
+        "0 for odd \\(n\\)",
+        "Bell number",
+        "Depends on parity only"
+      ],
+      "answer": "0 for odd \\(n\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q97",
+      "statement": "Let \\(A,B\\) random subsets of \\(U\\). Probability that \\(A\\subseteq B\\) equals",
+      "options": [
+        "\\((1/2)^n\\)",
+        "\\((3/4)^n\\)",
+        "\\(2^{-n}\\)",
+        "\\((1/4)^n\\)"
+      ],
+      "answer": "(3/4)^n",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q98",
+      "statement": "If \\(X\\subseteq U\\) chosen uniformly, expected \\(|X|^2|\\) equals",
+      "options": [
+        "\\(n^2/2\\)",
+        "\\(n^2/4+n/4\\)",
+        "\\(n/2\\)",
+        "\\(n/4\\)"
+      ],
+      "answer": "n^2/4+n/4",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q99",
+      "statement": "How many functions \\(f:\\{1..n\\}\\to\\{0,1\\}\\) have image size 2?",
+      "options": [
+        "\\(2^n\\)",
+        "\\(2\\cdot (2^n-2)\\)",
+        "\\(2^{n+1}\\)",
+        "\\(2(2^n-2)\\)"
+      ],
+      "answer": "2(2^n-2)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q100",
+      "statement": "If \\(A\\subseteq U\\) with \\(|A|=a\\), count subsets \\(X\\) such that \\(|X\\cap A|=t\\).",
+      "options": [
+        "\\(\\binom{|U|}{t}\\)",
+        "\\(\\binom{a}{t}2^{|U|-a}\\)",
+        "\\(\\binom{a}{t}\\)",
+        "\\(\\binom{|U|-a}{t}\\)"
+      ],
+      "answer": "\\(\\binom{a}{t}2^{|U|-a}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M1Q101",
+      "statement": "For \\(n\\ge 1\\), evaluate \\(\\sum_{k=0}^n \\binom{n}{k}^2\\).",
+      "options": [
+        "\\(n!\\)",
+        "\\(2^n\\)",
+        "\\(3^n\\)",
+        "\\(\\binom{2n}{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)",
+      "type": "conceptual"
+    }
+  ]
+}

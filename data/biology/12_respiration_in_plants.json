@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "respiration_in_plants",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 12,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C14Q1",
+      "statement": "What is the ultimate source of energy for cellular respiration in plants?",
+      "options": [
+        "ATP",
+        "Sunlight",
+        "Chlorophyll",
+        "Glucose"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "id": "C14Q2",
+      "statement": "Which organelle is known as the 'powerhouse of the cell'?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C14Q3",
+      "statement": "What is the overall equation for aerobic respiration?",
+      "options": [
+        "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+        "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy",
+        "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + Energy",
+        "C₆H₁₂O₆ → 2C₃H₆O₃ + Energy"
+      ],
+      "answer": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy"
+    },
+    {
+      "id": "C14Q4",
+      "statement": "Which of the following is the first stage of cellular respiration?",
+      "options": [
+        "Electron transport chain",
+        "Pyruvate oxidation",
+        "Glycolysis",
+        "Krebs cycle"
+      ],
+      "answer": "Glycolysis"
+    },
+    {
+      "id": "C14Q5",
+      "statement": "Where does glycolysis occur in the cell?",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Mitochondrial matrix",
+        "Cytoplasm",
+        "Nucleus"
+      ],
+      "answer": "Cytoplasm"
+    },
+    {
+      "id": "C14Q6",
+      "statement": "How many ATP molecules are produced (net) during glycolysis from one glucose molecule?",
+      "options": [
+        "2 ATP",
+        "36 ATP",
+        "8 ATP",
+        "4 ATP"
+      ],
+      "answer": "2 ATP"
+    },
+    {
+      "id": "C14Q7",
+      "statement": "What is the end product of glycolysis?",
+      "options": [
+        "Pyruvate",
+        "Citric acid",
+        "Acetyl CoA",
+        "Oxaloacetate"
+      ],
+      "answer": "Pyruvate"
+    },
+    {
+      "id": "C14Q8",
+      "statement": "Which of the following processes does NOT require oxygen?",
+      "options": [
+        "Electron transport chain",
+        "Oxidative phosphorylation",
+        "Krebs cycle",
+        "Glycolysis"
+      ],
+      "answer": "Glycolysis"
+    },
+    {
+      "id": "C14Q9",
+      "statement": "Where does the Krebs cycle take place?",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Mitochondrial matrix",
+        "Outer mitochondrial membrane",
+        "Cytoplasm"
+      ],
+      "answer": "Mitochondrial matrix"
+    },
+    {
+      "id": "C14Q10",
+      "statement": "What is the final electron acceptor in aerobic respiration?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "NAD⁺",
+        "FAD"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "C14Q11",
+      "statement": "Which molecule enters the Krebs cycle?",
+      "options": [
+        "ATP",
+        "Pyruvate",
+        "Glucose",
+        "Acetyl CoA"
+      ],
+      "answer": "Acetyl CoA"
+    },
+    {
+      "id": "C14Q12",
+      "statement": "How many ATP molecules are produced from one glucose molecule during aerobic respiration?",
+      "options": [
+        "38 ATP",
+        "8 ATP",
+        "2 ATP",
+        "36 ATP"
+      ],
+      "answer": "36 ATP"
+    },
+    {
+      "id": "C14Q13",
+      "statement": "What is the process called when glucose is broken down in the absence of oxygen?",
+      "options": [
+        "Fermentation",
+        "Photorespiration",
+        "Transpiration",
+        "Aerobic respiration"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "id": "C14Q14",
+      "statement": "Which of the following is a product of alcoholic fermentation?",
+      "options": [
+        "Ethanol",
+        "Acetyl CoA",
+        "Lactic acid",
+        "Pyruvate"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "id": "C14Q15",
+      "statement": "What is the respiratory quotient (RQ) for carbohydrates?",
+      "options": [
+        "1.0",
+        "0.7",
+        "2.0",
+        "1.3"
+      ],
+      "answer": "1.0"
+    },
+    {
+      "id": "C14Q16",
+      "statement": "Which electron carrier is reduced during glycolysis?",
+      "options": [
+        "FAD",
+        "ADP",
+        "ATP",
+        "NAD⁺"
+      ],
+      "answer": "NAD⁺"
+    },
+    {
+      "id": "C14Q17",
+      "statement": "Where is the electron transport chain located?",
+      "options": [
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Cytoplasm",
+        "Outer mitochondrial membrane"
+      ],
+      "answer": "Inner mitochondrial membrane"
+    },
+    {
+      "id": "C14Q18",
+      "statement": "What is the process of ATP production in the electron transport chain called?",
+      "options": [
+        "Oxidative phosphorylation",
+        "Decarboxylation",
+        "Substrate-level phosphorylation",
+        "Photophosphorylation"
+      ],
+      "answer": "Oxidative phosphorylation"
+    },
+    {
+      "id": "C14Q19",
+      "statement": "Which of the following is NOT produced during the Krebs cycle?",
+      "options": [
+        "ATP",
+        "Pyruvate",
+        "NADH",
+        "FADH₂"
+      ],
+      "answer": "Pyruvate"
+    },
+    {
+      "id": "C14Q20",
+      "statement": "What is the RQ value for fats?",
+      "options": [
+        "More than 1",
+        "Equal to 1",
+        "Less than 1",
+        "Zero"
+      ],
+      "answer": "Less than 1"
+    },
+    {
+      "id": "C14Q21",
+      "statement": "Which enzyme converts pyruvate to acetyl CoA?",
+      "options": [
+        "Citrate synthase",
+        "Hexokinase",
+        "Phosphofructokinase",
+        "Pyruvate dehydrogenase"
+      ],
+      "answer": "Pyruvate dehydrogenase"
+    },
+    {
+      "id": "C14Q22",
+      "statement": "How many carbon atoms are present in acetyl CoA?",
+      "options": [
+        "6 carbon atoms",
+        "3 carbon atoms",
+        "4 carbon atoms",
+        "2 carbon atoms"
+      ],
+      "answer": "2 carbon atoms"
+    },
+    {
+      "id": "C14Q23",
+      "statement": "Which of the following is a connecting link between glycolysis and Krebs cycle?",
+      "options": [
+        "Acetyl CoA",
+        "Pyruvate",
+        "Citric acid",
+        "Oxaloacetate"
+      ],
+      "answer": "Acetyl CoA"
+    },
+    {
+      "id": "C14Q24",
+      "statement": "What is the net gain of ATP molecules during fermentation?",
+      "options": [
+        "38 ATP",
+        "2 ATP",
+        "36 ATP",
+        "8 ATP"
+      ],
+      "answer": "2 ATP"
+    },
+    {
+      "id": "C14Q25",
+      "statement": "Which of the following processes produces the most ATP?",
+      "options": [
+        "Krebs cycle",
+        "Electron transport chain",
+        "Glycolysis",
+        "Fermentation"
+      ],
+      "answer": "Electron transport chain"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C14Q26",
+      "statement": "During which process is CO₂ released in cellular respiration?",
+      "options": [
+        "Electron transport chain only",
+        "Glycolysis only",
+        "All of the above",
+        "Link reaction and Krebs cycle"
+      ],
+      "answer": "Link reaction and Krebs cycle"
+    },
+    {
+      "id": "C14Q27",
+      "statement": "What is the significance of cristae in mitochondria?",
+      "options": [
+        "Produce enzymes for glycolysis",
+        "Store genetic material",
+        "Increase surface area for ATP production",
+        "Synthesize proteins"
+      ],
+      "answer": "Increase surface area for ATP production"
+    },
+    {
+      "id": "C14Q28",
+      "statement": "Which of the following is true about anaerobic respiration?",
+      "options": [
+        "It produces more ATP than aerobic respiration",
+        "It occurs in the mitochondria",
+        "It requires oxygen",
+        "It includes glycolysis followed by fermentation"
+      ],
+      "answer": "It includes glycolysis followed by fermentation"
+    },
+    {
+      "id": "C14Q29",
+      "statement": "What happens to pyruvate in aerobic conditions?",
+      "options": [
+        "It is converted to lactic acid",
+        "It is converted to ethanol",
+        "It enters the mitochondria and is converted to acetyl CoA",
+        "It is excreted from the cell"
+      ],
+      "answer": "It enters the mitochondria and is converted to acetyl CoA"
+    },
+    {
+      "id": "C14Q30",
+      "statement": "Which of the following is NOT a product of the Krebs cycle?",
+      "options": [
+        "FADH₂",
+        "NADH",
+        "Pyruvate",
+        "GTP"
+      ],
+      "answer": "Pyruvate"
+    },
+    {
+      "id": "C14Q31",
+      "statement": "What is the role of oxygen in cellular respiration?",
+      "options": [
+        "Both A and B",
+        "It is used to form water",
+        "It combines with carbon to form CO₂",
+        "It is the final electron acceptor"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C14Q32",
+      "statement": "How many NADH molecules are produced per glucose molecule during glycolysis?",
+      "options": [
+        "8 NADH",
+        "6 NADH",
+        "4 NADH",
+        "2 NADH"
+      ],
+      "answer": "2 NADH"
+    },
+    {
+      "id": "C14Q33",
+      "statement": "Which of the following statements about oxidative phosphorylation is correct?",
+      "options": [
+        "It requires oxygen",
+        "It is part of glycolysis",
+        "It occurs in the cytoplasm",
+        "It produces NADH"
+      ],
+      "answer": "It requires oxygen"
+    },
+    {
+      "id": "C14Q34",
+      "statement": "What is the respiratory quotient for proteins?",
+      "options": [
+        "1.3",
+        "1.0",
+        "0.7",
+        "0.8"
+      ],
+      "answer": "0.8"
+    },
+    {
+      "id": "C14Q35",
+      "statement": "Which enzyme catalyzes the first step of glycolysis?",
+      "options": [
+        "Phosphofructokinase",
+        "Pyruvate kinase",
+        "Aldolase",
+        "Hexokinase"
+      ],
+      "answer": "Hexokinase"
+    },
+    {
+      "id": "C14Q36",
+      "statement": "What is the net result of the electron transport chain?",
+      "options": [
+        "Production of CO₂",
+        "Production of ATP",
+        "Both B and C",
+        "Reduction of oxygen to water"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "id": "C14Q37",
+      "statement": "Which of the following is a key regulatory enzyme of glycolysis?",
+      "options": [
+        "Phosphofructokinase",
+        "All of the above",
+        "Pyruvate kinase",
+        "Hexokinase"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q38",
+      "statement": "What is the fate of NADH produced during glycolysis in aerobic respiration?",
+      "options": [
+        "It enters the electron transport chain",
+        "It is converted back to NAD⁺",
+        "It is excreted from the cell",
+        "It is used in fermentation"
+      ],
+      "answer": "It enters the electron transport chain"
+    },
+    {
+      "id": "C14Q39",
+      "statement": "Which of the following processes occurs in both aerobic and anaerobic respiration?",
+      "options": [
+        "Oxidative phosphorylation",
+        "Glycolysis",
+        "Krebs cycle",
+        "Electron transport chain"
+      ],
+      "answer": "Glycolysis"
+    },
+    {
+      "id": "C14Q40",
+      "statement": "What is the main purpose of fermentation?",
+      "options": [
+        "To produce more ATP",
+        "To produce alcohol",
+        "To release CO₂",
+        "To regenerate NAD⁺"
+      ],
+      "answer": "To regenerate NAD⁺"
+    },
+    {
+      "id": "C14Q41",
+      "statement": "How many ATP molecules are produced from one NADH molecule in the electron transport chain?",
+      "options": [
+        "3 ATP",
+        "4 ATP",
+        "2 ATP",
+        "1 ATP"
+      ],
+      "answer": "3 ATP"
+    },
+    {
+      "id": "C14Q42",
+      "statement": "Which of the following is NOT a stage of aerobic respiration?",
+      "options": [
+        "Glycolysis",
+        "Krebs cycle",
+        "Fermentation",
+        "Electron transport chain"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "id": "C14Q43",
+      "statement": "What is the significance of the inner mitochondrial membrane being highly folded?",
+      "options": [
+        "To store more enzymes",
+        "To increase surface area for electron transport",
+        "To facilitate glycolysis",
+        "To protect mitochondrial DNA"
+      ],
+      "answer": "To increase surface area for electron transport"
+    },
+    {
+      "id": "C14Q44",
+      "statement": "Which of the following is true about the Krebs cycle?",
+      "options": [
+        "It produces electron carriers",
+        "It occurs in the cytoplasm",
+        "It produces the most ATP directly",
+        "It does not require oxygen"
+      ],
+      "answer": "It produces electron carriers"
+    },
+    {
+      "id": "C14Q45",
+      "statement": "What is the role of ATP synthase in cellular respiration?",
+      "options": [
+        "To break down ATP",
+        "To convert pyruvate to acetyl CoA",
+        "To transport electrons",
+        "To synthesize ATP"
+      ],
+      "answer": "To synthesize ATP"
+    },
+    {
+      "id": "C14Q46",
+      "statement": "Which of the following statements about lactic acid fermentation is correct?",
+      "options": [
+        "It produces CO₂",
+        "It produces lactic acid",
+        "It requires oxygen",
+        "It occurs in yeast"
+      ],
+      "answer": "It produces lactic acid"
+    },
+    {
+      "id": "C14Q47",
+      "statement": "How many CO₂ molecules are released per pyruvate molecule during the link reaction?",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C14Q48",
+      "statement": "Which of the following is an amphibolic pathway?",
+      "options": [
+        "Glycolysis",
+        "Fermentation",
+        "Krebs cycle",
+        "Electron transport chain"
+      ],
+      "answer": "Krebs cycle"
+    },
+    {
+      "id": "C14Q49",
+      "statement": "What is the primary function of cellular respiration?",
+      "options": [
+        "To produce oxygen",
+        "To produce ATP",
+        "To produce glucose",
+        "To produce carbon dioxide"
+      ],
+      "answer": "To produce ATP"
+    },
+    {
+      "id": "C14Q50",
+      "statement": "Which of the following processes involves substrate-level phosphorylation?",
+      "options": [
+        "Fermentation only",
+        "Electron transport chain only",
+        "All of the above",
+        "Glycolysis and Krebs cycle"
+      ],
+      "answer": "Glycolysis and Krebs cycle"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C14Q51",
+      "statement": "What is the P/O ratio for NADH in the electron transport chain?",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C14Q52",
+      "statement": "Which of the following is NOT a component of the electron transport chain?",
+      "options": [
+        "NADH dehydrogenase",
+        "ATP synthase",
+        "Succinate dehydrogenase",
+        "Cytochrome c oxidase"
+      ],
+      "answer": "ATP synthase"
+    },
+    {
+      "id": "C14Q53",
+      "statement": "What is the role of coenzyme Q in the electron transport chain?",
+      "options": [
+        "It synthesizes ATP",
+        "It pumps protons across the membrane",
+        "It reduces oxygen to water",
+        "It is a mobile electron carrier"
+      ],
+      "answer": "It is a mobile electron carrier"
+    },
+    {
+      "id": "C14Q54",
+      "statement": "Which of the following statements about the chemiosmotic theory is correct?",
+      "options": [
+        "It explains ATP synthesis in mitochondria",
+        "It involves proton gradient",
+        "It was proposed by Peter Mitchell",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q55",
+      "statement": "How many ATP molecules are produced from one FADH₂ molecule in the electron transport chain?",
+      "options": [
+        "2 ATP",
+        "3 ATP",
+        "1 ATP",
+        "4 ATP"
+      ],
+      "answer": "2 ATP"
+    },
+    {
+      "id": "C14Q56",
+      "statement": "Which of the following enzymes is inhibited by high levels of ATP?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase",
+        "Pyruvate kinase",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q57",
+      "statement": "What is the significance of the malate-aspartate shuttle?",
+      "options": [
+        "It transports CO₂ out of mitochondria",
+        "It transports ATP out of mitochondria",
+        "It transports NADH into mitochondria",
+        "It transports pyruvate into mitochondria"
+      ],
+      "answer": "It transports NADH into mitochondria"
+    },
+    {
+      "id": "C14Q58",
+      "statement": "Which of the following is true about uncouplers of oxidative phosphorylation?",
+      "options": [
+        "They increase ATP production",
+        "They enhance proton gradient",
+        "They allow electron transport without ATP synthesis",
+        "They block electron transport"
+      ],
+      "answer": "They allow electron transport without ATP synthesis"
+    },
+    {
+      "id": "C14Q59",
+      "statement": "What is the role of cytochrome c in the electron transport chain?",
+      "options": [
+        "It synthesizes ATP",
+        "It transfers electrons from complex III to complex IV",
+        "It reduces oxygen to water",
+        "It pumps protons across the membrane"
+      ],
+      "answer": "It transfers electrons from complex III to complex IV"
+    },
+    {
+      "id": "C14Q60",
+      "statement": "Which of the following is NOT a product of the oxidation of one pyruvate molecule?",
+      "options": [
+        "1 NADH",
+        "1 Acetyl CoA",
+        "1 CO₂",
+        "1 FADH₂"
+      ],
+      "answer": "1 FADH₂"
+    },
+    {
+      "id": "C14Q61",
+      "statement": "What is the net ATP yield from one molecule of glucose during anaerobic respiration?",
+      "options": [
+        "2 ATP",
+        "8 ATP",
+        "36 ATP",
+        "38 ATP"
+      ],
+      "answer": "2 ATP"
+    },
+    {
+      "id": "C14Q62",
+      "statement": "Which of the following processes occurs in the mitochondrial matrix?",
+      "options": [
+        "Electron transport chain",
+        "Krebs cycle",
+        "Glycolysis",
+        "Fermentation"
+      ],
+      "answer": "Krebs cycle"
+    },
+    {
+      "id": "C14Q63",
+      "statement": "What is the role of oxygen in the electron transport chain?",
+      "options": [
+        "It combines with protons to form water",
+        "It is the final electron acceptor",
+        "It activates ATP synthase",
+        "Both A and B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C14Q64",
+      "statement": "Which of the following is true about the respiratory quotient?",
+      "options": [
+        "All of the above",
+        "RQ = CO₂ produced / O₂ consumed",
+        "RQ for fats is less than 1",
+        "RQ for organic acids is more than 1"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q65",
+      "statement": "What is the significance of the glycerol-3-phosphate shuttle?",
+      "options": [
+        "It transports FADH₂ into mitochondria",
+        "It transports NADH into mitochondria",
+        "It transports ATP out of mitochondria",
+        "It transports pyruvate into mitochondria"
+      ],
+      "answer": "It transports NADH into mitochondria"
+    },
+    {
+      "id": "C14Q66",
+      "statement": "Which of the following is an allosteric inhibitor of phosphofructokinase?",
+      "options": [
+        "Neither A nor B",
+        "Citrate",
+        "ATP",
+        "Both A and B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C14Q67",
+      "statement": "What is the role of succinate dehydrogenase in cellular respiration?",
+      "options": [
+        "It converts succinate to fumarate",
+        "It is part of the Krebs cycle",
+        "All of the above",
+        "It is part of the electron transport chain"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q68",
+      "statement": "Which of the following statements about the Pasteur effect is correct?",
+      "options": [
+        "Anaerobic conditions enhance glycolysis",
+        "Aerobic conditions inhibit glycolysis",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C14Q69",
+      "statement": "What is the net result of one turn of the Krebs cycle?",
+      "options": [
+        "1 ATP, 2 NADH, 2 FADH₂",
+        "2 ATP, 2 NADH, 2 FADH₂",
+        "2 ATP, 3 NADH, 1 FADH₂",
+        "1 ATP, 3 NADH, 1 FADH₂"
+      ],
+      "answer": "1 ATP, 3 NADH, 1 FADH₂"
+    },
+    {
+      "id": "C14Q70",
+      "statement": "Which of the following is true about cyanide poisoning?",
+      "options": [
+        "All of the above",
+        "It prevents ATP synthesis",
+        "It inhibits cytochrome c oxidase",
+        "It blocks electron transport"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C14Q71",
+      "statement": "What is the role of iron-sulfur centers in the electron transport chain?",
+      "options": [
+        "They reduce oxygen",
+        "They pump protons",
+        "They synthesize ATP",
+        "They transfer electrons"
+      ],
+      "answer": "They transfer electrons"
+    },
+    {
+      "id": "C14Q72",
+      "statement": "Which of the following is NOT a characteristic of fermentation?",
+      "options": [
+        "It regenerates NAD⁺",
+        "It yields only 2 ATP per glucose",
+        "It produces lactic acid or ethanol",
+        "It occurs in the mitochondria"
+      ],
+      "answer": "It occurs in the mitochondria"
+    },
+    {
+      "id": "C14Q73",
+      "statement": "What is the significance of the Q cycle in complex III?",
+      "options": [
+        "It transfers electrons to cytochrome c",
+        "Both A and B",
+        "It pumps protons across the membrane",
+        "Neither A nor B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C14Q74",
+      "statement": "Which of the following is true about the ATP yield from glucose?",
+      "options": [
+        "It is not affected by the cell type",
+        "It varies depending on the shuttle system used",
+        "It is higher in anaerobic conditions",
+        "It is always 36 ATP"
+      ],
+      "answer": "It varies depending on the shuttle system used"
+    },
+    {
+      "id": "C14Q75",
+      "statement": "What is the role of aconitase in the Krebs cycle?",
+      "options": [
+        "It converts citrate to isocitrate",
+        "It converts malate to oxaloacetate",
+        "It converts succinate to fumarate",
+        "It converts isocitrate to α-ketoglutarate"
+      ],
+      "answer": "It converts citrate to isocitrate"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C14Q76",
+      "statement": "Which of the following is the connecting link between glycolysis and Krebs cycle?",
+      "options": [
+        "Pyruvate",
+        "Acetyl CoA",
+        "Oxaloacetate",
+        "Citrate"
+      ],
+      "answer": "Acetyl CoA"
+    },
+    {
+      "id": "C14Q77",
+      "statement": "The end products of aerobic respiration are:",
+      "options": [
+        "CO₂ and H₂O",
+        "CO₂ and C₂H₅OH",
+        "CO₂ and lactic acid",
+        "CO₂ and pyruvic acid"
+      ],
+      "answer": "CO₂ and H₂O"
+    },
+    {
+      "id": "C14Q78",
+      "statement": "The number of ATP molecules produced during aerobic respiration of one glucose molecule is:",
+      "options": [
+        "2",
+        "8",
+        "36",
+        "38"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": "C14Q79",
+      "statement": "Which of the following is the site of Krebs cycle in mitochondria?",
+      "options": [
+        "Outer membrane",
+        "Inner membrane",
+        "Matrix",
+        "Cristae"
+      ],
+      "answer": "Matrix"
+    },
+    {
+      "id": "C14Q80",
+      "statement": "The common pathway for aerobic and anaerobic respiration is:",
+      "options": [
+        "Krebs cycle",
+        "Glycolysis",
+        "ETC",
+        "Fermentation"
+      ],
+      "answer": "Glycolysis"
+    },
+    {
+      "id": "C14Q81",
+      "statement": "The energy-releasing process in which the substrate is oxidized without an external electron acceptor is called:",
+      "options": [
+        "Aerobic respiration",
+        "Photorespiration",
+        "Fermentation",
+        "Glycolysis"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "id": "C14Q82",
+      "statement": "Which of the following is not formed during glycolysis?",
+      "options": [
+        "NADH",
+        "ATP",
+        "Pyruvate",
+        "Acetyl CoA"
+      ],
+      "answer": "Acetyl CoA"
+    },
+    {
+      "id": "C14Q83",
+      "statement": "The TCA cycle starts with the condensation of acetyl CoA with:",
+      "options": [
+        "Citrate",
+        "Oxaloacetate",
+        "Pyruvate",
+        "α-ketoglutarate"
+      ],
+      "answer": "Oxaloacetate"
+    },
+    {
+      "id": "C14Q84",
+      "statement": "The respiratory quotient (RQ) for fatty substances is:",
+      "options": [
+        "1",
+        "More than 1",
+        "Less than 1",
+        "0"
+      ],
+      "answer": "Less than 1"
+    },
+    {
+      "id": "C14Q85",
+      "statement": "Which of the following is not an electron carrier in the electron transport system?",
+      "options": [
+        "Coenzyme Q",
+        "Cytochrome c",
+        "NAD⁺",
+        "ATP synthase"
+      ],
+      "answer": "ATP synthase"
+    },
+    {
+      "id": "C14Q86",
+      "statement": "The number of oxygen molecules required for aerobic oxidation of one pyruvate is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C14Q87",
+      "statement": "Which of the following is not produced during the Krebs cycle?",
+      "options": [
+        "CO₂",
+        "O₂",
+        "ATP",
+        "NADH"
+      ],
+      "answer": "O₂"
+    },
+    {
+      "id": "C14Q88",
+      "statement": "The net gain of ATP during glycolysis is:",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "8 ATP",
+        "36 ATP"
+      ],
+      "answer": "2 ATP"
+    },
+    {
+      "id": "C14Q89",
+      "statement": "Which of the following is the final electron acceptor in aerobic respiration?",
+      "options": [
+        "NAD⁺",
+        "Cytochrome c",
+        "Oxygen",
+        "FAD"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "C14Q90",
+      "statement": "The process of ATP synthesis in the presence of oxygen is called:",
+      "options": [
+        "Photophosphorylation",
+        "Oxidative phosphorylation",
+        "Substrate-level phosphorylation",
+        "Fermentation"
+      ],
+      "answer": "Oxidative phosphorylation"
+    },
+    {
+      "id": "C14Q91",
+      "statement": "Which of the following is a product of alcoholic fermentation?",
+      "options": [
+        "Lactic acid",
+        "Ethanol",
+        "Pyruvate",
+        "Acetyl CoA"
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "id": "C14Q92",
+      "statement": "The site of glycolysis in the cell is:",
+      "options": [
+        "Mitochondria",
+        "Cytoplasm",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": "Cytoplasm"
+    },
+    {
+      "id": "C14Q93",
+      "statement": "Which of the following enzymes is not used in glycolysis?",
+      "options": [
+        "Hexokinase",
+        "Pyruvate dehydrogenase",
+        "Phosphofructokinase",
+        "Enolase"
+      ],
+      "answer": "Pyruvate dehydrogenase"
+    },
+    {
+      "id": "C14Q94",
+      "statement": "The number of NADH molecules produced from one glucose molecule during glycolysis is:",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C14Q95",
+      "statement": "Which of the following is not a stage of aerobic respiration?",
+      "options": [
+        "Glycolysis",
+        "Fermentation",
+        "Krebs cycle",
+        "Electron transport chain"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "id": "C14Q96",
+      "statement": "The respiratory quotient (RQ) for carbohydrates is:",
+      "options": [
+        "0.7",
+        "0.9",
+        "1.0",
+        "1.3"
+      ],
+      "answer": "1.0"
+    },
+    {
+      "id": "C14Q97",
+      "statement": "Which of the following is the site of electron transport chain in mitochondria?",
+      "options": [
+        "Outer membrane",
+        "Inner membrane",
+        "Matrix",
+        "Intermembrane space"
+      ],
+      "answer": "Inner membrane"
+    },
+    {
+      "id": "C14Q98",
+      "statement": "The process by which ATP is synthesized in glycolysis is called:",
+      "options": [
+        "Photophosphorylation",
+        "Oxidative phosphorylation",
+        "Substrate-level phosphorylation",
+        "Chemiosmosis"
+      ],
+      "answer": "Substrate-level phosphorylation"
+    },
+    {
+      "id": "C14Q99",
+      "statement": "Which of the following is not a product of lactic acid fermentation?",
+      "options": [
+        "Lactic acid",
+        "ATP",
+        "CO₂",
+        "NAD⁺"
+      ],
+      "answer": "CO₂"
+    },
+    {
+      "id": "C14Q100",
+      "statement": "The number of ATP molecules produced from one FADH₂ molecule in the electron transport chain is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    }
+  ]
+}

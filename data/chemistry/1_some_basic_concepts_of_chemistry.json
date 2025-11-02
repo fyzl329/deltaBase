@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "basic_concepts_of_chemistry",
+    "type": "mcq",
+    "subject": "chemistry",
+    "chapterNumber": 1,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C1Q1",
+      "statement": "The number of atoms in 0.1 mole of oxygen gas (\\(\\ce{O2}\\)) is:",
+      "options": [
+        "\\(1.8066 \\times 10^{23}\\)",
+        "\\(1.2044 \\times 10^{23}\\)",
+        "\\(3.011 \\times 10^{22}\\)",
+        "\\(6.022 \\times 10^{22}\\)"
+      ],
+      "answer": "\\(1.2044 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q2",
+      "statement": "The mass of 2.5 moles of water (\\(\\ce{H2O}\\)) is:",
+      "options": [
+        "55 g",
+        "35 g",
+        "25 g",
+        "45 g"
+      ],
+      "answer": "45 g"
+    },
+    {
+      "id": "C1Q3",
+      "statement": "The number of molecules in 8 g of methane (\\(\\ce{CH4}\\)) is:",
+      "options": [
+        "\\(4.517 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(3.011 \\times 10^{23}\\)",
+        "\\(1.505 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(3.011 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q4",
+      "statement": "The molar mass of \\(\\ce{CaCO3}\\) is:",
+      "options": [
+        "100 g/mol",
+        "80 g/mol",
+        "90 g/mol",
+        "110 g/mol"
+      ],
+      "answer": "100 g/mol"
+    },
+    {
+      "id": "C1Q5",
+      "statement": "The percentage of oxygen in \\(\\ce{H2SO4}\\) is approximately:",
+      "options": [
+        "65%",
+        "75%",
+        "45%",
+        "55%"
+      ],
+      "answer": "65%"
+    },
+    {
+      "id": "C1Q6",
+      "statement": "The number of moles in 11.2 L of \\(\\ce{CO2}\\) at STP is:",
+      "options": [
+        "0.25",
+        "2.0",
+        "1.0",
+        "0.5"
+      ],
+      "answer": "0.5"
+    },
+    {
+      "id": "C1Q7",
+      "statement": "The empirical formula of a compound with 40% carbon, 6.67% hydrogen, and 53.33% oxygen is:",
+      "options": [
+        "\\(\\ce{C3H6O3}\\)",
+        "\\(\\ce{CH2O}\\)",
+        "\\(\\ce{CH4O}\\)",
+        "\\(\\ce{C2H4O2}\\)"
+      ],
+      "answer": "\\(\\ce{CH2O}\\)"
+    },
+    {
+      "id": "C1Q8",
+      "statement": "The volume occupied by 4.4 g of \\(\\ce{CO2}\\) at STP is:",
+      "options": [
+        "1.12 L",
+        "2.24 L",
+        "3.36 L",
+        "4.48 L"
+      ],
+      "answer": "2.24 L"
+    },
+    {
+      "id": "C1Q9",
+      "statement": "The number of oxygen atoms in 9.8 g of \\(\\ce{H2SO4}\\) is:",
+      "options": [
+        "\\(2.408 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(3.612 \\times 10^{23}\\)",
+        "\\(4.816 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(2.408 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q10",
+      "statement": "The mass of 0.5 moles of \\(\\ce{Na2CO3}\\) is:",
+      "options": [
+        "71 g",
+        "35.5 g",
+        "53 g",
+        "106 g"
+      ],
+      "answer": "53 g"
+    },
+    {
+      "id": "C1Q11",
+      "statement": "The number of molecules in 0.25 moles of \\(\\ce{NH3}\\) is:",
+      "options": [
+        "\\(3.011 \\times 10^{23}\\)",
+        "\\(1.505 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(1.204 \\times 10^{24}\\)"
+      ],
+      "answer": "\\(1.505 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q12",
+      "statement": "The molarity of a solution containing 4.9 g of \\(\\ce{H2SO4}\\) in 250 mL is:",
+      "options": [
+        "0.3 M",
+        "0.2 M",
+        "0.1 M",
+        "0.4 M"
+      ],
+      "answer": "0.2 M"
+    },
+    {
+      "id": "C1Q13",
+      "statement": "The number of atoms in 4.2 g of nitrogen gas (\\(\\ce{N2}\\)) is:",
+      "options": [
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(1.806 \\times 10^{23}\\)",
+        "\\(9.033 \\times 10^{23}\\)",
+        "\\(3.612 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(1.806 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q14",
+      "statement": "The mass of 1.5 × 10²³ molecules of \\(\\ce{CO2}\\) is:",
+      "options": [
+        "8.8 g",
+        "16.5 g",
+        "11 g",
+        "22 g"
+      ],
+      "answer": "11 g"
+    },
+    {
+      "id": "C1Q15",
+      "statement": "The percentage of water of crystallization in \\(\\ce{CuSO4.5H2O}\\) is:",
+      "options": [
+        "48%",
+        "64%",
+        "36%",
+        "25%"
+      ],
+      "answer": "36%"
+    },
+    {
+      "id": "C1Q16",
+      "statement": "The number of moles of electrons in 96.5 C of charge is:",
+      "options": [
+        "0.01",
+        "0.1",
+        "1.0",
+        "0.001"
+      ],
+      "answer": "0.001"
+    },
+    {
+      "id": "C1Q17",
+      "statement": "The volume of 0.2 M \\(\\ce{HCl}\\) required to neutralize 100 mL of 0.1 M \\(\\ce{NaOH}\\) is:",
+      "options": [
+        "75 mL",
+        "25 mL",
+        "100 mL",
+        "50 mL"
+      ],
+      "answer": "50 mL"
+    },
+    {
+      "id": "C1Q18",
+      "statement": "The number of significant figures in 0.00250 is:",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C1Q19",
+      "statement": "The mass of 2.24 L of \\(\\ce{SO2}\\) at STP is:",
+      "options": [
+        "6.4 g",
+        "12.8 g",
+        "3.2 g",
+        "9.6 g"
+      ],
+      "answer": "6.4 g"
+    },
+    {
+      "id": "C1Q20",
+      "statement": "The empirical formula of glucose (\\(\\ce{C6H12O6}\\)) is:",
+      "options": [
+        "\\(\\ce{CH2O}\\)",
+        "\\(\\ce{C2H4O2}\\)",
+        "\\(\\ce{C3H6O3}\\)",
+        "\\(\\ce{C6H12O6}\\)"
+      ],
+      "answer": "\\(\\ce{CH2O}\\)"
+    },
+    {
+      "id": "C1Q21",
+      "statement": "The number of moles in 1.8 × 10²⁴ molecules of \\(\\ce{H2O}\\) is:",
+      "options": [
+        "2.0",
+        "3.0",
+        "2.5",
+        "1.5"
+      ],
+      "answer": "3.0"
+    },
+    {
+      "id": "C1Q22",
+      "statement": "The mass of 0.5 moles of oxygen atoms is:",
+      "options": [
+        "16 g",
+        "32 g",
+        "24 g",
+        "8 g"
+      ],
+      "answer": "8 g"
+    },
+    {
+      "id": "C1Q23",
+      "statement": "The molarity of pure water (density = 1 g/mL) is:",
+      "options": [
+        "100 M",
+        "18 M",
+        "36 M",
+        "55.5 M"
+      ],
+      "answer": "55.5 M"
+    },
+    {
+      "id": "C1Q24",
+      "statement": "The number of atoms in 0.5 moles of \\(\\ce{P4}\\) molecules is:",
+      "options": [
+        "\\(2.408 \\times 10^{24}\\)",
+        "\\(1.204 \\times 10^{24}\\)",
+        "\\(4.816 \\times 10^{24}\\)",
+        "\\(3.612 \\times 10^{24}\\)"
+      ],
+      "answer": "\\(1.204 \\times 10^{24}\\)"
+    },
+    {
+      "id": "C1Q25",
+      "statement": "The percentage of nitrogen in urea (\\(\\ce{CO(NH2)2}\\)) is:",
+      "options": [
+        "46.67%",
+        "52.33%",
+        "42.33%",
+        "36.67%"
+      ],
+      "answer": "46.67%"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C1Q26",
+      "statement": "A compound contains 4.07% hydrogen, 24.27% carbon, and 71.65% chlorine. Its empirical formula is:",
+      "options": [
+        "\\(\\ce{C2H4Cl2}\\)",
+        "\\(\\ce{CH2Cl}\\)",
+        "\\(\\ce{C2H5Cl}\\)",
+        "\\(\\ce{CH3Cl}\\)"
+      ],
+      "answer": "\\(\\ce{CH2Cl}\\)"
+    },
+    {
+      "id": "C1Q27",
+      "statement": "The number of molecules in 1 mL of water (density = 1 g/mL) is approximately:",
+      "options": [
+        "\\(6.68 \\times 10^{22}\\)",
+        "\\(2.68 \\times 10^{23}\\)",
+        "\\(3.34 \\times 10^{22}\\)",
+        "\\(1.34 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(3.34 \\times 10^{22}\\)"
+    },
+    {
+      "id": "C1Q28",
+      "statement": "The volume of 0.1 M \\(\\ce{H2SO4}\\) required to neutralize 200 mL of 0.2 M \\(\\ce{NaOH}\\) is:",
+      "options": [
+        "300 mL",
+        "200 mL",
+        "100 mL",
+        "400 mL"
+      ],
+      "answer": "200 mL"
+    },
+    {
+      "id": "C1Q29",
+      "statement": "The mass of \\(\\ce{CaCO3}\\) required to produce 11.2 L of \\(\\ce{CO2}\\) at STP is:",
+      "options": [
+        "75 g",
+        "50 g",
+        "100 g",
+        "25 g"
+      ],
+      "answer": "50 g"
+    },
+    {
+      "id": "C1Q30",
+      "statement": "The number of oxygen atoms in 12.044 × 10²³ molecules of \\(\\ce{CO2}\\) is:",
+      "options": [
+        "\\(48.176 \\times 10^{23}\\)",
+        "\\(36.132 \\times 10^{23}\\)",
+        "\\(24.088 \\times 10^{23}\\)",
+        "\\(12.044 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(24.088 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q31",
+      "statement": "The molarity of a solution made by dissolving 5.85 g of \\(\\ce{NaCl}\\) in 500 mL water is:",
+      "options": [
+        "0.2 M",
+        "0.1 M",
+        "0.4 M",
+        "0.3 M"
+      ],
+      "answer": "0.2 M"
+    },
+    {
+      "id": "C1Q32",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) needed to react completely with 1 mole of ferrous oxalate in acidic medium is:",
+      "options": [
+        "0.4",
+        "0.8",
+        "0.2",
+        "0.6"
+      ],
+      "answer": "0.6"
+    },
+    {
+      "id": "C1Q33",
+      "statement": "The mass of silver (\\(\\ce{Ag}\\)) deposited when 9650 C of electricity is passed through \\(\\ce{AgNO3}\\) solution is:",
+      "options": [
+        "21.6 g",
+        "43.2 g",
+        "10.8 g",
+        "5.4 g"
+      ],
+      "answer": "10.8 g"
+    },
+    {
+      "id": "C1Q34",
+      "statement": "The volume of 0.5 M \\(\\ce{HCl}\\) required to dissolve 5 g of \\(\\ce{CaCO3}\\) completely is:",
+      "options": [
+        "300 mL",
+        "200 mL",
+        "400 mL",
+        "100 mL"
+      ],
+      "answer": "200 mL"
+    },
+    {
+      "id": "C1Q35",
+      "statement": "The number of water molecules in 1.8 mL of water (density = 1 g/mL) is:",
+      "options": [
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{22}\\)",
+        "\\(1.204 \\times 10^{23}\\)",
+        "\\(1.806 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(6.022 \\times 10^{22}\\)"
+    },
+    {
+      "id": "C1Q36",
+      "statement": "The mass of \\(\\ce{NaOH}\\) required to prepare 250 mL of 0.1 M solution is:",
+      "options": [
+        "1.5 g",
+        "1.0 g",
+        "2.0 g",
+        "0.5 g"
+      ],
+      "answer": "1.0 g"
+    },
+    {
+      "id": "C1Q37",
+      "statement": "The number of moles of \\(\\ce{K2Cr2O7}\\) required to oxidize 1 mole of \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "1",
+        "1/2",
+        "1/3",
+        "1/6"
+      ],
+      "answer": "1/6"
+    },
+    {
+      "id": "C1Q38",
+      "statement": "The volume of oxygen required for complete combustion of 2 L of methane at STP is:",
+      "options": [
+        "4 L",
+        "6 L",
+        "2 L",
+        "8 L"
+      ],
+      "answer": "4 L"
+    },
+    {
+      "id": "C1Q39",
+      "statement": "The mass of \\(\\ce{CO2}\\) produced by heating 10 g of 90% pure limestone is:",
+      "options": [
+        "5.28 g",
+        "2.2 g",
+        "4.4 g",
+        "3.96 g"
+      ],
+      "answer": "3.96 g"
+    },
+    {
+      "id": "C1Q40",
+      "statement": "The number of atoms in 52 g of helium is:",
+      "options": [
+        "\\(3.13 \\times 10^{25}\\)",
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(1.565 \\times 10^{25}\\)",
+        "\\(7.829 \\times 10^{24}\\)"
+      ],
+      "answer": "\\(7.829 \\times 10^{24}\\)"
+    },
+    {
+      "id": "C1Q41",
+      "statement": "The molarity of 98% \\(\\ce{H2SO4}\\) by mass (density = 1.84 g/mL) is:",
+      "options": [
+        "20 M",
+        "15 M",
+        "18.4 M",
+        "10 M"
+      ],
+      "answer": "18.4 M"
+    },
+    {
+      "id": "C1Q42",
+      "statement": "The volume of 0.1 M \\(\\ce{Na2CO3}\\) required to react with 100 mL of 0.2 M \\(\\ce{HCl}\\) is:",
+      "options": [
+        "50 mL",
+        "150 mL",
+        "200 mL",
+        "100 mL"
+      ],
+      "answer": "100 mL"
+    },
+    {
+      "id": "C1Q43",
+      "statement": "The number of electrons in 1.8 mL of water is approximately:",
+      "options": [
+        "\\(6.022 \\times 10^{24}\\)",
+        "\\(6.022 \\times 10^{23}\\)",
+        "\\(1.204 \\times 10^{24}\\)",
+        "\\(3.011 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(6.022 \\times 10^{23}\\)"
+    },
+    {
+      "id": "C1Q44",
+      "statement": "The mass of \\(\\ce{Fe2O3}\\) that can be produced from 112 g of iron is:",
+      "options": [
+        "120 g",
+        "140 g",
+        "160 g",
+        "180 g"
+      ],
+      "answer": "160 g"
+    },
+    {
+      "id": "C1Q45",
+      "statement": "The number of moles of \\(\\ce{O2}\\) required for complete combustion of 1 mole of acetylene (\\(\\ce{C2H2}\\)) is:",
+      "options": [
+        "3.0",
+        "1.5",
+        "2.0",
+        "2.5"
+      ],
+      "answer": "2.5"
+    },
+    {
+      "id": "C1Q46",
+      "statement": "The volume of 0.5 M \\(\\ce{H2SO4}\\) required to liberate 5.6 L of \\(\\ce{SO2}\\) at STP from \\(\\ce{Na2SO3}\\) is:",
+      "options": [
+        "2.0 L",
+        "1.5 L",
+        "1.0 L",
+        "0.5 L"
+      ],
+      "answer": "1.0 L"
+    },
+    {
+      "id": "C1Q47",
+      "statement": "The mass of copper deposited when 2A current is passed for 30 minutes through \\(\\ce{CuSO4}\\) solution is:",
+      "options": [
+        "2.372 g",
+        "4.744 g",
+        "1.186 g",
+        "0.593 g"
+      ],
+      "answer": "1.186 g"
+    },
+    {
+      "id": "C1Q48",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) required to oxidize 1 mole of \\(\\ce{FeC2O4}\\) in acidic medium is:",
+      "options": [
+        "0.2",
+        "0.8",
+        "0.6",
+        "0.4"
+      ],
+      "answer": "0.6"
+    },
+    {
+      "id": "C1Q49",
+      "statement": "The volume of \\(\\ce{CO2}\\) produced at STP by complete combustion of 1 kg of coal containing 80% carbon is:",
+      "options": [
+        "149.3 L",
+        "14930 L",
+        "1.493 L",
+        "1493 L"
+      ],
+      "answer": "1493 L"
+    },
+    {
+      "id": "C1Q50",
+      "statement": "The mass of \\(\\ce{AgCl}\\) precipitated when 0.1 M \\(\\ce{AgNO3}\\) is added to 100 mL of 0.1 M \\(\\ce{NaCl}\\) is:",
+      "options": [
+        "1.435 g",
+        "11.48 g",
+        "2.87 g",
+        "5.74 g"
+      ],
+      "answer": "1.435 g"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C1Q51",
+      "statement": "A mixture of \\(\\ce{Na2CO3}\\) and \\(\\ce{NaHCO3}\\) weighing 10 g on heating gives 8.765 g of residue. The percentage of \\(\\ce{Na2CO3}\\) in mixture is:",
+      "options": [
+        "60%",
+        "20%",
+        "40%",
+        "80%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "id": "C1Q52",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) that will be needed to react with one mole of sulphite ion in acidic medium is:",
+      "options": [
+        "4/5",
+        "1",
+        "2/5",
+        "3/5"
+      ],
+      "answer": "2/5"
+    },
+    {
+      "id": "C1Q53",
+      "statement": "The volume of 0.1 M \\(\\ce{K2Cr2O7}\\) required to oxidize 100 mL of 0.1 M \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "16.67 mL",
+        "33.33 mL",
+        "66.67 mL",
+        "50 mL"
+      ],
+      "answer": "16.67 mL"
+    },
+    {
+      "id": "C1Q54",
+      "statement": "The mass of \\(\\ce{MnO2}\\) required to produce 35.5 g of \\(\\ce{Cl2}\\) from concentrated \\(\\ce{HCl}\\) is:",
+      "options": [
+        "87 g",
+        "43.5 g",
+        "108.75 g",
+        "65.25 g"
+      ],
+      "answer": "43.5 g"
+    },
+    {
+      "id": "C1Q55",
+      "statement": "The number of moles of \\(\\ce{BaSO4}\\) precipitated when 500 mL of 0.2 M \\(\\ce{BaCl2}\\) is mixed with 500 mL of 0.1 M \\(\\ce{Al2(SO4)3}\\) is:",
+      "options": [
+        "0.2",
+        "0.15",
+        "0.1",
+        "0.05"
+      ],
+      "answer": "0.1"
+    },
+    {
+      "id": "C1Q56",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to neutralize 0.45 g of oxalic acid (\\(\\ce{H2C2O4}\\)) is:",
+      "options": [
+        "50 mL",
+        "25 mL",
+        "100 mL",
+        "75 mL"
+      ],
+      "answer": "100 mL"
+    },
+    {
+      "id": "C1Q57",
+      "statement": "The mass of \\(\\ce{CaO}\\) required to remove hardness from 1000 L of water containing 1.62 g of \\(\\ce{Ca(HCO3)2}\\) per liter is:",
+      "options": [
+        "56 g",
+        "224 g",
+        "112 g",
+        "448 g"
+      ],
+      "answer": "112 g"
+    },
+    {
+      "id": "C1Q58",
+      "statement": "The number of moles of electrons required to reduce 1 mole of \\(\\ce{Cr2O7^{2-}}\\) to \\(\\ce{Cr^{3+}}\\) is:",
+      "options": [
+        "12",
+        "9",
+        "3",
+        "6"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "C1Q59",
+      "statement": "The volume of 0.02 M \\(\\ce{KMnO4}\\) required to oxidize 40 mL of 0.1 M \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "24 mL",
+        "32 mL",
+        "8 mL",
+        "16 mL"
+      ],
+      "answer": "16 mL"
+    },
+    {
+      "id": "C1Q60",
+      "statement": "The mass of 95% pure \\(\\ce{CaCO3}\\) required to produce 56 L of \\(\\ce{CO2}\\) at STP is:",
+      "options": [
+        "500 g",
+        "250 g",
+        "125 g",
+        "375 g"
+      ],
+      "answer": "250 g"
+    },
+    {
+      "id": "C1Q61",
+      "statement": "The number of water molecules present in 1.8 g of glucose (\\(\\ce{C6H12O6}\\)) is:",
+      "options": [
+        "\\(3.011 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{22}\\)",
+        "\\(1.204 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{21}\\)"
+      ],
+      "answer": "\\(6.022 \\times 10^{21}\\)"
+    },
+    {
+      "id": "C1Q62",
+      "statement": "The volume of 0.1 M \\(\\ce{H2SO4}\\) required to neutralize 10 mL of 0.2 M \\(\\ce{NH4OH}\\) is:",
+      "options": [
+        "10 mL",
+        "5 mL",
+        "20 mL",
+        "15 mL"
+      ],
+      "answer": "10 mL"
+    },
+    {
+      "id": "C1Q63",
+      "statement": "The mass of \\(\\ce{Ag}\\) deposited when 0.5 A current is passed for 20 minutes through \\(\\ce{AgNO3}\\) solution is:",
+      "options": [
+        "0.67 g",
+        "1.34 g",
+        "2.68 g",
+        "0.335 g"
+      ],
+      "answer": "0.67 g"
+    },
+    {
+      "id": "C1Q64",
+      "statement": "The number of moles of \\(\\ce{K2Cr2O7}\\) reduced by 1 mole of \\(\\ce{Sn^{2+}}\\) is:",
+      "options": [
+        "1/2",
+        "1/6",
+        "1/3",
+        "1"
+      ],
+      "answer": "1/6"
+    },
+    {
+      "id": "C1Q65",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to completely neutralize 0.45 g of dibasic acid is 75 mL. The molecular mass of acid is:",
+      "options": [
+        "120",
+        "150",
+        "60",
+        "90"
+      ],
+      "answer": "120"
+    },
+    {
+      "id": "C1Q66",
+      "statement": "The mass of \\(\\ce{FeSO4}\\) oxidized by 100 mL of 0.1 M \\(\\ce{KMnO4}\\) in acidic medium is:",
+      "options": [
+        "4.56 g",
+        "6.08 g",
+        "3.04 g",
+        "1.52 g"
+      ],
+      "answer": "1.52 g"
+    },
+    {
+      "id": "C1Q67",
+      "statement": "The number of moles of \\(\\ce{O2}\\) produced by decomposition of 100 mL of 10 volume \\(\\ce{H2O2}\\) is:",
+      "options": [
+        "0.1784",
+        "0.0223",
+        "0.0446",
+        "0.0892"
+      ],
+      "answer": "0.0446"
+    },
+    {
+      "id": "C1Q68",
+      "statement": "The volume of 0.1 M \\(\\ce{Na2S2O3}\\) required to react with 25 mL of 0.1 M \\(\\ce{I2}\\) solution is:",
+      "options": [
+        "50 mL",
+        "75 mL",
+        "25 mL",
+        "100 mL"
+      ],
+      "answer": "50 mL"
+    },
+    {
+      "id": "C1Q69",
+      "statement": "The mass of \\(\\ce{Ca3(PO4)2}\\) required to produce 31 g of \\(\\ce{P4}\\) is:",
+      "options": [
+        "310 g",
+        "620 g",
+        "155 g",
+        "465 g"
+      ],
+      "answer": "155 g"
+    },
+    {
+      "id": "C1Q70",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) required to oxidize 1 mole of \\(\\ce{Fe^{2+}}\\) to \\(\\ce{Fe^{3+}}\\) in acidic medium is:",
+      "options": [
+        "4/5",
+        "3/5",
+        "1/5",
+        "2/5"
+      ],
+      "answer": "1/5"
+    },
+    {
+      "id": "C1Q71",
+      "statement": "The volume of 0.1 M \\(\\ce{HCl}\\) required to react completely with 1 g of mixture of \\(\\ce{Na2CO3}\\) and \\(\\ce{NaHCO3}\\) containing equimolar amounts of both is:",
+      "options": [
+        "52.8 mL",
+        "158.4 mL",
+        "211.2 mL",
+        "105.6 mL"
+      ],
+      "answer": "158.4 mL"
+    },
+    {
+      "id": "C1Q72",
+      "statement": "The mass of \\(\\ce{NH3}\\) produced when 20 g of \\(\\ce{N2}\\) reacts with 10 g of \\(\\ce{H2}\\) is:",
+      "options": [
+        "34 g",
+        "28.33 g",
+        "22.67 g",
+        "17 g"
+      ],
+      "answer": "22.67 g"
+    },
+    {
+      "id": "C1Q73",
+      "statement": "The number of moles of \\(\\ce{K2Cr2O7}\\) required to oxidize 1 mole of \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "1",
+        "1/6",
+        "1/2",
+        "1/3"
+      ],
+      "answer": "1/6"
+    },
+    {
+      "id": "C1Q74",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to neutralize 0.1 M \\(\\ce{H3PO3}\\) to \\(\\ce{Na2HPO3}\\) is:",
+      "options": [
+        "50 mL",
+        "150 mL",
+        "200 mL",
+        "100 mL"
+      ],
+      "answer": "200 mL"
+    },
+    {
+      "id": "C1Q75",
+      "statement": "The mass of \\(\\ce{Cu}\\) deposited when 2A current is passed for 30 minutes through \\(\\ce{CuSO4}\\) solution is:",
+      "options": [
+        "1.186 g",
+        "0.593 g",
+        "4.744 g",
+        "2.372 g"
+      ],
+      "answer": "1.186 g"
+    }
+  ],
+  "jee": [
+    {
+      "id": "C1Q76",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) required to oxidize 1 mole of \\(\\ce{FeC2O4}\\) in acidic medium is:",
+      "options": [
+        "0.4",
+        "0.8",
+        "0.2",
+        "0.6"
+      ],
+      "answer": "0.6"
+    },
+    {
+      "id": "C1Q77",
+      "statement": "The volume of 0.1 M \\(\\ce{K2Cr2O7}\\) required to oxidize 100 mL of 0.1 M \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "50 mL",
+        "66.67 mL",
+        "33.33 mL",
+        "16.67 mL"
+      ],
+      "answer": "16.67 mL"
+    },
+    {
+      "id": "C1Q78",
+      "statement": "The mass of \\(\\ce{MnO2}\\) required to produce 35.5 g of \\(\\ce{Cl2}\\) from concentrated \\(\\ce{HCl}\\) is:",
+      "options": [
+        "65.25 g",
+        "43.5 g",
+        "87 g",
+        "108.75 g"
+      ],
+      "answer": "43.5 g"
+    },
+    {
+      "id": "C1Q79",
+      "statement": "The number of moles of \\(\\ce{BaSO4}\\) precipitated when 500 mL of 0.2 M \\(\\ce{BaCl2}\\) is mixed with 500 mL of 0.1 M \\(\\ce{Al2(SO4)3}\\) is:",
+      "options": [
+        "0.15",
+        "0.2",
+        "0.05",
+        "0.1"
+      ],
+      "answer": "0.1"
+    },
+    {
+      "id": "C1Q80",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to neutralize 0.45 g of oxalic acid (\\(\\ce{H2C2O4}\\)) is:",
+      "options": [
+        "75 mL",
+        "100 mL",
+        "50 mL",
+        "25 mL"
+      ],
+      "answer": "100 mL"
+    },
+    {
+      "id": "C1Q81",
+      "statement": "The mass of \\(\\ce{CaO}\\) required to remove hardness from 1000 L of water containing 1.62 g of \\(\\ce{Ca(HCO3)2}\\) per liter is:",
+      "options": [
+        "112 g",
+        "224 g",
+        "448 g",
+        "56 g"
+      ],
+      "answer": "112 g"
+    },
+    {
+      "id": "C1Q82",
+      "statement": "The number of moles of electrons required to reduce 1 mole of \\(\\ce{Cr2O7^{2-}}\\) to \\(\\ce{Cr^{3+}}\\) is:",
+      "options": [
+        "3",
+        "12",
+        "9",
+        "6"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "C1Q83",
+      "statement": "The volume of 0.02 M \\(\\ce{KMnO4}\\) required to oxidize 40 mL of 0.1 M \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "16 mL",
+        "32 mL",
+        "8 mL",
+        "24 mL"
+      ],
+      "answer": "16 mL"
+    },
+    {
+      "id": "C1Q84",
+      "statement": "The mass of 95% pure \\(\\ce{CaCO3}\\) required to produce 56 L of \\(\\ce{CO2}\\) at STP is:",
+      "options": [
+        "125 g",
+        "500 g",
+        "250 g",
+        "375 g"
+      ],
+      "answer": "250 g"
+    },
+    {
+      "id": "C1Q85",
+      "statement": "The number of water molecules present in 1.8 g of glucose (\\(\\ce{C6H12O6}\\)) is:",
+      "options": [
+        "\\(3.011 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{21}\\)",
+        "\\(1.204 \\times 10^{23}\\)",
+        "\\(6.022 \\times 10^{22}\\)"
+      ],
+      "answer": "\\(6.022 \\times 10^{21}\\)"
+    },
+    {
+      "id": "C1Q86",
+      "statement": "The volume of 0.1 M \\(\\ce{H2SO4}\\) required to neutralize 10 mL of 0.2 M \\(\\ce{NH4OH}\\) is:",
+      "options": [
+        "15 mL",
+        "20 mL",
+        "5 mL",
+        "10 mL"
+      ],
+      "answer": "10 mL"
+    },
+    {
+      "id": "C1Q87",
+      "statement": "The mass of \\(\\ce{Ag}\\) deposited when 0.5 A current is passed for 20 minutes through \\(\\ce{AgNO3}\\) solution is:",
+      "options": [
+        "2.68 g",
+        "0.335 g",
+        "1.34 g",
+        "0.67 g"
+      ],
+      "answer": "0.67 g"
+    },
+    {
+      "id": "C1Q88",
+      "statement": "The number of moles of \\(\\ce{K2Cr2O7}\\) reduced by 1 mole of \\(\\ce{Sn^{2+}}\\) is:",
+      "options": [
+        "1/2",
+        "1/6",
+        "1",
+        "1/3"
+      ],
+      "answer": "1/6"
+    },
+    {
+      "id": "C1Q89",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to completely neutralize 0.45 g of dibasic acid is 75 mL. The molecular mass of acid is:",
+      "options": [
+        "150",
+        "90",
+        "120",
+        "60"
+      ],
+      "answer": "120"
+    },
+    {
+      "id": "C1Q90",
+      "statement": "The mass of \\(\\ce{FeSO4}\\) oxidized by 100 mL of 0.1 M \\(\\ce{KMnO4}\\) in acidic medium is:",
+      "options": [
+        "3.04 g",
+        "1.52 g",
+        "4.56 g",
+        "6.08 g"
+      ],
+      "answer": "1.52 g"
+    },
+    {
+      "id": "C1Q91",
+      "statement": "The number of moles of \\(\\ce{O2}\\) produced by decomposition of 100 mL of 10 volume \\(\\ce{H2O2}\\) is:",
+      "options": [
+        "0.0223",
+        "0.0446",
+        "0.0892",
+        "0.1784"
+      ],
+      "answer": "0.0446"
+    },
+    {
+      "id": "C1Q92",
+      "statement": "The volume of 0.1 M \\(\\ce{Na2S2O3}\\) required to react with 25 mL of 0.1 M \\(\\ce{I2}\\) solution is:",
+      "options": [
+        "25 mL",
+        "75 mL",
+        "50 mL",
+        "100 mL"
+      ],
+      "answer": "50 mL"
+    },
+    {
+      "id": "C1Q93",
+      "statement": "The mass of \\(\\ce{Ca3(PO4)2}\\) required to produce 31 g of \\(\\ce{P4}\\) is:",
+      "options": [
+        "465 g",
+        "155 g",
+        "620 g",
+        "310 g"
+      ],
+      "answer": "155 g"
+    },
+    {
+      "id": "C1Q94",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) required to oxidize 1 mole of \\(\\ce{Fe^{2+}}\\) to \\(\\ce{Fe^{3+}}\\) in acidic medium is:",
+      "options": [
+        "4/5",
+        "3/5",
+        "2/5",
+        "1/5"
+      ],
+      "answer": "1/5"
+    },
+    {
+      "id": "C1Q95",
+      "statement": "The volume of 0.1 M \\(\\ce{HCl}\\) required to react completely with 1 g of mixture of \\(\\ce{Na2CO3}\\) and \\(\\ce{NaHCO3}\\) containing equimolar amounts of both is:",
+      "options": [
+        "158.4 mL",
+        "105.6 mL",
+        "52.8 mL",
+        "211.2 mL"
+      ],
+      "answer": "158.4 mL"
+    },
+    {
+      "id": "C1Q96",
+      "statement": "The mass of \\(\\ce{NH3}\\) produced when 20 g of \\(\\ce{N2}\\) reacts with 10 g of \\(\\ce{H2}\\) is:",
+      "options": [
+        "22.67 g",
+        "17 g",
+        "34 g",
+        "28.33 g"
+      ],
+      "answer": "22.67 g"
+    },
+    {
+      "id": "C1Q97",
+      "statement": "The number of moles of \\(\\ce{K2Cr2O7}\\) required to oxidize 1 mole of \\(\\ce{FeSO4}\\) in acidic medium is:",
+      "options": [
+        "1",
+        "1/2",
+        "1/6",
+        "1/3"
+      ],
+      "answer": "1/6"
+    },
+    {
+      "id": "C1Q98",
+      "statement": "The volume of 0.1 M \\(\\ce{NaOH}\\) required to neutralize 0.1 M \\(\\ce{H3PO3}\\) to \\(\\ce{Na2HPO3}\\) is:",
+      "options": [
+        "150 mL",
+        "100 mL",
+        "200 mL",
+        "50 mL"
+      ],
+      "answer": "200 mL"
+    },
+    {
+      "id": "C1Q99",
+      "statement": "The mass of \\(\\ce{Cu}\\) deposited when 2A current is passed for 30 minutes through \\(\\ce{CuSO4}\\) solution is:",
+      "options": [
+        "1.186 g",
+        "2.372 g",
+        "0.593 g",
+        "4.744 g"
+      ],
+      "answer": "1.186 g"
+    },
+    {
+      "id": "C1Q100",
+      "statement": "The number of moles of \\(\\ce{KMnO4}\\) required to oxidize 1 mole of \\(\\ce{FeC2O4}\\) in acidic medium is:",
+      "options": [
+        "0.4",
+        "0.6",
+        "0.2",
+        "0.8"
+      ],
+      "answer": "0.6"
+    }
+  ]
+}

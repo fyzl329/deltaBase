@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P1Q1",
+      "statement": "Which of the following is a base SI unit?",
+      "options": [
+        "Joule",
+        "Kilogram",
+        "Newton",
+        "Watt"
+      ],
+      "answer": "Kilogram",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q2",
+      "statement": "The SI unit of electric current is:",
+      "options": [
+        "Ohm",
+        "Ampere",
+        "Coulomb",
+        "Volt"
+      ],
+      "answer": "Ampere",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q3",
+      "statement": "One parsec is equal to:",
+      "options": [
+        "10^16 m",
+        "3.26 light years",
+        "9.46 × 10^15 m",
+        "149.6 million km"
+      ],
+      "answer": "3.26 light years",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q4",
+      "statement": "Which physical quantity has the same unit as stress?",
+      "options": [
+        "Pressure",
+        "Power",
+        "Force",
+        "Energy"
+      ],
+      "answer": "Pressure",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q5",
+      "statement": "The number of base SI units is:",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "answer": "7",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q6",
+      "statement": "Which instrument is used to measure very small distances like the diameter of a wire?",
+      "options": [
+        "Meter scale",
+        "Vernier calipers",
+        "Screw gauge",
+        "Spectrometer"
+      ],
+      "answer": "Screw gauge",
+      "type": "experimental"
+    },
+    {
+      "id": "P1Q7",
+      "statement": "The dimensional formula for force is:",
+      "options": [
+        "M L T^{-1}",
+        "M L^2 T^{-2}",
+        "M L^{-1} T^{-2}",
+        "M L T^{-2}"
+      ],
+      "answer": "M L T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q8",
+      "statement": "Which of the following is not a unit of time?",
+      "options": [
+        "Parsec",
+        "Minute",
+        "Second",
+        "Year"
+      ],
+      "answer": "Parsec",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q9",
+      "statement": "The SI unit of luminous intensity is:",
+      "options": [
+        "Candela",
+        "Lux",
+        "Lumen",
+        "Watt"
+      ],
+      "answer": "Candela",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q10",
+      "statement": "Which prefix represents 10^{-9}?",
+      "options": [
+        "Micro",
+        "Femto",
+        "Nano",
+        "Pico"
+      ],
+      "answer": "Nano",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q11",
+      "statement": "The unit of Planck's constant is:",
+      "options": [
+        "J s",
+        "J/m",
+        "J m",
+        "J/s"
+      ],
+      "answer": "J s",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q12",
+      "statement": "Which of the following is a dimensionless quantity?",
+      "options": [
+        "Force",
+        "Velocity",
+        "Strain",
+        "Stress"
+      ],
+      "answer": "Strain",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q13",
+      "statement": "The least count of a standard vernier caliper is:",
+      "options": [
+        "0.5 mm",
+        "1 mm",
+        "0.1 mm",
+        "0.01 mm"
+      ],
+      "answer": "0.1 mm",
+      "type": "experimental"
+    },
+    {
+      "id": "P1Q14",
+      "statement": "Which physical quantity has the unit pascal?",
+      "options": [
+        "Force",
+        "Power",
+        "Energy",
+        "Pressure"
+      ],
+      "answer": "Pressure",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q15",
+      "statement": "The dimensional formula for power is:",
+      "options": [
+        "M L^{-1} T^{-2}",
+        "M L^2 T^{-3}",
+        "M L T^{-2}",
+        "M L^2 T^{-2}"
+      ],
+      "answer": "M L^2 T^{-3}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q16",
+      "statement": "Which of the following is a unit of energy?",
+      "options": [
+        "Pascal",
+        "Newton",
+        "Watt",
+        "Joule"
+      ],
+      "answer": "Joule",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q17",
+      "statement": "The number of significant figures in 0.00250 is:",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "answer": "3",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q18",
+      "statement": "Which instrument is most precise for measuring length?",
+      "options": [
+        "Meter scale",
+        "Vernier calipers",
+        "Screw gauge",
+        "Tape measure"
+      ],
+      "answer": "Screw gauge",
+      "type": "experimental"
+    },
+    {
+      "id": "P1Q19",
+      "statement": "The unit of angular momentum is:",
+      "options": [
+        "kg m s^{-1}",
+        "kg m s^{-2}",
+        "kg m^2 s^{-1}",
+        "kg m^2 s^{-2}"
+      ],
+      "answer": "kg m^2 s^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q20",
+      "statement": "Which of the following is not a fundamental quantity?",
+      "options": [
+        "Velocity",
+        "Mass",
+        "Length",
+        "Time"
+      ],
+      "answer": "Velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q21",
+      "statement": "The dimensional formula for universal gravitational constant G is:",
+      "options": [
+        "M^{-1} L^2 T^{-2}",
+        "M L^2 T^{-2}",
+        "M^{-1} L^3 T^{-2}",
+        "M L T^{-2}"
+      ],
+      "answer": "M^{-1} L^3 T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q22",
+      "statement": "Which prefix means 10^6?",
+      "options": [
+        "Mega",
+        "Tera",
+        "Kilo",
+        "Giga"
+      ],
+      "answer": "Mega",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q23",
+      "statement": "The unit of coefficient of viscosity is:",
+      "options": [
+        "N m s^{-1}",
+        "N s m^{-2}",
+        "N m^2 s^{-1}",
+        "N s m^{-1}"
+      ],
+      "answer": "N s m^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q24",
+      "statement": "Which of the following is measured in henry?",
+      "options": [
+        "Inductance",
+        "Capacitance",
+        "Conductance",
+        "Resistance"
+      ],
+      "answer": "Inductance",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q25",
+      "statement": "The number of significant figures in 100.00 is:",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "answer": "5",
+      "type": "numerical"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P1Q26",
+      "statement": "If the unit of force is 100 N, unit of length is 10 m, and unit of time is 100 s, what is the unit of mass?",
+      "options": [
+        "10000 kg",
+        "10 kg",
+        "100 kg",
+        "1000 kg"
+      ],
+      "answer": "1000 kg",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q27",
+      "statement": "A physical quantity P is given by P = \\frac{A^3 B^{1/2}}{C^{-4} D^{3/2}}. The percentage error in A, B, C, and D are 1%, 2%, 3%, and 4% respectively. The percentage error in P is:",
+      "options": [
+        "16%",
+        "10%",
+        "12%",
+        "14%"
+      ],
+      "answer": "16%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q28",
+      "statement": "The dimensional formula for Boltzmann constant is same as that of:",
+      "options": [
+        "Pressure",
+        "Angular momentum",
+        "Energy",
+        "Force"
+      ],
+      "answer": "Energy",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q29",
+      "statement": "The period of oscillation of a simple pendulum is T = 2\\pi\\sqrt{\\frac{L}{g}}. The maximum percentage error in T when L and g have 2% and 3% errors respectively is:",
+      "options": [
+        "5.5%",
+        "3.5%",
+        "4.5%",
+        "2.5%"
+      ],
+      "answer": "2.5%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q30",
+      "statement": "Which of the following pairs has the same dimensions?",
+      "options": [
+        "Work and Torque",
+        "Energy and Pressure",
+        "Stress and Strain",
+        "Force and Power"
+      ],
+      "answer": "Work and Torque",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q31",
+      "statement": "The dimensional formula for surface tension is:",
+      "options": [
+        "M T^{-2}",
+        "M L^{-1} T^{-2}",
+        "M L T^{-2}",
+        "M L^{-2}"
+      ],
+      "answer": "M T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q32",
+      "statement": "A student measures the length of a rod 5 times and gets values: 2.51 m, 2.52 m, 2.50 m, 2.53 m, 2.51 m. The mean absolute error is:",
+      "options": [
+        "0.008 m",
+        "0.006 m",
+        "0.01 m",
+        "0.004 m"
+      ],
+      "answer": "0.008 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q33",
+      "statement": "The dimensional formula for impulse is same as that of:",
+      "options": [
+        "Momentum",
+        "Force",
+        "Energy",
+        "Power"
+      ],
+      "answer": "Momentum",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q34",
+      "statement": "If energy E, velocity V, and time T are chosen as fundamental units, the dimensional formula for surface tension is:",
+      "options": [
+        "E V^{-2} T^{-1}",
+        "E V^{-1} T^{-2}",
+        "E V^{-2} T^{-2}",
+        "E V^{-1} T^{-1}"
+      ],
+      "answer": "E V^{-2} T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q35",
+      "statement": "The resistance R = \\frac{V}{I} where V = (100 ± 5) V and I = (10 ± 0.2) A. The percentage error in R is:",
+      "options": [
+        "6%",
+        "8%",
+        "5%",
+        "7%"
+      ],
+      "answer": "7%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q36",
+      "statement": "Which of the following is dimensionally incorrect?",
+      "options": [
+        "Energy = Power × time",
+        "Pressure = Energy per unit volume",
+        "Stress = Force per unit area",
+        "Power = Force × velocity"
+      ],
+      "answer": "Energy = Power × time",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q37",
+      "statement": "The dimensional formula for magnetic flux is:",
+      "options": [
+        "M L^2 T^{-2} A^{-1}",
+        "M L T^{-2} A^{-1}",
+        "M L^2 T^{-2} A^{-2}",
+        "M L^2 T^{-1} A^{-1}"
+      ],
+      "answer": "M L^2 T^{-2} A^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q38",
+      "statement": "A physical quantity is given by X = \\frac{a^2 b^3}{c \\sqrt{d}}. The percentage errors in a, b, c, and d are 1%, 2%, 3%, and 4% respectively. The percentage error in X is:",
+      "options": [
+        "10%",
+        "12%",
+        "16%",
+        "14%"
+      ],
+      "answer": "14%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q39",
+      "statement": "The dimensions of \\frac{1}{2}\\epsilon_0 E^2 (\\epsilon_0 is permittivity of free space and E is electric field) are:",
+      "options": [
+        "M L^{-1} T^{-1}",
+        "M L^{-1} T^{-2}",
+        "M L^2 T^{-2}",
+        "M L T^{-2}"
+      ],
+      "answer": "M L^{-1} T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q40",
+      "statement": "The time period of a satellite is T = 2\\pi\\sqrt{\\frac{r^3}{GM}}. If the percentage error in r is 1.5% and in M is 2%, the percentage error in T is:",
+      "options": [
+        "2.25%",
+        "4.25%",
+        "5.25%",
+        "3.25%"
+      ],
+      "answer": "3.25%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q41",
+      "statement": "The dimensional formula for thermal conductivity is:",
+      "options": [
+        "M L^2 T^{-3} K^{-1}",
+        "M L T^{-3} K^{-1}",
+        "M L^2 T^{-2} K^{-1}",
+        "M L T^{-2} K^{-1}"
+      ],
+      "answer": "M L T^{-3} K^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q42",
+      "statement": "In a system where units of mass, length, and time are doubled, the numerical value of density becomes:",
+      "options": [
+        "1/4 times",
+        "2 times",
+        "1/2 times",
+        "4 times"
+      ],
+      "answer": "1/4 times",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q43",
+      "statement": "The dimensions of \\frac{h}{e} (h is Planck's constant, e is charge) are:",
+      "options": [
+        "M L^2 T^{-2} A^{-1}",
+        "M L T^{-1} A^{-1}",
+        "M L^2 T^{-2}",
+        "M L^2 T^{-1} A^{-1}"
+      ],
+      "answer": "M L^2 T^{-1} A^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q44",
+      "statement": "The radius of a sphere is measured as (2.1 ± 0.1) cm. The volume with error limits is:",
+      "options": [
+        "(38.8 ± 7.5) cm^3",
+        "(38.8 ± 8.5) cm^3",
+        "(38.8 ± 6.5) cm^3",
+        "(38.8 ± 5.5) cm^3"
+      ],
+      "answer": "(38.8 ± 5.5) cm^3",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q45",
+      "statement": "The dimensional formula for coefficient of friction is:",
+      "options": [
+        "M^0 L^0 T^0",
+        "M L T^{-2}",
+        "M L^2 T^{-2}",
+        "M^{-1} L T^2"
+      ],
+      "answer": "M^0 L^0 T^0",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q46",
+      "statement": "If force F, length L, and time T are taken as fundamental units, the dimensional formula for energy is:",
+      "options": [
+        "F L T^{-1}",
+        "F L^2",
+        "F L",
+        "F L T"
+      ],
+      "answer": "F L",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q47",
+      "statement": "The dimensions of a/b in the equation P = \\frac{a - t^2}{bx} where P is pressure, x is distance, and t is time are:",
+      "options": [
+        "M^2 L T^{-2}",
+        "M L T^{-2}",
+        "M L^2 T",
+        "M L^2 T^{-2}"
+      ],
+      "answer": "M L^2 T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q48",
+      "statement": "The percentage error in the measurement of mass and speed are 2% and 3% respectively. The maximum error in kinetic energy is:",
+      "options": [
+        "5%",
+        "6%",
+        "8%",
+        "7%"
+      ],
+      "answer": "8%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q49",
+      "statement": "The dimensional formula for self-inductance is:",
+      "options": [
+        "M L^2 T^{-2} A^{-1}",
+        "M L^2 T^{-2} A^{-2}",
+        "M L^2 T^{-1} A^{-2}",
+        "M L T^{-2} A^{-2}"
+      ],
+      "answer": "M L^2 T^{-2} A^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q50",
+      "statement": "A physical quantity is measured and the result is expressed as nu^a E^b where u is speed, n is number per unit volume, and E is energy. The values of a and b are:",
+      "options": [
+        "a = -1, b = 1",
+        "a = -1, b = -1",
+        "a = 3, b = -1",
+        "a = -3, b = 1"
+      ],
+      "answer": "a = -1, b = 1",
+      "type": "conceptual"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P1Q51",
+      "statement": "The equation of a wave is given by y = A \\sin(\\omega t - kx). The dimensional formula for \\omega/k is:",
+      "options": [
+        "M^0 L T^{-1}",
+        "M L T^{-1}",
+        "M^0 L T^{-2}",
+        "M L^2 T^{-1}"
+      ],
+      "answer": "M^0 L T^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q52",
+      "statement": "If the units of length, mass, and time are halved, by what factor does the unit of energy change?",
+      "options": [
+        "1/16",
+        "1/4",
+        "1/8",
+        "1/2"
+      ],
+      "answer": "1/8",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q53",
+      "statement": "The period of a planet around the sun is T ∝ r^{3/2}. If the percentage error in r is 2%, the percentage error in T is:",
+      "options": [
+        "4%",
+        "3%",
+        "1%",
+        "2%"
+      ],
+      "answer": "3%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q54",
+      "statement": "The Van der Waals equation is (P + \\frac{a}{V^2})(V - b) = RT. The dimensions of a are:",
+      "options": [
+        "M L^4 T^{-2}",
+        "M L^3 T^{-2}",
+        "M L^2 T^{-2}",
+        "M L^5 T^{-2}"
+      ],
+      "answer": "M L^5 T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q55",
+      "statement": "The velocity v of a particle depends on time t as v = \\alpha t + \\frac{\\beta}{t + \\gamma}. The dimensions of \\alpha, \\beta, \\gamma are respectively:",
+      "options": [
+        "L T^{-1}, L T, T",
+        "L T^{-2}, L, T",
+        "L T^{-2}, L T, T",
+        "L T^{-1}, L, T"
+      ],
+      "answer": "L T^{-2}, L, T",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q56",
+      "statement": "The dimensions of \\frac{B^2}{2\\mu_0} where B is magnetic field and \\mu_0 is permeability of free space are:",
+      "options": [
+        "M L^{-1} T^{-2}",
+        "M L^{-1} T^{-1}",
+        "M L^2 T^{-2}",
+        "M L T^{-2}"
+      ],
+      "answer": "M L^{-1} T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q57",
+      "statement": "The resistance R = \\rho\\frac{L}{A} where \\rho is resistivity. If the percentage errors in L, A, and R are 1%, 2%, and 3% respectively, the percentage error in \\rho is:",
+      "options": [
+        "7%",
+        "4%",
+        "6%",
+        "5%"
+      ],
+      "answer": "6%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q58",
+      "statement": "The Stefan-Boltzmann constant \\sigma has dimensions:",
+      "options": [
+        "M T^{-3} K^{-4}",
+        "M L^2 T^{-3} K^{-4}",
+        "M L^2 T^{-2} K^{-4}",
+        "M L T^{-3} K^{-4}"
+      ],
+      "answer": "M T^{-3} K^{-4}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q59",
+      "statement": "If energy E, density \\rho, and frequency f are taken as fundamental units, the dimensions of length are:",
+      "options": [
+        "E^{1/2} \\rho^{-1/2} f^{-1}",
+        "E^{1/2} \\rho^{-1/2} f",
+        "E^{1/2} \\rho^{-1/2} f^{-2}",
+        "E^{1/2} \\rho^{1/2} f^{-1}"
+      ],
+      "answer": "E^{1/2} \\rho^{-1/2} f^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q60",
+      "statement": "The period T of a simple pendulum depends on mass m, length L, and acceleration due to gravity g as T ∝ m^a L^b g^c. The values of a, b, c are:",
+      "options": [
+        "a=0, b=-1/2, c=1/2",
+        "a=0, b=1/2, c=-1/2",
+        "a=1, b=1/2, c=-1/2",
+        "a=1, b=-1/2, c=1/2"
+      ],
+      "answer": "a=0, b=1/2, c=-1/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q61",
+      "statement": "The dimensions of \\frac{e^2}{\\epsilon_0 h c} (e is charge, h is Planck's constant, c is speed of light) are:",
+      "options": [
+        "M^0 L^0 T^0",
+        "M L T^{-1}",
+        "M^{-1} L^{-2} T^2",
+        "M L^2 T^{-2}"
+      ],
+      "answer": "M^0 L^0 T^0",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q62",
+      "statement": "The volume V of liquid flowing per second through a capillary tube depends on pressure P, radius r, viscosity \\eta, and length L as V ∝ P^a r^b \\eta^c L^d. The values are:",
+      "options": [
+        "a=1, b=4, c=-1, d=1",
+        "a=1, b=2, c=-1, d=-1",
+        "a=1, b=4, c=1, d=-1",
+        "a=1, b=4, c=-1, d=-1"
+      ],
+      "answer": "a=1, b=4, c=-1, d=-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q63",
+      "statement": "The dimensions of \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}} are:",
+      "options": [
+        "M L T^{-1}",
+        "M^{-1} L^{-2} T^2",
+        "M L^2 T^{-2}",
+        "L T^{-1}"
+      ],
+      "answer": "L T^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q64",
+      "statement": "If the error in measuring the radius of a sphere is 2%, the error in its surface area is:",
+      "options": [
+        "2%",
+        "6%",
+        "4%",
+        "8%"
+      ],
+      "answer": "4%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q65",
+      "statement": "The dimensions of \\frac{h}{m c} (h is Planck's constant, m is mass, c is speed of light) are:",
+      "options": [
+        "L^2",
+        "L",
+        "T",
+        "L T^{-1}"
+      ],
+      "answer": "L",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q66",
+      "statement": "In the formula X = 3YZ^2, X and Z have dimensions of capacitance and magnetic induction respectively. The dimensions of Y are:",
+      "options": [
+        "M^{-2} L^{-1} T^3 A^2}",
+        "M^{-3} L^{-2} T^4 A^4}",
+        "M^{-2} L^{-2} T^6 A^3}",
+        "M^{-1} L^{-2} T^4 A^2}"
+      ],
+      "answer": "M^{-3} L^{-2} T^4 A^4}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q67",
+      "statement": "The time period T of a vibrating magnet is T = 2\\pi\\sqrt{\\frac{I}{MH}} where I is moment of inertia, M is magnetic moment, and H is magnetic field. The dimensions of M are:",
+      "options": [
+        "A^2 L^2",
+        "A^2 L^3",
+        "A L^3",
+        "A L^2"
+      ],
+      "answer": "A L^2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q68",
+      "statement": "The dimensions of \\frac{\\epsilon_0 d\\phi_E}{dt} where \\phi_E is electric flux are:",
+      "options": [
+        "A L^2",
+        "A T",
+        "A L",
+        "A"
+      ],
+      "answer": "A",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q69",
+      "statement": "If C is capacitance and R is resistance, the dimensional formula for CR is:",
+      "options": [
+        "M L^2 T^{-2}",
+        "M^0 L^0 T^{-1}",
+        "M L T^{-1}",
+        "M^0 L^0 T"
+      ],
+      "answer": "M^0 L^0 T",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q70",
+      "statement": "The velocity v of water waves depends on wavelength \\lambda, density \\rho, and acceleration due to gravity g as v ∝ \\lambda^a \\rho^b g^c. The values are:",
+      "options": [
+        "a=1, b=1, c=1",
+        "a=1/2, b=0, c=1/2",
+        "a=1/2, b=1/2, c=1/2",
+        "a=1, b=0, c=1"
+      ],
+      "answer": "a=1/2, b=0, c=1/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q71",
+      "statement": "The dimensions of \\frac{R}{L} (R is resistance, L is inductance) are:",
+      "options": [
+        "T",
+        "T^2",
+        "T^{-2}",
+        "T^{-1}"
+      ],
+      "answer": "T^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q72",
+      "statement": "If the units of force, energy, and velocity are taken as fundamental units, the dimensional formula for mass is:",
+      "options": [
+        "F E V^{-2}",
+        "E V^{-2}",
+        "F E^{-1} V^2",
+        "F V^{-2}"
+      ],
+      "answer": "E V^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q73",
+      "statement": "The dimensions of \\frac{\\mu_0 I^2}{4\\pi r} (\\mu_0 is permeability, I is current, r is distance) are:",
+      "options": [
+        "M L^2 T^{-2}",
+        "M L T^{-2}",
+        "M T^{-2}",
+        "M L^{-1} T^{-2}"
+      ],
+      "answer": "M L T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q74",
+      "statement": "The percentage error in measuring the side of a cube is 1%. The percentage error in its volume is:",
+      "options": [
+        "1%",
+        "3%",
+        "2%",
+        "4%"
+      ],
+      "answer": "3%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q75",
+      "statement": "The dimensions of \\frac{G}{c^2} (G is gravitational constant, c is speed of light) are:",
+      "options": [
+        "M L",
+        "M^{-1} L^{-1}",
+        "M^{-1} L",
+        "M L^{-1}"
+      ],
+      "answer": "M^{-1} L",
+      "type": "conceptual"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P1Q76",
+      "statement": "The equation \\frac{e^2}{\\epsilon_0 h c} is dimensionless. If e is charge, h is Planck's constant, c is speed of light, and \\epsilon_0 is permittivity of free space, this represents:",
+      "options": [
+        "Bohr magneton",
+        "Compton wavelength",
+        "Fine structure constant",
+        "Rydberg constant"
+      ],
+      "answer": "Fine structure constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q77",
+      "statement": "In a new system, unit of length is 4 m, unit of time is 9 s, and unit of mass is 6 kg. The numerical value of 1 watt in this system is:",
+      "options": [
+        "36",
+        "48",
+        "54",
+        "72"
+      ],
+      "answer": "54",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q78",
+      "statement": "The dimensions of \\frac{h}{e B} (h is Planck's constant, e is charge, B is magnetic field) are:",
+      "options": [
+        "M L^2 T^{-1}",
+        "M^0 L^0 T^0",
+        "L^2",
+        "T^{-1}"
+      ],
+      "answer": "L^2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q79",
+      "statement": "If the unit of length is doubled and unit of time is halved, the numerical value of g (acceleration due to gravity) becomes:",
+      "options": [
+        "4 times",
+        "8 times",
+        "2 times",
+        "1/2 times"
+      ],
+      "answer": "8 times",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q80",
+      "statement": "The dimensions of \\frac{1}{2}CV^2 (C is capacitance, V is voltage) are same as that of:",
+      "options": [
+        "LI^2",
+        "\\frac{B^2}{2\\mu_0}",
+        "All of these",
+        "\\frac{q^2}{2C}"
+      ],
+      "answer": "All of these",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q81",
+      "statement": "The time period T of a drop of liquid of density \\rho, radius r, and surface tension S is given by T ∝ \\rho^a r^b S^c. The values of a, b, c are:",
+      "options": [
+        "a=-1/2, b=3/2, c=1/2",
+        "a=1/2, b=3/2, c=1/2",
+        "a=1/2, b=3/2, c=-1/2",
+        "a=1, b=3/2, c=-1/2"
+      ],
+      "answer": "a=1/2, b=3/2, c=-1/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q82",
+      "statement": "The dimensions of \\frac{\\hbar c}{G} (\\hbar = h/2\\pi) are:",
+      "options": [
+        "M^2",
+        "M L^2 T^{-1}",
+        "M L",
+        "L^2"
+      ],
+      "answer": "M^2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q83",
+      "statement": "If the units of length, mass, and time are changed to 2 cm, 3 g, and 4 s respectively, the numerical value of 10 erg in the new system is:",
+      "options": [
+        "240",
+        "160",
+        "80",
+        "120"
+      ],
+      "answer": "240",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q84",
+      "statement": "The dimensional formula for \\frac{\\mu_0}{\\epsilon_0} is:",
+      "options": [
+        "L^2 T^{-2}",
+        "M L T^{-2} A^{-2}",
+        "M^2 L^4 T^{-6} A^{-4}",
+        "M L^3 T^{-4} A^{-2}"
+      ],
+      "answer": "L^2 T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q85",
+      "statement": "The critical velocity v_c of a liquid flowing through a tube depends on radius r, density \\rho, and viscosity \\eta as v_c ∝ r^a \\rho^b \\eta^c. The values are:",
+      "options": [
+        "a=1, b=-1, c=-1",
+        "a=1, b=1, c=-1",
+        "a=-1, b=1, c=-1",
+        "a=-1, b=-1, c=1"
+      ],
+      "answer": "a=-1, b=-1, c=1",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q86",
+      "statement": "The dimensions of \\frac{e^2}{4\\pi\\epsilon_0 G m_e^2} (m_e is electron mass) are:",
+      "options": [
+        "M^0 L^0 T^0",
+        "M L T^{-1}",
+        "M^2 L^{-2} T^2",
+        "M^{-1} L^3 T^{-2}"
+      ],
+      "answer": "M^0 L^0 T^0",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q87",
+      "statement": "If the units of force, work, and velocity are 10 N, 20 J, and 5 m/s respectively, the units of mass, length, and time are:",
+      "options": [
+        "4 kg, 2 m, 0.4 s",
+        "4 kg, 4 m, 0.8 s",
+        "2 kg, 4 m, 0.8 s",
+        "2 kg, 2 m, 0.4 s"
+      ],
+      "answer": "2 kg, 2 m, 0.4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q88",
+      "statement": "The dimensions of \\frac{\\sigma}{\\epsilon_0} (\\sigma is surface charge density) are:",
+      "options": [
+        "M L^2 T^{-2} A^{-1}",
+        "M L^2 T^{-3} A^{-1}",
+        "M L T^{-2} A^{-1}",
+        "M L T^{-3} A^{-1}"
+      ],
+      "answer": "M L T^{-3} A^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q89",
+      "statement": "The frequency f of a stretched string depends on length L, tension T, and mass per unit length \\mu as f ∝ L^a T^b \\mu^c. The values are:",
+      "options": [
+        "a=-1/2, b=1/2, c=-1/2",
+        "a=-1, b=1/2, c=1/2",
+        "a=-1, b=1/2, c=-1/2",
+        "a=-1, b=1, c=-1"
+      ],
+      "answer": "a=-1, b=1/2, c=-1/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q90",
+      "statement": "The dimensions of \\frac{R}{\\sigma T^3} (R is radiation energy, \\sigma is Stefan's constant, T is temperature) are:",
+      "options": [
+        "L^5",
+        "L^4",
+        "L^3",
+        "L^2"
+      ],
+      "answer": "L^2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q91",
+      "statement": "If the error in measuring the mass and velocity of a particle are 3% and 2% respectively, the error in de Broglie wavelength is:",
+      "options": [
+        "5%",
+        "1%",
+        "3%",
+        "7%"
+      ],
+      "answer": "5%",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q92",
+      "statement": "The dimensions of \\frac{\\hbar^2}{G m_e^3 c} are:",
+      "options": [
+        "M L T^{-1}",
+        "M",
+        "T",
+        "L"
+      ],
+      "answer": "L",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q93",
+      "statement": "In a system where units of length, mass, and time are 2 m, 3 kg, and 4 s respectively, the numerical value of 72 J in this system is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "type": "numerical"
+    },
+    {
+      "id": "P1Q94",
+      "statement": "The dimensions of \\frac{E^2}{\\mu_0 c} (E is electric field) are:",
+      "options": [
+        "M T^{-3}",
+        "M L^{-1} T^{-2}",
+        "M L^2 T^{-2}",
+        "M L T^{-2}"
+      ],
+      "answer": "M L T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q95",
+      "statement": "If C is velocity of light, h is Planck's constant, and G is gravitational constant, the dimensions of \\frac{Ch}{G} are:",
+      "options": [
+        "M L",
+        "M L^2 T^{-1}",
+        "M^2",
+        "L^2"
+      ],
+      "answer": "M^2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q96",
+      "statement": "The time period T of a planet around sun depends on mass M of sun, radius R of orbit, and gravitational constant G as T ∝ M^a R^b G^c. The values are:",
+      "options": [
+        "a=-1/2, b=3/2, c=1/2",
+        "a=-1/2, b=3/2, c=-1/2",
+        "a=1/2, b=3/2, c=1/2",
+        "a=1/2, b=3/2, c=-1/2"
+      ],
+      "answer": "a=-1/2, b=3/2, c=1/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q97",
+      "statement": "The dimensions of \\frac{\\mu_0 I^2}{\\sigma} (I is current, \\sigma is conductivity) are:",
+      "options": [
+        "M L^{-1} T^{-2}",
+        "M L^2 T^{-2}",
+        "M L T^{-2}",
+        "M T^{-2}"
+      ],
+      "answer": "M T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q98",
+      "statement": "If the units of energy, density, and frequency are taken as fundamental, the dimensional formula for Planck's constant is:",
+      "options": [
+        "E \\rho f^{-1}",
+        "E \\rho^{-1} f^{-1}",
+        "E \\rho^{-1} f^{-2}",
+        "E \\rho f^{-2}"
+      ],
+      "answer": "E \\rho^{-1} f^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q99",
+      "statement": "The dimensions of \\frac{\\epsilon_0 E^2}{B^2 / \\mu_0} are:",
+      "options": [
+        "M L^2 T^{-2}",
+        "M L T^{-1}",
+        "L^2 T^{-2}",
+        "M^0 L^0 T^0"
+      ],
+      "answer": "L^2 T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P1Q100",
+      "statement": "The ratio \\frac{e^2}{4\\pi\\epsilon_0 G m_p m_e} (m_p and m_e are proton and electron masses) is:",
+      "options": [
+        "Has dimensions of T^2",
+        "Has dimensions of L^2",
+        "Dimensionless",
+        "Has dimensions of M^2"
+      ],
+      "answer": "Dimensionless",
+      "type": "conceptual"
+    }
+  ]
+}

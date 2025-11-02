@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "thermodynamics",
+    "type": "mcq",
+    "subject": "chemistry",
+    "chapterNumber": 5,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C5Q1",
+      "statement": "Which of the following is an extensive property?",
+      "options": [
+        "Temperature",
+        "Density",
+        "Pressure",
+        "Volume"
+      ],
+      "answer": "Volume"
+    },
+    {
+      "id": "C5Q2",
+      "statement": "The first law of thermodynamics is based on:",
+      "options": [
+        "Law of conservation of momentum",
+        "Law of conservation of mass",
+        "Law of conservation of energy",
+        "Law of constant proportions"
+      ],
+      "answer": "Law of conservation of energy"
+    },
+    {
+      "id": "C5Q3",
+      "statement": "For an isothermal process, \\(\\Delta U =\\)",
+      "options": [
+        "\\(\\Delta H\\)",
+        "\\(Q\\)",
+        "\\(0\\)",
+        "\\(-W\\)"
+      ],
+      "answer": "\\(0\\)"
+    },
+    {
+      "id": "C5Q4",
+      "statement": "The work done in an adiabatic process is equal to:",
+      "options": [
+        "\\(\\Delta H\\)",
+        "\\(\\Delta U\\)",
+        "\\(Q\\)",
+        "\\(T\\Delta S\\)"
+      ],
+      "answer": "\\(\\Delta U\\)"
+    },
+    {
+      "id": "C5Q5",
+      "statement": "Which of the following is a state function?",
+      "options": [
+        "Heat",
+        "Internal energy",
+        "Work",
+        "Both heat and work"
+      ],
+      "answer": "Internal energy"
+    },
+    {
+      "id": "C5Q6",
+      "statement": "The enthalpy change for the reaction \\(\\ce{N2 + 3H2 -> 2NH3}\\) is \\(-92\\text{ kJ}\\). The enthalpy of formation of \\(\\ce{NH3}\\) is:",
+      "options": [
+        "\\(+46\\text{ kJ}\\)",
+        "\\(-184\\text{ kJ}\\)",
+        "\\(-92\\text{ kJ}\\)",
+        "\\(-46\\text{ kJ}\\)"
+      ],
+      "answer": "\\(-46\\text{ kJ}\\)"
+    },
+    {
+      "id": "C5Q7",
+      "statement": "For a spontaneous process at constant temperature and pressure, the Gibbs free energy change (\\(\\Delta G\\)) is:",
+      "options": [
+        "Positive",
+        "Zero",
+        "Negative",
+        "Either positive or negative"
+      ],
+      "answer": "Negative"
+    },
+    {
+      "id": "C5Q8",
+      "statement": "The standard enthalpy of formation of an element in its standard state is:",
+      "options": [
+        "Zero",
+        "Negative",
+        "Positive",
+        "May be positive or negative"
+      ],
+      "answer": "Zero"
+    },
+    {
+      "id": "C5Q9",
+      "statement": "The relationship between \\(\\Delta H\\) and \\(\\Delta U\\) for the reaction \\(\\ce{C(s) + O2(g) -> CO2(g)}\\) is:",
+      "options": [
+        "\\(\\Delta H = \\Delta U\\)",
+        "\\(\\Delta H > \\Delta U\\)",
+        "\\(\\Delta H < \\Delta U\\)",
+        "\\(\\Delta H = \\Delta U + RT\\)"
+      ],
+      "answer": "\\(\\Delta H = \\Delta U\\)"
+    },
+    {
+      "id": "C5Q10",
+      "statement": "The entropy of the universe:",
+      "options": [
+        "May increase or decrease",
+        "Is decreasing",
+        "Is increasing",
+        "Is constant"
+      ],
+      "answer": "Is increasing"
+    },
+    {
+      "id": "C5Q11",
+      "statement": "For an ideal gas, in an isothermal expansion:",
+      "options": [
+        "\\(\\Delta U = 0\\) and \\(Q = -W\\)",
+        "\\(\\Delta U = Q\\) and \\(W = 0\\)",
+        "\\(\\Delta U = W\\) and \\(Q = 0\\)",
+        "\\(\\Delta U = 0\\) and \\(Q = W\\)"
+      ],
+      "answer": "\\(\\Delta U = 0\\) and \\(Q = -W\\)"
+    },
+    {
+      "id": "C5Q12",
+      "statement": "The heat capacity at constant pressure (\\(C_p\\)) is related to heat capacity at constant volume (\\(C_v\\)) by:",
+      "options": [
+        "\\(C_p = C_v - R\\)",
+        "\\(C_p = C_v / R\\)",
+        "\\(C_p = C_v + R\\)",
+        "\\(C_p = C_v\\)"
+      ],
+      "answer": "\\(C_p = C_v + R\\)"
+    },
+    {
+      "id": "C5Q13",
+      "statement": "Which of the following has the highest entropy?",
+      "options": [
+        "Water",
+        "Ice",
+        "Steam",
+        "All have same entropy"
+      ],
+      "answer": "Steam"
+    },
+    {
+      "id": "C5Q14",
+      "statement": "The work done in a cyclic process is:",
+      "options": [
+        "Always negative",
+        "May be positive or negative",
+        "Always zero",
+        "Always positive"
+      ],
+      "answer": "May be positive or negative"
+    },
+    {
+      "id": "C5Q15",
+      "statement": "For a reaction to be spontaneous at all temperatures:",
+      "options": [
+        "\\(\\Delta H > 0\\) and \\(\\Delta S > 0\\)",
+        "\\(\\Delta H < 0\\) and \\(\\Delta S > 0\\)",
+        "\\(\\Delta H > 0\\) and \\(\\Delta S < 0\\)",
+        "\\(\\Delta H < 0\\) and \\(\\Delta S < 0\\)"
+      ],
+      "answer": "\\(\\Delta H < 0\\) and \\(\\Delta S > 0\\)"
+    },
+    {
+      "id": "C5Q16",
+      "statement": "The enthalpy change for a reaction is independent of:",
+      "options": [
+        "Physical states of reactants and products",
+        "Final state of products",
+        "Initial state of reactants",
+        "Path of the reaction"
+      ],
+      "answer": "Path of the reaction"
+    },
+    {
+      "id": "C5Q17",
+      "statement": "In an adiabatic process:",
+      "options": [
+        "\\(\\Delta U = 0\\)",
+        "\\(W = 0\\)",
+        "\\(Q = 0\\)",
+        "\\(\\Delta H = 0\\)"
+      ],
+      "answer": "\\(Q = 0\\)"
+    },
+    {
+      "id": "C5Q18",
+      "statement": "The standard Gibbs free energy change (\\(\\Delta G^\\circ\\)) is related to equilibrium constant (K) by:",
+      "options": [
+        "\\(\\Delta G^\\circ = -RT \\ln K\\)",
+        "\\(\\Delta G^\\circ = RT / \\ln K\\)",
+        "\\(\\Delta G^\\circ = -RT / \\ln K\\)",
+        "\\(\\Delta G^\\circ = RT \\ln K\\)"
+      ],
+      "answer": "\\(\\Delta G^\\circ = -RT \\ln K\\)"
+    },
+    {
+      "id": "C5Q19",
+      "statement": "For an ideal gas, the work done in reversible isothermal expansion is:",
+      "options": [
+        "\\(-nRT (V_2 - V_1)\\)",
+        "\\(-nR(T_2 - T_1)\\)",
+        "\\(-nRT \\ln(V_2/V_1)\\)",
+        "\\(-P(V_2 - V_1)\\)"
+      ],
+      "answer": "\\(-nRT \\ln(V_2/V_1)\\)"
+    },
+    {
+      "id": "C5Q20",
+      "statement": "The heat of neutralization of strong acid and strong base is approximately:",
+      "options": [
+        "\\(-57.1\\text{ kJ/mol}\\)",
+        "\\(-27.4\\text{ kcal/mol}\\)",
+        "\\(-100\\text{ kJ/mol}\\)",
+        "\\(-13.7\\text{ kcal/mol}\\)"
+      ],
+      "answer": "\\(-57.1\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q21",
+      "statement": "Which of the following processes is always spontaneous?",
+      "options": [
+        "Exothermic with increasing entropy",
+        "Endothermic with decreasing entropy",
+        "Exothermic with decreasing entropy",
+        "Endothermic with increasing entropy"
+      ],
+      "answer": "Exothermic with increasing entropy"
+    },
+    {
+      "id": "C5Q22",
+      "statement": "The relationship between \\(\\Delta G\\), \\(\\Delta H\\), and \\(\\Delta S\\) is:",
+      "options": [
+        "\\(\\Delta G = \\Delta H + T\\Delta S\\)",
+        "\\(\\Delta G = \\Delta H / T\\Delta S\\)",
+        "\\(\\Delta G = \\Delta H - T\\Delta S\\)",
+        "\\(\\Delta G = T\\Delta S - \\Delta H\\)"
+      ],
+      "answer": "\\(\\Delta G = \\Delta H - T\\Delta S\\)"
+    },
+    {
+      "id": "C5Q23",
+      "statement": "For a reaction at equilibrium:",
+      "options": [
+        "\\(\\Delta G = 0\\)",
+        "\\(\\Delta G < 0\\)",
+        "\\(\\Delta G = \\Delta H\\)",
+        "\\(\\Delta G > 0\\)"
+      ],
+      "answer": "\\(\\Delta G = 0\\)"
+    },
+    {
+      "id": "C5Q24",
+      "statement": "The enthalpy of combustion is always:",
+      "options": [
+        "Negative",
+        "Zero",
+        "May be positive or negative",
+        "Positive"
+      ],
+      "answer": "Negative"
+    },
+    {
+      "id": "C5Q25",
+      "statement": "The efficiency of a Carnot engine depends on:",
+      "options": [
+        "Neither working substance nor temperatures",
+        "Working substance only",
+        "Temperatures of source and sink only",
+        "Both working substance and temperatures"
+      ],
+      "answer": "Temperatures of source and sink only"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C5Q26",
+      "statement": "For the reaction \\(\\ce{2H2(g) + O2(g) -> 2H2O(l)}\\), \\(\\Delta H = -572\\text{ kJ}\\). The enthalpy of formation of \\(\\ce{H2O(l)}\\) is:",
+      "options": [
+        "\\(-286\\text{ kJ/mol}\\)",
+        "\\(-572\\text{ kJ/mol}\\)",
+        "\\(+286\\text{ kJ/mol}\\)",
+        "\\(+572\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-286\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q27",
+      "statement": "The work done in the reversible isothermal expansion of an ideal gas from volume \\(V_1\\) to \\(V_2\\) is:",
+      "options": [
+        "\\(-P(V_2 - V_1)\\)",
+        "\\(-nC_v(T_2 - T_1)\\)",
+        "\\(-nRT\\ln(V_2/V_1)\\)",
+        "\\(-nR(T_2 - T_1)\\)"
+      ],
+      "answer": "\\(-nRT\\ln(V_2/V_1)\\)"
+    },
+    {
+      "id": "C5Q28",
+      "statement": "For a reaction with \\(\\Delta H = +40\\text{ kJ/mol}\\) and \\(\\Delta S = +100\\text{ J/mol·K}\\), the reaction will be spontaneous at:",
+      "options": [
+        "No temperature",
+        "Temperatures above 400 K",
+        "Temperatures below 400 K",
+        "All temperatures"
+      ],
+      "answer": "Temperatures above 400 K"
+    },
+    {
+      "id": "C5Q29",
+      "statement": "The bond energy of \\(\\ce{H-H}\\) bond is \\(436\\text{ kJ/mol}\\). The bond energy of \\(\\ce{H-Cl}\\) bond is \\(431\\text{ kJ/mol}\\). The enthalpy of formation of \\(\\ce{HCl}\\) is:",
+      "options": [
+        "\\(+184\\text{ kJ/mol}\\)",
+        "\\(+92\\text{ kJ/mol}\\)",
+        "\\(-184\\text{ kJ/mol}\\)",
+        "\\(-92\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-92\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q30",
+      "statement": "The efficiency of a Carnot engine operating between \\(400\\text{ K}\\) and \\(300\\text{ K}\\) is:",
+      "options": [
+        "100%",
+        "50%",
+        "75%",
+        "25%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "id": "C5Q31",
+      "statement": "For an ideal gas, the difference \\(C_p - C_v\\) is equal to:",
+      "options": [
+        "\\(2R\\)",
+        "\\(R/2\\)",
+        "\\(3R/2\\)",
+        "\\(R\\)"
+      ],
+      "answer": "\\(R\\)"
+    },
+    {
+      "id": "C5Q32",
+      "statement": "The enthalpy change for the reaction \\(\\ce{C(graphite) -> C(diamond)}\\) is \\(+1.9\\text{ kJ/mol}\\). This indicates that:",
+      "options": [
+        "Both are equally stable",
+        "Diamond is more stable than graphite",
+        "Graphite is more stable than diamond",
+        "Stability cannot be determined"
+      ],
+      "answer": "Graphite is more stable than diamond"
+    },
+    {
+      "id": "C5Q33",
+      "statement": "The relationship between \\(\\Delta H\\) and \\(\\Delta U\\) for the reaction \\(\\ce{2NH3(g) -> N2(g) + 3H2(g)}\\) is:",
+      "options": [
+        "\\(\\Delta H = \\Delta U\\)",
+        "\\(\\Delta H = \\Delta U + 2RT\\)",
+        "\\(\\Delta H = \\Delta U - 2RT\\)",
+        "\\(\\Delta H = \\Delta U + RT\\)"
+      ],
+      "answer": "\\(\\Delta H = \\Delta U + 2RT\\)"
+    },
+    {
+      "id": "C5Q34",
+      "statement": "The entropy change for the vaporization of water at \\(100^\\circ\\text{C}\\) is \\(109\\text{ J/mol·K}\\). The enthalpy of vaporization is:",
+      "options": [
+        "\\(44.1\\text{ kJ/mol}\\)",
+        "\\(40.7\\text{ kJ/mol}\\)",
+        "\\(60.8\\text{ kJ/mol}\\)",
+        "\\(54.5\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(40.7\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q35",
+      "statement": "For a reaction with \\(K = 1\\) at \\(298\\text{ K}\\), \\(\\Delta G^\\circ\\) is:",
+      "options": [
+        "\\(-RT\\)",
+        "\\(0\\)",
+        "\\(-2.303RT\\)",
+        "\\(+RT\\)"
+      ],
+      "answer": "\\(0\\)"
+    },
+    {
+      "id": "C5Q36",
+      "statement": "The work done in free expansion of an ideal gas is:",
+      "options": [
+        "Minimum",
+        "Maximum",
+        "Zero",
+        "Negative"
+      ],
+      "answer": "Zero"
+    },
+    {
+      "id": "C5Q37",
+      "statement": "The heat of combustion of carbon to \\(\\ce{CO2}\\) is \\(-394\\text{ kJ/mol}\\) and to \\(\\ce{CO}\\) is \\(-110\\text{ kJ/mol}\\). The heat of formation of \\(\\ce{CO}\\) is:",
+      "options": [
+        "\\(+110\\text{ kJ/mol}\\)",
+        "\\(-110\\text{ kJ/mol}\\)",
+        "\\(-504\\text{ kJ/mol}\\)",
+        "\\(-284\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-110\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q38",
+      "statement": "For a cyclic process, which of the following is always true?",
+      "options": [
+        "\\(\\Delta U = 0\\)",
+        "\\(\\Delta U > 0\\)",
+        "\\(\\Delta U < 0\\)",
+        "\\(Q = W = 0\\)"
+      ],
+      "answer": "\\(\\Delta U = 0\\)"
+    },
+    {
+      "id": "C5Q39",
+      "statement": "The enthalpy of neutralization of weak acid and strong base is:",
+      "options": [
+        "Zero",
+        "More than strong acid-strong base",
+        "Less than strong acid-strong base",
+        "Same as strong acid-strong base"
+      ],
+      "answer": "Less than strong acid-strong base"
+    },
+    {
+      "id": "C5Q40",
+      "statement": "The standard enthalpy of formation of \\(\\ce{CO(g)}\\) is \\(-110\\text{ kJ/mol}\\) and of \\(\\ce{CO2(g)}\\) is \\(-394\\text{ kJ/mol}\\). The enthalpy of combustion of \\(\\ce{CO(g)}\\) is:",
+      "options": [
+        "\\(-110\\text{ kJ/mol}\\)",
+        "\\(-284\\text{ kJ/mol}\\)",
+        "\\(+284\\text{ kJ/mol}\\)",
+        "\\(-504\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-284\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q41",
+      "statement": "For an adiabatic expansion of an ideal gas:",
+      "options": [
+        "Temperature decreases",
+        "Temperature remains constant",
+        "Pressure remains constant",
+        "Temperature increases"
+      ],
+      "answer": "Temperature decreases"
+    },
+    {
+      "id": "C5Q42",
+      "statement": "The entropy change for the reaction \\(\\ce{N2(g) + 3H2(g) -> 2NH3(g)}\\) is:",
+      "options": [
+        "Cannot be predicted",
+        "Zero",
+        "Negative",
+        "Positive"
+      ],
+      "answer": "Negative"
+    },
+    {
+      "id": "C5Q43",
+      "statement": "The work done in isochoric process is:",
+      "options": [
+        "Negative",
+        "Maximum",
+        "Minimum",
+        "Zero"
+      ],
+      "answer": "Zero"
+    },
+    {
+      "id": "C5Q44",
+      "statement": "For a reaction with \\(\\Delta H = -50\\text{ kJ}\\) and \\(\\Delta S = -100\\text{ J/K}\\), the reaction will be spontaneous at:",
+      "options": [
+        "Temperatures above 500 K",
+        "All temperatures",
+        "Temperatures below 500 K",
+        "No temperature"
+      ],
+      "answer": "Temperatures below 500 K"
+    },
+    {
+      "id": "C5Q45",
+      "statement": "The relationship between Gibbs free energy and equilibrium constant is:",
+      "options": [
+        "\\(\\Delta G = \\Delta G^\\circ + RT \\ln Q\\)",
+        "\\(\\Delta G = \\Delta G^\\circ - RT \\ln Q\\)",
+        "\\(\\Delta G = -RT \\ln K + RT \\ln Q\\)",
+        "\\(\\Delta G = RT \\ln K - RT \\ln Q\\)"
+      ],
+      "answer": "\\(\\Delta G = \\Delta G^\\circ + RT \\ln Q\\)"
+    },
+    {
+      "id": "C5Q46",
+      "statement": "The enthalpy of fusion of ice is \\(6.0\\text{ kJ/mol}\\). The entropy change for melting of ice at \\(0^\\circ\\text{C}\\) is:",
+      "options": [
+        "\\(16.4\\text{ J/mol·K}\\)",
+        "\\(44.0\\text{ J/mol·K}\\)",
+        "\\(109.0\\text{ J/mol·K}\\)",
+        "\\(22.0\\text{ J/mol·K}\\)"
+      ],
+      "answer": "\\(22.0\\text{ J/mol·K}\\)"
+    },
+    {
+      "id": "C5Q47",
+      "statement": "For an ideal gas undergoing adiabatic expansion, the relationship between P and V is:",
+      "options": [
+        "\\(PV^{\\gamma} = \\text{constant}\\)",
+        "\\(P^{1-\\gamma}T^{\\gamma} = \\text{constant}\\)",
+        "\\(PV = \\text{constant}\\)",
+        "\\(TV^{\\gamma-1} = \\text{constant}\\)"
+      ],
+      "answer": "\\(PV^{\\gamma} = \\text{constant}\\)"
+    },
+    {
+      "id": "C5Q48",
+      "statement": "The heat capacity ratio (\\(\\gamma = C_p/C_v\\)) for monoatomic ideal gas is:",
+      "options": [
+        "\\(5/3\\)",
+        "\\(3/2\\)",
+        "\\(4/3\\)",
+        "\\(7/5\\)"
+      ],
+      "answer": "\\(5/3\\)"
+    },
+    {
+      "id": "C5Q49",
+      "statement": "The work done in isobaric process is given by:",
+      "options": [
+        "\\(-nC_v\\Delta T\\)",
+        "\\(-P\\Delta V\\)",
+        "\\(-nR\\Delta T\\)",
+        "\\(-nRT\\ln(V_2/V_1)\\)"
+      ],
+      "answer": "\\(-P\\Delta V\\)"
+    },
+    {
+      "id": "C5Q50",
+      "statement": "For a reaction with \\(K = 10^3\\) at \\(298\\text{ K}\\), \\(\\Delta G^\\circ\\) is approximately:",
+      "options": [
+        "\\(-17.1\\text{ kJ/mol}\\)",
+        "\\(-5.7\\text{ kJ/mol}\\)",
+        "\\(+17.1\\text{ kJ/mol}\\)",
+        "\\(-34.2\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-17.1\\text{ kJ/mol}\\)"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C5Q51",
+      "statement": "The enthalpy of formation of \\(\\ce{CH4(g)}\\), \\(\\ce{CO2(g)}\\), and \\(\\ce{H2O(l)}\\) are \\(-74.8\\), \\(-393.5\\), and \\(-285.8\\text{ kJ/mol}\\) respectively. The enthalpy of combustion of \\(\\ce{CH4}\\) is:",
+      "options": [
+        "\\(-890.3\\text{ kJ/mol}\\)",
+        "\\(-74.8\\text{ kJ/mol}\\)",
+        "\\(-802.3\\text{ kJ/mol}\\)",
+        "\\(+890.3\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-890.3\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q52",
+      "statement": "For a reaction with \\(\\Delta H = +100\\text{ kJ}\\) and \\(\\Delta S = +200\\text{ J/K}\\), the temperature at which \\(\\Delta G = 0\\) is:",
+      "options": [
+        "\\(200\\text{ K}\\)",
+        "\\(2000\\text{ K}\\)",
+        "\\(1000\\text{ K}\\)",
+        "\\(500\\text{ K}\\)"
+      ],
+      "answer": "\\(500\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q53",
+      "statement": "The work done in the reversible adiabatic expansion of an ideal gas from \\(T_1\\) to \\(T_2\\) is:",
+      "options": [
+        "\\(-nC_p(T_2 - T_1)\\)",
+        "\\(-P(V_2 - V_1)\\)",
+        "\\(-nC_v(T_2 - T_1)\\)",
+        "\\(-nRT\\ln(V_2/V_1)\\)"
+      ],
+      "answer": "\\(-nC_v(T_2 - T_1)\\)"
+    },
+    {
+      "id": "C5Q54",
+      "statement": "The bond energies of \\(\\ce{H-H}\\), \\(\\ce{Cl-Cl}\\), and \\(\\ce{H-Cl}\\) are \\(436\\), \\(244\\), and \\(431\\text{ kJ/mol}\\) respectively. The enthalpy of formation of \\(\\ce{HCl}\\) is:",
+      "options": [
+        "\\(-249\\text{ kJ/mol}\\)",
+        "\\(-92\\text{ kJ/mol}\\)",
+        "\\(-184\\text{ kJ/mol}\\)",
+        "\\(+92\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-92\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q55",
+      "statement": "The efficiency of a Carnot engine is 40%. If the temperature of the sink is \\(300\\text{ K}\\), the temperature of the source is:",
+      "options": [
+        "\\(500\\text{ K}\\)",
+        "\\(1000\\text{ K}\\)",
+        "\\(750\\text{ K}\\)",
+        "\\(420\\text{ K}\\)"
+      ],
+      "answer": "\\(500\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q56",
+      "statement": "For an ideal gas, the slope of adiabatic curve compared to isothermal curve in P-V diagram is:",
+      "options": [
+        "Cannot be compared",
+        "Less steep",
+        "Same",
+        "More steep"
+      ],
+      "answer": "More steep"
+    },
+    {
+      "id": "C5Q57",
+      "statement": "The entropy change when 1 mole of water at \\(100^\\circ\\text{C}\\) and 1 atm pressure is converted into steam at same temperature and pressure is: (Given: \\(\\Delta H_{vap} = 40.7\\text{ kJ/mol}\\))",
+      "options": [
+        "\\(109\\text{ J/K}\\)",
+        "\\(373\\text{ J/K}\\)",
+        "\\(136\\text{ J/K}\\)",
+        "\\(407\\text{ J/K}\\)"
+      ],
+      "answer": "\\(109\\text{ J/K}\\)"
+    },
+    {
+      "id": "C5Q58",
+      "statement": "For the reaction \\(\\ce{N2O4(g) -> 2NO2(g)}\\), \\(\\Delta H = +58\\text{ kJ}\\). The reaction is spontaneous at:",
+      "options": [
+        "Low temperatures",
+        "No temperature",
+        "High temperatures",
+        "All temperatures"
+      ],
+      "answer": "High temperatures"
+    },
+    {
+      "id": "C5Q59",
+      "statement": "The work done in the cyclic process shown in P-V diagram (rectangle) is:",
+      "options": [
+        "Zero",
+        "Cannot be determined",
+        "Area enclosed",
+        "Perimeter"
+      ],
+      "answer": "Area enclosed"
+    },
+    {
+      "id": "C5Q60",
+      "statement": "For a reaction with \\(\\Delta G^\\circ = -10\\text{ kJ/mol}\\) at \\(298\\text{ K}\\), the equilibrium constant is approximately:",
+      "options": [
+        "\\(10^4\\)",
+        "\\(10^{-2}\\)",
+        "\\(10^2\\)",
+        "\\(10^0\\)"
+      ],
+      "answer": "\\(10^2\\)"
+    },
+    {
+      "id": "C5Q61",
+      "statement": "The enthalpy of combustion of glucose (\\(\\ce{C6H12O6}\\)) is \\(-2800\\text{ kJ/mol}\\). The energy available from 180 g of glucose is:",
+      "options": [
+        "\\(8400\\text{ kJ}\\)",
+        "\\(5600\\text{ kJ}\\)",
+        "\\(2800\\text{ kJ}\\)",
+        "\\(11200\\text{ kJ}\\)"
+      ],
+      "answer": "\\(2800\\text{ kJ}\\)"
+    },
+    {
+      "id": "C5Q62",
+      "statement": "For an ideal gas, in adiabatic reversible expansion, the relationship between T and V is:",
+      "options": [
+        "\\(T^{\\gamma}V = \\text{constant}\\)",
+        "\\(TV^{\\gamma} = \\text{constant}\\)",
+        "\\(TV^{\\gamma-1} = \\text{constant}\\)",
+        "\\(TV = \\text{constant}\\)"
+      ],
+      "answer": "\\(TV^{\\gamma-1} = \\text{constant}\\)"
+    },
+    {
+      "id": "C5Q63",
+      "statement": "The maximum work that can be obtained from a system at constant temperature is equal to:",
+      "options": [
+        "Internal energy change",
+        "Enthalpy change",
+        "Decrease in Gibbs free energy",
+        "Heat absorbed"
+      ],
+      "answer": "Decrease in Gibbs free energy"
+    },
+    {
+      "id": "C5Q64",
+      "statement": "For a reaction with \\(K = 1\\) at \\(298\\text{ K}\\) and \\(K = 10\\) at \\(350\\text{ K}\\), the reaction is:",
+      "options": [
+        "Endothermic",
+        "Cannot be determined",
+        "Neither exothermic nor endothermic",
+        "Exothermic"
+      ],
+      "answer": "Endothermic"
+    },
+    {
+      "id": "C5Q65",
+      "statement": "The entropy change for the isothermal mixing of 1 mole of \\(\\ce{N2}\\) and 1 mole of \\(\\ce{O2}\\) is:",
+      "options": [
+        "\\(+R\\ln2\\)",
+        "\\(+2R\\ln2\\)",
+        "\\(-2R\\ln2\\)",
+        "\\(-R\\ln2\\)"
+      ],
+      "answer": "\\(+2R\\ln2\\)"
+    },
+    {
+      "id": "C5Q66",
+      "statement": "The work done in the irreversible isothermal expansion of an ideal gas against constant external pressure is:",
+      "options": [
+        "\\(-nC_v(T_2 - T_1)\\)",
+        "\\(-nR(T_2 - T_1)\\)",
+        "\\(-nRT\\ln(V_2/V_1)\\)",
+        "\\(-P_{ext}(V_2 - V_1)\\)"
+      ],
+      "answer": "\\(-P_{ext}(V_2 - V_1)\\)"
+    },
+    {
+      "id": "C5Q67",
+      "statement": "For a reaction with \\(\\Delta H = -50\\text{ kJ}\\) and \\(\\Delta S = -150\\text{ J/K}\\), the temperature above which the reaction becomes non-spontaneous is:",
+      "options": [
+        "\\(333\\text{ K}\\)",
+        "\\(750\\text{ K}\\)",
+        "Never non-spontaneous",
+        "\\(500\\text{ K}\\)"
+      ],
+      "answer": "\\(333\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q68",
+      "statement": "The enthalpy of vaporization of water at \\(100^\\circ\\text{C}\\) is \\(40.7\\text{ kJ/mol}\\). The internal energy change for vaporization of 1 mole of water at \\(100^\\circ\\text{C}\\) is:",
+      "options": [
+        "\\(45.9\\text{ kJ}\\)",
+        "\\(40.7\\text{ kJ}\\)",
+        "\\(37.6\\text{ kJ}\\)",
+        "\\(43.8\\text{ kJ}\\)"
+      ],
+      "answer": "\\(37.6\\text{ kJ}\\)"
+    },
+    {
+      "id": "C5Q69",
+      "statement": "For a reaction with \\(\\Delta G^\\circ = +10\\text{ kJ/mol}\\) at \\(298\\text{ K}\\), the equilibrium constant is approximately:",
+      "options": [
+        "\\(10^2\\)",
+        "\\(10^4\\)",
+        "\\(10^0\\)",
+        "\\(10^{-2}\\)"
+      ],
+      "answer": "\\(10^{-2}\\)"
+    },
+    {
+      "id": "C5Q70",
+      "statement": "The work done in the isothermal reversible expansion of van der Waals gas is:",
+      "options": [
+        "More than ideal gas case",
+        "\\(-P(V_2 - V_1)\\)",
+        "\\(-nRT\\ln(V_2/V_1)\\)",
+        "\\(-nRT\\ln[(V_2-nb)/(V_1-nb)]\\)"
+      ],
+      "answer": "\\(-nRT\\ln[(V_2-nb)/(V_1-nb)]\\)"
+    },
+    {
+      "id": "C5Q71",
+      "statement": "The enthalpy of formation of \\(\\ce{CO(g)}\\) from the reaction \\(\\ce{C(s) + 1/2O2(g) -> CO(g)}\\) cannot be determined directly because:",
+      "options": [
+        "The reaction is too slow",
+        "CO is further oxidized to CO2",
+        "Carbon does not react with oxygen",
+        "The reaction does not go to completion"
+      ],
+      "answer": "CO is further oxidized to CO2"
+    },
+    {
+      "id": "C5Q72",
+      "statement": "For a reaction with \\(K_p = K_c\\), the relationship is:",
+      "options": [
+        "\\(\\Delta n = 2\\)",
+        "\\(\\Delta n = -1\\)",
+        "\\(\\Delta n = 1\\)",
+        "\\(\\Delta n = 0\\)"
+      ],
+      "answer": "\\(\\Delta n = 0\\)"
+    },
+    {
+      "id": "C5Q73",
+      "statement": "The entropy change for the reaction \\(\\ce{CaCO3(s) -> CaO(s) + CO2(g)}\\) is:",
+      "options": [
+        "Positive",
+        "Cannot be predicted",
+        "Zero",
+        "Negative"
+      ],
+      "answer": "Positive"
+    },
+    {
+      "id": "C5Q74",
+      "statement": "The work done in the free expansion of an ideal gas is zero because:",
+      "options": [
+        "\\(\\Delta V = 0\\)",
+        "\\(Q = 0\\)",
+        "\\(\\Delta T = 0\\)",
+        "\\(P_{ext} = 0\\)"
+      ],
+      "answer": "\\(P_{ext} = 0\\)"
+    },
+    {
+      "id": "C5Q75",
+      "statement": "For a reaction with \\(\\Delta H = +100\\text{ kJ}\\) and \\(\\Delta S = +50\\text{ J/K}\\), the minimum temperature for spontaneity is:",
+      "options": [
+        "\\(200\\text{ K}\\)",
+        "\\(5000\\text{ K}\\)",
+        "\\(500\\text{ K}\\)",
+        "\\(2000\\text{ K}\\)"
+      ],
+      "answer": "\\(2000\\text{ K}\\)"
+    }
+  ],
+  "jee": [
+    {
+      "id": "C5Q76",
+      "statement": "The enthalpy of combustion of \\(\\ce{C2H4(g)}\\), \\(\\ce{C2H6(g)}\\), and \\(\\ce{H2(g)}\\) are \\(-1411\\), \\(-1560\\), and \\(-286\\text{ kJ/mol}\\) respectively. The enthalpy of hydrogenation of \\(\\ce{C2H4}\\) is:",
+      "options": [
+        "\\(-137\\text{ kJ/mol}\\)",
+        "\\(+137\\text{ kJ/mol}\\)",
+        "\\(-1411\\text{ kJ/mol}\\)",
+        "\\(-1560\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-137\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q77",
+      "statement": "For a reaction with \\(\\Delta H = +50\\text{ kJ}\\) and \\(\\Delta S = +100\\text{ J/K}\\), the temperature at which the reaction becomes spontaneous is:",
+      "options": [
+        "Never spontaneous",
+        "\\(1000\\text{ K}\\)",
+        "\\(200\\text{ K}\\)",
+        "\\(500\\text{ K}\\)"
+      ],
+      "answer": "\\(500\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q78",
+      "statement": "The work done in the reversible adiabatic expansion of an ideal gas from \\(P_1\\) to \\(P_2\\) is:",
+      "options": [
+        "\\(\\frac{nR}{\\gamma-1}(T_1 - T_2)\\)",
+        "\\(nC_p(T_2 - T_1)\\)",
+        "\\(\\frac{nR}{\\gamma-1}(T_2 - T_1)\\)",
+        "\\(nRT\\ln(P_1/P_2)\\)"
+      ],
+      "answer": "\\(\\frac{nR}{\\gamma-1}(T_1 - T_2)\\)"
+    },
+    {
+      "id": "C5Q79",
+      "statement": "The bond energies of \\(\\ce{C-H}\\), \\(\\ce{C-C}\\), \\(\\ce{C=C}\\), and \\(\\ce{H-H}\\) are \\(414\\), \\(347\\), \\(615\\), and \\(435\\text{ kJ/mol}\\) respectively. The enthalpy of hydrogenation of ethene is:",
+      "options": [
+        "\\(-125\\text{ kJ/mol}\\)",
+        "\\(-500\\text{ kJ/mol}\\)",
+        "\\(-375\\text{ kJ/mol}\\)",
+        "\\(-250\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-125\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q80",
+      "statement": "The efficiency of a Carnot engine is 25%. If the temperature of the source is increased by 100 K, the efficiency becomes 30%. The initial temperature of the source is:",
+      "options": [
+        "\\(500\\text{ K}\\)",
+        "\\(400\\text{ K}\\)",
+        "\\(800\\text{ K}\\)",
+        "\\(600\\text{ K}\\)"
+      ],
+      "answer": "\\(500\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q81",
+      "statement": "For an ideal gas, the ratio of work done in adiabatic process to isothermal process between same initial and final volumes is:",
+      "options": [
+        "\\(1/\\gamma\\)",
+        "1",
+        "\\(\\gamma\\)",
+        "\\(\\gamma/(\\gamma-1)\\)"
+      ],
+      "answer": "\\(\\gamma/(\\gamma-1)\\)"
+    },
+    {
+      "id": "C5Q82",
+      "statement": "The entropy change for the isothermal expansion of ideal gas from \\(V_1\\) to \\(V_2\\) is:",
+      "options": [
+        "\\(nR\\ln(P_1/P_2)\\)",
+        "\\(nC_p\\ln(V_2/V_1)\\)",
+        "\\(nC_v\\ln(V_2/V_1)\\)",
+        "\\(nR\\ln(V_2/V_1)\\)"
+      ],
+      "answer": "\\(nR\\ln(V_2/V_1)\\)"
+    },
+    {
+      "id": "C5Q83",
+      "statement": "For a reaction with \\(\\Delta G^\\circ = -5.7\\text{ kJ/mol}\\) at \\(298\\text{ K}\\), the equilibrium constant is:",
+      "options": [
+        "\\(0.1\\)",
+        "\\(100\\)",
+        "\\(0.01\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(10\\)"
+    },
+    {
+      "id": "C5Q84",
+      "statement": "The work done in the cyclic process represented by a triangle in P-V diagram is:",
+      "options": [
+        "Area of triangle",
+        "Zero",
+        "Perimeter of triangle",
+        "Cannot be determined"
+      ],
+      "answer": "Area of triangle"
+    },
+    {
+      "id": "C5Q85",
+      "statement": "For a reaction with \\(K_p = 4\\times10^{-3}\\) at \\(298\\text{ K}\\), \\(\\Delta G^\\circ\\) is approximately:",
+      "options": [
+        "\\(-5.7\\text{ kJ/mol}\\)",
+        "\\(+5.7\\text{ kJ/mol}\\)",
+        "\\(-13.8\\text{ kJ/mol}\\)",
+        "\\(+13.8\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(+13.8\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q86",
+      "statement": "The enthalpy of formation of \\(\\ce{CO(g)}\\) and \\(\\ce{CO2(g)}\\) are \\(-110\\) and \\(-393\\text{ kJ/mol}\\) respectively. The enthalpy of reaction \\(\\ce{CO(g) + 1/2O2(g) -> CO2(g)}\\) is:",
+      "options": [
+        "\\(-283\\text{ kJ/mol}\\)",
+        "\\(-110\\text{ kJ/mol}\\)",
+        "\\(-503\\text{ kJ/mol}\\)",
+        "\\(+283\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(-283\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q87",
+      "statement": "For an ideal gas, in adiabatic reversible compression:",
+      "options": [
+        "Temperature increases",
+        "Temperature decreases",
+        "Pressure decreases",
+        "Temperature remains constant"
+      ],
+      "answer": "Temperature increases"
+    },
+    {
+      "id": "C5Q88",
+      "statement": "The entropy change for the reaction \\(\\ce{2SO2(g) + O2(g) -> 2SO3(g)}\\) is:",
+      "options": [
+        "Cannot be predicted",
+        "Positive",
+        "Zero",
+        "Negative"
+      ],
+      "answer": "Negative"
+    },
+    {
+      "id": "C5Q89",
+      "statement": "The work done in the isobaric process of an ideal gas from \\(T_1\\) to \\(T_2\\) is:",
+      "options": [
+        "\\(-nC_p(T_2 - T_1)\\)",
+        "\\(-nC_v(T_2 - T_1)\\)",
+        "\\(-P(V_2 - V_1)\\)",
+        "\\(-nR(T_2 - T_1)\\)"
+      ],
+      "answer": "\\(-nR(T_2 - T_1)\\)"
+    },
+    {
+      "id": "C5Q90",
+      "statement": "For a reaction with \\(\\Delta H = -40\\text{ kJ}\\) and \\(\\Delta S = -100\\text{ J/K}\\), the temperature below which the reaction is spontaneous is:",
+      "options": [
+        "Never spontaneous",
+        "\\(400\\text{ K}\\)",
+        "\\(600\\text{ K}\\)",
+        "\\(500\\text{ K}\\)"
+      ],
+      "answer": "\\(400\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q91",
+      "statement": "The enthalpy of neutralization of \\(\\ce{HCN}\\) (weak acid) with \\(\\ce{NaOH}\\) is \\(-52\\text{ kJ/mol}\\). The enthalpy of ionization of \\(\\ce{HCN}\\) is:",
+      "options": [
+        "\\(+5.1\\text{ kJ/mol}\\)",
+        "\\(+57.1\\text{ kJ/mol}\\)",
+        "\\(-57.1\\text{ kJ/mol}\\)",
+        "\\(-5.1\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(+5.1\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q92",
+      "statement": "For a reaction with \\(K = 10^{-5}\\) at \\(298\\text{ K}\\), \\(\\Delta G^\\circ\\) is approximately:",
+      "options": [
+        "\\(+5.7\\text{ kJ/mol}\\)",
+        "\\(+28.5\\text{ kJ/mol}\\)",
+        "\\(-28.5\\text{ kJ/mol}\\)",
+        "\\(-5.7\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(+28.5\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q93",
+      "statement": "The work done in the reversible isothermal expansion of real gas is given by:",
+      "options": [
+        "\\(-\\int P_{ext} dV\\)",
+        "\\(-nR\\Delta T\\)",
+        "\\(-\\int P_{gas} dV\\)",
+        "\\(-P\\Delta V\\)"
+      ],
+      "answer": "\\(-\\int P_{gas} dV\\)"
+    },
+    {
+      "id": "C5Q94",
+      "statement": "For a reaction with \\(\\Delta H = +80\\text{ kJ}\\) and \\(\\Delta S = +200\\text{ J/K}\\), the temperature at which \\(K = 1\\) is:",
+      "options": [
+        "\\(800\\text{ K}\\)",
+        "\\(200\\text{ K}\\)",
+        "\\(600\\text{ K}\\)",
+        "\\(400\\text{ K}\\)"
+      ],
+      "answer": "\\(400\\text{ K}\\)"
+    },
+    {
+      "id": "C5Q95",
+      "statement": "The entropy change for the reaction \\(\\ce{H2(g) + Cl2(g) -> 2HCl(g)}\\) is:",
+      "options": [
+        "Negative",
+        "Zero",
+        "Positive",
+        "Cannot be predicted"
+      ],
+      "answer": "Positive"
+    },
+    {
+      "id": "C5Q96",
+      "statement": "The work done in the free expansion of real gas is:",
+      "options": [
+        "Zero",
+        "May be positive or negative",
+        "Negative",
+        "Positive"
+      ],
+      "answer": "Zero"
+    },
+    {
+      "id": "C5Q97",
+      "statement": "For a reaction with \\(\\Delta G^\\circ = 0\\) at \\(298\\text{ K}\\), the equilibrium constant is:",
+      "options": [
+        "100",
+        "10",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C5Q98",
+      "statement": "The enthalpy of combustion of \\(\\ce{C2H2(g)}\\) is \\(-1300\\text{ kJ/mol}\\). The enthalpy of formation of \\(\\ce{C2H2(g)}\\) is: (Given: \\(\\Delta H_f^\\circ(\\ce{CO2}) = -394\\text{ kJ/mol}\\), \\(\\Delta H_f^\\circ(\\ce{H2O}) = -286\\text{ kJ/mol}\\))",
+      "options": [
+        "\\(-1300\\text{ kJ/mol}\\)",
+        "\\(+226\\text{ kJ/mol}\\)",
+        "\\(+1300\\text{ kJ/mol}\\)",
+        "\\(-226\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(+226\\text{ kJ/mol}\\)"
+    },
+    {
+      "id": "C5Q99",
+      "statement": "For an ideal gas, the work done in isochoric process is zero because:",
+      "options": [
+        "\\(\\Delta T = 0\\)",
+        "\\(\\Delta V = 0\\)",
+        "\\(Q = 0\\)",
+        "\\(P_{ext} = 0\\)"
+      ],
+      "answer": "\\(\\Delta V = 0\\)"
+    },
+    {
+      "id": "C5Q100",
+      "statement": "The maximum work that can be obtained from a fuel cell operating at 298 K with \\(\\Delta G^\\circ = -237\\text{ kJ/mol}\\) for \\(\\ce{H2 + 1/2O2 -> H2O}\\) is:",
+      "options": [
+        "\\(286\\text{ kJ/mol}\\)",
+        "\\(237\\text{ kJ/mol}\\)",
+        "\\(48.6\\text{ kJ/mol}\\)",
+        "\\(0\\text{ kJ/mol}\\)"
+      ],
+      "answer": "\\(237\\text{ kJ/mol}\\)"
+    }
+  ]
+}

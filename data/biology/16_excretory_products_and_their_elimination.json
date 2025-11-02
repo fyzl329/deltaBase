@@ -1,0 +1,1161 @@
+{
+  "metadata": {
+    "chapter": "excretory_products_and_their_elimination",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 16,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C16Q1",
+      "statement": "Which of the following is the primary excretory organ in humans?",
+      "options": [
+        "Lungs",
+        "Kidneys",
+        "Skin",
+        "Liver"
+      ],
+      "answer": "Kidneys"
+    },
+    {
+      "id": "C16Q2",
+      "statement": "What is the structural and functional unit of the kidney?",
+      "options": [
+        "Alveoli",
+        "Neuron",
+        "Hepatocyte",
+        "Nephron"
+      ],
+      "answer": "Nephron"
+    },
+    {
+      "id": "C16Q3",
+      "statement": "Which part of the nephron is primarily responsible for filtration of blood?",
+      "options": [
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Glomerulus"
+      ],
+      "answer": "Glomerulus"
+    },
+    {
+      "id": "C16Q4",
+      "statement": "The process by which kidneys maintain the constant internal environment is called:",
+      "options": [
+        "Osmoregulation",
+        "Hemostasis",
+        "Glycolysis",
+        "Thermoregulation"
+      ],
+      "answer": "Osmoregulation"
+    },
+    {
+      "id": "C16Q5",
+      "statement": "Which of the following is NOT a major nitrogenous waste product in animals?",
+      "options": [
+        "Uric acid",
+        "Creatinine",
+        "Ammonia",
+        "Urea"
+      ],
+      "answer": "Creatinine"
+    },
+    {
+      "id": "C16Q6",
+      "statement": "In which animals is ammonia the main nitrogenous waste?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Reptiles",
+        "Aquatic animals"
+      ],
+      "answer": "Aquatic animals"
+    },
+    {
+      "id": "C16Q7",
+      "statement": "The cup-shaped structure that surrounds the glomerulus is called:",
+      "options": [
+        "Urinary bladder",
+        "Collecting duct",
+        "Renal pelvis",
+        "Bowman's capsule"
+      ],
+      "answer": "Bowman's capsule"
+    },
+    {
+      "id": "C16Q8",
+      "statement": "Which blood vessel brings blood to the glomerulus for filtration?",
+      "options": [
+        "Vasa recta",
+        "Afferent arteriole",
+        "Renal vein",
+        "Efferent arteriole"
+      ],
+      "answer": "Afferent arteriole"
+    },
+    {
+      "id": "C16Q9",
+      "statement": "The process of reabsorption in the nephron primarily occurs in:",
+      "options": [
+        "Bowman's capsule",
+        "Collecting duct",
+        "Glomerulus",
+        "Renal tubule"
+      ],
+      "answer": "Renal tubule"
+    },
+    {
+      "id": "C16Q10",
+      "statement": "Which hormone regulates water reabsorption in the kidneys?",
+      "options": [
+        "Insulin",
+        "ADH",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "answer": "ADH"
+    },
+    {
+      "id": "C16Q11",
+      "statement": "The normal pH range of human urine is:",
+      "options": [
+        "9.0-10.0",
+        "4.5-8.0",
+        "2.0-3.0",
+        "7.35-7.45"
+      ],
+      "answer": "4.5-8.0"
+    },
+    {
+      "id": "C16Q11",
+      "statement": "Which part of the nephron creates a concentration gradient in the medulla?",
+      "options": [
+        "Glomerulus",
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule"
+      ],
+      "answer": "Loop of Henle"
+    },
+    {
+      "id": "C16Q12",
+      "statement": "The process of urine formation does NOT include:",
+      "options": [
+        "Secretion",
+        "Reabsorption",
+        "Digestion",
+        "Filtration"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "id": "C16Q13",
+      "statement": "Which of the following is completely reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "Creatinine",
+        "Uric acid",
+        "Glucose",
+        "Urea"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "id": "C16Q14",
+      "statement": "The muscular tube that carries urine from kidney to bladder is:",
+      "options": [
+        "Ureter",
+        "Vas deferens",
+        "Fallopian tube",
+        "Urethra"
+      ],
+      "answer": "Ureter"
+    },
+    {
+      "id": "C16Q15",
+      "statement": "Which animals excrete uric acid as their main nitrogenous waste?",
+      "options": [
+        "Fish",
+        "Amphibians",
+        "Birds and reptiles",
+        "Mammals"
+      ],
+      "answer": "Birds and reptiles"
+    },
+    {
+      "id": "C16Q16",
+      "statement": "The process of selective transfer of materials from blood into DCT is called:",
+      "options": [
+        "Excretion",
+        "Filtration",
+        "Secretion",
+        "Reabsorption"
+      ],
+      "answer": "Secretion"
+    },
+    {
+      "id": "C16Q17",
+      "statement": "Which part of the kidney contains the glomeruli?",
+      "options": [
+        "Calyx",
+        "Medulla",
+        "Cortex",
+        "Pelvis"
+      ],
+      "answer": "Cortex"
+    },
+    {
+      "id": "C16Q18",
+      "statement": "The maximum amount of water is reabsorbed in which part of nephron?",
+      "options": [
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct",
+        "Proximal convoluted tubule"
+      ],
+      "answer": "Proximal convoluted tubule"
+    },
+    {
+      "id": "C16Q19",
+      "statement": "Which of the following is NOT a function of kidneys?",
+      "options": [
+        "Maintenance of electrolyte balance",
+        "Excretion of wastes",
+        "Production of bile",
+        "Regulation of blood pressure"
+      ],
+      "answer": "Production of bile"
+    },
+    {
+      "id": "C16Q20",
+      "statement": "The presence of glucose in urine is called:",
+      "options": [
+        "Hematuria",
+        "Glycosuria",
+        "Ketonuria",
+        "Proteinuria"
+      ],
+      "answer": "Glycosuria"
+    },
+    {
+      "id": "C16Q21",
+      "statement": "Which hormone stimulates sodium reabsorption in kidneys?",
+      "options": [
+        "ADH",
+        "Insulin",
+        "Glucagon",
+        "Aldosterone"
+      ],
+      "answer": "Aldosterone"
+    },
+    {
+      "id": "C16Q22",
+      "statement": "The network of capillaries surrounding the renal tubule is called:",
+      "options": [
+        "Glomerulus",
+        "Vasa recta",
+        "Coronary system",
+        "Hepatic portal system"
+      ],
+      "answer": "Vasa recta"
+    },
+    {
+      "id": "C16Q23",
+      "statement": "Which of the following is the most toxic nitrogenous waste?",
+      "options": [
+        "Uric acid",
+        "Urea",
+        "Ammonia",
+        "Creatinine"
+      ],
+      "answer": "Ammonia"
+    },
+    {
+      "id": "C16Q24",
+      "statement": "The process of artificial filtering of blood is called:",
+      "options": [
+        "Plasmapheresis",
+        "Peritoneal dialysis",
+        "Hemodialysis",
+        "Blood transfusion"
+      ],
+      "answer": "Hemodialysis"
+    },
+    {
+      "id": "C16Q25",
+      "statement": "Which part of the urinary system stores urine?",
+      "options": [
+        "Kidney",
+        "Ureter",
+        "Urinary bladder",
+        "Urethra"
+      ],
+      "answer": "Urinary bladder"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C16Q26",
+      "statement": "In the counter-current mechanism, which structure is primarily responsible for creating the osmotic gradient?",
+      "options": [
+        "Descending limb of Loop of Henle",
+        "Ascending limb of Loop of Henle",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule"
+      ],
+      "answer": "Ascending limb of Loop of Henle"
+    },
+    {
+      "id": "C16Q27",
+      "statement": "Which of the following substances is NOT found in the glomerular filtrate under normal conditions?",
+      "options": [
+        "Glucose",
+        "Blood cells",
+        "Amino acids",
+        "Sodium ions"
+      ],
+      "answer": "Blood cells"
+    },
+    {
+      "id": "C16Q28",
+      "statement": "The Juxtaglomerular Apparatus (JGA) is formed by the modifications of:",
+      "options": [
+        "Afferent arteriole and proximal convoluted tubule",
+        "Efferent arteriole and proximal convoluted tubule",
+        "Afferent arteriole and distal convoluted tubule",
+        "Efferent arteriole and distal convoluted tubule"
+      ],
+      "answer": "Afferent arteriole and distal convoluted tubule"
+    },
+    {
+      "id": "C16Q29",
+      "statement": "Which of the following conditions would stimulate the release of renin from JGA?",
+      "options": [
+        "High blood pressure",
+        "Low blood pressure",
+        "High sodium concentration",
+        "Low potassium concentration"
+      ],
+      "answer": "Low blood pressure"
+    },
+    {
+      "id": "C16Q30",
+      "statement": "The transport maximum refers to:",
+      "options": [
+        "Maximum blood flow through kidneys",
+        "Maximum rate of filtration in glomerulus",
+        "Maximum rate of reabsorption for a substance",
+        "Maximum urine output per day"
+      ],
+      "answer": "Maximum rate of reabsorption for a substance"
+    },
+    {
+      "id": "C16Q31",
+      "statement": "Which part of the nephron is impermeable to water but actively transports ions?",
+      "options": [
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Descending limb of Loop of Henle",
+        "Ascending limb of Loop of Henle"
+      ],
+      "answer": "Ascending limb of Loop of Henle"
+    },
+    {
+      "id": "C16Q32",
+      "statement": "Atrial Natriuretic Factor (ANF) causes:",
+      "options": [
+        "Vasodilation and decreased blood pressure",
+        "Decreased urine output",
+        "Increased sodium reabsorption",
+        "Vasoconstriction and increased blood pressure"
+      ],
+      "answer": "Vasodilation and decreased blood pressure"
+    },
+    {
+      "id": "C16Q33",
+      "statement": "In which part of the nephron does aldosterone primarily act?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Descending limb of Loop of Henle",
+        "Ascending limb of Loop of Henle"
+      ],
+      "answer": "Distal convoluted tubule"
+    },
+    {
+      "id": "C16Q34",
+      "statement": "The counter-current multiplier system helps in:",
+      "options": [
+        "Reabsorbing glucose completely",
+        "Increasing the rate of filtration",
+        "Producing concentrated urine",
+        "Secreting hydrogen ions"
+      ],
+      "answer": "Producing concentrated urine"
+    },
+    {
+      "id": "C16Q35",
+      "statement": "Which of the following is correctly matched?",
+      "options": [
+        "Ammonia - Excreted by birds",
+        "Uric acid - Highly soluble in water",
+        "Urea - Requires least energy for production",
+        "Ammonia - Requires large amount of water for excretion"
+      ],
+      "answer": "Ammonia - Requires large amount of water for excretion"
+    },
+    {
+      "id": "C16Q36",
+      "statement": "The presence of proteins in urine indicates damage to:",
+      "options": [
+        "Collecting duct",
+        "Glomerular membrane",
+        "Loop of Henle",
+        "Distal convoluted tubule"
+      ],
+      "answer": "Glomerular membrane"
+    },
+    {
+      "id": "C16Q37",
+      "statement": "Which of the following statements about ADH is correct?",
+      "options": [
+        "It stimulates sodium reabsorption",
+        "It is secreted by adrenal cortex",
+        "It makes the collecting duct more permeable to water",
+        "It decreases water reabsorption"
+      ],
+      "answer": "It makes the collecting duct more permeable to water"
+    },
+    {
+      "id": "C16Q38",
+      "statement": "In the renin-angiotensin mechanism, angiotensin II causes:",
+      "options": [
+        "Vasodilation",
+        "Inhibition of ADH release",
+        "Stimulation of aldosterone release",
+        "Decreased blood pressure"
+      ],
+      "answer": "Stimulation of aldosterone release"
+    },
+    {
+      "id": "C16Q36",
+      "statement": "Which cells of the JGA act as blood pressure sensors?",
+      "options": [
+        "Macula densa cells",
+        "Juxtaglomerular cells",
+        "Mesangial cells",
+        "Podocytes"
+      ],
+      "answer": "Juxtaglomerular cells"
+    },
+    {
+      "id": "C16Q37",
+      "statement": "The process by which kidneys maintain pH balance involves:",
+      "options": [
+        "Reabsorption of both H+ and HCO3- ions",
+        "Secretion of both H+ and HCO3- ions",
+        "Secretion of H+ ions and reabsorption of HCO3- ions",
+        "Reabsorption of H+ ions and secretion of HCO3- ions"
+      ],
+      "answer": "Secretion of H+ ions and reabsorption of HCO3- ions"
+    },
+    {
+      "id": "C16Q38",
+      "statement": "Which of the following is NOT reabsorbed actively in the nephron?",
+      "options": [
+        "Amino acids",
+        "Water",
+        "Glucose",
+        "Sodium ions"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "C16Q39",
+      "statement": "The descending limb of Loop of Henle is permeable to:",
+      "options": [
+        "Both water and solutes",
+        "Water only",
+        "Neither water nor solutes",
+        "Solutes only"
+      ],
+      "answer": "Water only"
+    },
+    {
+      "id": "C16Q40",
+      "statement": "In diabetes insipidus, there is:",
+      "options": [
+        "Decreased insulin secretion",
+        "Decreased ADH secretion",
+        "Increased ADH secretion",
+        "Increased insulin secretion"
+      ],
+      "answer": "Decreased ADH secretion"
+    },
+    {
+      "id": "C16Q41",
+      "statement": "Which part of the nephron has the highest concentration of urea?",
+      "options": [
+        "Bowman's capsule",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Tip of Loop of Henle"
+      ],
+      "answer": "Tip of Loop of Henle"
+    },
+    {
+      "id": "C16Q42",
+      "statement": "The clearance test used to measure GFR uses:",
+      "options": [
+        "Albumin",
+        "Glucose",
+        "Urea",
+        "Inulin"
+      ],
+      "answer": "Inulin"
+    },
+    {
+      "id": "C16Q43",
+      "statement": "Which of the following would increase the glomerular filtration rate?",
+      "options": [
+        "Constriction of efferent arteriole",
+        "Both B and C",
+        "Constriction of afferent arteriole",
+        "Dilation of afferent arteriole"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "id": "C16Q44",
+      "statement": "The malpighian body consists of:",
+      "options": [
+        "Glomerulus and Bowman's capsule",
+        "Afferent and efferent arterioles",
+        "Proximal and distal tubules",
+        "Loop of Henle and collecting duct"
+      ],
+      "answer": "Glomerulus and Bowman's capsule"
+    },
+    {
+      "id": "C16Q45",
+      "statement": "In which condition would you expect to find ketone bodies in urine?",
+      "options": [
+        "Diabetes insipidus",
+        "Renal calculi",
+        "Hypertension",
+        "Diabetes mellitus"
+      ],
+      "answer": "Diabetes mellitus"
+    },
+    {
+      "id": "C16Q46",
+      "statement": "The podocytes are found in:",
+      "options": [
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Bowman's capsule",
+        "Loop of Henle"
+      ],
+      "answer": "Bowman's capsule"
+    },
+    {
+      "id": "C16Q47",
+      "statement": "Which of the following is true about uric acid?",
+      "options": [
+        "It is highly soluble in water",
+        "It requires large amount of water for excretion",
+        "It is least toxic among nitrogenous wastes",
+        "It is excreted by aquatic insects"
+      ],
+      "answer": "It is least toxic among nitrogenous wastes"
+    },
+    {
+      "id": "C16Q48",
+      "statement": "The process of micturition is controlled by:",
+      "options": [
+        "Parasympathetic nervous system only",
+        "Central nervous system",
+        "Sympathetic nervous system only",
+        "Both sympathetic and parasympathetic systems"
+      ],
+      "answer": "Central nervous system"
+    },
+    {
+      "id": "C16Q49",
+      "statement": "Which vitamin is activated by the kidneys?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "id": "C16Q50",
+      "statement": "In renal failure, the accumulation of which ion can cause cardiac arrest?",
+      "options": [
+        "Sodium",
+        "Chloride",
+        "Calcium",
+        "Potassium"
+      ],
+      "answer": "Potassium"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C16Q51",
+      "statement": "In the counter-current exchange mechanism, the vasa recta functions to:",
+      "options": [
+        "Maintain the osmotic gradient",
+        "Create the osmotic gradient",
+        "Destroy the osmotic gradient",
+        "Have no role in osmotic gradient"
+      ],
+      "answer": "Maintain the osmotic gradient"
+    },
+    {
+      "id": "C16Q52",
+      "statement": "Which of the following statements about the juxtamedullary nephrons is correct?",
+      "options": [
+        "They have short loops of Henle",
+        "They are crucial for concentration of urine",
+        "They have their glomeruli in the medulla",
+        "They are more numerous than cortical nephrons"
+      ],
+      "answer": "They are crucial for concentration of urine"
+    },
+    {
+      "id": "C16Q53",
+      "statement": "The myogenic mechanism of autoregulation of GFR involves:",
+      "options": [
+        "Stretch receptors in afferent arteriole",
+        "Chemoreceptors in macula densa",
+        "Osmoreceptors in hypothalamus",
+        "Baroreceptors in carotid sinus"
+      ],
+      "answer": "Stretch receptors in afferent arteriole"
+    },
+    {
+      "id": "C16Q54",
+      "statement": "In which part of the nephron is the tubular fluid isotonic to plasma?",
+      "options": [
+        "End of descending limb",
+        "End of proximal convoluted tubule",
+        "End of ascending limb",
+        "Beginning of collecting duct"
+      ],
+      "answer": "End of proximal convoluted tubule"
+    },
+    {
+      "id": "C16Q55",
+      "statement": "The tubular maximum for glucose is approximately:",
+      "options": [
+        "250 mg/min",
+        "375 mg/min",
+        "100 mg/min",
+        "180 mg/min"
+      ],
+      "answer": "375 mg/min"
+    },
+    {
+      "id": "C16Q56",
+      "statement": "Which of the following would NOT be expected in a patient with Addison's disease?",
+      "options": [
+        "Hyponatremia",
+        "Increased aldosterone",
+        "Hyperkalemia",
+        "Hypotension"
+      ],
+      "answer": "Increased aldosterone"
+    },
+    {
+      "id": "C16Q57",
+      "statement": "In the renin-angiotensin system, angiotensin converting enzyme is found mainly in:",
+      "options": [
+        "Heart",
+        "Liver",
+        "Lungs",
+        "Kidneys"
+      ],
+      "answer": "Lungs"
+    },
+    {
+      "id": "C16Q58",
+      "statement": "The clearance value of which substance equals the true GFR?",
+      "options": [
+        "Urea",
+        "Creatinine",
+        "Inulin",
+        "PAH"
+      ],
+      "answer": "Inulin"
+    },
+    {
+      "id": "C16Q59",
+      "statement": "Which of the following statements about the filtration membrane is incorrect?",
+      "options": [
+        "The basement membrane is the main filtration barrier",
+        "It consists of endothelium, basement membrane and podocytes",
+        "It is freely permeable to proteins",
+        "It prevents passage of blood cells"
+      ],
+      "answer": "It is freely permeable to proteins"
+    },
+    {
+      "id": "C16Q60",
+      "statement": "In a healthy individual, the renal plasma flow is approximately:",
+      "options": [
+        "600 ml/min",
+        "1200 ml/min",
+        "2400 ml/min",
+        "1800 ml/min"
+      ],
+      "answer": "600 ml/min"
+    },
+    {
+      "id": "C16Q61",
+      "statement": "The fractional reabsorption of sodium in the proximal convoluted tubule is about:",
+      "options": [
+        "67%",
+        "90%",
+        "50%",
+        "25%"
+      ],
+      "answer": "67%"
+    },
+    {
+      "id": "C16Q62",
+      "statement": "Which of the following diuretics acts by inhibiting sodium reabsorption in the thick ascending limb?",
+      "options": [
+        "Loop diuretics",
+        "Carbonic anhydrase inhibitors",
+        "Thiazides",
+        "Osmotic diuretics"
+      ],
+      "answer": "Loop diuretics"
+    },
+    {
+      "id": "C16Q63",
+      "statement": "In syndrome of inappropriate ADH secretion (SIADH), one would expect:",
+      "options": [
+        "Decreased urine osmolality",
+        "Hypernatremia",
+        "Increased urine output",
+        "Hyponatremia"
+      ],
+      "answer": "Hyponatremia"
+    },
+    {
+      "id": "C16Q64",
+      "statement": "The transport of which ion is coupled with glucose reabsorption in proximal tubule?",
+      "options": [
+        "Sodium",
+        "Chloride",
+        "Calcium",
+        "Potassium"
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "id": "C16Q65",
+      "statement": "Which part of the nephron has the lowest permeability to water?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Collecting duct without ADH",
+        "Descending limb of Loop of Henle",
+        "Ascending limb of Loop of Henle"
+      ],
+      "answer": "Ascending limb of Loop of Henle"
+    },
+    {
+      "id": "C16Q66",
+      "statement": "The macula densa cells respond to changes in:",
+      "options": [
+        "Sodium chloride concentration in tubular fluid",
+        "Blood pressure in afferent arteriole",
+        "Oxygen concentration in blood",
+        "pH of tubular fluid"
+      ],
+      "answer": "Sodium chloride concentration in tubular fluid"
+    },
+    {
+      "id": "C16Q67",
+      "statement": "In chronic renal failure, which hormone is typically elevated?",
+      "options": [
+        "Aldosterone",
+        "Parathyroid hormone",
+        "Erythropoietin",
+        "1,25-dihydroxycholecalciferol"
+      ],
+      "answer": "Parathyroid hormone"
+    },
+    {
+      "id": "C16Q68",
+      "statement": "The clearance of para-aminohippuric acid (PAH) is used to measure:",
+      "options": [
+        "Glomerular filtration rate",
+        "Renal plasma flow",
+        "Filtration fraction",
+        "Tubular maximum"
+      ],
+      "answer": "Renal plasma flow"
+    },
+    {
+      "id": "C16Q69",
+      "statement": "Which of the following is NOT a cause of metabolic acidosis?",
+      "options": [
+        "Diarrhea",
+        "Diabetic ketoacidosis",
+        "Vomiting",
+        "Renal tubular acidosis"
+      ],
+      "answer": "Vomiting"
+    },
+    {
+      "id": "C16Q70",
+      "statement": "In the counter-current system, the maximum osmolarity in human kidney can reach about:",
+      "options": [
+        "1200 mOsm/L",
+        "2400 mOsm/L",
+        "300 mOsm/L",
+        "600 mOsm/L"
+      ],
+      "answer": "1200 mOsm/L"
+    },
+    {
+      "id": "C16Q71",
+      "statement": "Which of the following statements about urea handling is correct?",
+      "options": [
+        "It is completely excreted in urine",
+        "It is secreted in distal tubule",
+        "It is completely reabsorbed in proximal tubule",
+        "It is recycled between collecting duct and Loop of Henle"
+      ],
+      "answer": "It is recycled between collecting duct and Loop of Henle"
+    },
+    {
+      "id": "C16Q72",
+      "statement": "The filtration fraction is the ratio of:",
+      "options": [
+        "Renal blood flow to cardiac output",
+        "GFR to renal plasma flow",
+        "Cardiac output to renal blood flow",
+        "Renal plasma flow to GFR"
+      ],
+      "answer": "GFR to renal plasma flow"
+    },
+    {
+      "id": "C16Q73",
+      "statement": "In Bartter's syndrome, there is defective reabsorption in:",
+      "options": [
+        "Thick ascending limb",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": "Thick ascending limb"
+    },
+    {
+      "id": "C16Q74",
+      "statement": "Which of the following is characteristic of prerenal azotemia?",
+      "options": [
+        "Normal BUN:creatinine ratio",
+        "High BUN:creatinine ratio",
+        "Low BUN:creatinine ratio",
+        "No change in BUN or creatinine"
+      ],
+      "answer": "High BUN:creatinine ratio"
+    },
+    {
+      "id": "C16Q75",
+      "statement": "The most common organism causing urinary tract infections is:",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus pyogenes",
+        "Escherichia coli",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": "Escherichia coli"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C16Q76",
+      "statement": "A person is undergoing prolonged fasting. Which of the following substances would be found in their urine?",
+      "options": [
+        "Glucose",
+        "Albumin",
+        "Ketone bodies",
+        "Bile pigments"
+      ],
+      "answer": "Ketone bodies"
+    },
+    {
+      "id": "C16Q77",
+      "statement": "Which of the following is not a part of the counter-current mechanism in kidney?",
+      "options": [
+        "Loop of Henle",
+        "Vasa recta",
+        "Collecting duct",
+        "Proximal convoluted tubule"
+      ],
+      "answer": "Proximal convoluted tubule"
+    },
+    {
+      "id": "C16Q78",
+      "statement": "The condition characterized by increased urea level in blood is called:",
+      "options": [
+        "Uremia",
+        "Hematuria",
+        "Proteinuria",
+        "Glycosuria"
+      ],
+      "answer": "Uremia"
+    },
+    {
+      "id": "C16Q79",
+      "statement": "Which part of the nephron is affected by thiazide diuretics?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": "Distal convoluted tubule"
+    },
+    {
+      "id": "C16Q80",
+      "statement": "The presence of RBCs in urine is called:",
+      "options": [
+        "Hematuria",
+        "Proteinuria",
+        "Glycosuria",
+        "Ketonuria"
+      ],
+      "answer": "Hematuria"
+    },
+    {
+      "id": "C16Q81",
+      "statement": "Which hormone is produced by the kidney?",
+      "options": [
+        "ADH",
+        "Aldosterone",
+        "Erythropoietin",
+        "Renin"
+      ],
+      "answer": "Erythropoietin"
+    },
+    {
+      "id": "C16Q82",
+      "statement": "The average glomerular filtration rate in humans is about:",
+      "options": [
+        "125 ml/min",
+        "250 ml/min",
+        "500 ml/min",
+        "1000 ml/min"
+      ],
+      "answer": "125 ml/min"
+    },
+    {
+      "id": "C16Q83",
+      "statement": "Which of the following substances is completely reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "Urea",
+        "Glucose",
+        "Creatinine",
+        "Uric acid"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "id": "C16Q84",
+      "statement": "The main site of action of vasopressin (ADH) is:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule and collecting duct",
+        "Glomerulus"
+      ],
+      "answer": "Distal convoluted tubule and collecting duct"
+    },
+    {
+      "id": "C16Q85",
+      "statement": "Which of the following is a metabolic waste product?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Glucose",
+        "Amino acids"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "C16Q86",
+      "statement": "The process of ultra-filtration occurs in:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Malpighian corpuscle",
+        "Collecting duct"
+      ],
+      "answer": "Malpighian corpuscle"
+    },
+    {
+      "id": "C16Q87",
+      "statement": "Which of the following is not a function of ADH?",
+      "options": [
+        "Water reabsorption",
+        "Vasoconstriction",
+        "Decrease in blood pressure",
+        "Concentrated urine formation"
+      ],
+      "answer": "Decrease in blood pressure"
+    },
+    {
+      "id": "C16Q88",
+      "statement": "The term 'renal threshold' refers to:",
+      "options": [
+        "Plasma concentration at which a substance appears in urine",
+        "Maximum urine concentrating ability",
+        "Minimum blood pressure for filtration",
+        "Maximum GFR possible"
+      ],
+      "answer": "Plasma concentration at which a substance appears in urine"
+    },
+    {
+      "id": "C16Q89",
+      "statement": "Which part of the nephron is lined by simple squamous epithelium?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Thin segment of Loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": "Thin segment of Loop of Henle"
+    },
+    {
+      "id": "C16Q90",
+      "statement": "The condition of accumulation of nitrogenous wastes in blood is called:",
+      "options": [
+        "Azotemia",
+        "Anemia",
+        "Leukemia",
+        "Hypoglycemia"
+      ],
+      "answer": "Azotemia"
+    },
+    {
+      "id": "C16Q91",
+      "statement": "Which of the following is not a cause of acute renal failure?",
+      "options": [
+        "Severe hemorrhage",
+        "Urinary obstruction",
+        "Chronic hypertension",
+        "Septic shock"
+      ],
+      "answer": "Chronic hypertension"
+    },
+    {
+      "id": "C16Q92",
+      "statement": "The main force responsible for filtration in glomerulus is:",
+      "options": [
+        "Osmotic pressure of blood",
+        "Hydrostatic pressure of blood",
+        "Colloidal osmotic pressure",
+        "Tubular pressure"
+      ],
+      "answer": "Hydrostatic pressure of blood"
+    },
+    {
+      "id": "C16Q93",
+      "statement": "Which of the following is true about cortical nephrons?",
+      "options": [
+        "They have long loops of Henle",
+        "They are about 15% of total nephrons",
+        "Their glomeruli are located in outer cortex",
+        "They are important for urine concentration"
+      ],
+      "answer": "Their glomeruli are located in outer cortex"
+    },
+    {
+      "id": "C16Q94",
+      "statement": "The process of selective secretion occurs mainly in:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": "Distal convoluted tubule"
+    },
+    {
+      "id": "C16Q95",
+      "statement": "Which of the following is not reabsorbed in proximal convoluted tubule?",
+      "options": [
+        "Glucose",
+        "Amino acids",
+        "Creatinine",
+        "Sodium"
+      ],
+      "answer": "Creatinine"
+    },
+    {
+      "id": "C16Q96",
+      "statement": "The hormone that causes contraction of smooth muscles of urinary bladder is:",
+      "options": [
+        "Oxytocin",
+        "Vasopressin",
+        "Acetylcholine",
+        "Adrenaline"
+      ],
+      "answer": "Acetylcholine"
+    },
+    {
+      "id": "C16Q97",
+      "statement": "Which of the following is a characteristic feature of glomerular filtrate?",
+      "options": [
+        "Same composition as plasma",
+        "Contains blood cells",
+        "Contains proteins",
+        "Is hypertonic to plasma"
+      ],
+      "answer": "Same composition as plasma"
+    },
+    {
+      "id": "C16Q98",
+      "statement": "The maximum reabsorption of water occurs in:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": "Proximal convoluted tubule"
+    },
+    {
+      "id": "C16Q99",
+      "statement": "Which of the following is not a symptom of uremia?",
+      "options": [
+        "Nausea and vomiting",
+        "Mental confusion",
+        "Increased urine output",
+        "Itching"
+      ],
+      "answer": "Increased urine output"
+    },
+    {
+      "id": "C16Q100",
+      "statement": "The main nitrogenous waste excreted by mammals is:",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": "Urea"
+    }
+  ]
+}

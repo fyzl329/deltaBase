@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P5Q01",
+      "statement": "Work is said to be done when:",
+      "options": [
+        "Displacement occurs without force",
+        "Force is applied",
+        "Force produces displacement",
+        "Displacement occurs"
+      ],
+      "answer": "Force produces displacement",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q02",
+      "statement": "The SI unit of work is:",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Erg"
+      ],
+      "answer": "Joule",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q03",
+      "statement": "1 joule is equal to:",
+      "options": [
+        "1 N m",
+        "1 kg m s^{-2}",
+        "1 N s",
+        "1 W s"
+      ],
+      "answer": "1 N m",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q04",
+      "statement": "Work done by a force is zero when:",
+      "options": [
+        "All of these",
+        "Force is perpendicular to displacement",
+        "Displacement is zero",
+        "Force is zero"
+      ],
+      "answer": "All of these",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q05",
+      "statement": "If \\( F \\) and \\( s \\) are constant, work done is given by:",
+      "options": [
+        "\\( W = Fs \\)",
+        "\\( W = F/s \\)",
+        "\\( W = F + s \\)",
+        "\\( W = Fs^{2} \\)"
+      ],
+      "answer": "\\( W = Fs \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q06",
+      "statement": "When a force acts at an angle \\( \\theta \\) to displacement, work done is:",
+      "options": [
+        "\\( Fs\\sin\\theta \\)",
+        "\\( Fs\\tan\\theta \\)",
+        "\\( Fs \\)",
+        "\\( Fs\\cos\\theta \\)"
+      ],
+      "answer": "\\( Fs\\cos\\theta \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q07",
+      "statement": "The work done by a constant force is graphically equal to the area under the:",
+      "options": [
+        "Displacement–time graph",
+        "Acceleration–time graph",
+        "Force–displacement graph",
+        "Velocity–time graph"
+      ],
+      "answer": "Force–displacement graph",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q08",
+      "statement": "Work done against gravity when a body of mass \\( m \\) is raised through height \\( h \\) is:",
+      "options": [
+        "\\( 2mgh \\)",
+        "\\( mg/h \\)",
+        "\\( mgh \\)",
+        "\\( mgh/2 \\)"
+      ],
+      "answer": "\\( mgh \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q09",
+      "statement": "The SI unit of power is:",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Erg"
+      ],
+      "answer": "Watt",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q10",
+      "statement": "Power is defined as:",
+      "options": [
+        "Force × velocity",
+        "Force/time",
+        "Work done × time",
+        "Work done/time"
+      ],
+      "answer": "Work done/time",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q11",
+      "statement": "When force and velocity are constant, instantaneous power is given by:",
+      "options": [
+        "\\( F/v \\)",
+        "\\( v/F \\)",
+        "\\( Fv \\)",
+        "\\( Fv^{2} \\)"
+      ],
+      "answer": "\\( Fv \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q12",
+      "statement": "If a force does positive work on a body, its kinetic energy:",
+      "options": [
+        "Decreases",
+        "Becomes zero",
+        "Remains constant",
+        "Increases"
+      ],
+      "answer": "Increases",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q13",
+      "statement": "If the work done by all forces on a particle is zero, then:",
+      "options": [
+        "Velocity increases",
+        "Acceleration increases",
+        "Kinetic energy remains constant",
+        "Velocity decreases"
+      ],
+      "answer": "Kinetic energy remains constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q14",
+      "statement": "The work done in lifting a 5 kg mass through 2 m is (\\( g=10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "5 J",
+        "50 J",
+        "10 J",
+        "100 J"
+      ],
+      "answer": "100 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q15",
+      "statement": "The work done by a man carrying a bag horizontally with constant speed is:",
+      "options": [
+        "Infinite",
+        "Zero",
+        "Negative",
+        "Positive"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q16",
+      "statement": "Kinetic energy of a moving body of mass \\( m \\) and velocity \\( v \\) is:",
+      "options": [
+        "\\( mv \\)",
+        "\\( mv/2 \\)",
+        "\\( \\tfrac{1}{2}mv^{2} \\)",
+        "\\( mv^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}mv^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q17",
+      "statement": "A force of 5 N moves a body by 4 m in its direction. Work done is:",
+      "options": [
+        "20 J",
+        "25 J",
+        "15 J",
+        "10 J"
+      ],
+      "answer": "20 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q18",
+      "statement": "The potential energy of a body of mass \\( m \\) at height \\( h \\) is:",
+      "options": [
+        "\\( mgh \\)",
+        "\\( mg/h \\)",
+        "\\( 2mgh \\)",
+        "\\( mgh/2 \\)"
+      ],
+      "answer": "\\( mgh \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q19",
+      "statement": "The work–energy theorem states that:",
+      "options": [
+        "Energy = Work/time",
+        "Work = Power × displacement",
+        "Work = Force × time",
+        "Work done = Change in kinetic energy"
+      ],
+      "answer": "Work done = Change in kinetic energy",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q20",
+      "statement": "A 2 kg object moving with velocity 3 m s^{-1} has kinetic energy:",
+      "options": [
+        "3 J",
+        "12 J",
+        "9 J",
+        "6 J"
+      ],
+      "answer": "9 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q21",
+      "statement": "If a body moves with constant velocity, the work done by net external force is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q22",
+      "statement": "A conservative force is one for which:",
+      "options": [
+        "Force varies with time",
+        "Work is always positive",
+        "Work depends on path",
+        "Work depends only on initial and final positions"
+      ],
+      "answer": "Work depends only on initial and final positions",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q23",
+      "statement": "The unit of power can also be expressed as:",
+      "options": [
+        "J m",
+        "J s",
+        "N/s",
+        "J/s"
+      ],
+      "answer": "J/s",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q24",
+      "statement": "If a car engine delivers power \\( P \\) and moves with constant velocity \\( v \\), the opposing force is:",
+      "options": [
+        "\\( v/P \\)",
+        "\\( P/v \\)",
+        "\\( P + v \\)",
+        "\\( P v \\)"
+      ],
+      "answer": "\\( P/v \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q25",
+      "statement": "A spring stretched by \\( x \\) has potential energy:",
+      "options": [
+        "\\( kx^{2} \\)",
+        "\\( \\tfrac{1}{2}kx^{2} \\)",
+        "\\( kx \\)",
+        "\\( 2kx \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}kx^{2} \\)",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P5Q26",
+      "statement": "A 10 N force acts on a body and moves it 5 m. If the force makes an angle of 60° with displacement, the work done is:",
+      "options": [
+        "25 J",
+        "10 J",
+        "20 J",
+        "15 J"
+      ],
+      "answer": "25 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q27",
+      "statement": "A constant force acts on a 2 kg body moving initially at 3 m s^{-1}. After moving 4 m, the speed becomes 5 m s^{-1}. The force is:",
+      "options": [
+        "5 N",
+        "4 N",
+        "8 N",
+        "2 N"
+      ],
+      "answer": "4 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q28",
+      "statement": "The kinetic energy of a body is quadrupled. Its momentum increases by a factor of:",
+      "options": [
+        "2",
+        "4",
+        "16",
+        "8"
+      ],
+      "answer": "2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q29",
+      "statement": "The potential energy of a spring stretched by 10 cm with k = 200 N m^{-1} is:",
+      "options": [
+        "2 J",
+        "1 J",
+        "0.5 J",
+        "5 J"
+      ],
+      "answer": "1 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q30",
+      "statement": "A 2 kg block slides down a frictionless incline 5 m high. Its velocity at the bottom is:",
+      "options": [
+        "7 m s^{-1}",
+        "5 m s^{-1}",
+        "15 m s^{-1}",
+        "10 m s^{-1}"
+      ],
+      "answer": "10 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q31",
+      "statement": "A block of mass 4 kg is lifted at constant velocity through 2 m. The work done against gravity is (g = 10):",
+      "options": [
+        "20 J",
+        "100 J",
+        "40 J",
+        "80 J"
+      ],
+      "answer": "80 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q32",
+      "statement": "A variable force F = 2x acts on a body. The work done when x changes from 0 to 3 m is:",
+      "options": [
+        "9 J",
+        "3 J",
+        "6 J",
+        "12 J"
+      ],
+      "answer": "9 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q33",
+      "statement": "A 1 kg body moves under a force F = 2t N. The work done from t = 0 to t = 3 s is:",
+      "options": [
+        "9 J",
+        "12 J",
+        "6 J",
+        "3 J"
+      ],
+      "answer": "9 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q34",
+      "statement": "Work done by a conservative force in a closed path is:",
+      "options": [
+        "Infinite",
+        "Zero",
+        "Negative",
+        "Positive"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q35",
+      "statement": "A 2 kg block moves on a horizontal surface with μ = 0.2 and covers 5 m before stopping. The initial speed is (g=10):",
+      "options": [
+        "4 m s^{-1}",
+        "5 m s^{-1}",
+        "2 m s^{-1}",
+        "3 m s^{-1}"
+      ],
+      "answer": "4.5 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q36",
+      "statement": "A bullet of 10 g is fired into a wooden block of 2 kg and gets embedded. If the bullet speed was 200 m s^{-1}, velocity of the block–bullet system is:",
+      "options": [
+        "4 m s^{-1}",
+        "1 m s^{-1}",
+        "0.5 m s^{-1}",
+        "2 m s^{-1}"
+      ],
+      "answer": "1 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q37",
+      "statement": "A 1000 W motor lifts a 100 kg load vertically. The maximum height reached in 5 s (g=10) is:",
+      "options": [
+        "10 m",
+        "2 m",
+        "5 m",
+        "3 m"
+      ],
+      "answer": "5 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q38",
+      "statement": "A ball of mass 0.2 kg is thrown vertically upward with velocity 20 m s^{-1}. The work done against gravity is:",
+      "options": [
+        "30 J",
+        "40 J",
+        "50 J",
+        "20 J"
+      ],
+      "answer": "40 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q39",
+      "statement": "A spring constant of 100 N m^{-1} is compressed by 0.2 m. Find its potential energy:",
+      "options": [
+        "1 J",
+        "4 J",
+        "3 J",
+        "2 J"
+      ],
+      "answer": "2 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q40",
+      "statement": "The graph between kinetic energy and momentum is:",
+      "options": [
+        "Parabola",
+        "Hyperbola",
+        "Circle",
+        "Straight line"
+      ],
+      "answer": "Parabola",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q41",
+      "statement": "A force–displacement graph is a straight line through origin with slope 10. The work done for displacement 5 m is:",
+      "options": [
+        "12.5 J",
+        "50 J",
+        "25 J",
+        "10 J"
+      ],
+      "answer": "12.5 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q42",
+      "statement": "The power of an engine pulling a train at constant speed 10 m s^{-1} against frictional resistance of 2000 N is:",
+      "options": [
+        "10 kW",
+        "15 kW",
+        "20 kW",
+        "25 kW"
+      ],
+      "answer": "20 kW",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q43",
+      "statement": "A cyclist exerts power of 200 W to move at 5 m s^{-1}. The resistive force is:",
+      "options": [
+        "20 N",
+        "40 N",
+        "30 N",
+        "50 N"
+      ],
+      "answer": "40 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q44",
+      "statement": "A machine raises a load of 500 N through 10 m in 25 s. Its power output is:",
+      "options": [
+        "150 W",
+        "100 W",
+        "200 W",
+        "250 W"
+      ],
+      "answer": "200 W",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q45",
+      "statement": "Two bodies of equal mass move with velocities \\( u \\) and \\( 2u \\). The ratio of their kinetic energies is:",
+      "options": [
+        "1:2",
+        "1:5",
+        "1:3",
+        "1:4"
+      ],
+      "answer": "1:4",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q46",
+      "statement": "A 1000 kg car moving at 20 m s^{-1} brakes to a stop over 50 m. The average retarding force is:",
+      "options": [
+        "3000 N",
+        "5000 N",
+        "4000 N",
+        "2000 N"
+      ],
+      "answer": "4000 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q47",
+      "statement": "In an experiment, a spring is stretched and displacement vs. force is recorded. The slope of the graph represents:",
+      "options": [
+        "Potential energy",
+        "Power",
+        "Spring constant",
+        "Work"
+      ],
+      "answer": "Spring constant",
+      "type": "experimental"
+    },
+    {
+      "id": "P5Q48",
+      "statement": "Work done by tension in a string during uniform circular motion is:",
+      "options": [
+        "Zero",
+        "Variable",
+        "Minimum",
+        "Maximum"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q49",
+      "statement": "A bullet of mass 0.02 kg moving at 400 m s^{-1} is stopped by a wooden plank in 0.02 m. The average retarding force is:",
+      "options": [
+        "160000 N",
+        "80 N",
+        "160 N",
+        "40 N"
+      ],
+      "answer": "160000 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q50",
+      "statement": "A graph of force vs. displacement for a body shows a constant force of 10 N for 4 m, then zero. The total work done is:",
+      "options": [
+        "10 J",
+        "20 J",
+        "40 J",
+        "30 J"
+      ],
+      "answer": "40 J",
+      "type": "numerical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P5Q51",
+      "statement": "A block of mass 2 kg is pulled up an inclined plane of angle 30° with a force of 20 N parallel to the incline. The coefficient of friction is 0.2. The acceleration of the block is (g=10):",
+      "options": [
+        "2 m s^{-2}",
+        "4 m s^{-2}",
+        "3 m s^{-2}",
+        "1 m s^{-2}"
+      ],
+      "answer": "2 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q52",
+      "statement": "A 5 kg body falls from a height of 20 m. The loss in potential energy equals the gain in kinetic energy neglecting air resistance. The velocity on reaching the ground is:",
+      "options": [
+        "15 m s^{-1}",
+        "10 m s^{-1}",
+        "25 m s^{-1}",
+        "20 m s^{-1}"
+      ],
+      "answer": "20 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q53",
+      "statement": "A 2 kg block slides 10 m down an incline with \\( \\theta = 30° \\) and \\( \\mu = 0.1 \\). Find work done by friction:",
+      "options": [
+        "5 J",
+        "15 J",
+        "20 J",
+        "10 J"
+      ],
+      "answer": "10 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q54",
+      "statement": "The potential energy curve of a system is U(x) = 4x². The force acting on the particle is:",
+      "options": [
+        "-4x",
+        "4x",
+        "8x",
+        "-8x"
+      ],
+      "answer": "-8x",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q55",
+      "statement": "A spring of constant 100 N m^{-1} is compressed by 0.1 m. The work done on the spring is:",
+      "options": [
+        "1 J",
+        "2 J",
+        "0.5 J",
+        "0.25 J"
+      ],
+      "answer": "0.5 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q56",
+      "statement": "A body moves in a straight line with velocity v = 3t². The work done by the net force in 2 s if mass is 2 kg is:",
+      "options": [
+        "72 J",
+        "24 J",
+        "12 J",
+        "36 J"
+      ],
+      "answer": "72 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q57",
+      "statement": "A block slides down a frictionless incline and compresses a spring of constant 200 N m^{-1} by 0.1 m. Find its speed before compression.",
+      "options": [
+        "2 m s^{-1}",
+        "1 m s^{-1}",
+        "4 m s^{-1}",
+        "3 m s^{-1}"
+      ],
+      "answer": "4.47 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q58",
+      "statement": "A particle moves under a conservative force. If its potential energy decreases by 10 J, the kinetic energy:",
+      "options": [
+        "Becomes zero",
+        "Decreases by 10 J",
+        "Remains constant",
+        "Increases by 10 J"
+      ],
+      "answer": "Increases by 10 J",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q59",
+      "statement": "A machine exerts a constant power of 100 W to move a block of 2 kg. The velocity after 5 s (initially at rest) is:",
+      "options": [
+        "10 m s^{-1}",
+        "20 m s^{-1}",
+        "5 m s^{-1}",
+        "15 m s^{-1}"
+      ],
+      "answer": "10 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q60",
+      "statement": "A bullet of mass 20 g moving at 200 m s^{-1} is stopped in 0.02 m. The average resistive force is:",
+      "options": [
+        "20000 N",
+        "2000 N",
+        "1000 N",
+        "4000 N"
+      ],
+      "answer": "20000 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q61",
+      "statement": "The work required to double the speed of a body is:",
+      "options": [
+        "Four times its initial kinetic energy",
+        "Three times its initial kinetic energy",
+        "Equal to its initial kinetic energy",
+        "Twice its initial kinetic energy"
+      ],
+      "answer": "Three times its initial kinetic energy",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q62",
+      "statement": "The average power of a force acting on a body is equal to:",
+      "options": [
+        "Work/time",
+        "Force × velocity",
+        "Momentum × acceleration",
+        "Force × displacement"
+      ],
+      "answer": "Force × velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q63",
+      "statement": "If kinetic energy of a body increases four times, its momentum increases by:",
+      "options": [
+        "2",
+        "16",
+        "8",
+        "4"
+      ],
+      "answer": "2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q64",
+      "statement": "A variable force F = 3x² acts on a particle. The work done in moving from x = 0 to x = 2 m is:",
+      "options": [
+        "8 J",
+        "6 J",
+        "4 J",
+        "12 J"
+      ],
+      "answer": "8 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q65",
+      "statement": "A spring-mass system oscillates between ±0.1 m with k = 100 N m^{-1}. Total mechanical energy is:",
+      "options": [
+        "0.5 J",
+        "2 J",
+        "0.25 J",
+        "1 J"
+      ],
+      "answer": "0.5 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q66",
+      "statement": "A car of mass 1000 kg accelerates uniformly from 10 m s^{-1} to 20 m s^{-1}. The work done is:",
+      "options": [
+        "200 kJ",
+        "50 kJ",
+        "150 kJ",
+        "100 kJ"
+      ],
+      "answer": "150 kJ",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q67",
+      "statement": "The rate of change of kinetic energy is equal to:",
+      "options": [
+        "Acceleration",
+        "Force",
+        "Momentum",
+        "Power"
+      ],
+      "answer": "Power",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q68",
+      "statement": "If velocity of a car doubles, its braking distance becomes:",
+      "options": [
+        "Four times",
+        "Half",
+        "Eight times",
+        "Double"
+      ],
+      "answer": "Four times",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q69",
+      "statement": "A body moves under a force F = 2x. Find the change in kinetic energy from x = 1 m to x = 3 m:",
+      "options": [
+        "8 J",
+        "12 J",
+        "6 J",
+        "4 J"
+      ],
+      "answer": "8 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q70",
+      "statement": "A car engine delivers constant power P. The distance covered in time t from rest is proportional to:",
+      "options": [
+        "t^{3/2}",
+        "t^{2}",
+        "t",
+        "t^{1/2}"
+      ],
+      "answer": "t^{3/2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q71",
+      "statement": "If kinetic energy K is related to momentum p, then \\( K = p^{2}/2m \\). The graph between K and p is:",
+      "options": [
+        "Exponential",
+        "Parabolic",
+        "Linear",
+        "Circular"
+      ],
+      "answer": "Parabolic",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q72",
+      "statement": "A machine raises a 200 kg load by 5 m in 10 s. Efficiency is 80%. Power of the machine is:",
+      "options": [
+        "1000 W",
+        "800 W",
+        "1200 W",
+        "1500 W"
+      ],
+      "answer": "1200 W",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q73",
+      "statement": "A 2 kg object moves in a circle of radius 2 m with speed 3 m s^{-1}. The kinetic energy is:",
+      "options": [
+        "18 J",
+        "6 J",
+        "12 J",
+        "9 J"
+      ],
+      "answer": "9 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q74",
+      "statement": "A block slides on a rough horizontal surface and stops after covering 10 m. If initial velocity is 5 m s^{-1}, find coefficient of friction (g=10):",
+      "options": [
+        "0.125",
+        "0.25",
+        "0.05",
+        "0.1"
+      ],
+      "answer": "0.125",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q75",
+      "statement": "In a conservative field, the total mechanical energy:",
+      "options": [
+        "Remains constant",
+        "Always increases",
+        "Always decreases",
+        "Becomes zero"
+      ],
+      "answer": "Remains constant",
+      "type": "conceptual"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P5Q76",
+      "statement": "A particle moves under potential energy \\( U(x) = x^{2} - 2x + 3 \\). The force at x = 1 is:",
+      "options": [
+        "1 N",
+        "2 N",
+        "-2 N",
+        "0"
+      ],
+      "answer": "0",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q77",
+      "statement": "A bullet of mass 10 g moving at 400 m s^{-1} is stopped in 0.1 m. Average resisting force is:",
+      "options": [
+        "40000 N",
+        "8000 N",
+        "20000 N",
+        "16000 N"
+      ],
+      "answer": "8000 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q78",
+      "statement": "A particle moves such that its kinetic energy is given by \\( K = 3t^{2} \\). The power developed at t = 2 s is:",
+      "options": [
+        "8 W",
+        "12 W",
+        "10 W",
+        "6 W"
+      ],
+      "answer": "12 W",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q79",
+      "statement": "If work done on a particle is zero, which of the following must be true?",
+      "options": [
+        "Displacement is zero",
+        "Velocity is constant",
+        "Force is zero",
+        "Force is perpendicular to displacement"
+      ],
+      "answer": "Force is perpendicular to displacement",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q80",
+      "statement": "A force \\( F = kx \\) acts on a body. The work done from x=0 to x=a is:",
+      "options": [
+        "\\( \\tfrac{1}{2}ka^{2} \\)",
+        "\\( 2ka \\)",
+        "\\( k/a^{2} \\)",
+        "\\( ka^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}ka^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q81",
+      "statement": "Two particles A and B have masses 2m and m and equal kinetic energies. The ratio of their momenta p_A/p_B is:",
+      "options": [
+        "2:1",
+        "1:2",
+        "√2:1",
+        "1:√2"
+      ],
+      "answer": "√2:1",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q82",
+      "statement": "A car of mass 800 kg moves with velocity 20 m s^{-1}. The braking force required to stop it in 5 s is:",
+      "options": [
+        "2400 N",
+        "4000 N",
+        "1600 N",
+        "3200 N"
+      ],
+      "answer": "3200 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q83",
+      "statement": "A block slides down a frictionless track and compresses a spring of constant 400 N m^{-1} by 0.2 m. The height of release is:",
+      "options": [
+        "0.5 m",
+        "1 m",
+        "2 m",
+        "4 m"
+      ],
+      "answer": "0.5 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q84",
+      "statement": "A particle moves in one dimension such that its kinetic energy depends on position as \\( K = 2x \\). The net force on the particle is:",
+      "options": [
+        "4 N",
+        "2 N",
+        "Variable",
+        "1 N"
+      ],
+      "answer": "1 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q85",
+      "statement": "A cyclist moving at 10 m s^{-1} stops pedaling and comes to rest after 50 m. Find resistive force if mass is 80 kg:",
+      "options": [
+        "160 N",
+        "50 N",
+        "100 N",
+        "200 N"
+      ],
+      "answer": "80 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q86",
+      "statement": "A car of mass m moves with velocity v. The work required to stop it is:",
+      "options": [
+        "\\( mv/2 \\)",
+        "\\( mv^{2} \\)",
+        "\\( 2mv^{2} \\)",
+        "\\( \\tfrac{1}{2}mv^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}mv^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q87",
+      "statement": "A spring of constant 50 N m^{-1} is stretched by 0.1 m. The potential energy stored is:",
+      "options": [
+        "0.5 J",
+        "2 J",
+        "0.25 J",
+        "1 J"
+      ],
+      "answer": "0.25 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q88",
+      "statement": "A block of mass 10 kg slides down a 5 m rough incline of 30° with μ = 0.2. Work done by friction is:",
+      "options": [
+        "50 J",
+        "40 J",
+        "20 J",
+        "100 J"
+      ],
+      "answer": "50 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q89",
+      "statement": "A car engine delivers constant power. Its acceleration is proportional to:",
+      "options": [
+        "1/v²",
+        "1/v",
+        "v²",
+        "v"
+      ],
+      "answer": "1/v",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q90",
+      "statement": "A 2 kg body moving at 3 m s^{-1} on a rough horizontal surface stops after 3 m. Find coefficient of friction (g=10):",
+      "options": [
+        "0.2",
+        "0.1",
+        "0.25",
+        "0.15"
+      ],
+      "answer": "0.15",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q91",
+      "statement": "If power delivered by a motor is constant, the time required to double the speed is proportional to:",
+      "options": [
+        "v^{2}",
+        "1/v",
+        "v",
+        "√v"
+      ],
+      "answer": "v",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q92",
+      "statement": "A 50 g bullet moving at 200 m s^{-1} passes through a block and emerges with 100 m s^{-1}. If block is of 1 kg, find its kinetic energy:",
+      "options": [
+        "0.25 J",
+        "1 J",
+        "2 J",
+        "0.5 J"
+      ],
+      "answer": "0.25 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q93",
+      "statement": "A potential energy curve shows minima at x = a. The point is:",
+      "options": [
+        "Stable equilibrium",
+        "Unstable equilibrium",
+        "Neutral equilibrium",
+        "None"
+      ],
+      "answer": "Stable equilibrium",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q94",
+      "statement": "If a 1 kg particle has potential energy U = 4x², then the frequency of small oscillation about equilibrium is:",
+      "options": [
+        "√8/2π",
+        "1/π",
+        "√4/2π",
+        "√2/π"
+      ],
+      "answer": "√8/2π",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q95",
+      "statement": "A motorbike of mass 200 kg moves up a 10° slope at 10 m s^{-1}. Power required (g=10, neglect friction):",
+      "options": [
+        "4 kW",
+        "5 kW",
+        "2 kW",
+        "3 kW"
+      ],
+      "answer": "3.5 kW",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q96",
+      "statement": "A car of 1000 kg moving at 20 m s^{-1} hits a tree and stops in 0.2 s. The average impact force is:",
+      "options": [
+        "10^4 N",
+        "5×10^3 N",
+        "5×10^4 N",
+        "2×10^4 N"
+      ],
+      "answer": "10^5 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q97",
+      "statement": "A force \\( F = 3x \\) acts on a particle. If x changes from 0 to 2 m, work done is:",
+      "options": [
+        "3 J",
+        "6 J",
+        "5 J",
+        "4 J"
+      ],
+      "answer": "6 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P5Q98",
+      "statement": "In an experiment to determine work done by a variable force, the main uncertainty arises from:",
+      "options": [
+        "Timing error",
+        "Instrument lag",
+        "Graph scale",
+        "Area estimation"
+      ],
+      "answer": "Area estimation",
+      "type": "experimental"
+    },
+    {
+      "id": "P5Q99",
+      "statement": "A car doubles its speed; the power required to overcome same resistive force becomes:",
+      "options": [
+        "Half",
+        "Double",
+        "Eight times",
+        "Four times"
+      ],
+      "answer": "Double",
+      "type": "conceptual"
+    },
+    {
+      "id": "P5Q100",
+      "statement": "For a conservative system, \\( \\Delta K + \\Delta U = 0 \\). This represents:",
+      "options": [
+        "Energy conservation",
+        "Energy dissipation",
+        "Loss of energy",
+        "Power relation"
+      ],
+      "answer": "Energy conservation",
+      "type": "conceptual"
+    }
+  ]
+}

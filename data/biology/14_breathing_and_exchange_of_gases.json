@@ -1,0 +1,1139 @@
+{
+  "metadata": {
+    "chapter": "breathing_and_exchange_of_gases",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 14,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C17Q1",
+      "statement": "Which of the following is the site of actual diffusion of gases in human lungs?",
+      "options": [
+        "Bronchi",
+        "Trachea",
+        "Alveoli",
+        "Bronchioles"
+      ],
+      "answer": "Alveoli"
+    },
+    {
+      "id": "C17Q2",
+      "statement": "The volume of air inspired or expired during normal breathing is called:",
+      "options": [
+        "Inspiratory reserve volume",
+        "Tidal volume",
+        "Residual volume",
+        "Expiratory reserve volume"
+      ],
+      "answer": "Tidal volume"
+    },
+    {
+      "id": "C17Q3",
+      "statement": "Oxygen is transported in blood mainly as:",
+      "options": [
+        "Dissolved in plasma",
+        "Carboxyhemoglobin",
+        "Oxyhemoglobin",
+        "Bicarbonate ions"
+      ],
+      "answer": "Oxyhemoglobin"
+    },
+    {
+      "id": "C17Q4",
+      "statement": "The respiratory centre in human brain is located in:",
+      "options": [
+        "Hypothalamus",
+        "Medulla oblongata",
+        "Cerebellum",
+        "Cerebrum"
+      ],
+      "answer": "Medulla oblongata"
+    },
+    {
+      "id": "C17Q5",
+      "statement": "Which of the following is NOT a part of conducting zone of respiratory system?",
+      "options": [
+        "Trachea",
+        "Alveoli",
+        "Pharynx",
+        "Nasal cavity"
+      ],
+      "answer": "Alveoli"
+    },
+    {
+      "id": "C17Q6",
+      "statement": "The maximum volume of air a person can breathe in after a normal expiration is called:",
+      "options": [
+        "Inspiratory capacity",
+        "Tidal volume",
+        "Vital capacity",
+        "Total lung capacity"
+      ],
+      "answer": "Inspiratory capacity"
+    },
+    {
+      "id": "C17Q7",
+      "statement": "Carbon dioxide is transported in blood mainly as:",
+      "options": [
+        "Bicarbonate ions",
+        "Carbon dioxide gas",
+        "Carbaminohemoglobin",
+        "Dissolved in plasma"
+      ],
+      "answer": "Bicarbonate ions"
+    },
+    {
+      "id": "C17Q8",
+      "statement": "The enzyme carbonic anhydrase is found in:",
+      "options": [
+        "Plasma",
+        "White blood cells",
+        "Red blood cells",
+        "Platelets"
+      ],
+      "answer": "Red blood cells"
+    },
+    {
+      "id": "C17Q9",
+      "statement": "Which of the following muscles are involved in normal inspiration?",
+      "options": [
+        "Abdominal muscles only",
+        "Diaphragm and external intercostal muscles",
+        "Abdominal muscles and internal intercostal muscles",
+        "Diaphragm and internal intercostal muscles"
+      ],
+      "answer": "Diaphragm and external intercostal muscles"
+    },
+    {
+      "id": "C17Q10",
+      "statement": "The volume of air that remains in the lungs after maximum expiration is called:",
+      "options": [
+        "Expiratory reserve volume",
+        "Vital capacity",
+        "Residual volume",
+        "Tidal volume"
+      ],
+      "answer": "Residual volume"
+    },
+    {
+      "id": "C17Q11",
+      "statement": "The covering of lungs is called:",
+      "options": [
+        "Peritoneum",
+        "Pleura",
+        "Meninges",
+        "Pericardium"
+      ],
+      "answer": "Pleura"
+    },
+    {
+      "id": "C17Q12",
+      "statement": "Which of the following has the highest affinity for oxygen?",
+      "options": [
+        "Cytochrome oxidase",
+        "Hemoglobin",
+        "Catalase",
+        "Myoglobin"
+      ],
+      "answer": "Myoglobin"
+    },
+    {
+      "id": "C17Q13",
+      "statement": "The Hering-Breuer reflex is associated with:",
+      "options": [
+        "Prevention of over-inflation of lungs",
+        "Control of blood pressure",
+        "Regulation of heart rate",
+        "Regulation of body temperature"
+      ],
+      "answer": "Prevention of over-inflation of lungs"
+    },
+    {
+      "id": "C17Q14",
+      "statement": "The partial pressure of oxygen in alveolar air is about:",
+      "options": [
+        "40 mm Hg",
+        "159 mm Hg",
+        "100 mm Hg",
+        "200 mm Hg"
+      ],
+      "answer": "100 mm Hg"
+    },
+    {
+      "id": "C17Q15",
+      "statement": "Which of the following is the correct pathway of air during inspiration?",
+      "options": [
+        "Nostrils → larynx → pharynx → trachea → alveoli",
+        "Nostrils → pharynx → trachea → larynx → alveoli",
+        "Nostrils → pharynx → larynx → trachea → alveoli",
+        "Nostrils → trachea → larynx → pharynx → alveoli"
+      ],
+      "answer": "Nostrils → pharynx → larynx → trachea → alveoli"
+    },
+    {
+      "id": "C17Q16",
+      "statement": "The chloride shift occurs in:",
+      "options": [
+        "Veins",
+        "Capillaries",
+        "Arteries",
+        "All blood vessels"
+      ],
+      "answer": "Capillaries"
+    },
+    {
+      "id": "C17Q17",
+      "statement": "The volume of air that can be exhaled after normal expiration is called:",
+      "options": [
+        "Residual volume",
+        "Expiratory reserve volume",
+        "Inspiratory reserve volume",
+        "Tidal volume"
+      ],
+      "answer": "Expiratory reserve volume"
+    },
+    {
+      "id": "C17Q18",
+      "statement": "Which of the following factors decreases oxygen affinity of hemoglobin?",
+      "options": [
+        "Decrease in temperature",
+        "Increase in pCO₂",
+        "Increase in pH",
+        "Decrease in 2,3-DPG"
+      ],
+      "answer": "Increase in pCO₂"
+    },
+    {
+      "id": "C17Q19",
+      "statement": "The Adam's apple is formed by:",
+      "options": [
+        "Thyroid cartilage",
+        "Epiglottis",
+        "Cricoid cartilage",
+        "Arytenoid cartilage"
+      ],
+      "answer": "Thyroid cartilage"
+    },
+    {
+      "id": "C17Q20",
+      "statement": "The maximum volume of air a person can breathe out after a maximum inspiration is called:",
+      "options": [
+        "Inspiratory capacity",
+        "Tidal volume",
+        "Vital capacity",
+        "Total lung capacity"
+      ],
+      "answer": "Vital capacity"
+    },
+    {
+      "id": "C17Q21",
+      "statement": "Which of the following is NOT a function of conducting part of respiratory system?",
+      "options": [
+        "Cleaning of incoming air",
+        "Diffusion of gases",
+        "Humidification of incoming air",
+        "Transport of atmospheric air to alveoli"
+      ],
+      "answer": "Diffusion of gases"
+    },
+    {
+      "id": "C17Q22",
+      "statement": "The oxygen dissociation curve is:",
+      "options": [
+        "Parabolic",
+        "Linear",
+        "Hyperbolic",
+        "Sigmoid"
+      ],
+      "answer": "Sigmoid"
+    },
+    {
+      "id": "C17Q23",
+      "statement": "The partial pressure of carbon dioxide in venous blood is about:",
+      "options": [
+        "100 mm Hg",
+        "40 mm Hg",
+        "159 mm Hg",
+        "45 mm Hg"
+      ],
+      "answer": "45 mm Hg"
+    },
+    {
+      "id": "C17Q24",
+      "statement": "Which of the following is true about expiration?",
+      "options": [
+        "Diaphragm contracts",
+        "It is a passive process",
+        "External intercostal muscles contract",
+        "It is an active process"
+      ],
+      "answer": "It is a passive process"
+    },
+    {
+      "id": "C17Q25",
+      "statement": "The respiratory pigment in human blood is:",
+      "options": [
+        "Chlorocruorin",
+        "Hemocyanin",
+        "Myoglobin",
+        "Hemoglobin"
+      ],
+      "answer": "Hemoglobin"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C17Q26",
+      "statement": "Which of the following statements about hemoglobin is correct?",
+      "options": [
+        "It has higher affinity for O₂ than CO",
+        "It has no affinity for CO",
+        "It has equal affinity for CO and O₂",
+        "It has higher affinity for CO than O₂"
+      ],
+      "answer": "It has higher affinity for CO than O₂"
+    },
+    {
+      "id": "C17Q27",
+      "statement": "The Bohr effect refers to:",
+      "options": [
+        "Effect of temperature on oxygen affinity of hemoglobin",
+        "Effect of 2,3-DPG on oxygen affinity of hemoglobin",
+        "Effect of pH on oxygen affinity of hemoglobin",
+        "Effect of pCO₂ on oxygen affinity of hemoglobin"
+      ],
+      "answer": "Effect of pH on oxygen affinity of hemoglobin"
+    },
+    {
+      "id": "C17Q28",
+      "statement": "Which of the following is correct regarding transport of CO₂?",
+      "options": [
+        "7% as bicarbonate, 23% as carbaminohemoglobin, 70% dissolved",
+        "23% as carbaminohemoglobin, 70% as bicarbonate, 7% dissolved",
+        "20% as bicarbonate, 70% as carbaminohemoglobin, 10% dissolved",
+        "70% as bicarbonate, 20% as carbaminohemoglobin, 10% dissolved"
+      ],
+      "answer": "70% as bicarbonate, 20% as carbaminohemoglobin, 10% dissolved"
+    },
+    {
+      "id": "C17Q29",
+      "statement": "The vital capacity of human lungs is about:",
+      "options": [
+        "500 ml",
+        "3000-4000 ml",
+        "6000 ml",
+        "1500 ml"
+      ],
+      "answer": "3000-4000 ml"
+    },
+    {
+      "id": "C17Q30",
+      "statement": "Which of the following conditions would shift oxygen dissociation curve to the right?",
+      "options": [
+        "Increase in 2,3-DPG",
+        "Decrease in pCO₂",
+        "Decrease in temperature",
+        "Increase in pH"
+      ],
+      "answer": "Increase in 2,3-DPG"
+    },
+    {
+      "id": "C17Q31",
+      "statement": "The chloride shift maintains:",
+      "options": [
+        "pH balance",
+        "Temperature balance",
+        "Ionic balance",
+        "Oxygen balance"
+      ],
+      "answer": "Ionic balance"
+    },
+    {
+      "id": "C17Q31",
+      "statement": "Which of the following is NOT true about alveoli?",
+      "options": [
+        "They are thin-walled",
+        "They are vascularized",
+        "They contain surfactant",
+        "They are lined by ciliated epithelium"
+      ],
+      "answer": "They are lined by ciliated epithelium"
+    },
+    {
+      "id": "C17Q32",
+      "statement": "The Haldane effect refers to:",
+      "options": [
+        "Effect of temperature on CO₂ transport",
+        "Effect of oxygen on CO₂ transport",
+        "Effect of CO₂ on oxygen transport",
+        "Effect of pH on oxygen transport"
+      ],
+      "answer": "Effect of oxygen on CO₂ transport"
+    },
+    {
+      "id": "C17Q33",
+      "statement": "Which muscle is called the 'pacemaker of respiration'?",
+      "options": [
+        "Abdominal muscles",
+        "Internal intercostal muscles",
+        "Diaphragm",
+        "External intercostal muscles"
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "id": "C17Q34",
+      "statement": "The respiratory membrane consists of:",
+      "options": [
+        "Alveolar epithelium and capillary endothelium",
+        "Alveolar epithelium only",
+        "Capillary endothelium only",
+        "Bronchial epithelium and capillary endothelium"
+      ],
+      "answer": "Alveolar epithelium and capillary endothelium"
+    },
+    {
+      "id": "C17Q35",
+      "statement": "Which of the following is true about surfactant?",
+      "options": [
+        "Prevents gas exchange",
+        "Increases surface tension",
+        "Decreases surface tension",
+        "Has no effect on surface tension"
+      ],
+      "answer": "Decreases surface tension"
+    },
+    {
+      "id": "C17Q36",
+      "statement": "The partial pressure of oxygen in atmospheric air is about:",
+      "options": [
+        "100 mm Hg",
+        "200 mm Hg",
+        "40 mm Hg",
+        "159 mm Hg"
+      ],
+      "answer": "159 mm Hg"
+    },
+    {
+      "id": "C17Q37",
+      "statement": "Which of the following is the correct order of decreasing pO₂?",
+      "options": [
+        "Alveolar air > atmospheric air > arterial blood > venous blood",
+        "Atmospheric air > alveolar air > arterial blood > venous blood",
+        "Alveolar air > arterial blood > venous blood > atmospheric air",
+        "Atmospheric air > alveolar air > venous blood > arterial blood"
+      ],
+      "answer": "Atmospheric air > alveolar air > arterial blood > venous blood"
+    },
+    {
+      "id": "C17Q38",
+      "statement": "The chemosensitive area in brain is sensitive to:",
+      "options": [
+        "Carbon dioxide concentration",
+        "Oxygen concentration",
+        "Both oxygen and carbon dioxide",
+        "Nitrogen concentration"
+      ],
+      "answer": "Carbon dioxide concentration"
+    },
+    {
+      "id": "C17Q39",
+      "statement": "Which of the following is true about emphysema?",
+      "options": [
+        "Decreased residual volume",
+        "Destruction of alveolar walls",
+        "Increased surfactant production",
+        "Increased vital capacity"
+      ],
+      "answer": "Destruction of alveolar walls"
+    },
+    {
+      "id": "C17Q40",
+      "statement": "The oxygen carrying capacity of hemoglobin is:",
+      "options": [
+        "4.34 ml O₂/g Hb",
+        "3.34 ml O₂/g Hb",
+        "2.34 ml O₂/g Hb",
+        "1.34 ml O₂/g Hb"
+      ],
+      "answer": "1.34 ml O₂/g Hb"
+    },
+    {
+      "id": "C17Q41",
+      "statement": "Which of the following is NOT a chronic respiratory disorder?",
+      "options": [
+        "Emphysema",
+        "Pneumonia",
+        "Chronic bronchitis",
+        "Asthma"
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "id": "C17Q42",
+      "statement": "The volume of anatomial dead space is about:",
+      "options": [
+        "500 ml",
+        "50 ml",
+        "1000 ml",
+        "150 ml"
+      ],
+      "answer": "150 ml"
+    },
+    {
+      "id": "C17Q43",
+      "statement": "Which of the following factors increases the rate of diffusion of gases?",
+      "options": [
+        "Decrease in pressure gradient",
+        "Increase in solubility of gas",
+        "Increase in diffusion distance",
+        "Decrease in surface area"
+      ],
+      "answer": "Increase in solubility of gas"
+    },
+    {
+      "id": "C17Q44",
+      "statement": "The respiratory quotient for carbohydrates is:",
+      "options": [
+        "1.3",
+        "0.8",
+        "1.0",
+        "0.7"
+      ],
+      "answer": "1.0"
+    },
+    {
+      "id": "C17Q45",
+      "statement": "Which of the following is true about fetal hemoglobin?",
+      "options": [
+        "Has higher affinity for oxygen than adult hemoglobin",
+        "Cannot bind oxygen",
+        "Has same affinity for oxygen as adult hemoglobin",
+        "Has lower affinity for oxygen than adult hemoglobin"
+      ],
+      "answer": "Has higher affinity for oxygen than adult hemoglobin"
+    },
+    {
+      "id": "C17Q46",
+      "statement": "The pneumotaxic centre is located in:",
+      "options": [
+        "Medulla oblongata",
+        "Pons",
+        "Cerebrum",
+        "Cerebellum"
+      ],
+      "answer": "Pons"
+    },
+    {
+      "id": "C17Q47",
+      "statement": "Which of the following is the correct pathway for CO₂ transport from tissues to lungs?",
+      "options": [
+        "Tissue → plasma → bicarbonate → RBC → alveoli",
+        "Tissue → RBC → plasma → bicarbonate → alveoli",
+        "Tissue → RBC → bicarbonate → plasma → alveoli",
+        "Tissue → plasma → RBC → bicarbonate → plasma → alveoli"
+      ],
+      "answer": "Tissue → plasma → RBC → bicarbonate → plasma → alveoli"
+    },
+    {
+      "id": "C17Q48",
+      "statement": "The apneustic centre is located in:",
+      "options": [
+        "Pons",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Cerebrum"
+      ],
+      "answer": "Pons"
+    },
+    {
+      "id": "C17Q49",
+      "statement": "Which of the following is true about asthma?",
+      "options": [
+        "It involves inflammation of bronchi and bronchioles",
+        "It results in decreased residual volume",
+        "It is caused by bacterial infection",
+        "It is characterized by destruction of alveolar walls"
+      ],
+      "answer": "It involves inflammation of bronchi and bronchioles"
+    },
+    {
+      "id": "C17Q50",
+      "statement": "The total lung capacity in adult human is about:",
+      "options": [
+        "1000-1500 ml",
+        "8000-10000 ml",
+        "4000-6000 ml",
+        "2000-2500 ml"
+      ],
+      "answer": "4000-6000 ml"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C17Q51",
+      "statement": "Which of the following statements about 2,3-diphosphoglycerate (2,3-DPG) is correct?",
+      "options": [
+        "It decreases oxygen affinity of hemoglobin",
+        "It has no effect on oxygen affinity",
+        "It binds to heme group of hemoglobin",
+        "It increases oxygen affinity of hemoglobin"
+      ],
+      "answer": "It decreases oxygen affinity of hemoglobin"
+    },
+    {
+      "id": "C17Q52",
+      "statement": "The oxygen dissociation curve shifts to right during exercise due to:",
+      "options": [
+        "Increase in 2,3-DPG",
+        "Decrease in pCO₂",
+        "Decrease in temperature",
+        "Increase in pH"
+      ],
+      "answer": "Increase in 2,3-DPG"
+    },
+    {
+      "id": "C17Q53",
+      "statement": "Which of the following is true about respiratory volumes?",
+      "options": [
+        "IRV + TV + ERV = Vital capacity",
+        "IRV + TV = Inspiratory capacity",
+        "All of the above",
+        "ERV + RV = Functional residual capacity"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C17Q54",
+      "statement": "The Hamburger phenomenon is another name for:",
+      "options": [
+        "Chloride shift",
+        "Oxygen dissociation",
+        "Bohr effect",
+        "Haldane effect"
+      ],
+      "answer": "Chloride shift"
+    },
+    {
+      "id": "C17Q55",
+      "statement": "Which of the following conditions would cause maximum shift of oxygen dissociation curve to left?",
+      "options": [
+        "High altitude",
+        "Fetal blood",
+        "Fever",
+        "Strenuous exercise"
+      ],
+      "answer": "Fetal blood"
+    },
+    {
+      "id": "C17Q56",
+      "statement": "The respiratory membrane thickness is about:",
+      "options": [
+        "1.0 μm",
+        "5.0 μm",
+        "0.5 μm",
+        "0.1 μm"
+      ],
+      "answer": "0.5 μm"
+    },
+    {
+      "id": "C17Q57",
+      "statement": "Which of the following is true about carbon monoxide poisoning?",
+      "options": [
+        "It increases CO₂ carrying capacity",
+        "It decreases oxygen carrying capacity of blood",
+        "It increases oxygen carrying capacity of blood",
+        "It has no effect on oxygen carrying capacity"
+      ],
+      "answer": "It decreases oxygen carrying capacity of blood"
+    },
+    {
+      "id": "C17Q58",
+      "statement": "The most important factor that affects diffusion capacity of respiratory membrane is:",
+      "options": [
+        "Surface area of membrane",
+        "Thickness of membrane",
+        "Pressure gradient of gases",
+        "Solubility of gases"
+      ],
+      "answer": "Surface area of membrane"
+    },
+    {
+      "id": "C17Q59",
+      "statement": "Which of the following statements about pleural fluid is correct?",
+      "options": [
+        "It increases friction during breathing",
+        "It allows easy sliding of lungs during breathing",
+        "It decreases surface tension in alveoli",
+        "It prevents gas exchange"
+      ],
+      "answer": "It allows easy sliding of lungs during breathing"
+    },
+    {
+      "id": "C17Q60",
+      "statement": "The respiratory quotient for fat is about:",
+      "options": [
+        "0.7",
+        "1.0",
+        "0.8",
+        "1.3"
+      ],
+      "answer": "0.7"
+    },
+    {
+      "id": "C17Q61",
+      "statement": "Which of the following is true about compliance of lungs?",
+      "options": [
+        "It increases in fibrosis",
+        "It decreases in emphysema",
+        "It is not affected by surfactant",
+        "It is the ability of lungs to expand"
+      ],
+      "answer": "It is the ability of lungs to expand"
+    },
+    {
+      "id": "C17Q62",
+      "statement": "The most powerful stimulus for breathing in healthy person is:",
+      "options": [
+        "Increase in carbon dioxide level",
+        "Increase in temperature",
+        "Decrease in oxygen level",
+        "Decrease in pH"
+      ],
+      "answer": "Increase in carbon dioxide level"
+    },
+    {
+      "id": "C17Q63",
+      "statement": "Which of the following is true about neonatal respiratory distress syndrome?",
+      "options": [
+        "It is caused by deficiency of surfactant",
+        "It affects elderly people",
+        "It is caused by excess surfactant",
+        "It increases lung compliance"
+      ],
+      "answer": "It is caused by deficiency of surfactant"
+    },
+    {
+      "id": "C17Q64",
+      "statement": "The partial pressure of oxygen in tissues is about:",
+      "options": [
+        "159 mm Hg",
+        "95 mm Hg",
+        "40 mm Hg",
+        "100 mm Hg"
+      ],
+      "answer": "40 mm Hg"
+    },
+    {
+      "id": "C17Q65",
+      "statement": "Which of the following factors does NOT affect pulmonary ventilation?",
+      "options": [
+        "Blood glucose level",
+        "Airway resistance",
+        "Surface tension",
+        "Lung compliance"
+      ],
+      "answer": "Blood glucose level"
+    },
+    {
+      "id": "C17Q66",
+      "statement": "The Haldane effect is quantitatively more important than Bohr effect because:",
+      "options": [
+        "CO₂ is transported mainly as bicarbonate",
+        "O₂ is transported mainly as oxyhemoglobin",
+        "CO₂ is more soluble than O₂",
+        "O₂ is more soluble than CO₂"
+      ],
+      "answer": "CO₂ is more soluble than O₂"
+    },
+    {
+      "id": "C17Q67",
+      "statement": "Which of the following is true about diving mammals?",
+      "options": [
+        "They have higher myoglobin content",
+        "They have no myoglobin",
+        "They have lower myoglobin content",
+        "They don't use oxygen for respiration"
+      ],
+      "answer": "They have higher myoglobin content"
+    },
+    {
+      "id": "C17Q68",
+      "statement": "The respiratory centre is most sensitive to:",
+      "options": [
+        "Decrease in pH",
+        "Decrease in pO₂",
+        "Both increase in pCO₂ and decrease in pH",
+        "Increase in pCO₂"
+      ],
+      "answer": "Both increase in pCO₂ and decrease in pH"
+    },
+    {
+      "id": "C17Q69",
+      "statement": "Which of the following is the correct sequence of events in CO₂ transport?",
+      "options": [
+        "H₂CO₃ → CO₂ + H₂O → H⁺ + HCO₃⁻",
+        "CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻",
+        "CO₂ + H₂O → HCO₃⁻ + H⁺ → H₂CO₃",
+        "HCO₃⁻ + H⁺ → H₂CO₃ → CO₂ + H₂O"
+      ],
+      "answer": "CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻"
+    },
+    {
+      "id": "C17Q70",
+      "statement": "The maximum diffusion capacity for oxygen in human lungs is about:",
+      "options": [
+        "21 ml/min/mm Hg",
+        "100 ml/min/mm Hg",
+        "50 ml/min/mm Hg",
+        "10 ml/min/mm Hg"
+      ],
+      "answer": "21 ml/min/mm Hg"
+    },
+    {
+      "id": "C17Q71",
+      "statement": "Which of the following is true about Cheyne-Stokes breathing?",
+      "options": [
+        "It indicates brain damage",
+        "It is characterized by increased depth and rate",
+        "It is seen in healthy athletes",
+        "It is normal during sleep"
+      ],
+      "answer": "It indicates brain damage"
+    },
+    {
+      "id": "C17Q72",
+      "statement": "The respiratory quotient for protein is about:",
+      "options": [
+        "0.7",
+        "1.3",
+        "0.8",
+        "1.0"
+      ],
+      "answer": "0.8"
+    },
+    {
+      "id": "C17Q73",
+      "statement": "Which of the following is NOT a function of nasal cavity?",
+      "options": [
+        "Warming of air",
+        "Humidification of air",
+        "Gas exchange",
+        "Filtering of air"
+      ],
+      "answer": "Gas exchange"
+    },
+    {
+      "id": "C17Q74",
+      "statement": "The most important muscle for forced expiration is:",
+      "options": [
+        "Abdominal muscles",
+        "Internal intercostal muscles",
+        "External intercostal muscles",
+        "Diaphragm"
+      ],
+      "answer": "Abdominal muscles"
+    },
+    {
+      "id": "C17Q75",
+      "statement": "Which of the following is true about carbonic anhydrase?",
+      "options": [
+        "It catalyzes CO₂ + H₂O ⇌ H₂CO₃",
+        "It is not required for CO₂ transport",
+        "It works better at alkaline pH",
+        "It is present in plasma"
+      ],
+      "answer": "It catalyzes CO₂ + H₂O ⇌ H₂CO₃"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C17Q76",
+      "statement": "Which of the following is the correct combination for transport of respiratory gases?",
+      "options": [
+        "O₂ - 97% as oxyhemoglobin, CO₂ - 70% as bicarbonate",
+        "O₂ - 70% as oxyhemoglobin, CO₂ - 97% as bicarbonate",
+        "O₂ - 3% dissolved in plasma, CO₂ - 7% dissolved in plasma",
+        "O₂ - 23% as carbaminohemoglobin, CO₂ - 20% as carbaminohemoglobin"
+      ],
+      "answer": "O₂ - 97% as oxyhemoglobin, CO₂ - 70% as bicarbonate"
+    },
+    {
+      "id": "C17Q77",
+      "statement": "A person has tidal volume of 500 ml, inspiratory reserve volume of 2500 ml, expiratory reserve volume of 1000 ml, and residual volume of 1200 ml. What is his vital capacity?",
+      "options": [
+        "3000 ml",
+        "4000 ml",
+        "4500 ml",
+        "5200 ml"
+      ],
+      "answer": "4000 ml"
+    },
+    {
+      "id": "C17Q78",
+      "statement": "Which of the following conditions will NOT shift the oxygen dissociation curve to right?",
+      "options": [
+        "Increase in temperature",
+        "Increase in 2,3-DPG concentration",
+        "Increase in H⁺ concentration",
+        "Increase in pH"
+      ],
+      "answer": "Increase in pH"
+    },
+    {
+      "id": "C17Q79",
+      "statement": "The volume of air that remains in conducting passageways and does not participate in gas exchange is called:",
+      "options": [
+        "Tidal volume",
+        "Residual volume",
+        "Anatomical dead space",
+        "Physiological dead space"
+      ],
+      "answer": "Anatomical dead space"
+    },
+    {
+      "id": "C17Q80",
+      "statement": "Which of the following is the correct statement about regulation of respiration?",
+      "options": [
+        "Pneumotaxic centre stimulates inspiration",
+        "Apneustic centre inhibits inspiration",
+        "Chemoreceptors are sensitive to O₂ only",
+        "Medulla contains the rhythmicity area"
+      ],
+      "answer": "Medulla contains the rhythmicity area"
+    },
+    {
+      "id": "C17Q81",
+      "statement": "A person at high altitude will have:",
+      "options": [
+        "Decreased breathing rate",
+        "Increased oxygen affinity of hemoglobin",
+        "Increased 2,3-DPG concentration",
+        "Decreased pulmonary ventilation"
+      ],
+      "answer": "Increased 2,3-DPG concentration"
+    },
+    {
+      "id": "C17Q82",
+      "statement": "Which of the following is true about carbon dioxide transport?",
+      "options": [
+        "Most CO₂ is transported as carbaminohemoglobin",
+        "Chloride shift occurs in arterial blood",
+        "Haldane effect promotes CO₂ transport in tissues",
+        "Bohr effect promotes CO₂ transport in lungs"
+      ],
+      "answer": "Haldane effect promotes CO₂ transport in tissues"
+    },
+    {
+      "id": "C17Q83",
+      "statement": "The respiratory membrane consists of all EXCEPT:",
+      "options": [
+        "Alveolar epithelium",
+        "Basement membrane",
+        "Capillary endothelium",
+        "Bronchial epithelium"
+      ],
+      "answer": "Bronchial epithelium"
+    },
+    {
+      "id": "C17Q84",
+      "statement": "Which of the following pairs is correctly matched?",
+      "options": [
+        "Emphysema - Increased vital capacity",
+        "Asthma - Bacterial infection of alveoli",
+        "Pneumonia - Fluid accumulation in alveoli",
+        "Bronchitis - Destruction of alveolar walls"
+      ],
+      "answer": "Pneumonia - Fluid accumulation in alveoli"
+    },
+    {
+      "id": "C17Q85",
+      "statement": "The chloride shift involves:",
+      "options": [
+        "Movement of Cl⁻ into RBC in tissues",
+        "Movement of Cl⁻ out of RBC in tissues",
+        "Movement of Cl⁻ into RBC in lungs",
+        "Movement of HCO₃⁻ into RBC in tissues"
+      ],
+      "answer": "Movement of Cl⁻ into RBC in tissues"
+    },
+    {
+      "id": "C17Q86",
+      "statement": "Which of the following factors increases the rate of gas diffusion across respiratory membrane?",
+      "options": [
+        "Increase in membrane thickness",
+        "Decrease in pressure gradient",
+        "Increase in solubility of gas",
+        "Decrease in surface area"
+      ],
+      "answer": "Increase in solubility of gas"
+    },
+    {
+      "id": "C17Q87",
+      "statement": "The oxygen dissociation curve is sigmoid because:",
+      "options": [
+        "Hemoglobin has four heme groups",
+        "Hemoglobin shows cooperative binding",
+        "Oxygen is poorly soluble in blood",
+        "Carbon dioxide competes for binding sites"
+      ],
+      "answer": "Hemoglobin shows cooperative binding"
+    },
+    {
+      "id": "C17Q87",
+      "statement": "In which of the following conditions would you expect the oxygen dissociation curve to shift maximally to left?",
+      "options": [
+        "Strenuous exercise",
+        "High altitude",
+        "Carbon monoxide poisoning",
+        "Fetal blood"
+      ],
+      "answer": "Fetal blood"
+    },
+    {
+      "id": "C17Q88",
+      "statement": "Which of the following statements about surfactant is correct?",
+      "options": [
+        "It is produced by type I pneumocytes",
+        "It increases surface tension",
+        "Its deficiency causes emphysema",
+        "It prevents alveolar collapse"
+      ],
+      "answer": "It prevents alveolar collapse"
+    },
+    {
+      "id": "C17Q89",
+      "statement": "The most important stimulus for controlling respiration under normal conditions is:",
+      "options": [
+        "Oxygen concentration in blood",
+        "Carbon dioxide concentration in blood",
+        "pH of blood",
+        "Blood pressure"
+      ],
+      "answer": "Carbon dioxide concentration in blood"
+    },
+    {
+      "id": "C17Q90",
+      "statement": "Which of the following is true about myoglobin?",
+      "options": [
+        "It has lower affinity for oxygen than hemoglobin",
+        "It shows cooperative binding",
+        "It has hyperbolic dissociation curve",
+        "It is found in blood plasma"
+      ],
+      "answer": "It has hyperbolic dissociation curve"
+    },
+    {
+      "id": "C17Q91",
+      "statement": "The respiratory quotient is less than 1 when the respiratory substrate is:",
+      "options": [
+        "Glucose only",
+        "Fat only",
+        "Protein only",
+        "Both fat and protein"
+      ],
+      "answer": "Both fat and protein"
+    },
+    {
+      "id": "C17Q92",
+      "statement": "Which of the following is NOT a feature of emphysema?",
+      "options": [
+        "Increased vital capacity",
+        "Decreased elastic recoil",
+        "Destruction of alveolar walls",
+        "Difficulty in expiration"
+      ],
+      "answer": "Increased vital capacity"
+    },
+    {
+      "id": "C17Q93",
+      "statement": "The Hering-Breuer reflex prevents:",
+      "options": [
+        "Hyperventilation",
+        "Hypoventilation",
+        "Overinflation of lungs",
+        "Collapse of lungs"
+      ],
+      "answer": "Overinflation of lungs"
+    },
+    {
+      "id": "C17Q94",
+      "statement": "Which of the following is the correct pathway for oxygen transport from alveoli to tissues?",
+      "options": [
+        "Alveoli → plasma → RBC → oxyhemoglobin → tissues",
+        "Alveoli → RBC → plasma → oxyhemoglobin → tissues",
+        "Alveoli → plasma → oxyhemoglobin → RBC → tissues",
+        "Alveoli → RBC → oxyhemoglobin → plasma → tissues"
+      ],
+      "answer": "Alveoli → plasma → RBC → oxyhemoglobin → tissues"
+    },
+    {
+      "id": "C17Q95",
+      "statement": "The volume of air that can be inspired after normal inspiration is called:",
+      "options": [
+        "Tidal volume",
+        "Inspiratory reserve volume",
+        "Expiratory reserve volume",
+        "Inspiratory capacity"
+      ],
+      "answer": "Inspiratory reserve volume"
+    },
+    {
+      "id": "C17Q96",
+      "statement": "Which of the following is true about carbonic anhydrase?",
+      "options": [
+        "It is present in plasma",
+        "It catalyzes reversible reaction between CO₂ and H₂O",
+        "It works better at alkaline pH",
+        "It is not required for CO₂ transport"
+      ],
+      "answer": "It catalyzes reversible reaction between CO₂ and H₂O"
+    },
+    {
+      "id": "C17Q97",
+      "statement": "The partial pressure of carbon dioxide in alveolar air is about:",
+      "options": [
+        "40 mm Hg",
+        "45 mm Hg",
+        "100 mm Hg",
+        "159 mm Hg"
+      ],
+      "answer": "40 mm Hg"
+    },
+    {
+      "id": "C17Q98",
+      "statement": "Which of the following muscles is NOT involved in forced inspiration?",
+      "options": [
+        "Sternocleidomastoid",
+        "Scalene muscles",
+        "Abdominal muscles",
+        "Pectoralis minor"
+      ],
+      "answer": "Abdominal muscles"
+    },
+    {
+      "id": "C17Q99",
+      "statement": "The oxygen carrying capacity of blood is reduced in:",
+      "options": [
+        "Polycythemia",
+        "Anemia",
+        "Leukemia",
+        "Thrombocytopenia"
+      ],
+      "answer": "Anemia"
+    },
+    {
+      "id": "C17Q100",
+      "statement": "Which of the following is true about the regulation of breathing?",
+      "options": [
+        "Central chemoreceptors are sensitive to O₂",
+        "Peripheral chemoreceptors are sensitive to CO₂ only",
+        "Aortic and carotid bodies are peripheral chemoreceptors",
+        "Medulla is not involved in respiratory rhythm"
+      ],
+      "answer": "Aortic and carotid bodies are peripheral chemoreceptors"
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "body_fluids_and_circulation",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 15,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C15Q1",
+      "statement": "Which of the following is the most abundant cellular component of blood?",
+      "options": [
+        "Leucocytes",
+        "Erythrocytes",
+        "Thrombocytes",
+        "Lymphocytes"
+      ],
+      "answer": "Erythrocytes"
+    },
+    {
+      "id": "C15Q2",
+      "statement": "What percentage of blood is composed of plasma?",
+      "options": [
+        "35%",
+        "65%",
+        "55%",
+        "45%"
+      ],
+      "answer": "55%"
+    },
+    {
+      "id": "C15Q3",
+      "statement": "Which plasma protein is primarily involved in blood clotting?",
+      "options": [
+        "Hemoglobin",
+        "Albumin",
+        "Globulin",
+        "Fibrinogen"
+      ],
+      "answer": "Fibrinogen"
+    },
+    {
+      "id": "C15Q4",
+      "statement": "What is the average life span of red blood cells in humans?",
+      "options": [
+        "30 days",
+        "180 days",
+        "60 days",
+        "120 days"
+      ],
+      "answer": "120 days"
+    },
+    {
+      "id": "C15Q5",
+      "statement": "Which organ is known as the 'graveyard of RBCs'?",
+      "options": [
+        "Bone marrow",
+        "Liver",
+        "Spleen",
+        "Kidney"
+      ],
+      "answer": "Spleen"
+    },
+    {
+      "id": "C15Q6",
+      "statement": "Which type of white blood cells are most abundant in human blood?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Monocytes",
+        "Lymphocytes"
+      ],
+      "answer": "Neutrophils"
+    },
+    {
+      "id": "C15Q7",
+      "statement": "What is the normal range of platelets per mm³ of blood?",
+      "options": [
+        "50,000-100,000",
+        "150,000-350,000",
+        "100,000-200,000",
+        "400,000-500,000"
+      ],
+      "answer": "150,000-350,000"
+    },
+    {
+      "id": "C15Q8",
+      "statement": "Which blood group is called the 'universal donor'?",
+      "options": [
+        "B",
+        "O",
+        "AB",
+        "A"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "C15Q9",
+      "statement": "Which blood group is called the 'universal recipient'?",
+      "options": [
+        "B",
+        "A",
+        "O",
+        "AB"
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": "C15Q10",
+      "statement": "What percentage of humans are Rh positive?",
+      "options": [
+        "About 50%",
+        "About 20%",
+        "About 80%",
+        "About 95%"
+      ],
+      "answer": "About 80%"
+    },
+    {
+      "id": "C15Q11",
+      "statement": "Which enzyme converts fibrinogen to fibrin during blood clotting?",
+      "options": [
+        "Prothrombin",
+        "Thrombokinase",
+        "Heparin",
+        "Thrombin"
+      ],
+      "answer": "Thrombin"
+    },
+    {
+      "id": "C15Q12",
+      "statement": "What is the fluid collected by the lymphatic system called?",
+      "options": [
+        "Plasma",
+        "Interstitial fluid",
+        "Lymph",
+        "Serum"
+      ],
+      "answer": "Lymph"
+    },
+    {
+      "id": "C15Q13",
+      "statement": "Which type of circulatory system is present in arthropods and molluscs?",
+      "options": [
+        "Single circulatory system",
+        "Closed circulatory system",
+        "Double circulatory system",
+        "Open circulatory system"
+      ],
+      "answer": "Open circulatory system"
+    },
+    {
+      "id": "C15Q14",
+      "statement": "How many chambers does a fish heart have?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "answer": "Two"
+    },
+    {
+      "id": "C15Q15",
+      "statement": "Which animals have a four-chambered heart?",
+      "options": [
+        "Fishes",
+        "Birds and mammals",
+        "Reptiles (except crocodiles)",
+        "Amphibians"
+      ],
+      "answer": "Birds and mammals"
+    },
+    {
+      "id": "C15Q16",
+      "statement": "Where is the human heart located?",
+      "options": [
+        "Abdominal cavity",
+        "Pelvic cavity",
+        "Cranial cavity",
+        "Thoracic cavity"
+      ],
+      "answer": "Thoracic cavity"
+    },
+    {
+      "id": "C15Q17",
+      "statement": "What is the protective membrane surrounding the heart called?",
+      "options": [
+        "Peritoneum",
+        "Pleura",
+        "Pericardium",
+        "Meninges"
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "id": "C15Q18",
+      "statement": "Which valve guards the opening between the right atrium and right ventricle?",
+      "options": [
+        "Bicuspid valve",
+        "Mitral valve",
+        "Tricuspid valve",
+        "Semilunar valve"
+      ],
+      "answer": "Tricuspid valve"
+    },
+    {
+      "id": "C15Q19",
+      "statement": "What is the normal heart rate in a healthy adult?",
+      "options": [
+        "50-60 beats per minute",
+        "60-70 beats per minute",
+        "80-90 beats per minute",
+        "70-75 beats per minute"
+      ],
+      "answer": "70-75 beats per minute"
+    },
+    {
+      "id": "C15Q20",
+      "statement": "Which part of the heart is known as the pacemaker?",
+      "options": [
+        "Purkinje fibers",
+        "Bundle of His",
+        "SA node",
+        "AV node"
+      ],
+      "answer": "SA node"
+    },
+    {
+      "id": "C15Q21",
+      "statement": "What does the P-wave in an ECG represent?",
+      "options": [
+        "Depolarization of atria",
+        "Repolarization of ventricles",
+        "Depolarization of ventricles",
+        "Repolarization of atria"
+      ],
+      "answer": "Depolarization of atria"
+    },
+    {
+      "id": "C15Q22",
+      "statement": "Which circulation carries blood between the heart and lungs?",
+      "options": [
+        "Coronary circulation",
+        "Pulmonary circulation",
+        "Systemic circulation",
+        "Hepatic circulation"
+      ],
+      "answer": "Pulmonary circulation"
+    },
+    {
+      "id": "C15Q23",
+      "statement": "What is the term for high blood pressure?",
+      "options": [
+        "Hypotension",
+        "Hypertension",
+        "Atherosclerosis",
+        "Angina"
+      ],
+      "answer": "Hypertension"
+    },
+    {
+      "id": "C15Q24",
+      "statement": "Which disease is characterized by narrowing of arteries due to fatty deposits?",
+      "options": [
+        "Heart failure",
+        "Atherosclerosis",
+        "Angina",
+        "Hypertension"
+      ],
+      "answer": "Atherosclerosis"
+    },
+    {
+      "id": "C15Q25",
+      "statement": "What is the volume of blood pumped by each ventricle per minute called?",
+      "options": [
+        "Cardiac output",
+        "Stroke volume",
+        "Blood pressure",
+        "Heart rate"
+      ],
+      "answer": "Cardiac output"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C15Q26",
+      "statement": "If a person has anti-A antibodies in their plasma, what is their blood group?",
+      "options": [
+        "O",
+        "B",
+        "AB",
+        "A"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "C15Q27",
+      "statement": "Which ion plays a crucial role in the blood clotting process?",
+      "options": [
+        "Chloride ion (Cl⁻)",
+        "Sodium ion (Na⁺)",
+        "Potassium ion (K⁺)",
+        "Calcium ion (Ca²⁺)"
+      ],
+      "answer": "Calcium ion (Ca²⁺)"
+    },
+    {
+      "id": "C15Q28",
+      "statement": "What would happen if the SA node stops functioning?",
+      "options": [
+        "Heart will stop beating",
+        "AV node will take over as pacemaker",
+        "Atria will contract continuously",
+        "Ventricles will contract randomly"
+      ],
+      "answer": "AV node will take over as pacemaker"
+    },
+    {
+      "id": "C15Q29",
+      "statement": "During ventricular systole, which valves are closed?",
+      "options": [
+        "Only bicuspid valve",
+        "Semilunar valves",
+        "Tricuspid and bicuspid valves",
+        "Only tricuspid valve"
+      ],
+      "answer": "Tricuspid and bicuspid valves"
+    },
+    {
+      "id": "C15Q30",
+      "statement": "Which component of blood is responsible for immune responses?",
+      "options": [
+        "Erythrocytes",
+        "Plasma proteins",
+        "Thrombocytes",
+        "Leucocytes"
+      ],
+      "answer": "Leucocytes"
+    },
+    {
+      "id": "C15Q31",
+      "statement": "What is the condition called when a Rh-negative mother carries a Rh-positive fetus?",
+      "options": [
+        "Haemophilia",
+        "Erythroblastosis fetalis",
+        "Thalassemia",
+        "Leukaemia"
+      ],
+      "answer": "Erythroblastosis fetalis"
+    },
+    {
+      "id": "C15Q32",
+      "statement": "Which blood cells are responsible for allergic reactions?",
+      "options": [
+        "Neutrophils",
+        "Basophils",
+        "Lymphocytes",
+        "Eosinophils"
+      ],
+      "answer": "Eosinophils"
+    },
+    {
+      "id": "C15Q33",
+      "statement": "What is the function of the hepatic portal system?",
+      "options": [
+        "Carry blood from liver to heart",
+        "Carry blood from intestine to liver",
+        "Carry blood from liver to intestine",
+        "Carry blood from heart to liver"
+      ],
+      "answer": "Carry blood from intestine to liver"
+    },
+    {
+      "id": "C15Q34",
+      "statement": "Which part of the heart has the thickest muscular wall?",
+      "options": [
+        "Right ventricle",
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle"
+      ],
+      "answer": "Left ventricle"
+    },
+    {
+      "id": "C15Q35",
+      "statement": "What is the duration of one cardiac cycle if heart rate is 75 beats per minute?",
+      "options": [
+        "1.2 seconds",
+        "0.8 seconds",
+        "0.6 seconds",
+        "1.0 seconds"
+      ],
+      "answer": "0.8 seconds"
+    },
+    {
+      "id": "C15Q36",
+      "statement": "Which wave in ECG represents repolarization of ventricles?",
+      "options": [
+        "T wave",
+        "QRS complex",
+        "P wave",
+        "U wave"
+      ],
+      "answer": "T wave"
+    },
+    {
+      "id": "C15Q37",
+      "statement": "What is the average stroke volume of blood pumped by each ventricle per beat?",
+      "options": [
+        "70 mL",
+        "50 mL",
+        "90 mL",
+        "110 mL"
+      ],
+      "answer": "70 mL"
+    },
+    {
+      "id": "C15Q38",
+      "statement": "Which type of WBCs are involved in phagocytosis?",
+      "options": [
+        "Neutrophils and monocytes",
+        "Basophils and lymphocytes",
+        "Eosinophils and basophils",
+        "Lymphocytes and monocytes"
+      ],
+      "answer": "Neutrophils and monocytes"
+    },
+    {
+      "id": "C15Q39",
+      "statement": "What is the normal hemoglobin content in 100 mL of blood in a healthy individual?",
+      "options": [
+        "12-16 g",
+        "18-20 g",
+        "8-10 g",
+        "20-22 g"
+      ],
+      "answer": "12-16 g"
+    },
+    {
+      "id": "C15Q40",
+      "statement": "Which blood cells are produced from megakaryocytes?",
+      "options": [
+        "Platelets",
+        "Leucocytes",
+        "Erythrocytes",
+        "Lymphocytes"
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "id": "C15Q41",
+      "statement": "What is the function of albumin in plasma?",
+      "options": [
+        "Osmotic balance",
+        "Oxygen transport",
+        "Blood clotting",
+        "Immune defense"
+      ],
+      "answer": "Osmotic balance"
+    },
+    {
+      "id": "C15Q42",
+      "statement": "Which blood vessels have valves to prevent backflow of blood?",
+      "options": [
+        "Arterioles",
+        "Veins",
+        "Capillaries",
+        "Arteries"
+      ],
+      "answer": "Veins"
+    },
+    {
+      "id": "C15Q43",
+      "statement": "What is the first heart sound (lub) associated with?",
+      "options": [
+        "Opening of tricuspid and bicuspid valves",
+        "Closure of tricuspid and bicuspid valves",
+        "Opening of semilunar valves",
+        "Closure of semilunar valves"
+      ],
+      "answer": "Closure of tricuspid and bicuspid valves"
+    },
+    {
+      "id": "C15Q44",
+      "statement": "Which system moderates the heart function through autonomic nervous system?",
+      "options": [
+        "Vasomotor center in medulla",
+        "Respiratory center in pons",
+        "Thermoregulatory center in hypothalamus",
+        "Cardiac center in medulla oblongata"
+      ],
+      "answer": "Cardiac center in medulla oblongata"
+    },
+    {
+      "id": "C15Q45",
+      "statement": "What is the main difference between serum and plasma?",
+      "options": [
+        "Plasma lacks antibodies",
+        "Plasma has clotting factors",
+        "Serum has more proteins",
+        "Serum has formed elements"
+      ],
+      "answer": "Plasma has clotting factors"
+    },
+    {
+      "id": "C15Q46",
+      "statement": "Which type of circulation is found in amphibians?",
+      "options": [
+        "Complete double circulation",
+        "Open circulation",
+        "Single circulation",
+        "Incomplete double circulation"
+      ],
+      "answer": "Incomplete double circulation"
+    },
+    {
+      "id": "C15Q47",
+      "statement": "What is the function of chordae tendineae in the heart?",
+      "options": [
+        "Generate action potentials",
+        "Connect atria to ventricles",
+        "Anchor AV valves to ventricular walls",
+        "Prevent backflow of blood"
+      ],
+      "answer": "Anchor AV valves to ventricular walls"
+    },
+    {
+      "id": "C15Q48",
+      "statement": "Which blood cells lack nucleus in mammals?",
+      "options": [
+        "Leucocytes",
+        "Thrombocytes",
+        "Erythrocytes",
+        "Lymphocytes"
+      ],
+      "answer": "Erythrocytes"
+    },
+    {
+      "id": "C15Q49",
+      "statement": "What is the normal range of WBCs per mm³ of blood?",
+      "options": [
+        "2,000-4,000",
+        "4,000-6,000",
+        "8,000-10,000",
+        "6,000-8,000"
+      ],
+      "answer": "6,000-8,000"
+    },
+    {
+      "id": "C15Q50",
+      "statement": "Which hormone can increase cardiac output?",
+      "options": [
+        "All of the above",
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "answer": "Adrenaline"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C15Q51",
+      "statement": "In the ABO blood grouping system, what would be the genotype of a person with blood group O?",
+      "options": [
+        "IOIO",
+        "IAIA",
+        "IAIO",
+        "IAIB"
+      ],
+      "answer": "IOIO"
+    },
+    {
+      "id": "C15Q52",
+      "statement": "During the cardiac cycle, when are all four chambers of the heart in diastole?",
+      "options": [
+        "Atrial systole",
+        "Joint diastole",
+        "Never",
+        "Ventricular systole"
+      ],
+      "answer": "Joint diastole"
+    },
+    {
+      "id": "C15Q53",
+      "statement": "Which of the following statements about the conduction system of the heart is incorrect?",
+      "options": [
+        "AV node is located in the right atrium",
+        "Bundle of His conducts impulses from atria to ventricles",
+        "Purkinje fibers are found in the atria",
+        "SA node generates maximum action potentials"
+      ],
+      "answer": "Purkinje fibers are found in the atria"
+    },
+    {
+      "id": "C15Q54",
+      "statement": "What would be the cardiac output of a person with heart rate of 80 beats/minute and stroke volume of 60 mL?",
+      "options": [
+        "4.8 L/min",
+        "5.2 L/min",
+        "6.0 L/min",
+        "4.0 L/min"
+      ],
+      "answer": "4.8 L/min"
+    },
+    {
+      "id": "C15Q55",
+      "statement": "Which of the following is not a function of lymph?",
+      "options": [
+        "Immune defense",
+        "Fat absorption",
+        "Drainage of tissue fluid",
+        "Transport of oxygen"
+      ],
+      "answer": "Transport of oxygen"
+    },
+    {
+      "id": "C15Q56",
+      "statement": "In the coagulation cascade, what is the role of thrombokinase?",
+      "options": [
+        "Neutralize heparin",
+        "Convert fibrinogen to fibrin",
+        "Activate platelets",
+        "Convert prothrombin to thrombin"
+      ],
+      "answer": "Convert prothrombin to thrombin"
+    },
+    {
+      "id": "C15Q57",
+      "statement": "Which of the following WBCs is not phagocytic?",
+      "options": [
+        "Macrophages",
+        "Neutrophils",
+        "Monocytes",
+        "Lymphocytes"
+      ],
+      "answer": "Lymphocytes"
+    },
+    {
+      "id": "C15Q58",
+      "statement": "What is the significance of the biconcave shape of RBCs?",
+      "options": [
+        "Helps in faster division",
+        "Makes them more flexible",
+        "Increases surface area for gas exchange",
+        "Both A and B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C15Q59",
+      "statement": "Which chamber of the heart receives deoxygenated blood from the body?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": "Right atrium"
+    },
+    {
+      "id": "C15Q60",
+      "statement": "What is the correct pathway of blood flow through the heart?",
+      "options": [
+        "Right ventricle → Right atrium → Pulmonary vein → Lungs → Pulmonary artery → Left atrium → Left ventricle → Aorta",
+        "Left atrium → Left ventricle → Pulmonary artery → Lungs → Pulmonary vein → Right atrium → Right ventricle → Aorta",
+        "Right atrium → Right ventricle → Pulmonary artery → Lungs → Pulmonary vein → Left atrium → Left ventricle → Aorta",
+        "Right atrium → Left atrium → Pulmonary artery → Lungs → Pulmonary vein → Right ventricle → Left ventricle → Aorta"
+      ],
+      "answer": "Right atrium → Right ventricle → Pulmonary artery → Lungs → Pulmonary vein → Left atrium → Left ventricle → Aorta"
+    },
+    {
+      "id": "C15Q61",
+      "statement": "Which of the following is not a difference between arteries and veins?",
+      "options": [
+        "Arteries have thicker walls than veins",
+        "Arteries carry oxygenated blood, veins carry deoxygenated blood",
+        "Arteries have smaller lumen than veins",
+        "Arteries have no valves, veins have valves"
+      ],
+      "answer": "Arteries carry oxygenated blood, veins carry deoxygenated blood"
+    },
+    {
+      "id": "C15Q62",
+      "statement": "What is the role of the semilunar valves?",
+      "options": [
+        "Prevent backflow of blood from atria to ventricles",
+        "Prevent backflow of blood from ventricles to atria",
+        "Prevent backflow of blood from veins to atria",
+        "Prevent backflow of blood from arteries to ventricles"
+      ],
+      "answer": "Prevent backflow of blood from arteries to ventricles"
+    },
+    {
+      "id": "C15Q63",
+      "statement": "Which of the following is not a formed element of blood?",
+      "options": [
+        "Albumin",
+        "Leucocyte",
+        "Thrombocyte",
+        "Erythrocyte"
+      ],
+      "answer": "Albumin"
+    },
+    {
+      "id": "C15Q64",
+      "statement": "What is the function of the coronary circulation?",
+      "options": [
+        "Supply blood to the lungs",
+        "Supply blood to the brain",
+        "Supply blood to the digestive system",
+        "Supply blood to the heart muscle"
+      ],
+      "answer": "Supply blood to the heart muscle"
+    },
+    {
+      "id": "C15Q65",
+      "statement": "Which of the following statements about blood groups is correct?",
+      "options": [
+        "Rh negative person has Rh antigens on RBCs",
+        "Group AB has both A and B antigens on RBCs",
+        "Group A can receive blood from group B",
+        "Group O has both A and B antibodies in plasma"
+      ],
+      "answer": "Group AB has both A and B antigens on RBCs"
+    },
+    {
+      "id": "C15Q66",
+      "statement": "What is the role of the atrioventricular node (AV node)?",
+      "options": [
+        "Contract the atria",
+        "Delay impulse conduction to ventricles",
+        "Initiate heart beat",
+        "Contract the ventricles"
+      ],
+      "answer": "Delay impulse conduction to ventricles"
+    },
+    {
+      "id": "C15Q67",
+      "statement": "Which of the following is not a granulocyte?",
+      "options": [
+        "Neutrophil",
+        "Eosinophil",
+        "Basophil",
+        "Monocyte"
+      ],
+      "answer": "Monocyte"
+    },
+    {
+      "id": "C15Q68",
+      "statement": "What is the significance of the hepatic portal system?",
+      "options": [
+        "Filters blood through liver before systemic circulation",
+        "Directly delivers absorbed nutrients to heart",
+        "Drains deoxygenated blood from liver",
+        "Carries oxygenated blood to liver"
+      ],
+      "answer": "Filters blood through liver before systemic circulation"
+    },
+    {
+      "id": "C15Q69",
+      "statement": "Which of the following is not a feature of open circulatory system?",
+      "options": [
+        "Blood flows through open spaces",
+        "Blood directly bathes the cells",
+        "Blood pressure is high",
+        "Found in arthropods and molluscs"
+      ],
+      "answer": "Blood pressure is high"
+    },
+    {
+      "id": "C15Q70",
+      "statement": "What is the function of the Purkinje fibers?",
+      "options": [
+        "Delay impulse conduction",
+        "Rapidly conduct impulses through ventricles",
+        "Generate heart beat",
+        "Contract the atria"
+      ],
+      "answer": "Rapidly conduct impulses through ventricles"
+    },
+    {
+      "id": "C15Q71",
+      "statement": "Which of the following is not a component of plasma?",
+      "options": [
+        "Water",
+        "Electrolytes",
+        "Proteins",
+        "Formed elements"
+      ],
+      "answer": "Formed elements"
+    },
+    {
+      "id": "C15Q72",
+      "statement": "What is the role of the sympathetic nervous system on heart function?",
+      "options": [
+        "Decreases heart rate",
+        "Stops heart beat",
+        "Has no effect on heart rate",
+        "Increases heart rate"
+      ],
+      "answer": "Increases heart rate"
+    },
+    {
+      "id": "C15Q73",
+      "statement": "Which of the following is not a difference between blood and lymph?",
+      "options": [
+        "Blood has more proteins than lymph",
+        "Blood flows in blood vessels, lymph in lymph vessels",
+        "Blood has RBCs, lymph doesn't",
+        "Blood is colorless, lymph is red"
+      ],
+      "answer": "Blood is colorless, lymph is red"
+    },
+    {
+      "id": "C15Q74",
+      "statement": "What is the significance of the QRS complex in ECG?",
+      "options": [
+        "Atrial depolarization",
+        "Atrial repolarization",
+        "Ventricular repolarization",
+        "Ventricular depolarization"
+      ],
+      "answer": "Ventricular depolarization"
+    },
+    {
+      "id": "C15Q75",
+      "statement": "Which of the following is not a disorder of circulatory system?",
+      "options": [
+        "Atherosclerosis",
+        "Angina pectoris",
+        "Hypertension",
+        "Diabetes mellitus"
+      ],
+      "answer": "Diabetes mellitus"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C15Q76",
+      "statement": "A person with blood group AB requires blood transfusion. Which blood group(s) can donate blood to this person?",
+      "options": [
+        "A only",
+        "B only",
+        "AB only",
+        "A, B, AB, O"
+      ],
+      "answer": "A, B, AB, O"
+    },
+    {
+      "id": "C15Q77",
+      "statement": "In a standard ECG, which one of the following represents the depolarization of atria?",
+      "options": [
+        "P wave",
+        "QRS complex",
+        "T wave",
+        "All of these"
+      ],
+      "answer": "P wave"
+    },
+    {
+      "id": "C15Q78",
+      "statement": "Which of the following statements is correct regarding erythroblastosis fetalis?",
+      "options": [
+        "It occurs when father is Rh+ and mother is Rh-",
+        "It occurs when father is Rh- and mother is Rh+",
+        "It occurs when both father and mother are Rh+",
+        "It occurs when both father and mother are Rh-"
+      ],
+      "answer": "It occurs when father is Rh+ and mother is Rh-"
+    },
+    {
+      "id": "C15Q79",
+      "statement": "The QRS complex in a standard ECG represents:",
+      "options": [
+        "Depolarization of atria",
+        "Repolarization of atria",
+        "Depolarization of ventricles",
+        "Repolarization of ventricles"
+      ],
+      "answer": "Depolarization of ventricles"
+    },
+    {
+      "id": "C15Q80",
+      "statement": "Which of the following is a non-phagocytic white blood cell?",
+      "options": [
+        "Neutrophil",
+        "Monocyte",
+        "Lymphocyte",
+        "Eosinophil"
+      ],
+      "answer": "Lymphocyte"
+    },
+    {
+      "id": "C15Q81",
+      "statement": "Blood analysis of a patient reveals a high count of eosinophils. This could indicate:",
+      "options": [
+        "Bacterial infection",
+        "Viral infection",
+        "Allergic reaction",
+        "Blood clotting disorder"
+      ],
+      "answer": "Allergic reaction"
+    },
+    {
+      "id": "C15Q82",
+      "statement": "Which of the following events occurs during joint diastole?",
+      "options": [
+        "Blood enters the pulmonary artery",
+        "Blood enters the aorta",
+        "Blood enters the ventricles",
+        "Blood is pumped out of ventricles"
+      ],
+      "answer": "Blood enters the ventricles"
+    },
+    {
+      "id": "C15Q83",
+      "statement": "A person has A antigen on RBCs and anti-B antibodies in plasma. What is their blood group?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "C15Q84",
+      "statement": "Which of the following is not a function of platelets?",
+      "options": [
+        "Blood clotting",
+        "Release of thromboplastin",
+        "Phagocytosis",
+        "Release of serotonin"
+      ],
+      "answer": "Phagocytosis"
+    },
+    {
+      "id": "C15Q85",
+      "statement": "The 'lub' sound of heart is produced by:",
+      "options": [
+        "Closure of semilunar valves",
+        "Closure of atrioventricular valves",
+        "Opening of semilunar valves",
+        "Opening of atrioventricular valves"
+      ],
+      "answer": "Closure of atrioventricular valves"
+    },
+    {
+      "id": "C15Q86",
+      "statement": "Which of the following has the thickest walls?",
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": "Left ventricle"
+    },
+    {
+      "id": "C15Q87",
+      "statement": "The hepatic portal vein carries blood from:",
+      "options": [
+        "Intestine to liver",
+        "Liver to heart",
+        "Heart to liver",
+        "Liver to intestine"
+      ],
+      "answer": "Intestine to liver"
+    },
+    {
+      "id": "C15Q88",
+      "statement": "Which of the following is correct for veins?",
+      "options": [
+        "They carry oxygenated blood",
+        "They have thick muscular walls",
+        "They have valves",
+        "They have high blood pressure"
+      ],
+      "answer": "They have valves"
+    },
+    {
+      "id": "C15Q89",
+      "statement": "The pacemaker of human heart is:",
+      "options": [
+        "AV node",
+        "Bundle of His",
+        "SA node",
+        "Purkinje fibers"
+      ],
+      "answer": "SA node"
+    },
+    {
+      "id": "C15Q90",
+      "statement": "Which of the following is not a plasma protein?",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Fibrinogen",
+        "Hemoglobin"
+      ],
+      "answer": "Hemoglobin"
+    },
+    {
+      "id": "C15Q91",
+      "statement": "The T-wave in ECG represents:",
+      "options": [
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Atrial repolarization",
+        "Ventricular repolarization"
+      ],
+      "answer": "Ventricular repolarization"
+    },
+    {
+      "id": "C15Q92",
+      "statement": "Which of the following white blood cells is involved in antibody production?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Lymphocytes",
+        "Monocytes"
+      ],
+      "answer": "Lymphocytes"
+    },
+    {
+      "id": "C15Q93",
+      "statement": "The blood group which has no antigens on RBCs is:",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": "O"
+    },
+    {
+      "id": "C15Q94",
+      "statement": "Which of the following is not a feature of mammalian RBCs?",
+      "options": [
+        "Biconcave shape",
+        "Enucleated",
+        "Contains hemoglobin",
+        "Can divide"
+      ],
+      "answer": "Can divide"
+    },
+    {
+      "id": "C15Q95",
+      "statement": "The cardiac output is the product of:",
+      "options": [
+        "Heart rate and stroke volume",
+        "Heart rate and blood pressure",
+        "Stroke volume and blood pressure",
+        "Heart rate and cardiac cycle"
+      ],
+      "answer": "Heart rate and stroke volume"
+    },
+    {
+      "id": "C15Q96",
+      "statement": "Which of the following is responsible for initiating the heart beat?",
+      "options": [
+        "Purkinje fibers",
+        "AV node",
+        "SA node",
+        "Bundle of His"
+      ],
+      "answer": "SA node"
+    },
+    {
+      "id": "C15Q97",
+      "statement": "The life span of human RBCs is approximately:",
+      "options": [
+        "30 days",
+        "60 days",
+        "120 days",
+        "180 days"
+      ],
+      "answer": "120 days"
+    },
+    {
+      "id": "C15Q98",
+      "statement": "Which of the following blood cells play a role in blood clotting?",
+      "options": [
+        "RBCs",
+        "WBCs",
+        "Platelets",
+        "Lymphocytes"
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "id": "C15Q99",
+      "statement": "The 'dub' sound of heart is produced by:",
+      "options": [
+        "Closure of semilunar valves",
+        "Closure of atrioventricular valves",
+        "Opening of semilunar valves",
+        "Opening of atrioventricular valves"
+      ],
+      "answer": "Closure of semilunar valves"
+    },
+    {
+      "id": "C15Q100",
+      "statement": "Which of the following is not a component of the conduction system of heart?",
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Coronary sinus"
+      ],
+      "answer": "Coronary sinus"
+    }
+  ]
+}

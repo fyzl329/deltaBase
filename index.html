@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeltaBase | Home</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="preload" href="./styles.css" as="style">
+  <link rel="preload" href="./script.js" as="script">
+
+  <!-- Preconnects -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+  <!-- MathJax -->
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" defer></script>
+</head>
+
+<body data-page="home">
+  <header>
+    <div class="container header-inner">
+      <img src="./assets/deltabase-logo.svg" alt="DeltaBase" class="site-logo" />
+      <nav>
+        <a href="./index.html" class="active">Home</a>
+        <a href="./profile.html">My Profile</a>
+        <a href="./subjects.html?subject=physics">Physics</a>
+        <a href="./subjects.html?subject=chemistry">Chemistry</a>
+        <a href="./subjects.html?subject=math">Math</a>
+        <a href="./subjects.html?subject=biology">Biology</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="hero">
+    <h1 id="welcome-heading">Welcome to DeltaBase</h1>
+    <p id="welcome-sub" class="fade-sub">Your study companion for Physics, Chemistry, Math, and Biology.</p>
+
+    <div class="grid" style="margin-top:3rem;">
+      <a href="./subjects.html?subject=physics" class="card">
+        <div class="card-icon">⚛️</div>
+        <h3>Physics</h3>
+        <p>Kinematics, Derivations from First Principles, and more.</p>
+      </a>
+      <a href="./subjects.html?subject=chemistry" class="card">
+        <div class="card-icon">🧪</div>
+        <h3>Chemistry</h3>
+        <p>Bond Formation, Stoichiometry, and more.</p>
+      </a>
+      <a href="./subjects.html?subject=math" class="card">
+        <div class="card-icon">📐</div>
+        <h3>Mathematics</h3>
+        <p>Sets, Conic Sections, Number Theory, and more.</p>
+      </a>
+      <a href="./subjects.html?subject=biology" class="card">
+        <div class="card-icon">🧬</div>
+        <h3>Biology</h3>
+        <p>Human physiology, Photosynthesis, Cell Cycle, and more.</p>
+      </a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 DeltaBase • Built by Fayazul</p>
+  </footer>
+
+  <!-- Personalized greeting logic -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const storedName = localStorage.getItem("db:userName");
+      const heading = document.getElementById("welcome-heading");
+      const sub = document.getElementById("welcome-sub");
+
+      if (storedName && storedName.trim().length > 0) {
+        heading.textContent = `Hi, ${storedName.trim()} 👋`;
+        sub.textContent = "Ready to dive back into your subjects?";
+      }
+    });
+  </script>
+
+  <script src="./script.js"></script>
+</body>
+</html>

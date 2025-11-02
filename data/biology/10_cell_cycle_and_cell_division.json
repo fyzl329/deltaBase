@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "cell_cycle_and_cell_division",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 10,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C10Q1",
+      "statement": "Which phase of the cell cycle involves DNA replication?",
+      "options": [
+        "M phase",
+        "G2 phase",
+        "G1 phase",
+        "S phase"
+      ],
+      "answer": "S phase"
+    },
+    {
+      "id": "C10Q2",
+      "statement": "What is the sequence of phases in mitosis?",
+      "options": [
+        "Prophase, Metaphase, Anaphase, Telophase",
+        "Prophase, Anaphase, Metaphase, Telophase",
+        "Telophase, Anaphase, Metaphase, Prophase",
+        "Metaphase, Prophase, Anaphase, Telophase"
+      ],
+      "answer": "Prophase, Metaphase, Anaphase, Telophase"
+    },
+    {
+      "id": "C10Q3",
+      "statement": "During which phase of mitosis do chromosomes align at the equatorial plate?",
+      "options": [
+        "Metaphase",
+        "Prophase",
+        "Telophase",
+        "Anaphase"
+      ],
+      "answer": "Metaphase"
+    },
+    {
+      "id": "C10Q4",
+      "statement": "What is the significance of meiosis in sexually reproducing organisms?",
+      "options": [
+        "DNA replication",
+        "Growth and repair",
+        "Production of gametes",
+        "Asexual reproduction"
+      ],
+      "answer": "Production of gametes"
+    },
+    {
+      "id": "C10Q5",
+      "statement": "Which process results in the reduction of chromosome number by half?",
+      "options": [
+        "Budding",
+        "Meiosis",
+        "Binary fission",
+        "Mitosis"
+      ],
+      "answer": "Meiosis"
+    },
+    {
+      "id": "C10Q6",
+      "statement": "During which phase do sister chromatids separate and move to opposite poles?",
+      "options": [
+        "Anaphase",
+        "Telophase",
+        "Metaphase",
+        "Prophase"
+      ],
+      "answer": "Anaphase"
+    },
+    {
+      "id": "C10Q7",
+      "statement": "What is the main difference between plant and animal cell cytokinesis?",
+      "options": [
+        "Both form cell plates",
+        "Formation of cell plate in plants vs cleavage furrow in animals",
+        "Both form cleavage furrows",
+        "Formation of cleavage furrow in plants vs cell plate in animals"
+      ],
+      "answer": "Formation of cell plate in plants vs cleavage furrow in animals"
+    },
+    {
+      "id": "C10Q8",
+      "statement": "Which checkpoint ensures all chromosomes are properly attached to spindle fibers?",
+      "options": [
+        "S checkpoint",
+        "G2 checkpoint",
+        "M checkpoint",
+        "G1 checkpoint"
+      ],
+      "answer": "M checkpoint"
+    },
+    {
+      "id": "C10Q9",
+      "statement": "What is the diploid chromosome number in humans?",
+      "options": [
+        "23",
+        "46",
+        "16",
+        "92"
+      ],
+      "answer": "46"
+    },
+    {
+      "id": "C10Q10",
+      "statement": "During which phase of meiosis does crossing over occur?",
+      "options": [
+        "Anaphase I",
+        "Telophase I",
+        "Metaphase I",
+        "Prophase I"
+      ],
+      "answer": "Prophase I"
+    },
+    {
+      "id": "C10Q11",
+      "statement": "What is the result of mitosis in terms of chromosome number?",
+      "options": [
+        "Random distribution of chromosomes",
+        "No change in chromosome number",
+        "Doubling of chromosome number",
+        "Halving of chromosome number"
+      ],
+      "answer": "No change in chromosome number"
+    },
+    {
+      "id": "C10Q12",
+      "statement": "Which structure is responsible for organizing spindle fibers during cell division?",
+      "options": [
+        "Chromatids",
+        "Nucleolus",
+        "Centromeres",
+        "Centrioles"
+      ],
+      "answer": "Centrioles"
+    },
+    {
+      "id": "C10Q13",
+      "statement": "What is the function of the synaptonemal complex during meiosis?",
+      "options": [
+        "Formation of spindle fibers",
+        "Facilitation of crossing over",
+        "Alignment of chromosomes at metaphase plate",
+        "Separation of sister chromatids"
+      ],
+      "answer": "Facilitation of crossing over"
+    },
+    {
+      "id": "C10Q14",
+      "statement": "During which phase does the nuclear envelope break down?",
+      "options": [
+        "Metaphase",
+        "Telophase",
+        "Prophase",
+        "Anaphase"
+      ],
+      "answer": "Prophase"
+    },
+    {
+      "id": "C10Q15",
+      "statement": "What is the significance of chiasmata formation during meiosis?",
+      "options": [
+        "Point of chromosome separation",
+        "Site of genetic recombination",
+        "Site of spindle attachment",
+        "Location of centromere"
+      ],
+      "answer": "Site of genetic recombination"
+    },
+    {
+      "id": "C10Q16",
+      "statement": "Which phase is characterized by the condensation of chromosomes?",
+      "options": [
+        "Anaphase",
+        "Prophase",
+        "Metaphase",
+        "Interphase"
+      ],
+      "answer": "Prophase"
+    },
+    {
+      "id": "C10Q17",
+      "statement": "What is the role of cyclin-dependent kinases (CDKs) in cell cycle regulation?",
+      "options": [
+        "Chromosome condensation",
+        "DNA replication",
+        "Cell cycle progression",
+        "Cytokinesis"
+      ],
+      "answer": "Cell cycle progression"
+    },
+    {
+      "id": "C10Q18",
+      "statement": "During which meiotic division does reduction division occur?",
+      "options": [
+        "Both meiosis I and II",
+        "Meiosis I",
+        "Neither",
+        "Meiosis II"
+      ],
+      "answer": "Meiosis I"
+    },
+    {
+      "id": "C10Q19",
+      "statement": "What is the main difference between mitosis and meiosis II?",
+      "options": [
+        "DNA replication",
+        "Sister chromatid separation",
+        "Chromosome number",
+        "Spindle formation"
+      ],
+      "answer": "Sister chromatid separation"
+    },
+    {
+      "id": "C10Q20",
+      "statement": "Which process ensures genetic diversity in offspring?",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Meiosis",
+        "Mitosis"
+      ],
+      "answer": "Meiosis"
+    },
+    {
+      "id": "C10Q21",
+      "statement": "What happens during the G2 phase of the cell cycle?",
+      "options": [
+        "DNA replication",
+        "Preparation for mitosis",
+        "Cell growth and protein synthesis",
+        "Chromosome condensation"
+      ],
+      "answer": "Preparation for mitosis"
+    },
+    {
+      "id": "C10Q22",
+      "statement": "Which structure holds sister chromatids together?",
+      "options": [
+        "Centromere",
+        "Nuclear envelope",
+        "Spindle fiber",
+        "Kinetochore"
+      ],
+      "answer": "Centromere"
+    },
+    {
+      "id": "C10Q23",
+      "statement": "What is the significance of independent assortment during meiosis?",
+      "options": [
+        "Maintains chromosome number",
+        "Increases genetic variation",
+        "Prevents mutations",
+        "Ensures identical daughter cells"
+      ],
+      "answer": "Increases genetic variation"
+    },
+    {
+      "id": "C10Q24",
+      "statement": "During which phase does cytokinesis typically occur?",
+      "options": [
+        "Metaphase",
+        "Anaphase",
+        "Prophase",
+        "Telophase"
+      ],
+      "answer": "Telophase"
+    },
+    {
+      "id": "C10Q25",
+      "statement": "What is the haploid chromosome number in humans?",
+      "options": [
+        "92",
+        "46",
+        "23",
+        "16"
+      ],
+      "answer": "23"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C10Q26",
+      "statement": "Which protein complex triggers the transition from G2 to M phase?",
+      "options": [
+        "p53",
+        "Rb protein",
+        "MPF (Maturation Promoting Factor)",
+        "Cyclin D"
+      ],
+      "answer": "MPF (Maturation Promoting Factor)"
+    },
+    {
+      "id": "C10Q27",
+      "statement": "What is the significance of the G1 checkpoint in cell cycle regulation?",
+      "options": [
+        "Assesses cell size and nutrient availability",
+        "Verifies chromosome attachment to spindle",
+        "Ensures proper spindle formation",
+        "Checks DNA replication completion"
+      ],
+      "answer": "Assesses cell size and nutrient availability"
+    },
+    {
+      "id": "C10Q28",
+      "statement": "During which stage of meiosis does independent assortment occur?",
+      "options": [
+        "Metaphase I",
+        "Telophase I",
+        "Prophase I",
+        "Anaphase I"
+      ],
+      "answer": "Metaphase I"
+    },
+    {
+      "id": "C10Q29",
+      "statement": "What is the role of cohesin proteins during cell division?",
+      "options": [
+        "Form spindle fibers",
+        "Separate sister chromatids",
+        "Hold sister chromatids together",
+        "Break down nuclear envelope"
+      ],
+      "answer": "Hold sister chromatids together"
+    },
+    {
+      "id": "C10Q30",
+      "statement": "Which process results in the formation of bivalents during meiosis?",
+      "options": [
+        "Crossing over",
+        "Segregation",
+        "Independent assortment",
+        "Synapsis"
+      ],
+      "answer": "Synapsis"
+    },
+    {
+      "id": "C10Q31",
+      "statement": "What is the consequence of non-disjunction during meiosis?",
+      "options": [
+        "Polyploidy",
+        "Gene mutation",
+        "Normal chromosome distribution",
+        "Aneuploidy"
+      ],
+      "answer": "Aneuploidy"
+    },
+    {
+      "id": "C10Q32",
+      "statement": "During which phase do homologous chromosomes separate?",
+      "options": [
+        "Anaphase II",
+        "Anaphase I",
+        "Metaphase I",
+        "Telophase I"
+      ],
+      "answer": "Anaphase I"
+    },
+    {
+      "id": "C10Q33",
+      "statement": "What is the function of the kinetochore?",
+      "options": [
+        "Hold sister chromatids together",
+        "Site for spindle fiber attachment",
+        "Break down nuclear envelope",
+        "Initiate cytokinesis"
+      ],
+      "answer": "Site for spindle fiber attachment"
+    },
+    {
+      "id": "C10Q34",
+      "statement": "Which regulatory protein prevents cells from entering S phase if DNA is damaged?",
+      "options": [
+        "Cyclin B",
+        "MPF",
+        "p53",
+        "CDK"
+      ],
+      "answer": "p53"
+    },
+    {
+      "id": "C10Q35",
+      "statement": "What is the significance of the quiescent phase (G0) in the cell cycle?",
+      "options": [
+        "Preparation for mitosis",
+        "Active cell division",
+        "Temporary or permanent exit from cell cycle",
+        "DNA replication"
+      ],
+      "answer": "Temporary or permanent exit from cell cycle"
+    },
+    {
+      "id": "C10Q36",
+      "statement": "During which meiotic division do sister chromatids separate?",
+      "options": [
+        "Both meiosis I and II",
+        "Meiosis II",
+        "Meiosis I",
+        "Neither"
+      ],
+      "answer": "Meiosis II"
+    },
+    {
+      "id": "C10Q37",
+      "statement": "What is the role of separase in cell division?",
+      "options": [
+        "Cohesin degradation",
+        "Spindle formation",
+        "Nuclear envelope breakdown",
+        "Cyclin synthesis"
+      ],
+      "answer": "Cohesin degradation"
+    },
+    {
+      "id": "C10Q38",
+      "statement": "Which process ensures proper chromosome segregation during anaphase?",
+      "options": [
+        "Spindle assembly checkpoint",
+        "DNA replication",
+        "Independent assortment",
+        "Crossing over"
+      ],
+      "answer": "Spindle assembly checkpoint"
+    },
+    {
+      "id": "C10Q39",
+      "statement": "What is the consequence of uncontrolled cell division?",
+      "options": [
+        "Differentiation",
+        "Cancer",
+        "Apoptosis",
+        "Senescence"
+      ],
+      "answer": "Cancer"
+    },
+    {
+      "id": "C10Q40",
+      "statement": "During which phase does DNA content double without change in chromosome number?",
+      "options": [
+        "S phase",
+        "G1 phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": "S phase"
+    },
+    {
+      "id": "C10Q41",
+      "statement": "What is the significance of terminal differentiation in cells?",
+      "options": [
+        "Cells become cancerous",
+        "Cells enter G0 phase permanently",
+        "Cells undergo apoptosis",
+        "Cells continue to divide"
+      ],
+      "answer": "Cells enter G0 phase permanently"
+    },
+    {
+      "id": "C10Q42",
+      "statement": "Which protein is responsible for triggering apoptosis?",
+      "options": [
+        "Caspases",
+        "Cyclins",
+        "Cohesins",
+        "Kinesins"
+      ],
+      "answer": "Caspases"
+    },
+    {
+      "id": "C10Q43",
+      "statement": "What is the role of anaphase-promoting complex (APC) in cell division?",
+      "options": [
+        "Form spindle fibers",
+        "Degrade cyclins",
+        "Initiate DNA replication",
+        "Synthesize cohesins"
+      ],
+      "answer": "Degrade cyclins"
+    },
+    {
+      "id": "C10Q44",
+      "statement": "During which process do homologous chromosomes exchange genetic material?",
+      "options": [
+        "Segregation",
+        "Independent assortment",
+        "Synapsis",
+        "Crossing over"
+      ],
+      "answer": "Crossing over"
+    },
+    {
+      "id": "C10Q45",
+      "statement": "What is the significance of cell cycle checkpoints?",
+      "options": [
+        "Ensure proper progression through cell cycle",
+        "Prevent DNA replication",
+        "Promote mutations",
+        "Speed up cell division"
+      ],
+      "answer": "Ensure proper progression through cell cycle"
+    },
+    {
+      "id": "C10Q46",
+      "statement": "Which phase is the longest in the cell cycle of most mammalian cells?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "M phase",
+        "G2 phase"
+      ],
+      "answer": "G1 phase"
+    },
+    {
+      "id": "C10Q47",
+      "statement": "What is the role of telomerase in cell division?",
+      "options": [
+        "Form spindle fibers",
+        "Degrade cyclins",
+        "Separate chromosomes",
+        "Maintain telomere length"
+      ],
+      "answer": "Maintain telomere length"
+    },
+    {
+      "id": "C10Q48",
+      "statement": "During which phase do chromosomes decondense and nuclear envelopes reform?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Telophase",
+        "Anaphase"
+      ],
+      "answer": "Telophase"
+    },
+    {
+      "id": "C10Q49",
+      "statement": "What is the consequence of mutation in tumor suppressor genes?",
+      "options": [
+        "Normal cell division",
+        "Uncontrolled cell division",
+        "Accelerated apoptosis",
+        "Cell cycle arrest"
+      ],
+      "answer": "Uncontrolled cell division"
+    },
+    {
+      "id": "C10Q50",
+      "statement": "Which process is essential for genetic variation but not for chromosome reduction?",
+      "options": [
+        "Independent assortment",
+        "Cytokinesis",
+        "Spindle formation",
+        "DNA replication"
+      ],
+      "answer": "Independent assortment"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C10Q51",
+      "statement": "What is the molecular mechanism behind the spindle assembly checkpoint?",
+      "options": [
+        "Detection of unattached kinetochores",
+        "Assessing nutrient availability",
+        "Monitoring DNA replication",
+        "Checking cell size"
+      ],
+      "answer": "Detection of unattached kinetochores"
+    },
+    {
+      "id": "C10Q52",
+      "statement": "How does the activation of MPF trigger the onset of mitosis?",
+      "options": [
+        "By phosphorylating proteins involved in nuclear envelope breakdown",
+        "By promoting cytokinesis",
+        "By inhibiting DNA replication",
+        "By degrading cyclins"
+      ],
+      "answer": "By phosphorylating proteins involved in nuclear envelope breakdown"
+    },
+    {
+      "id": "C10Q53",
+      "statement": "What is the significance of chiasma interference in genetic mapping?",
+      "options": [
+        "It prevents multiple crossovers in nearby regions",
+        "It ensures equal crossing over",
+        "It increases crossover frequency",
+        "It promotes non-disjunction"
+      ],
+      "answer": "It prevents multiple crossovers in nearby regions"
+    },
+    {
+      "id": "C10Q54",
+      "statement": "Which molecular event triggers the separation of sister chromatids during anaphase?",
+      "options": [
+        "Breakdown of nuclear envelope",
+        "Synthesis of new cyclins",
+        "Phosphorylation of histones",
+        "Degradation of cohesins by separase"
+      ],
+      "answer": "Degradation of cohesins by separase"
+    },
+    {
+      "id": "C10Q55",
+      "statement": "What is the role of the synaptonemal complex in ensuring proper chromosome segregation?",
+      "options": [
+        "It forms the spindle apparatus",
+        "It separates sister chromatids",
+        "It degrades cyclins",
+        "It facilitates crossing over and chiasma formation"
+      ],
+      "answer": "It facilitates crossing over and chiasma formation"
+    },
+    {
+      "id": "C10Q56",
+      "statement": "How does p53 protein prevent the propagation of genetically damaged cells?",
+      "options": [
+        "By inhibiting telomerase",
+        "By inducing G1 arrest or apoptosis",
+        "By promoting mitosis",
+        "By activating DNA repair mechanisms"
+      ],
+      "answer": "By inducing G1 arrest or apoptosis"
+    },
+    {
+      "id": "C10Q57",
+      "statement": "What is the consequence of premature centromere division?",
+      "options": [
+        "Aneuploidy",
+        "Normal chromosome segregation",
+        "Gene amplification",
+        "Polyploidy"
+      ],
+      "answer": "Aneuploidy"
+    },
+    {
+      "id": "C10Q58",
+      "statement": "Which mechanism ensures that DNA replication occurs only once per cell cycle?",
+      "options": [
+        "Licensing of replication origins",
+        "Spindle checkpoint",
+        "Telomere maintenance",
+        "Cyclin-CDK regulation"
+      ],
+      "answer": "Licensing of replication origins"
+    },
+    {
+      "id": "C10Q59",
+      "statement": "What is the significance of polar body formation during oogenesis?",
+      "options": [
+        "To prevent polyspermy",
+        "To increase genetic diversity",
+        "To conserve cytoplasm in the ovum",
+        "To produce multiple functional eggs"
+      ],
+      "answer": "To conserve cytoplasm in the ovum"
+    },
+    {
+      "id": "C10Q60",
+      "statement": "How does the position of centromere affect chromosome segregation during meiosis?",
+      "options": [
+        "It affects chiasma formation",
+        "It has no effect on segregation",
+        "It influences independent assortment",
+        "It determines the rate of crossing over"
+      ],
+      "answer": "It influences independent assortment"
+    },
+    {
+      "id": "C10Q61",
+      "statement": "What is the molecular basis of cellular senescence?",
+      "options": [
+        "Telomere shortening",
+        "Increased CDK activity",
+        "Enhanced DNA repair",
+        "Accumulation of cyclins"
+      ],
+      "answer": "Telomere shortening"
+    },
+    {
+      "id": "C10Q62",
+      "statement": "Which process ensures proper chromosome pairing during meiosis I?",
+      "options": [
+        "Synapsis and crossing over",
+        "Sister chromatid cohesion",
+        "Independent assortment",
+        "DNA replication"
+      ],
+      "answer": "Synapsis and crossing over"
+    },
+    {
+      "id": "C10Q63",
+      "statement": "What is the role of Aurora kinases in cell division?",
+      "options": [
+        "Cyclin degradation",
+        "Cytokinesis initiation",
+        "Spindle assembly and chromosome segregation",
+        "DNA replication"
+      ],
+      "answer": "Spindle assembly and chromosome segregation"
+    },
+    {
+      "id": "C10Q64",
+      "statement": "How does the Rb protein regulate the G1 to S transition?",
+      "options": [
+        "By promoting DNA replication",
+        "By inhibiting E2F transcription factors",
+        "By activating CDKs",
+        "By degrading cyclins"
+      ],
+      "answer": "By inhibiting E2F transcription factors"
+    },
+    {
+      "id": "C10Q65",
+      "statement": "What is the significance of bivalent formation during prophase I?",
+      "options": [
+        "All of the above",
+        "It ensures proper chromosome alignment",
+        "It facilitates genetic recombination",
+        "It prevents non-disjunction"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C10Q66",
+      "statement": "Which mechanism prevents re-replication of DNA within a single cell cycle?",
+      "options": [
+        "ORC complex inactivation",
+        "Separase activation",
+        "CDK regulation",
+        "Cohesin degradation"
+      ],
+      "answer": "ORC complex inactivation"
+    },
+    {
+      "id": "C10Q67",
+      "statement": "What is the consequence of merotelic kinetochore attachment?",
+      "options": [
+        "Enhanced crossing over",
+        "Increased genetic diversity",
+        "Chromosome lagging and aneuploidy",
+        "Proper chromosome segregation"
+      ],
+      "answer": "Chromosome lagging and aneuploidy"
+    },
+    {
+      "id": "C10Q68",
+      "statement": "How does the anaphase-promoting complex regulate mitotic exit?",
+      "options": [
+        "By phosphorylating histones",
+        "By degrading securing and cyclins",
+        "By synthesizing new CDKs",
+        "By activating separase"
+      ],
+      "answer": "By degrading securing and cyclins"
+    },
+    {
+      "id": "C10Q69",
+      "statement": "What is the role of non-coding RNA in cell cycle regulation?",
+      "options": [
+        "Catalyze protein degradation",
+        "Form structural components of chromosomes",
+        "Direct CDK activation",
+        "Regulate gene expression through various mechanisms"
+      ],
+      "answer": "Regulate gene expression through various mechanisms"
+    },
+    {
+      "id": "C10Q70",
+      "statement": "Which process ensures proper centrosome duplication during cell cycle?",
+      "options": [
+        "Centriole disengagement",
+        "Spindle assembly checkpoint",
+        "DNA replication licensing",
+        "Cyclin-CDK coordination"
+      ],
+      "answer": "Cyclin-CDK coordination"
+    },
+    {
+      "id": "C10Q71",
+      "statement": "What is the significance of crossover interference in genetic mapping?",
+      "options": [
+        "It increases map distance accuracy",
+        "It prevents chromosome breakage",
+        "It enhances genetic diversity",
+        "It reduces multiple crossovers"
+      ],
+      "answer": "It increases map distance accuracy"
+    },
+    {
+      "id": "C10Q72",
+      "statement": "How does the position of crossover affect genetic recombination?",
+      "options": [
+        "It influences chromosome segregation",
+        "It affects independent assortment",
+        "All of the above",
+        "It determines which genes are exchanged"
+      ],
+      "answer": "It determines which genes are exchanged"
+    },
+    {
+      "id": "C10Q73",
+      "statement": "What is the molecular basis of checkpoint adaptation?",
+      "options": [
+        "Permanent cell cycle arrest",
+        "Immediate apoptosis",
+        "Enhanced DNA repair",
+        "Cell division despite DNA damage"
+      ],
+      "answer": "Cell division despite DNA damage"
+    },
+    {
+      "id": "C10Q74",
+      "statement": "Which mechanism ensures proper chromosome orientation on the meiotic spindle?",
+      "options": [
+        "Cyclin degradation",
+        "DNA replication timing",
+        "Kinetochore-microtubule interactions",
+        "Cohesin complex regulation"
+      ],
+      "answer": "Kinetochore-microtubule interactions"
+    },
+    {
+      "id": "C10Q75",
+      "statement": "What is the role of the contractile ring in cytokinesis?",
+      "options": [
+        "Spindle disassembly",
+        "Cleavage furrow formation",
+        "Nuclear envelope reformation",
+        "Chromosome decondensation"
+      ],
+      "answer": "Cleavage furrow formation"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C10Q76",
+      "statement": "During which phase of mitosis do chromosomes appear as distinct entities?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "Prophase"
+    },
+    {
+      "id": "C10Q77",
+      "statement": "What is the number of chromosomes in daughter cells after mitosis?",
+      "options": [
+        "Same as parent cell",
+        "Half of parent cell",
+        "Double of parent cell",
+        "Variable"
+      ],
+      "answer": "Same as parent cell"
+    },
+    {
+      "id": "C10Q78",
+      "statement": "Which process is responsible for genetic variation in meiosis?",
+      "options": [
+        "Crossing over and independent assortment",
+        "DNA replication",
+        "Cytokinesis",
+        "Spindle formation"
+      ],
+      "answer": "Crossing over and independent assortment"
+    },
+    {
+      "id": "C10Q79",
+      "statement": "During which phase does the nuclear envelope reappear?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "Telophase"
+    },
+    {
+      "id": "C10Q80",
+      "statement": "What is the significance of meiosis in life cycles?",
+      "options": [
+        "Growth and repair",
+        "Maintenance of chromosome number",
+        "Production of haploid gametes",
+        "Asexual reproduction"
+      ],
+      "answer": "Production of haploid gametes"
+    },
+    {
+      "id": "C10Q81",
+      "statement": "Which structure forms during cytokinesis in plant cells?",
+      "options": [
+        "Cleavage furrow",
+        "Cell plate",
+        "Contractile ring",
+        "Midbody"
+      ],
+      "answer": "Cell plate"
+    },
+    {
+      "id": "C10Q82",
+      "statement": "During which phase do chromosomes move to opposite poles?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "Anaphase"
+    },
+    {
+      "id": "C10Q83",
+      "statement": "What is the result of meiosis in terms of genetic composition?",
+      "options": [
+        "Genetically identical cells",
+        "Genetically diverse cells",
+        "Cells with doubled DNA content",
+        "Cells with no genetic variation"
+      ],
+      "answer": "Genetically diverse cells"
+    },
+    {
+      "id": "C10Q84",
+      "statement": "Which checkpoint ensures DNA is undamaged before replication?",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "M checkpoint",
+        "S checkpoint"
+      ],
+      "answer": "G1 checkpoint"
+    },
+    {
+      "id": "C10Q85",
+      "statement": "What is the role of centrioles in animal cell division?",
+      "options": [
+        "DNA replication",
+        "Spindle formation",
+        "Nuclear envelope breakdown",
+        "Chromosome condensation"
+      ],
+      "answer": "Spindle formation"
+    },
+    {
+      "id": "C10Q86",
+      "statement": "During which meiotic phase do homologous chromosomes pair up?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I"
+      ],
+      "answer": "Prophase I"
+    },
+    {
+      "id": "C10Q87",
+      "statement": "What is the significance of cell cycle regulation?",
+      "options": [
+        "Uncontrolled cell division",
+        "Proper growth and development",
+        "Increased mutation rate",
+        "Rapid cell death"
+      ],
+      "answer": "Proper growth and development"
+    },
+    {
+      "id": "C10Q88",
+      "statement": "Which process ensures equal distribution of chromosomes?",
+      "options": [
+        "DNA replication",
+        "Mitosis",
+        "Meiosis",
+        "Cytokinesis"
+      ],
+      "answer": "Mitosis"
+    },
+    {
+      "id": "C10Q89",
+      "statement": "What is the function of the spindle apparatus?",
+      "options": [
+        "DNA synthesis",
+        "Chromosome movement",
+        "Protein synthesis",
+        "Energy production"
+      ],
+      "answer": "Chromosome movement"
+    },
+    {
+      "id": "C10Q90",
+      "statement": "During which phase does DNA replication occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": "S phase"
+    },
+    {
+      "id": "C10Q91",
+      "statement": "What is the consequence of non-disjunction in meiosis?",
+      "options": [
+        "Normal gamete formation",
+        "Aneuploid gametes",
+        "Polyploid gametes",
+        "Haploid gametes"
+      ],
+      "answer": "Aneuploid gametes"
+    },
+    {
+      "id": "C10Q92",
+      "statement": "Which structure holds homologous chromosomes together during meiosis?",
+      "options": [
+        "Centromere",
+        "Chiasma",
+        "Kinetochore",
+        "Spindle fiber"
+      ],
+      "answer": "Chiasma"
+    },
+    {
+      "id": "C10Q93",
+      "statement": "What is the role of cyclins in cell cycle control?",
+      "options": [
+        "Activate CDKs",
+        "Degrade CDKs",
+        "Inhibit DNA replication",
+        "Promote apoptosis"
+      ],
+      "answer": "Activate CDKs"
+    },
+    {
+      "id": "C10Q94",
+      "statement": "During which process do sister chromatids separate?",
+      "options": [
+        "Anaphase of mitosis",
+        "Anaphase I of meiosis",
+        "Metaphase of mitosis",
+        "Telophase of meiosis"
+      ],
+      "answer": "Anaphase of mitosis"
+    },
+    {
+      "id": "C10Q95",
+      "statement": "What is the significance of crossing over?",
+      "options": [
+        "Maintains chromosome number",
+        "Increases genetic diversity",
+        "Ensures identical daughter cells",
+        "Prevents mutations"
+      ],
+      "answer": "Increases genetic diversity"
+    },
+    {
+      "id": "C10Q96",
+      "statement": "Which phase follows DNA replication in the cell cycle?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": "G2 phase"
+    },
+    {
+      "id": "C10Q97",
+      "statement": "What is the function of the contractile ring in animal cells?",
+      "options": [
+        "Form cell plate",
+        "Create cleavage furrow",
+        "Break nuclear envelope",
+        "Condense chromosomes"
+      ],
+      "answer": "Create cleavage furrow"
+    },
+    {
+      "id": "C10Q98",
+      "statement": "During which phase do chromosomes align at the equator?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "Metaphase"
+    },
+    {
+      "id": "C10Q99",
+      "statement": "What is the role of apoptosis in development?",
+      "options": [
+        "Promote cell division",
+        "Eliminate unwanted cells",
+        "Increase cell size",
+        "Prevent differentiation"
+      ],
+      "answer": "Eliminate unwanted cells"
+    },
+    {
+      "id": "C10Q100",
+      "statement": "Which process reduces chromosome number by half?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "answer": "Meiosis"
+    }
+  ]
+}

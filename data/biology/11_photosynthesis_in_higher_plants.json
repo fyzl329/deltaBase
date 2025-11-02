@@ -1,0 +1,1139 @@
+{
+  "metadata": {
+    "chapter": "photosynthesis_in_higher_plants",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 11,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C13Q1",
+      "statement": "Which organelle is the primary site of photosynthesis in plant cells?",
+      "options": [
+        "Chloroplast",
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "answer": "Chloroplast"
+    },
+    {
+      "id": "C13Q2",
+      "statement": "What is the primary pigment responsible for capturing light energy in photosynthesis?",
+      "options": [
+        "Chlorophyll b",
+        "Xanthophyll",
+        "Chlorophyll a",
+        "Carotenoids"
+      ],
+      "answer": "Chlorophyll a"
+    },
+    {
+      "id": "C13Q3",
+      "statement": "Which gas is released as a byproduct during photosynthesis?",
+      "options": [
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "id": "C13Q4",
+      "statement": "The overall chemical equation for photosynthesis is:",
+      "options": [
+        "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+        "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+        "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 12H₂O",
+        "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O"
+      ],
+      "answer": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O"
+    },
+    {
+      "id": "C13Q5",
+      "statement": "Which part of the chloroplast contains the photosynthetic pigments?",
+      "options": [
+        "Inner membrane",
+        "Grana",
+        "Thylakoid membrane",
+        "Stroma"
+      ],
+      "answer": "Thylakoid membrane"
+    },
+    {
+      "id": "C13Q6",
+      "statement": "What are the two main stages of photosynthesis?",
+      "options": [
+        "Respiration and Transpiration",
+        "Light reaction and Dark reaction",
+        "Photolysis and Carbon fixation",
+        "Glycolysis and Krebs cycle"
+      ],
+      "answer": "Light reaction and Dark reaction"
+    },
+    {
+      "id": "C13Q7",
+      "statement": "Which wavelength of light is most effectively absorbed by chlorophyll?",
+      "options": [
+        "Blue and red light",
+        "Green light",
+        "Yellow light",
+        "White light"
+      ],
+      "answer": "Blue and red light"
+    },
+    {
+      "id": "C13Q8",
+      "statement": "What is the primary product of the light-dependent reactions?",
+      "options": [
+        "CO₂",
+        "Glucose",
+        "ATP and NADPH",
+        "O₂"
+      ],
+      "answer": "ATP and NADPH"
+    },
+    {
+      "id": "C13Q9",
+      "statement": "The Calvin cycle occurs in which part of the chloroplast?",
+      "options": [
+        "Stroma",
+        "Lamella",
+        "Thylakoid",
+        "Grana"
+      ],
+      "answer": "Stroma"
+    },
+    {
+      "id": "C13Q10",
+      "statement": "Which enzyme is responsible for carbon fixation in C3 plants?",
+      "options": [
+        "PEP carboxylase",
+        "RuBisCO",
+        "Catalase",
+        "Amylase"
+      ],
+      "answer": "RuBisCO"
+    },
+    {
+      "id": "C13Q11",
+      "statement": "What is the first stable product of photosynthesis in C3 plants?",
+      "options": [
+        "Oxaloacetic acid",
+        "Phosphoenolpyruvate",
+        "Glucose",
+        "Phosphoglyceric acid"
+      ],
+      "answer": "Phosphoglyceric acid"
+    },
+    {
+      "id": "C13Q12",
+      "statement": "Photolysis of water occurs during:",
+      "options": [
+        "Dark reactions",
+        "Calvin cycle",
+        "Light reactions",
+        "Glycolysis"
+      ],
+      "answer": "Light reactions"
+    },
+    {
+      "id": "C13Q13",
+      "statement": "Which of the following is an accessory pigment in photosynthesis?",
+      "options": [
+        "Both A and B",
+        "Chlorophyll b",
+        "None of the above",
+        "Chlorophyll a"
+      ],
+      "answer": "Chlorophyll b"
+    },
+    {
+      "id": "C13Q14",
+      "statement": "The process of ATP synthesis during photosynthesis is called:",
+      "options": [
+        "Chemiosmosis",
+        "Substrate-level phosphorylation",
+        "Oxidative phosphorylation",
+        "Photophosphorylation"
+      ],
+      "answer": "Photophosphorylation"
+    },
+    {
+      "id": "C13Q15",
+      "statement": "Which scientist demonstrated that plants produce oxygen during photosynthesis?",
+      "options": [
+        "Joseph Priestley",
+        "Julius von Sachs",
+        "Jan Ingenhousz",
+        "Melvin Calvin"
+      ],
+      "answer": "Joseph Priestley"
+    },
+    {
+      "id": "C13Q16",
+      "statement": "The absorption spectrum of chlorophyll shows maximum absorption in:",
+      "options": [
+        "Yellow region",
+        "Green region",
+        "Violet region",
+        "Blue and red regions"
+      ],
+      "answer": "Blue and red regions"
+    },
+    {
+      "id": "C13Q17",
+      "statement": "What is the primary function of carotenoids in photosynthesis?",
+      "options": [
+        "Water splitting",
+        "Carbon fixation",
+        "Absorb and transfer light energy",
+        "ATP synthesis"
+      ],
+      "answer": "Absorb and transfer light energy"
+    },
+    {
+      "id": "C13Q18",
+      "statement": "Which of the following is a C4 plant?",
+      "options": [
+        "Rice",
+        "Potato",
+        "Wheat",
+        "Maize"
+      ],
+      "answer": "Maize"
+    },
+    {
+      "id": "C13Q19",
+      "statement": "The phenomenon of emission of light by chlorophyll after absorption is called:",
+      "options": [
+        "Fluorescence",
+        "Action spectrum",
+        "Phosphorescence",
+        "Absorption spectrum"
+      ],
+      "answer": "Fluorescence"
+    },
+    {
+      "id": "C13Q20",
+      "statement": "How many molecules of ATP and NADPH are required to fix one molecule of CO₂ in Calvin cycle?",
+      "options": [
+        "2 ATP and 2 NADPH",
+        "1 ATP and 1 NADPH",
+        "3 ATP and 2 NADPH",
+        "4 ATP and 3 NADPH"
+      ],
+      "answer": "3 ATP and 2 NADPH"
+    },
+    {
+      "id": "C13Q21",
+      "statement": "Which plant is commonly used to study the Calvin cycle?",
+      "options": [
+        "Chlorella",
+        "Volvox",
+        "Spirogyra",
+        "Ulothrix"
+      ],
+      "answer": "Chlorella"
+    },
+    {
+      "id": "C13Q22",
+      "statement": "The process of photosynthesis converts:",
+      "options": [
+        "Chemical energy to light energy",
+        "Electrical energy to chemical energy",
+        "Light energy to chemical energy",
+        "Heat energy to chemical energy"
+      ],
+      "answer": "Light energy to chemical energy"
+    },
+    {
+      "id": "C13Q23",
+      "statement": "Which mineral is essential for photolysis of water?",
+      "options": [
+        "Magnesium",
+        "Calcium",
+        "Manganese",
+        "Iron"
+      ],
+      "answer": "Manganese"
+    },
+    {
+      "id": "C13Q24",
+      "statement": "The action spectrum of photosynthesis closely corresponds to:",
+      "options": [
+        "All of the above",
+        "Absorption spectrum of carotenoids",
+        "Absorption spectrum of chlorophyll a",
+        "Absorption spectrum of chlorophyll b"
+      ],
+      "answer": "Absorption spectrum of chlorophyll a"
+    },
+    {
+      "id": "C13Q25",
+      "statement": "Which of the following is NOT required for photosynthesis?",
+      "options": [
+        "Water",
+        "Oxygen",
+        "Carbon dioxide",
+        "Chlorophyll"
+      ],
+      "answer": "Oxygen"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C13Q26",
+      "statement": "In the Z-scheme of electron transport, electrons are transferred from:",
+      "options": [
+        "PS I to PS II",
+        "NADPH to PS II",
+        "PS II to PS I",
+        "Water to PS I"
+      ],
+      "answer": "PS II to PS I"
+    },
+    {
+      "id": "C13Q27",
+      "statement": "The primary electron acceptor in photosystem I is:",
+      "options": [
+        "Plastoquinone",
+        "Ferredoxin",
+        "Plastocyanin",
+        "Cytochrome"
+      ],
+      "answer": "Ferredoxin"
+    },
+    {
+      "id": "C13Q28",
+      "statement": "Which of the following statements about photorespiration is correct?",
+      "options": [
+        "It occurs in mitochondria only",
+        "It produces ATP",
+        "It requires light",
+        "It decreases photosynthetic efficiency"
+      ],
+      "answer": "It decreases photosynthetic efficiency"
+    },
+    {
+      "id": "C13Q29",
+      "statement": "In C4 plants, the initial carbon fixation occurs in:",
+      "options": [
+        "Mesophyll cells",
+        "Bundle sheath cells",
+        "Epidermal cells",
+        "Guard cells"
+      ],
+      "answer": "Mesophyll cells"
+    },
+    {
+      "id": "C13Q30",
+      "statement": "The enzyme PEP carboxylase has higher affinity for CO₂ than:",
+      "options": [
+        "RuBisCO",
+        "ATP synthase",
+        "Catalase",
+        "Amylase"
+      ],
+      "answer": "RuBisCO"
+    },
+    {
+      "id": "C13Q31",
+      "statement": "Kranz anatomy is characteristic of:",
+      "options": [
+        "All plants",
+        "CAM plants",
+        "C3 plants",
+        "C4 plants"
+      ],
+      "answer": "C4 plants"
+    },
+    {
+      "id": "C13Q32",
+      "statement": "Which of the following is a CAM plant?",
+      "options": [
+        "Bryophyllum",
+        "Sugarcane",
+        "Wheat",
+        "Maize"
+      ],
+      "answer": "Bryophyllum"
+    },
+    {
+      "id": "C13Q33",
+      "statement": "The chemiosmotic hypothesis in chloroplasts involves:",
+      "options": [
+        "Calcium ion movement",
+        "Proton gradient across thylakoid membrane",
+        "Sodium-potassium pump",
+        "Electron gradient across stroma"
+      ],
+      "answer": "Proton gradient across thylakoid membrane"
+    },
+    {
+      "id": "C13Q34",
+      "statement": "How many carbon atoms are present in the first stable product of C4 cycle?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "C13Q35",
+      "statement": "The primary function of photosystem II is:",
+      "options": [
+        "NADPH production",
+        "Carbon fixation",
+        "Water splitting",
+        "ATP synthesis"
+      ],
+      "answer": "Water splitting"
+    },
+    {
+      "id": "C13Q36",
+      "statement": "Which of the following is the reduced form of NADP?",
+      "options": [
+        "NADPH",
+        "NADH",
+        "NADP⁺",
+        "NAD⁺"
+      ],
+      "answer": "NADPH"
+    },
+    {
+      "id": "C13Q37",
+      "statement": "The Calvin cycle requires all of the following EXCEPT:",
+      "options": [
+        "NADPH",
+        "CO₂",
+        "ATP",
+        "Light"
+      ],
+      "answer": "Light"
+    },
+    {
+      "id": "C13Q38",
+      "statement": "In non-cyclic photophosphorylation, the ultimate electron donor is:",
+      "options": [
+        "NADP⁺",
+        "Ferredoxin",
+        "Plastoquinone",
+        "Water"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "C13Q39",
+      "statement": "The compensation point refers to the light intensity at which:",
+      "options": [
+        "Photorespiration begins",
+        "Photosynthesis is maximum",
+        "Photosynthesis equals respiration",
+        "Respiration stops"
+      ],
+      "answer": "Photosynthesis equals respiration"
+    },
+    {
+      "id": "C13Q40",
+      "statement": "Which pigment acts as a reaction center in photosystem I?",
+      "options": [
+        "P680",
+        "P650",
+        "P700",
+        "P720"
+      ],
+      "answer": "P700"
+    },
+    {
+      "id": "C13Q41",
+      "statement": "The process of cyclic photophosphorylation involves only:",
+      "options": [
+        "PS I",
+        "Neither PS I nor PS II",
+        "Both PS I and PS II",
+        "PS II"
+      ],
+      "answer": "PS I"
+    },
+    {
+      "id": "C13Q42",
+      "statement": "Which of the following is NOT a product of light reaction?",
+      "options": [
+        "Glucose",
+        "O₂",
+        "NADPH",
+        "ATP"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "id": "C13Q43",
+      "statement": "The law of limiting factors was proposed by:",
+      "options": [
+        "Calvin",
+        "Blackman",
+        "Engelmann",
+        "Pasteur"
+      ],
+      "answer": "Blackman"
+    },
+    {
+      "id": "C13Q44",
+      "statement": "In Hatch and Slack pathway, CO₂ is transported as:",
+      "options": [
+        "All of the above",
+        "Oxaloacetic acid",
+        "Aspartic acid",
+        "Malic acid"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C13Q45",
+      "statement": "The water potential in guard cells increases during:",
+      "options": [
+        "Neither A nor B",
+        "Stomatal opening",
+        "Stomatal closing",
+        "Both A and B"
+      ],
+      "answer": "Stomatal opening"
+    },
+    {
+      "id": "C13Q46",
+      "statement": "Which of the following factors does NOT affect the rate of photosynthesis?",
+      "options": [
+        "Carbon dioxide concentration",
+        "Nitrogen concentration",
+        "Oxygen concentration",
+        "Light intensity"
+      ],
+      "answer": "Nitrogen concentration"
+    },
+    {
+      "id": "C13Q47",
+      "statement": "The Emerson enhancement effect demonstrates:",
+      "options": [
+        "Role of minerals in photosynthesis",
+        "Cooperation of two photosystems",
+        "Effect of temperature on photosynthesis",
+        "Importance of water in photosynthesis"
+      ],
+      "answer": "Cooperation of two photosystems"
+    },
+    {
+      "id": "C13Q48",
+      "statement": "In C3 plants, photorespiration occurs in:",
+      "options": [
+        "All three organelles",
+        "Chloroplasts only",
+        "Mitochondria only",
+        "Peroxisomes only"
+      ],
+      "answer": "All three organelles"
+    },
+    {
+      "id": "C13Q49",
+      "statement": "The primary function of cyclic electron flow is:",
+      "options": [
+        "O₂ evolution",
+        "NADPH production",
+        "ATP production",
+        "CO₂ fixation"
+      ],
+      "answer": "ATP production"
+    },
+    {
+      "id": "C13Q50",
+      "statement": "Which of the following is true about bundle sheath cells in C4 plants?",
+      "options": [
+        "They lack mitochondria",
+        "They have granal chloroplasts",
+        "They lack chloroplasts",
+        "They have agranal chloroplasts"
+      ],
+      "answer": "They have agranal chloroplasts"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C13Q51",
+      "statement": "In the photosynthetic electron transport chain, plastocyanin carries electrons from:",
+      "options": [
+        "Cytochrome b6f complex to PS I",
+        "PS II to cytochrome b6f complex",
+        "PS I to ferredoxin",
+        "Ferredoxin to NADP⁺"
+      ],
+      "answer": "Cytochrome b6f complex to PS I"
+    },
+    {
+      "id": "C13Q52",
+      "statement": "The quantum requirement for the evolution of one molecule of O₂ is:",
+      "options": [
+        "12 quanta",
+        "4 quanta",
+        "8 quanta",
+        "16 quanta"
+      ],
+      "answer": "8 quanta"
+    },
+    {
+      "id": "C13Q53",
+      "statement": "Which of the following statements about RuBisCO is incorrect?",
+      "options": [
+        "It is the most abundant enzyme on Earth",
+        "It is located in the stroma of chloroplast",
+        "It has higher affinity for O₂ than CO₂",
+        "It has carboxylase and oxygenase activity"
+      ],
+      "answer": "It has higher affinity for O₂ than CO₂"
+    },
+    {
+      "id": "C13Q54",
+      "statement": "In photorespiration, the conversion of glycolate to glyoxylate occurs in:",
+      "options": [
+        "Chloroplast",
+        "Cytoplasm",
+        "Peroxisome",
+        "Mitochondria"
+      ],
+      "answer": "Peroxisome"
+    },
+    {
+      "id": "C13Q53",
+      "statement": "The C4 pathway is more efficient than C3 pathway under conditions of:",
+      "options": [
+        "High temperature and high light intensity",
+        "Low temperature and low light intensity",
+        "Low O₂ concentration",
+        "High humidity"
+      ],
+      "answer": "High temperature and high light intensity"
+    },
+    {
+      "id": "C13Q54",
+      "statement": "Which of the following is NOT a difference between C3 and C4 plants?",
+      "options": [
+        "Photorespiration rate",
+        "First stable product",
+        "Kranz anatomy",
+        "Number of chloroplasts"
+      ],
+      "answer": "Number of chloroplasts"
+    },
+    {
+      "id": "C13Q55",
+      "statement": "The proton gradient in chloroplasts is established across the:",
+      "options": [
+        "Nuclear membrane",
+        "Inner mitochondrial membrane",
+        "Chloroplast envelope",
+        "Thylakoid membrane"
+      ],
+      "answer": "Thylakoid membrane"
+    },
+    {
+      "id": "C13Q56",
+      "statement": "In the Calvin cycle, the regeneration of RuBP requires:",
+      "options": [
+        "1 ATP",
+        "3 ATP",
+        "2 ATP",
+        "4 ATP"
+      ],
+      "answer": "1 ATP"
+    },
+    {
+      "id": "C13Q57",
+      "statement": "The action spectrum of photosynthesis was first demonstrated by:",
+      "options": [
+        "Priestley using mint plant",
+        "Ingenhousz using aquatic plants",
+        "Calvin using Chlorella",
+        "Engelmann using Cladophora"
+      ],
+      "answer": "Engelmann using Cladophora"
+    },
+    {
+      "id": "C13Q58",
+      "statement": "Which of the following is true about antenna pigments?",
+      "options": [
+        "They are located in the stroma",
+        "They include chlorophyll a only",
+        "They transfer energy to reaction center",
+        "They participate in carbon fixation"
+      ],
+      "answer": "They transfer energy to reaction center"
+    },
+    {
+      "id": "C13Q59",
+      "statement": "The oxygen evolved during photosynthesis comes from:",
+      "options": [
+        "Glucose",
+        "Atmospheric oxygen",
+        "Water",
+        "Carbon dioxide"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "C13Q60",
+      "statement": "In CAM plants, stomata open during:",
+      "options": [
+        "Both day and night",
+        "Night",
+        "Neither day nor night",
+        "Day"
+      ],
+      "answer": "Night"
+    },
+    {
+      "id": "C13Q61",
+      "statement": "The Red Drop effect is related to:",
+      "options": [
+        "Both PS I and PS II",
+        "Neither PS I nor PS II",
+        "PS II only",
+        "PS I only"
+      ],
+      "answer": "PS II only"
+    },
+    {
+      "id": "C13Q62",
+      "statement": "Which of the following minerals is NOT directly involved in photosynthesis?",
+      "options": [
+        "Magnesium",
+        "Calcium",
+        "Manganese",
+        "Iron"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "id": "C13Q63",
+      "statement": "The primary function of photosystem I is:",
+      "options": [
+        "Water splitting",
+        "ATP synthesis",
+        "NADPH production",
+        "CO₂ fixation"
+      ],
+      "answer": "NADPH production"
+    },
+    {
+      "id": "C13Q64",
+      "statement": "In the Z-scheme, the electron transport is:",
+      "options": [
+        "Both uphill and downhill",
+        "Horizontal",
+        "Downhill from PS II to PS I",
+        "Uphill from PS I to PS II"
+      ],
+      "answer": "Uphill from PS I to PS II"
+    },
+    {
+      "id": "C13Q65",
+      "statement": "The water-water cycle in chloroplasts involves:",
+      "options": [
+        "Neither A nor B",
+        "Both A and B",
+        "Scavenging of reactive oxygen species",
+        "Production of H₂O₂"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "id": "C13Q66",
+      "statement": "Which of the following is NOT a characteristic of C4 plants?",
+      "options": [
+        "High photorespiration",
+        "Kranz anatomy",
+        "PEP carboxylase activity",
+        "Spatial separation of carbon fixation"
+      ],
+      "answer": "High photorespiration"
+    },
+    {
+      "id": "C13Q67",
+      "statement": "The quantum yield of photosynthesis is highest in:",
+      "options": [
+        "Blue light",
+        "Green light",
+        "Red light",
+        "Yellow light"
+      ],
+      "answer": "Red light"
+    },
+    {
+      "id": "C13Q68",
+      "statement": "In the Calvin cycle, the reduction phase involves conversion of:",
+      "options": [
+        "PGAL to RuBP",
+        "RuBP to PGA",
+        "PGA to PGAL",
+        "PGA to RuBP"
+      ],
+      "answer": "PGA to PGAL"
+    },
+    {
+      "id": "C13Q69",
+      "statement": "The phenomenon of photoinhibition occurs due to:",
+      "options": [
+        "High light intensity",
+        "High CO₂ concentration",
+        "Low temperature",
+        "Low light intensity"
+      ],
+      "answer": "High light intensity"
+    },
+    {
+      "id": "C13Q70",
+      "statement": "Which of the following is true about chlorophyll molecules?",
+      "options": [
+        "They are located in the stroma",
+        "They have a porphyrin head and phytol tail",
+        "They are water-soluble",
+        "They absorb green light maximally"
+      ],
+      "answer": "They have a porphyrin head and phytol tail"
+    },
+    {
+      "id": "C13Q71",
+      "statement": "The compensation period refers to:",
+      "options": [
+        "Time when photosynthesis equals respiration",
+        "Time when light intensity is optimal",
+        "Time when plant starts photosynthesis",
+        "Time when stomata open"
+      ],
+      "answer": "Time when photosynthesis equals respiration"
+    },
+    {
+      "id": "C13Q72",
+      "statement": "In non-cyclic photophosphorylation, electrons from PS II are replaced by electrons from:",
+      "options": [
+        "ATP",
+        "NADPH",
+        "Water",
+        "PS I"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": "C13Q73",
+      "statement": "The primary function of carotenoids in photosynthesis is to:",
+      "options": [
+        "Fix carbon dioxide",
+        "Synthesize ATP",
+        "Protect against photo-oxidation",
+        "Split water molecules"
+      ],
+      "answer": "Protect against photo-oxidation"
+    },
+    {
+      "id": "C13Q74",
+      "statement": "Which of the following is NOT a product of the Calvin cycle?",
+      "options": [
+        "ADP",
+        "O₂",
+        "Glucose",
+        "NADP⁺"
+      ],
+      "answer": "O₂"
+    },
+    {
+      "id": "C13Q75",
+      "statement": "The process of photorespiration is favored by:",
+      "options": [
+        "Low light intensity",
+        "High CO₂ concentration",
+        "High temperature",
+        "Low O₂ concentration"
+      ],
+      "answer": "High temperature"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C13Q76",
+      "statement": "Which of the following is required in the dark reaction of photosynthesis?",
+      "options": [
+        "Light",
+        "Chlorophyll",
+        "CO₂",
+        "Water"
+      ],
+      "answer": "CO₂"
+    },
+    {
+      "id": "C13Q77",
+      "statement": "The enzyme RuBisCO is found in:",
+      "options": [
+        "Cytoplasm",
+        "Mitochondria",
+        "Chloroplast stroma",
+        "Nucleus"
+      ],
+      "answer": "Chloroplast stroma"
+    },
+    {
+      "id": "C13Q78",
+      "statement": "In photosynthesis, the light-independent reactions take place in:",
+      "options": [
+        "Grana",
+        "Stroma",
+        "Thylakoid membrane",
+        "Cytoplasm"
+      ],
+      "answer": "Stroma"
+    },
+    {
+      "id": "C13Q79",
+      "statement": "Which of the following is a C3 plant?",
+      "options": [
+        "Maize",
+        "Sugarcane",
+        "Wheat",
+        "Sorghum"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "id": "C13Q80",
+      "statement": "The process of photosynthesis takes place in the presence of:",
+      "options": [
+        "Light only",
+        "Chlorophyll only",
+        "Both light and chlorophyll",
+        "Neither light nor chlorophyll"
+      ],
+      "answer": "Both light and chlorophyll"
+    },
+    {
+      "id": "C13Q81",
+      "statement": "Which pigment is water-soluble?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotene",
+        "Anthocyanin"
+      ],
+      "answer": "Anthocyanin"
+    },
+    {
+      "id": "C13Q82",
+      "statement": "The number of photons required to release one molecule of O₂ in photosynthesis is:",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": "C13Q83",
+      "statement": "Which of the following elements is essential for the formation of chlorophyll?",
+      "options": [
+        "Calcium",
+        "Magnesium",
+        "Potassium",
+        "Iron"
+      ],
+      "answer": "Magnesium"
+    },
+    {
+      "id": "C13Q84",
+      "statement": "In C4 plants, the Calvin cycle occurs in:",
+      "options": [
+        "Mesophyll cells",
+        "Bundle sheath cells",
+        "Epidermal cells",
+        "Guard cells"
+      ],
+      "answer": "Bundle sheath cells"
+    },
+    {
+      "id": "C13Q85",
+      "statement": "The primary CO₂ acceptor in C4 plants is:",
+      "options": [
+        "RuBP",
+        "PEP",
+        "PGA",
+        "OAA"
+      ],
+      "answer": "PEP"
+    },
+    {
+      "id": "C13Q86",
+      "statement": "Which of the following is NOT a product of light reaction?",
+      "options": [
+        "ATP",
+        "NADPH",
+        "O₂",
+        "Sugar"
+      ],
+      "answer": "Sugar"
+    },
+    {
+      "id": "C13Q87",
+      "statement": "The enzyme that fixes CO₂ in C4 plants is:",
+      "options": [
+        "RuBisCO",
+        "PEP carboxylase",
+        "Catalase",
+        "ATP synthase"
+      ],
+      "answer": "PEP carboxylase"
+    },
+    {
+      "id": "C13Q88",
+      "statement": "Photorespiration occurs in:",
+      "options": [
+        "C3 plants",
+        "C4 plants",
+        "CAM plants",
+        "All plants"
+      ],
+      "answer": "C3 plants"
+    },
+    {
+      "id": "C13Q89",
+      "statement": "Which of the following is a CAM plant?",
+      "options": [
+        "Bryophyllum",
+        "Maize",
+        "Sugarcane",
+        "Wheat"
+      ],
+      "answer": "Bryophyllum"
+    },
+    {
+      "id": "C13Q90",
+      "statement": "The first product of CO₂ fixation in C3 plants is:",
+      "options": [
+        "OAA",
+        "PGA",
+        "PEP",
+        "RuBP"
+      ],
+      "answer": "PGA"
+    },
+    {
+      "id": "C13Q91",
+      "statement": "In photosynthesis, ATP is synthesized in:",
+      "options": [
+        "Stroma",
+        "Grana",
+        "Cytoplasm",
+        "Mitochondria"
+      ],
+      "answer": "Grana"
+    },
+    {
+      "id": "C13Q92",
+      "statement": "Which of the following is the reduced form of NADP?",
+      "options": [
+        "NADP⁺",
+        "NADPH",
+        "NAD⁺",
+        "NADH"
+      ],
+      "answer": "NADPH"
+    },
+    {
+      "id": "C13Q93",
+      "statement": "The water-soluble photosynthetic pigment is:",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Xanthophyll",
+        "Phycobilin"
+      ],
+      "answer": "Phycobilin"
+    },
+    {
+      "id": "C13Q94",
+      "statement": "Which of the following is NOT required for the light reaction of photosynthesis?",
+      "options": [
+        "Water",
+        "Chlorophyll",
+        "CO₂",
+        "Light"
+      ],
+      "answer": "CO₂"
+    },
+    {
+      "id": "C13Q95",
+      "statement": "The primary function of the light reaction is to:",
+      "options": [
+        "Fix CO₂",
+        "Produce ATP and NADPH",
+        "Release O₂",
+        "Both B and C"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "id": "C13Q96",
+      "statement": "In the Calvin cycle, the first product formed is:",
+      "options": [
+        "PGA",
+        "PGAL",
+        "RuBP",
+        "Glucose"
+      ],
+      "answer": "PGA"
+    },
+    {
+      "id": "C13Q97",
+      "statement": "Which of the following is a difference between C3 and C4 plants?",
+      "options": [
+        "First product of CO₂ fixation",
+        "Presence of chloroplasts",
+        "Number of stomata",
+        "All of the above"
+      ],
+      "answer": "First product of CO₂ fixation"
+    },
+    {
+      "id": "C13Q98",
+      "statement": "The oxygen evolved during photosynthesis comes from:",
+      "options": [
+        "CO₂",
+        "H₂O",
+        "Both CO₂ and H₂O",
+        "Glucose"
+      ],
+      "answer": "H₂O"
+    },
+    {
+      "id": "C13Q99",
+      "statement": "Which of the following is NOT a factor affecting photosynthesis?",
+      "options": [
+        "Light intensity",
+        "CO₂ concentration",
+        "O₂ concentration",
+        "Nitrogen concentration"
+      ],
+      "answer": "Nitrogen concentration"
+    },
+    {
+      "id": "C13Q100",
+      "statement": "The law of limiting factors in photosynthesis was proposed by:",
+      "options": [
+        "Blackman",
+        "Calvin",
+        "Engelmann",
+        "Pasteur"
+      ],
+      "answer": "Blackman"
+    }
+  ]
+}

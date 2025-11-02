@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P7Q01",
+      "statement": "According to Newton’s law of gravitation, the magnitude of force between two point masses \\( m_1 \\) and \\( m_2 \\) separated by distance \\( r \\) is:",
+      "options": [
+        "\\( F = \\frac{G}{m_1 m_2 r^2} \\)",
+        "\\( F = G\\,\\frac{m_1+m_2}{r^2} \\)",
+        "\\( F = G\\,\\frac{m_1 m_2}{r} \\)",
+        "\\( F = G\\,\\frac{m_1 m_2}{r^2} \\)"
+      ],
+      "answer": "\\( F = G\\,\\frac{m_1 m_2}{r^2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q02",
+      "statement": "The gravitational constant \\( G \\) was first measured using the torsion balance by:",
+      "options": [
+        "Newton",
+        "Kepler",
+        "Galileo",
+        "Cavendish"
+      ],
+      "answer": "Cavendish",
+      "type": "experimental"
+    },
+    {
+      "id": "P7Q03",
+      "statement": "The dimensional formula of \\( G \\) is:",
+      "options": [
+        "\\( M^{0} L^{2} T^{-2} \\)",
+        "\\( M L T^{-2} \\)",
+        "\\( M^{-2} L^{3} T^{-2} \\)",
+        "\\( M^{-1} L^{3} T^{-2} \\)"
+      ],
+      "answer": "\\( M^{-1} L^{3} T^{-2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q04",
+      "statement": "Two \\( 1\\,\\text{kg} \\) masses are \\( 1\\,\\text{m} \\) apart. The magnitude of mutual gravitational force is closest to: \\( G=6.67\\times10^{-11}\\,\\text{N m}^2\\text{kg}^{-2} \\).",
+      "options": [
+        "\\( 1.00\\times10^{-11}\\,\\text{N} \\)",
+        "\\( 6.67\\times10^{-11}\\,\\text{N} \\)",
+        "\\( 6.67\\times10^{-10}\\,\\text{N} \\)",
+        "\\( 3.34\\times10^{-11}\\,\\text{N} \\)"
+      ],
+      "answer": "\\( 6.67\\times10^{-11}\\,\\text{N} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q05",
+      "statement": "If the distance between two masses is doubled, the gravitational force becomes:",
+      "options": [
+        "Twice the original",
+        "\\( \\frac{1}{2} \\) of original",
+        "Four times the original",
+        "\\( \\frac{1}{4} \\) of original"
+      ],
+      "answer": "\\( \\frac{1}{4} \\) of original",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q06",
+      "statement": "The gravitational field (intensity) is defined as force per unit:",
+      "options": [
+        "Volume",
+        "Area",
+        "Mass",
+        "Charge"
+      ],
+      "answer": "Mass",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q07",
+      "statement": "At height \\( h \\ll R \\), acceleration due to gravity is approximately \\( g_h \\approx g\\Big(1-\\frac{2h}{R}\\Big) \\). This approximation comes from expansion of:",
+      "options": [
+        "\\( (R+h)^2 \\)",
+        "\\( (R+h) \\)",
+        "\\( \\frac{1}{(R+h)^2} \\)",
+        "\\( \\frac{1}{(R+h)} \\)"
+      ],
+      "answer": "\\( \\frac{1}{(R+h)^2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q08",
+      "statement": "A body weighs \\( 100\\,\\text{N} \\) on Earth. On the Moon (\\( g_{\\text{moon}} = \\frac{g}{6} \\)), its weight is:",
+      "options": [
+        "\\( 16.7\\,\\text{N} \\)",
+        "\\( 60\\,\\text{N} \\)",
+        "\\( 600\\,\\text{N} \\)",
+        "\\( 100\\,\\text{N} \\)"
+      ],
+      "answer": "\\( 16.7\\,\\text{N} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q09",
+      "statement": "At Earth’s center, the value of \\( g \\) is:",
+      "options": [
+        "\\( \\frac{g}{2} \\)",
+        "Infinite",
+        "Maximum",
+        "Zero"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q10",
+      "statement": "The escape velocity from Earth’s surface is about:",
+      "options": [
+        "\\( 13.6\\,\\text{km s}^{-1} \\)",
+        "\\( 7.9\\,\\text{km s}^{-1} \\)",
+        "\\( 11.2\\,\\text{km s}^{-1} \\)",
+        "\\( 9.8\\,\\text{km s}^{-1} \\)"
+      ],
+      "answer": "\\( 11.2\\,\\text{km s}^{-1} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q11",
+      "statement": "A satellite in a low circular orbit has speed \\( v=\\sqrt{gR} \\). For Earth (\\( g=9.8\\,\\text{m s}^{-2} \\), \\( R=6.4\\times10^{6}\\,\\text{m} \\)), \\( v \\) is approximately:",
+      "options": [
+        "\\( 6.4\\,\\text{km s}^{-1} \\)",
+        "\\( 7.9\\,\\text{km s}^{-1} \\)",
+        "\\( 11.2\\,\\text{km s}^{-1} \\)",
+        "\\( 8.9\\,\\text{km s}^{-1} \\)"
+      ],
+      "answer": "\\( 7.9\\,\\text{km s}^{-1} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q12",
+      "statement": "The gravitational potential at infinity is taken to be:",
+      "options": [
+        "\\( 0 \\)",
+        "\\( -1 \\)",
+        "Undefined",
+        "\\( +1 \\)"
+      ],
+      "answer": "\\( 0 \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q13",
+      "statement": "Inside a hollow spherical shell of uniform mass, the gravitational field is:",
+      "options": [
+        "Zero everywhere",
+        "Constant nonzero",
+        "Maximum at center",
+        "Varies as \\( \\frac{1}{r^2} \\)"
+      ],
+      "answer": "Zero everywhere",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q14",
+      "statement": "The potential energy of a two‑mass system \\( (m_1,m_2) \\) at separation \\( r \\) is:",
+      "options": [
+        "\\( U=G\\,\\frac{m_1 m_2}{r^2} \\)",
+        "\\( U=-G\\,\\frac{m_1 m_2}{r^2} \\)",
+        "\\( U=+G\\,\\frac{m_1 m_2}{r} \\)",
+        "\\( U=-G\\,\\frac{m_1 m_2}{r} \\)"
+      ],
+      "answer": "\\( U=-G\\,\\frac{m_1 m_2}{r} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q15",
+      "statement": "A \\(1\\,\\text{kg}\\) mass is moved from Earth’s surface to infinity. The work done (approximately) is:",
+      "options": [
+        "\\( 6.4\\times10^{7}\\,\\text{J} \\)",
+        "\\( 6.4\\times10^{6}\\,\\text{J} \\)",
+        "\\( 3.2\\times10^{7}\\,\\text{J} \\)",
+        "\\( 9.8\\times10^{3}\\,\\text{J} \\)"
+      ],
+      "answer": "\\( 6.4\\times10^{7}\\,\\text{J} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q16",
+      "statement": "The ratio of escape velocity to orbital velocity near Earth’s surface is:",
+      "options": [
+        "\\( 2 \\)",
+        "\\( \\sqrt{2} \\)",
+        "\\( \\frac{1}{\\sqrt{2}} \\)",
+        "\\( \\frac{1}{2} \\)"
+      ],
+      "answer": "\\( \\sqrt{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q17",
+      "statement": "A \\( 1000\\,\\text{kg} \\) satellite at a point where \\( g=8.7\\,\\text{m s}^{-2} \\) has an apparent weight (gravitational force) of:",
+      "options": [
+        "\\( 1000\\,\\text{N} \\)",
+        "\\( 8700\\,\\text{N} \\)",
+        "\\( 0\\,\\text{N} \\)",
+        "\\( 9800\\,\\text{N} \\)"
+      ],
+      "answer": "\\( 8700\\,\\text{N} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q18",
+      "statement": "A geostationary satellite appears stationary because its time period equals:",
+      "options": [
+        "\\( 12\\,\\text{h} \\)",
+        "\\( 24\\,\\text{h} \\)",
+        "\\( 18\\,\\text{h} \\)",
+        "\\( 36\\,\\text{h} \\)"
+      ],
+      "answer": "\\( 24\\,\\text{h} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q19",
+      "statement": "If Earth’s radius were doubled while mass remained the same, surface \\( g \\) would become:",
+      "options": [
+        "\\( \\frac{g}{4} \\)",
+        "\\( 4g \\)",
+        "\\( 2g \\)",
+        "\\( \\frac{g}{2} \\)"
+      ],
+      "answer": "\\( \\frac{g}{4} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q20",
+      "statement": "The gravitational field and potential are related by \\( \\vec{E}_g = -\\nabla V \\). In one dimension this reduces to:",
+      "options": [
+        "\\( E=\\frac{dV}{dr} \\)",
+        "\\( E=V^2 \\)",
+        "\\( V=\\frac{dE}{dr} \\)",
+        "\\( E=-\\frac{dV}{dr} \\)"
+      ],
+      "answer": "\\( E=-\\frac{dV}{dr} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q21",
+      "statement": "Two equal masses \\( m \\) are placed a distance \\( 2a \\) apart on a line. The point of zero gravitational field lies:",
+      "options": [
+        "Nowhere",
+        "At midpoint",
+        "At a distance \\( a \\) from one mass towards the other",
+        "Outside the segment, on either side"
+      ],
+      "answer": "At midpoint",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q22",
+      "statement": "In Cavendish’s experiment the measured quantity that leads to \\( G \\) is primarily:",
+      "options": [
+        "Local \\( g \\)",
+        "Period of satellite",
+        "Deflection angle of mirror/scale",
+        "Mass of Earth"
+      ],
+      "answer": "Deflection angle of mirror/scale",
+      "type": "experimental"
+    },
+    {
+      "id": "P7Q23",
+      "statement": "A \\( 2\\,\\text{kg} \\) body is taken from Earth’s surface to height \\( h=\\frac{R}{2} \\). Using \\( g_h \\approx g\\Big(1-\\frac{2h}{R}\\Big) \\), its weight becomes approximately:",
+      "options": [
+        "\\( 2g\\Big(1-1 \\Big) \\)",
+        "\\( 2g\\Big(1-\\frac{1}{1} \\Big) \\)",
+        "\\( 2g\\Big(1-\\frac{1}{1}\\cdot\\frac{1}{2}\\Big) \\)",
+        "\\( 2g \\)"
+      ],
+      "answer": "\\( 2g\\Big(1-\\frac{1}{1}\\cdot\\frac{1}{2}\\Big) \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q24",
+      "statement": "The gravitational potential outside a spherical shell of mass \\( M \\) and radius \\( R \\) at distance \\( r>R \\) equals that of:",
+      "options": [
+        "A point mass \\( M \\) on its surface",
+        "A point mass \\( M \\) at its center",
+        "Zero",
+        "A distributed mass varying as \\( r^{-2} \\)"
+      ],
+      "answer": "A point mass \\( M \\) at its center",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q25",
+      "statement": "The orbital period of a near‑Earth satellite is about:",
+      "options": [
+        "\\( 84\\,\\text{min} \\)",
+        "\\( 6\\,\\text{h} \\)",
+        "\\( 24\\,\\text{h} \\)",
+        "\\( 60\\,\\text{min} \\)"
+      ],
+      "answer": "\\( 84\\,\\text{min} \\)",
+      "type": "numerical"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P7Q26",
+      "statement": "Find \\( g \\) at \\( h=1600\\,\\text{km} \\) above Earth’s surface. Take \\( R=6400\\,\\text{km} \\), \\( g=9.8\\,\\text{m s}^{-2} \\), and use \\( g_h \\approx g\\Big(1-\\frac{2h}{R}\\Big) \\).",
+      "options": [
+        "\\( 4.9\\,\\text{m s}^{-2} \\)",
+        "\\( 7.35\\,\\text{m s}^{-2} \\)",
+        "\\( 5.95\\,\\text{m s}^{-2} \\)",
+        "\\( 3.2\\,\\text{m s}^{-2} \\)"
+      ],
+      "answer": "\\( 5.95\\,\\text{m s}^{-2} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q27",
+      "statement": "A body weighs \\( 600\\,\\text{N} \\) at the surface. What is its weight at height \\( h=R \\) (from Earth’s center \\( r=2R \\))?",
+      "options": [
+        "\\( 300\\,\\text{N} \\)",
+        "\\( 150\\,\\text{N} \\)",
+        "\\( 100\\,\\text{N} \\)",
+        "\\( 75\\,\\text{N} \\)"
+      ],
+      "answer": "\\( 150\\,\\text{N} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q28",
+      "statement": "Orbital speed at radius \\( r=R+h \\) for a circular orbit is given by:",
+      "options": [
+        "\\( v=\\sqrt{\\frac{GM}{(R+h)^2}} \\)",
+        "\\( v=\\sqrt{\\frac{2GM}{R+h}} \\)",
+        "\\( v=\\sqrt{\\frac{GM}{R+h}} \\)",
+        "\\( v=\\sqrt{\\frac{GM}{R}} \\)"
+      ],
+      "answer": "\\( v=\\sqrt{\\frac{GM}{R+h}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q29",
+      "statement": "A \\( 200\\,\\text{kg} \\) satellite orbits with radius \\( r=R+3.6\\times10^{6}\\,\\text{m} \\). Estimate its gravitational potential energy. Use \\( G M \\approx 3.986\\times10^{14}\\,\\text{m}^3\\text{s}^{-2} \\).",
+      "options": [
+        "\\( -3.6\\times10^{9}\\,\\text{J} \\)",
+        "\\( -5.0\\times10^{9}\\,\\text{J} \\)",
+        "\\( -1.9\\times10^{10}\\,\\text{J} \\)",
+        "\\( -2.0\\times10^{10}\\,\\text{J} \\)"
+      ],
+      "answer": "\\( -1.9\\times10^{10}\\,\\text{J} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q30",
+      "statement": "A particle of mass \\( m \\) is at height \\( h=\\frac{R}{2} \\). Choose the exact potential energy expression with reference to infinity:",
+      "options": [
+        "\\( U=-\\frac{2GMm}{3R} \\)",
+        "\\( U=-\\frac{2GMm}{R} \\)",
+        "\\( U=-\\frac{GMm}{3R} \\)",
+        "\\( U=-\\frac{GMm}{R/2} \\)"
+      ],
+      "answer": "\\( U=-\\frac{2GMm}{3R} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q31",
+      "statement": "Kepler’s third law for a planet of period \\( T \\) and semi‑major axis \\( a \\) states:",
+      "options": [
+        "\\( T\\propto a \\)",
+        "\\( T^{3}\\propto a^{2} \\)",
+        "\\( T\\propto a^{2} \\)",
+        "\\( T^{2}\\propto a^{3} \\)"
+      ],
+      "answer": "\\( T^{2}\\propto a^{3} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q32",
+      "statement": "Near Earth, the ratio \\( \\frac{v_{\\text{esc}}}{v_{\\text{orb}}} \\) equals:",
+      "options": [
+        "\\( \\frac{1}{\\sqrt{2}} \\)",
+        "\\( 2 \\)",
+        "\\( \\sqrt{2} \\)",
+        "\\( \\frac{1}{2} \\)"
+      ],
+      "answer": "\\( \\sqrt{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q33",
+      "statement": "If a satellite is shifted to a higher circular orbit, its kinetic energy:",
+      "options": [
+        "Decreases",
+        "Remains same",
+        "Increases",
+        "Becomes zero"
+      ],
+      "answer": "Decreases",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q34",
+      "statement": "A \\( 500\\,\\text{kg} \\) satellite moves in a circular orbit of radius \\( 7.0\\times10^{6}\\,\\text{m} \\). With \\( GM=4.0\\times10^{14}\\,\\text{m}^3\\text{s}^{-2} \\), its total energy is closest to:",
+      "options": [
+        "\\( -2.8\\times10^{10}\\,\\text{J} \\)",
+        "\\( -5.0\\times10^{10}\\,\\text{J} \\)",
+        "\\( -1.4\\times10^{10}\\,\\text{J} \\)",
+        "\\( -4.0\\times10^{10}\\,\\text{J} \\)"
+      ],
+      "answer": "\\( -1.4\\times10^{10}\\,\\text{J} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q35",
+      "statement": "For two bodies, \\( U=-\\frac{GMm}{r} \\). If separation halves, potential energy becomes:",
+      "options": [
+        "\\( \\frac{U}{4} \\)",
+        "\\( 4U \\)",
+        "\\( \\frac{U}{2} \\)",
+        "\\( 2U \\)"
+      ],
+      "answer": "\\( 2U \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q36",
+      "statement": "Compute \\( v=\\sqrt{gR} \\) for Earth (\\( g=9.8\\,\\text{m s}^{-2} \\), \\( R=6.4\\times10^{6}\\,\\text{m} \\)).",
+      "options": [
+        "\\( 11.2\\,\\text{km s}^{-1} \\)",
+        "\\( 8.2\\,\\text{km s}^{-1} \\)",
+        "\\( 6.4\\,\\text{km s}^{-1} \\)",
+        "\\( 7.9\\,\\text{km s}^{-1} \\)"
+      ],
+      "answer": "\\( 7.9\\,\\text{km s}^{-1} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q37",
+      "statement": "Energy to remove \\( 1\\,\\text{kg} \\) from Earth’s surface to infinity is approximately:",
+      "options": [
+        "\\( 6.4\\times10^{6}\\,\\text{J} \\)",
+        "\\( 9.8\\times10^{3}\\,\\text{J} \\)",
+        "\\( 6.4\\times10^{7}\\,\\text{J} \\)",
+        "\\( 1.0\\times10^{8}\\,\\text{J} \\)"
+      ],
+      "answer": "\\( 6.4\\times10^{7}\\,\\text{J} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q38",
+      "statement": "The potential outside a spherical shell equals that of a point mass at its center. Therefore, field outside varies as:",
+      "options": [
+        "Constant",
+        "\\( \\frac{1}{r^{2}} \\)",
+        "\\( r \\)",
+        "\\( \\frac{1}{r} \\)"
+      ],
+      "answer": "\\( \\frac{1}{r^{2}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q39",
+      "statement": "At the center of a uniform solid sphere, gravitational potential equals:",
+      "options": [
+        "\\( -\\frac{GM}{R} \\)",
+        "\\( 0 \\)",
+        "\\( -\\frac{GM}{2R} \\)",
+        "\\( -\\frac{3GM}{2R} \\)"
+      ],
+      "answer": "\\( -\\frac{3GM}{2R} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q40",
+      "statement": "If the force between two masses is \\( 2\\times10^{-7}\\,\\text{N} \\) at \\( 1\\,\\text{m} \\), at \\( 0.5\\,\\text{m} \\) it will be:",
+      "options": [
+        "\\( 2\\times10^{-7}\\,\\text{N} \\)",
+        "\\( 8\\times10^{-7}\\,\\text{N} \\)",
+        "\\( 4\\times10^{-7}\\,\\text{N} \\)",
+        "\\( 1\\times10^{-6}\\,\\text{N} \\)"
+      ],
+      "answer": "\\( 8\\times10^{-7}\\,\\text{N} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q41",
+      "statement": "Inside a uniform planet (density constant), gravitational field varies as:",
+      "options": [
+        "\\( g\\propto \\frac{1}{r} \\)",
+        "\\( g\\propto r^{2} \\)",
+        "Constant",
+        "\\( g\\propto r \\)"
+      ],
+      "answer": "\\( g\\propto r \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q42",
+      "statement": "If a planet’s radius doubles and mass halves, new \\( g \\) at surface becomes:",
+      "options": [
+        "\\( \\frac{g}{4} \\)",
+        "\\( \\frac{g}{8} \\)",
+        "\\( 2g \\)",
+        "\\( \\frac{g}{2} \\)"
+      ],
+      "answer": "\\( \\frac{g}{8} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q43",
+      "statement": "If Earth stopped rotating, the apparent weight of a body at equator would:",
+      "options": [
+        "Increase",
+        "Remain same",
+        "Decrease",
+        "Become zero"
+      ],
+      "answer": "Increase",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q44",
+      "statement": "Estimate order of ratio of Sun–Earth to Moon–Earth gravitational forces (use typical values).",
+      "options": [
+        "\\( 10^{0} \\)",
+        "\\( 2\\times10^{5} \\)",
+        "\\( 10^{6} \\)",
+        "\\( 10^{2} \\)"
+      ],
+      "answer": "\\( 2\\times10^{5} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q45",
+      "statement": "If satellite mass doubles and orbital radius halves, gravitational force becomes:",
+      "options": [
+        "Four times",
+        "Eight times",
+        "Half",
+        "Twice"
+      ],
+      "answer": "Eight times",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q46",
+      "statement": "Areal velocity constancy (Kepler’s 2nd law) implies torque about the central body is:",
+      "options": [
+        "Time‑varying",
+        "Constant",
+        "Maximum",
+        "Zero"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q47",
+      "statement": "For circular orbits, period \\( T \\) scales with radius as:",
+      "options": [
+        "\\( T\\propto r \\)",
+        "\\( T\\propto r^{3/2} \\)",
+        "\\( T\\propto r^{-3/2} \\)",
+        "\\( T\\propto r^{2} \\)"
+      ],
+      "answer": "\\( T\\propto r^{3/2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q48",
+      "statement": "A satellite in an ellipse moves fastest at:",
+      "options": [
+        "Mid‑point",
+        "Speed is constant",
+        "Perigee",
+        "Apogee"
+      ],
+      "answer": "Perigee",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q49",
+      "statement": "Gravitational potential at an internal point of a spherical shell (radius \\( R \\)) is:",
+      "options": [
+        "\\( +\\frac{GM}{R} \\)",
+        "\\( -\\frac{GM}{r} \\)",
+        "\\( 0 \\)",
+        "\\( -\\frac{GM}{R} \\)"
+      ],
+      "answer": "\\( -\\frac{GM}{R} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q50",
+      "statement": "For free fall (neglect air), \\( \\Delta U + \\Delta K = 0 \\). This implies:",
+      "options": [
+        "\\( K=0 \\)",
+        "\\( U=2K \\)",
+        "\\( \\Delta U=-\\Delta K \\)",
+        "\\( \\Delta U=\\Delta K \\)"
+      ],
+      "answer": "\\( \\Delta U=-\\Delta K \\)",
+      "type": "conceptual"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P7Q51",
+      "statement": "Two masses \\( m \\) and \\( 4m \\) placed at \\( x=0 \\) and \\( x=d \\). The point where net gravitational field is zero (measured from \\( m \\)) is at:",
+      "options": [
+        "\\( x=\\frac{d}{\\,2-1} \\)",
+        "\\( x=\\frac{d}{2} \\)",
+        "\\( x=\\frac{d}{\\,\\sqrt{4}-1} \\)",
+        "\\( x=\\frac{d}{3} \\)"
+      ],
+      "answer": "\\( x=\\frac{d}{\\,\\sqrt{4}-1} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q52",
+      "statement": "Two planets A and B have radii \\( R,2R \\) and equal densities. The ratio of escape velocities \\( v_{\\text{esc}}^A : v_{\\text{esc}}^B \\) is:",
+      "options": [
+        "\\( 1:\\sqrt{2} \\)",
+        "\\( 1:1 \\)",
+        "\\( 1:2 \\)",
+        "\\( \\sqrt{2}:1 \\)"
+      ],
+      "answer": "\\( 1:\\sqrt{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q53",
+      "statement": "A projectile is launched from Earth’s surface with speed \\( v=\\sqrt{2gR} \\). Neglecting air resistance, it will:",
+      "options": [
+        "Return with same speed",
+        "Move in circular orbit",
+        "Reach maximum height then stop forever",
+        "Escape Earth"
+      ],
+      "answer": "Escape Earth",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q54",
+      "statement": "A satellite of mass \\( m \\) shifts from circular orbit radius \\( r_1 \\) to \\( r_2(>r_1) \\). The change in total energy is:",
+      "options": [
+        "\\( 0 \\)",
+        "\\( -\\frac{GMm}{2}\\Big(\\frac{1}{r_2}-\\frac{1}{r_1}\\Big) \\)",
+        "\\( +\\frac{GMm}{2}\\Big(\\frac{1}{r_2}-\\frac{1}{r_1}\\Big) \\)",
+        "\\( -\\frac{GMm}{r_2} \\)"
+      ],
+      "answer": "\\( -\\frac{GMm}{2}\\Big(\\frac{1}{r_2}-\\frac{1}{r_1}\\Big) \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q55",
+      "statement": "At depth \\( d \\) inside Earth (assumed uniform), \\( g_d=g\\Big(1-\\frac{d}{R}\\Big) \\). At what depth is \\( g_d=\\frac{g}{2} \\)?",
+      "options": [
+        "\\( d=\\frac{R}{4} \\)",
+        "\\( d=\\frac{R}{3} \\)",
+        "\\( d=\\frac{2R}{3} \\)",
+        "\\( d=\\frac{R}{2} \\)"
+      ],
+      "answer": "\\( d=\\frac{R}{2} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q56",
+      "statement": "A satellite of mass \\( m \\) is in circular orbit of radius \\( r \\). Its kinetic energy equals:",
+      "options": [
+        "\\( -\\frac{GMm}{2r} \\)",
+        "\\( \\frac{GMm}{r} \\)",
+        "\\( \\frac{1}{2}\\frac{GMm}{r} \\)",
+        "\\( -\\frac{GMm}{r} \\)"
+      ],
+      "answer": "\\( \\frac{1}{2}\\frac{GMm}{r} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q57",
+      "statement": "A comet follows a highly elliptical orbit with perigee \\( r_p \\) and apogee \\( r_a \\). Ratio of speeds \\( v_p:v_a \\) is:",
+      "options": [
+        "\\( \\frac{r_a}{r_p} \\)",
+        "\\( \\frac{r_p}{r_a} \\)",
+        "\\( \\sqrt{\\frac{r_p}{r_a}} \\)",
+        "\\( \\sqrt{\\frac{r_a}{r_p}} \\)"
+      ],
+      "answer": "\\( \\sqrt{\\frac{r_a}{r_p}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q58",
+      "statement": "A body is dropped into a tunnel passing through Earth’s center (uniform Earth). Neglecting friction, its motion is:",
+      "options": [
+        "Projectile",
+        "Simple harmonic",
+        "Uniform",
+        "Uniformly accelerated forever"
+      ],
+      "answer": "Simple harmonic",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q59",
+      "statement": "A satellite of mass \\( 100\\,\\text{kg} \\) in a circular orbit of radius \\( 8.0\\times10^{6}\\,\\text{m} \\). Using \\( GM=4.0\\times10^{14} \\), its speed is closest to:",
+      "options": [
+        "\\( 6.7\\,\\text{km s}^{-1} \\)",
+        "\\( 7.9\\,\\text{km s}^{-1} \\)",
+        "\\( 8.9\\,\\text{km s}^{-1} \\)",
+        "\\( 7.1\\,\\text{km s}^{-1} \\)"
+      ],
+      "answer": "\\( 7.1\\,\\text{km s}^{-1} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q60",
+      "statement": "Two identical spheres each of mass \\( M \\) and radius \\( a \\) just touch. The gravitational force between them (centers \\( 2a \\) apart) equals:",
+      "options": [
+        "\\( G\\,\\frac{M^2}{a^2} \\)",
+        "\\( 2G\\,\\frac{M^2}{(2a)^2} \\)",
+        "\\( \\frac{1}{2}G\\,\\frac{M^2}{a^2} \\)",
+        "\\( G\\,\\frac{M^2}{(2a)^2} \\)"
+      ],
+      "answer": "\\( G\\,\\frac{M^2}{(2a)^2} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q61",
+      "statement": "A small mass \\( m \\) placed on Earth’s surface is given a horizontal speed equal to escape speed. Its trajectory (neglect air) is:",
+      "options": [
+        "Parabolic",
+        "Circular",
+        "Hyperbolic",
+        "Elliptical bound"
+      ],
+      "answer": "Parabolic",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q62",
+      "statement": "A binary star of equal masses \\( M \\) revolves about their center of mass at separation \\( 2d \\). The period is:",
+      "options": [
+        "\\( 2\\pi\\sqrt{\\frac{(2d)^{3}}{2GM}} \\)",
+        "\\( 2\\pi\\sqrt{\\frac{d^{3}}{2GM}} \\)",
+        "\\( 2\\pi\\sqrt{\\frac{(2d)^{3}}{GM}} \\)",
+        "\\( 2\\pi\\sqrt{\\frac{d^{3}}{GM}} \\)"
+      ],
+      "answer": "\\( 2\\pi\\sqrt{\\frac{d^{3}}{GM}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q63",
+      "statement": "For a satellite lowered from radius \\( r_2 \\) to \\( r_1 \\) by a small \\( \\Delta r \\), the change in speed \\( \\Delta v \\) (first order) is proportional to:",
+      "options": [
+        "\\( \\sqrt{\\Delta r} \\)",
+        "\\( +\\Delta r \\)",
+        "\\( -\\Delta r \\)",
+        "Independent of \\( \\Delta r \\)"
+      ],
+      "answer": "\\( -\\Delta r \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q64",
+      "statement": "Work needed to move a mass \\( m \\) from \\( r=2R \\) to \\( r=R \\) is:",
+      "options": [
+        "\\( +\\frac{GMm}{2R} \\)",
+        "\\( -\\frac{GMm}{2R} \\)",
+        "\\( 0 \\)",
+        "\\( +\\frac{GMm}{R} \\)"
+      ],
+      "answer": "\\( +\\frac{GMm}{2R} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q65",
+      "statement": "A point where net gravitational field is zero between masses \\( M \\) and \\( m \\) on a line (\\( M>m \\)) lies from \\( M \\) at:",
+      "options": [
+        "\\( x=\\frac{d}{\\sqrt{\\frac{M}{m}}-1} \\)",
+        "No such point",
+        "\\( x=\\frac{d}{1+\\sqrt{\\frac{M}{m}}} \\)",
+        "\\( x=\\frac{d}{2} \\)"
+      ],
+      "answer": "\\( x=\\frac{d}{1+\\sqrt{\\frac{M}{m}}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q66",
+      "statement": "A body projected vertically with speed \\( v=\\sqrt{\\frac{3GM}{2R}} \\) (Earth). Neglect air. It will:",
+      "options": [
+        "Hover at top",
+        "Move in circle",
+        "Escape",
+        "Reach height \\( <\\infty \\) and return"
+      ],
+      "answer": "Reach height \\( <\\infty \\) and return",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q67",
+      "statement": "For a uniform ring of mass \\( M \\) and radius \\( a \\), gravitational potential on the axis at distance \\( x \\) from center is:",
+      "options": [
+        "\\( -\\frac{GMx}{a^{2}+x^{2}} \\)",
+        "\\( -\\frac{GM}{\\sqrt{a^{2}+x^{2}}} \\)",
+        "\\( -\\frac{GM}{a^{2}+x^{2}} \\)",
+        "\\( -\\frac{GM}{a} \\)"
+      ],
+      "answer": "\\( -\\frac{GM}{\\sqrt{a^{2}+x^{2}}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q68",
+      "statement": "For the above ring, the field magnitude on axis is:",
+      "options": [
+        "Zero",
+        "\\( \\frac{GM}{(a^{2}+x^{2})} \\)",
+        "\\( \\frac{GM}{(a^{2}+x^{2})^{3/2}} \\)",
+        "\\( \\frac{GMx}{(a^{2}+x^{2})^{3/2}} \\)"
+      ],
+      "answer": "\\( \\frac{GMx}{(a^{2}+x^{2})^{3/2}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q69",
+      "statement": "A satellite in circular orbit of radius \\( r \\) has specific mechanical energy (per unit mass):",
+      "options": [
+        "\\( +\\frac{GM}{2r} \\)",
+        "\\( 0 \\)",
+        "\\( -\\frac{GM}{2r} \\)",
+        "\\( -\\frac{GM}{r} \\)"
+      ],
+      "answer": "\\( -\\frac{GM}{2r} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q70",
+      "statement": "A small asteroid moves from \\( r=4R \\) to \\( r=2R \\). The change in its potential energy is:",
+      "options": [
+        "\\( -\\frac{GMm}{4R} \\)",
+        "\\( +\\frac{GMm}{2R} \\)",
+        "\\( -\\frac{GMm}{2R} \\)",
+        "\\( +\\frac{GMm}{4R} \\)"
+      ],
+      "answer": "\\( -\\frac{GMm}{4R} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q71",
+      "statement": "At height \\( h \\), the escape speed is \\( v_{\\text{esc}}(h)=\\sqrt{\\frac{2GM}{R+h}} \\). Relative to surface value, it scales as:",
+      "options": [
+        "\\( v_{\\text{esc}}\\propto (R+h)^{-1/2} \\)",
+        "\\( (R+h)^{+1/2} \\)",
+        "\\( (R+h)^{-1} \\)",
+        "Constant"
+      ],
+      "answer": "\\( v_{\\text{esc}}\\propto (R+h)^{-1/2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q72",
+      "statement": "A satellite’s kinetic energy equals half the magnitude of its potential energy in a circular orbit. Therefore its total energy equals:",
+      "options": [
+        "\\( +\\frac{1}{2}|U| \\)",
+        "Zero",
+        "\\( -\\frac{1}{2}|U| \\)",
+        "\\( -|U| \\)"
+      ],
+      "answer": "\\( -\\frac{1}{2}|U| \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q73",
+      "statement": "A stone dropped into a deep mine shaft (uniform Earth) experiences \\( g(r)\\propto r \\). Hence its motion is approximately:",
+      "options": [
+        "SHM with \\( \\omega=\\sqrt{\\frac{g}{R}} \\)",
+        "Projectile",
+        "Exponential",
+        "Uniform"
+      ],
+      "answer": "SHM with \\( \\omega=\\sqrt{\\frac{g}{R}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q74",
+      "statement": "A spacecraft performs a Hohmann transfer from radius \\( r_1 \\) to \\( r_2 \\). The semi‑major axis of transfer ellipse is:",
+      "options": [
+        "\\( a=\\sqrt{r_1 r_2} \\)",
+        "\\( a=r_2 \\)",
+        "\\( a=\\frac{r_1+r_2}{2} \\)",
+        "\\( a=\\frac{r_2-r_1}{2} \\)"
+      ],
+      "answer": "\\( a=\\frac{r_1+r_2}{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q75",
+      "statement": "An artificial satellite is raised from \\( r=R \\) to \\( r=4R \\). The work done by external agent (neglecting atmosphere) is:",
+      "options": [
+        "\\( +\\frac{3GMm}{4R} \\)",
+        "\\( -\\frac{GMm}{4R} \\)",
+        "\\( +\\frac{GMm}{R} \\)",
+        "\\( +\\frac{GMm}{4R} \\)"
+      ],
+      "answer": "\\( +\\frac{3GMm}{4R} \\)",
+      "type": "numerical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P7Q76",
+      "statement": "A satellite in circular orbit of radius \\( r \\) has angular momentum \\( L \\). Its total energy in terms of \\( L, m, G, M \\) is:",
+      "options": [
+        "\\( -\\frac{G^{2} M^{2} m^{2}}{2 L^{2}} \\)",
+        "\\( -\\frac{G^{2} M^{2} m^{3}}{2 L^{2}} \\)",
+        "\\( -\\frac{G^{2} M^{2}}{2 L^{2}} \\)",
+        "\\( -\\frac{G^{2} M^{2} m}{2 L^{2}} \\)"
+      ],
+      "answer": "\\( -\\frac{G^{2} M^{2} m^{3}}{2 L^{2}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q77",
+      "statement": "Two satellites S\\(_1\\) and S\\(_2\\) move in circular orbits of radii \\( r \\) and \\( 4r \\). The ratio of their speeds \\( v_1:v_2 \\) is:",
+      "options": [
+        "\\( 1:2 \\)",
+        "\\( 2:1 \\)",
+        "\\( 1:\\frac{1}{2} \\)",
+        "\\( 2:1/2 \\)"
+      ],
+      "answer": "\\( 2:1 \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q78",
+      "statement": "A particle moves under central inverse‑square attraction. Its areal velocity is constant because:",
+      "options": [
+        "Potential is conservative",
+        "Torque about center is zero",
+        "Mass is constant",
+        "Force is radial but not central"
+      ],
+      "answer": "Torque about center is zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q79",
+      "statement": "For an elliptical orbit with semi‑major axis \\( a \\), the specific mechanical energy equals:",
+      "options": [
+        "\\( -\\frac{GM}{4a} \\)",
+        "\\( -\\frac{GM}{a} \\)",
+        "\\( -\\frac{GM}{2a} \\)",
+        "\\( 0 \\)"
+      ],
+      "answer": "\\( -\\frac{GM}{2a} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q80",
+      "statement": "A small mass moves along the axis of a ring of mass \\( M \\) and radius \\( a \\). The potential at distance \\( x \\) from center is \\( -\\frac{GM}{\\sqrt{a^{2}+x^{2}}} \\). The axial field is:",
+      "options": [
+        "\\( \\frac{GM}{(a^{2}+x^{2})^{3/2}} \\)",
+        "\\( \\frac{GM}{(a^{2}+x^{2})} \\)",
+        "\\( \\frac{GMx}{(a^{2}+x^{2})^{3/2}} \\)",
+        "Zero"
+      ],
+      "answer": "\\( \\frac{GMx}{(a^{2}+x^{2})^{3/2}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q81",
+      "statement": "Two bodies of masses \\( M \\) and \\( m \\) move under mutual gravity only. In their center‑of‑mass frame, total momentum is zero and total energy equals:",
+      "options": [
+        "Kinetic of each separately",
+        "Always zero",
+        "\\( -\\frac{GMm}{2a} \\) for bound elliptical orbit",
+        "Always positive"
+      ],
+      "answer": "\\( -\\frac{GMm}{2a} \\) for bound elliptical orbit",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q82",
+      "statement": "A satellite is transferred from circular orbit \\( r_1 \\) to \\( r_2=4r_1 \\) by a two‑impulse Hohmann transfer. The ratio of speeds at perigee and apogee of transfer ellipse is:",
+      "options": [
+        "\\( \\sqrt{\\frac{r_1}{r_2}} \\)",
+        "\\( \\frac{r_1}{r_2} \\)",
+        "\\( \\sqrt{\\frac{r_2}{r_1}} \\)",
+        "\\( \\frac{r_2}{r_1} \\)"
+      ],
+      "answer": "\\( \\sqrt{\\frac{r_2}{r_1}} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q83",
+      "statement": "A satellite of mass \\( m \\) is in circular orbit \\( r \\). A small radial outward impulse makes the orbit elliptical with apogee \\( 2r \\). The specific mechanical energy becomes:",
+      "options": [
+        "Zero",
+        "Positive",
+        "More negative",
+        "Less negative"
+      ],
+      "answer": "Less negative",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q84",
+      "statement": "Let \\( g \\) at latitude \\( \\lambda \\) be \\( g_\\lambda = g_e + \\omega^{2} R \\cos^{2}\\!\\lambda \\) correction (sign convention). The reason for latitude dependence is:",
+      "options": [
+        "Coriolis force only",
+        "Air pressure",
+        "Centrifugal effect + Earth’s oblateness",
+        "Earth’s magnetism"
+      ],
+      "answer": "Centrifugal effect + Earth’s oblateness",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q85",
+      "statement": "A mass \\( m \\) on Earth’s surface is given speed \\( v=\\sqrt{gR} \\) horizontally. Neglect air. It will:",
+      "options": [
+        "Fall back immediately",
+        "Escape Earth",
+        "Move in a circular orbit skimming surface",
+        "Rise and hover"
+      ],
+      "answer": "Move in a circular orbit skimming surface",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q86",
+      "statement": "Two planets around the same star have orbital radii ratio \\( 1:8 \\). The ratio of their periods is:",
+      "options": [
+        "\\( 1:8 \\)",
+        "\\( 1:2 \\)",
+        "\\( 1:4 \\)",
+        "\\( 1:\\sqrt{8} \\)"
+      ],
+      "answer": "\\( 1:4 \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q87",
+      "statement": "A spacecraft moving from \\( r_1 \\) to \\( r_2>r_1 \\) slowly (adiabatically) under weak thrust experiences change in orbital speed roughly as \\( v\\propto r^{-1/2} \\). Therefore the orbital angular momentum per unit mass scales as:",
+      "options": [
+        "\\( r^{+1/2} \\)",
+        "\\( r^{0} \\)",
+        "\\( r^{-1} \\)",
+        "\\( r^{-1/2} \\)"
+      ],
+      "answer": "\\( r^{+1/2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q88",
+      "statement": "A test mass inside a uniform solid sphere at distance \\( r<R \\) from center feels field \\( g(r)=g\\,\\frac{r}{R} \\). The potential difference between center and surface equals:",
+      "options": [
+        "\\( \\frac{3}{2}gR \\)",
+        "\\( 2gR \\)",
+        "\\( \\frac{1}{2}gR \\)",
+        "\\( gR \\)"
+      ],
+      "answer": "\\( \\frac{3}{2}gR \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q89",
+      "statement": "For an inverse‑square law force, stable circular orbits are possible because the effective potential has:",
+      "options": [
+        "A minimum at the circular orbit radius",
+        "Only a maximum",
+        "Divergent behavior",
+        "No extremum"
+      ],
+      "answer": "A minimum at the circular orbit radius",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q90",
+      "statement": "A satellite in circular orbit of radius \\( r \\) has specific angular momentum \\( h=\\sqrt{GM r} \\). If \\( r \\) doubles impulsively, new \\( h \\) is:",
+      "options": [
+        "\\( h \\)",
+        "\\( 2h \\)",
+        "\\( \\sqrt{2}\\,h \\)",
+        "\\( h/\\sqrt{2} \\)"
+      ],
+      "answer": "\\( \\sqrt{2}\\,h \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q91",
+      "statement": "A comet from far away approaches the Sun with hyperbolic excess speed \\( v_\\infty \\). Its specific energy is:",
+      "options": [
+        "\\( -\\frac{v_\\infty^{2}}{2} \\)",
+        "\\( +\\frac{v_\\infty^{2}}{2} \\)",
+        "\\( -\\frac{GM}{2a} \\)",
+        "\\( 0 \\)"
+      ],
+      "answer": "\\( +\\frac{v_\\infty^{2}}{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q92",
+      "statement": "Between two unequal masses on a line, the gravitational potential has:",
+      "options": [
+        "Always zero",
+        "A minimum at the field‑zero point",
+        "A maximum at the field‑zero point",
+        "No extremum"
+      ],
+      "answer": "A maximum at the field‑zero point",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q93",
+      "statement": "A planet’s orbital speed is suddenly halved at some point without changing position. The new orbit will be:",
+      "options": [
+        "Circular of larger radius",
+        "It will spiral inward",
+        "Elliptical, more elongated",
+        "Parabolic"
+      ],
+      "answer": "Elliptical, more elongated",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q94",
+      "statement": "A satellite of mass \\( m \\) in circular orbit of radius \\( r \\) has total energy \\( E=-\\frac{GMm}{2r} \\). Its binding energy equals:",
+      "options": [
+        "\\( \\frac{GMm}{4r} \\)",
+        "Zero",
+        "\\( \\frac{GMm}{2r} \\)",
+        "\\( \\frac{GMm}{r} \\)"
+      ],
+      "answer": "\\( \\frac{GMm}{2r} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q95",
+      "statement": "For a nearly circular Kepler orbit, small radial oscillations about \\( r=a \\) have frequency equal to the mean motion. Therefore the apsidal precession is:",
+      "options": [
+        "Zero",
+        "Positive",
+        "Arbitrary",
+        "Negative"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q96",
+      "statement": "The vis‑viva equation for conic orbits is \\( v^{2}=GM\\Big(\\frac{2}{r}-\\frac{1}{a}\\Big) \\). For a circle, this reduces to:",
+      "options": [
+        "\\( v^{2}=\\frac{2GM}{a} \\)",
+        "\\( v^{2}=\\frac{GM}{2r} \\)",
+        "\\( v^{2}=\\frac{GM}{r} \\)",
+        "\\( v^{2}=\\frac{2GM}{r} \\)"
+      ],
+      "answer": "\\( v^{2}=\\frac{GM}{r} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q97",
+      "statement": "A satellite skimming Earth (radius \\( R \\)) has period \\( T=2\\pi\\sqrt{\\frac{R}{g}} \\). Numerically for Earth, \\( T \\) is closest to:",
+      "options": [
+        "\\( 5060\\,\\text{s} \\)",
+        "\\( 7200\\,\\text{s} \\)",
+        "\\( 3600\\,\\text{s} \\)",
+        "\\( 86400\\,\\text{s} \\)"
+      ],
+      "answer": "\\( 5060\\,\\text{s} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P7Q98",
+      "statement": "In measuring \\( G \\) with a torsion balance, the main experimental challenge is minimizing:",
+      "options": [
+        "Air buoyancy",
+        "Electrostatic forces only",
+        "External vibrations/air currents",
+        "Thermal expansion of masses"
+      ],
+      "answer": "External vibrations/air currents",
+      "type": "experimental"
+    },
+    {
+      "id": "P7Q99",
+      "statement": "Earth’s polar flattening leads to small deviations of \\( g \\) with latitude. The dominant contribution across latitudes (besides rotation) arises from:",
+      "options": [
+        "Solar tides",
+        "Magnetic field",
+        "Higher zonal harmonics of gravity field (\\( J_2 \\) term)",
+        "Coriolis force"
+      ],
+      "answer": "Higher zonal harmonics of gravity field (\\( J_2 \\) term)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P7Q100",
+      "statement": "A small object in the gravitational field of a massive body moves such that its mechanical energy is conserved but angular momentum slowly changes due to weak drag. The orbit will:",
+      "options": [
+        "Spiral inward",
+        "Instantly escape",
+        "Spiral outward",
+        "Stay circular forever"
+      ],
+      "answer": "Spiral inward",
+      "type": "conceptual"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Some Basic Concepts of Chemistry",
+    "slug": "1_some_basic_concepts_of_chemistry",
+    "icon": "🧫"
+  },
+  {
+    "title": "Structure of Atom",
+    "slug": "2_structure_of_atom",
+    "icon": "⚛️"
+  },
+  {
+    "title": "Classification of Elements",
+    "slug": "3_classification_of_elements",
+    "icon": "🧩"
+  },
+  {
+    "title": "Chemical Bonding",
+    "slug": "4_chemical_bonding",
+    "icon": "🧷"
+  },
+  {
+    "title": "Thermodynamics",
+    "slug": "5_thermodynamics",
+    "icon": "♨️"
+  }
+]

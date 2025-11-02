@@ -1,0 +1,1128 @@
+{
+  "metadata": {
+    "chapter": "biomolecules",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 9,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C9Q1",
+      "statement": "Which of the following is the most abundant organic compound on Earth?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Chitin",
+        "Starch"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "id": "C9Q2",
+      "statement": "What type of bond joins amino acids together in proteins?",
+      "options": [
+        "Ester bond",
+        "Glycosidic bond",
+        "Phosphodiester bond",
+        "Peptide bond"
+      ],
+      "answer": "Peptide bond"
+    },
+    {
+      "id": "C9Q3",
+      "statement": "Which biomolecule serves as the primary energy currency of the cell?",
+      "options": [
+        "FADH2",
+        "Glucose",
+        "NADH",
+        "ATP"
+      ],
+      "answer": "ATP"
+    },
+    {
+      "id": "C9Q4",
+      "statement": "What is the basic monomer unit of nucleic acids?",
+      "options": [
+        "Monosaccharide",
+        "Amino acid",
+        "Nucleotide",
+        "Fatty acid"
+      ],
+      "answer": "Nucleotide"
+    },
+    {
+      "id": "C9Q5",
+      "statement": "Which level of protein structure is determined by the sequence of amino acids?",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Quaternary structure",
+        "Tertiary structure"
+      ],
+      "answer": "Primary structure"
+    },
+    {
+      "id": "C9Q6",
+      "statement": "What type of lipid forms the main structural component of cell membranes?",
+      "options": [
+        "Steroids",
+        "Waxes",
+        "Phospholipids",
+        "Triglycerides"
+      ],
+      "answer": "Phospholipids"
+    },
+    {
+      "id": "C9Q7",
+      "statement": "Which carbohydrate is the main storage form in animals?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Starch",
+        "Chitin"
+      ],
+      "answer": "Glycogen"
+    },
+    {
+      "id": "C9Q8",
+      "statement": "What is the function of enzymes in biological systems?",
+      "options": [
+        "Structural support",
+        "Energy storage",
+        "Catalyze biochemical reactions",
+        "Genetic information storage"
+      ],
+      "answer": "Catalyze biochemical reactions"
+    },
+    {
+      "id": "C9Q9",
+      "statement": "Which nitrogenous base is found in RNA but not in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "answer": "Uracil"
+    },
+    {
+      "id": "C9Q10",
+      "statement": "What type of reaction breaks down polymers into monomers?",
+      "options": [
+        "Condensation",
+        "Hydrolysis",
+        "Polymerization",
+        "Dehydration synthesis"
+      ],
+      "answer": "Hydrolysis"
+    },
+    {
+      "id": "C9Q11",
+      "statement": "Which structural level of proteins involves alpha-helices and beta-sheets?",
+      "options": [
+        "Quaternary structure",
+        "Tertiary structure",
+        "Primary structure",
+        "Secondary structure"
+      ],
+      "answer": "Secondary structure"
+    },
+    {
+      "id": "C9Q12",
+      "statement": "What is the main function of triglycerides in living organisms?",
+      "options": [
+        "Enzyme catalysis",
+        "Hormone production",
+        "Energy storage",
+        "Membrane structure"
+      ],
+      "answer": "Energy storage"
+    },
+    {
+      "id": "C9Q13",
+      "statement": "Which sugar is known as blood sugar?",
+      "options": [
+        "Galactose",
+        "Glucose",
+        "Fructose",
+        "Sucrose"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "id": "C9Q14",
+      "statement": "What determines the specificity of an enzyme for its substrate?",
+      "options": [
+        "Temperature",
+        "pH",
+        "Enzyme concentration",
+        "Active site structure"
+      ],
+      "answer": "Active site structure"
+    },
+    {
+      "id": "C9Q15",
+      "statement": "Which type of nucleic acid carries genetic information from DNA to ribosomes?",
+      "options": [
+        "rRNA",
+        "mRNA",
+        "tRNA",
+        "DNA"
+      ],
+      "answer": "mRNA"
+    },
+    {
+      "id": "C9Q16",
+      "statement": "What is the basic structure of a nucleotide?",
+      "options": [
+        "Phosphate + base",
+        "Sugar + base",
+        "Sugar + phosphate",
+        "Sugar + phosphate + base"
+      ],
+      "answer": "Sugar + phosphate + base"
+    },
+    {
+      "id": "C9Q17",
+      "statement": "Which level of protein structure involves multiple polypeptide chains?",
+      "options": [
+        "Tertiary structure",
+        "Secondary structure",
+        "Quaternary structure",
+        "Primary structure"
+      ],
+      "answer": "Quaternary structure"
+    },
+    {
+      "id": "C9Q18",
+      "statement": "What type of bond joins monosaccharides in disaccharides?",
+      "options": [
+        "Hydrogen bond",
+        "Ester bond",
+        "Peptide bond",
+        "Glycosidic bond"
+      ],
+      "answer": "Glycosidic bond"
+    },
+    {
+      "id": "C9Q19",
+      "statement": "Which lipid is characterized by a four-ring structure?",
+      "options": [
+        "Wax",
+        "Steroid",
+        "Triglyceride",
+        "Phospholipid"
+      ],
+      "answer": "Steroid"
+    },
+    {
+      "id": "C9Q20",
+      "statement": "What is the role of tRNA in protein synthesis?",
+      "options": [
+        "Catalyzes peptide bond formation",
+        "Forms ribosome structure",
+        "Brings amino acids to ribosome",
+        "Carries genetic information"
+      ],
+      "answer": "Brings amino acids to ribosome"
+    },
+    {
+      "id": "C9Q21",
+      "statement": "Which factor can denature proteins by disrupting hydrogen bonds?",
+      "options": [
+        "Organic solvents",
+        "Low pH",
+        "High temperature",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C9Q22",
+      "statement": "What is the function of cholesterol in cell membranes?",
+      "options": [
+        "Energy storage",
+        "Hormone production",
+        "Fluidity regulation",
+        "Enzyme activity"
+      ],
+      "answer": "Fluidity regulation"
+    },
+    {
+      "id": "C9Q23",
+      "statement": "Which carbohydrate is indigestible by humans and forms dietary fiber?",
+      "options": [
+        "Chitin",
+        "Glycogen",
+        "Starch",
+        "Cellulose"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "id": "C9Q24",
+      "statement": "What is the effect of competitive inhibitors on enzyme activity?",
+      "options": [
+        "Decrease Vmax",
+        "Increase Km",
+        "Neither affect Km nor Vmax",
+        "Both increase Km and decrease Vmax"
+      ],
+      "answer": "Increase Km"
+    },
+    {
+      "id": "C9Q25",
+      "statement": "Which nitrogenous base pairs with thymine in DNA?",
+      "options": [
+        "Cytosine",
+        "Guanine",
+        "Adenine",
+        "Uracil"
+      ],
+      "answer": "Adenine"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C9Q26",
+      "statement": "What is the significance of the antiparallel arrangement in DNA double helix?",
+      "options": [
+        "Facilitates DNA replication",
+        "All of the above",
+        "Allows complementary base pairing",
+        "Provides structural stability"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C9Q27",
+      "statement": "How do saturated and unsaturated fatty acids differ in their physical properties?",
+      "options": [
+        "Unsaturated fats are solid at room temperature",
+        "Saturated fats are liquid at room temperature",
+        "Unsaturated fats have no double bonds",
+        "Saturated fats have higher melting points"
+      ],
+      "answer": "Saturated fats have higher melting points"
+    },
+    {
+      "id": "C9Q28",
+      "statement": "What is the role of cofactors in enzyme function?",
+      "options": [
+        "They assist in catalytic activity",
+        "They denature the enzyme",
+        "They help in substrate binding",
+        "They are the active site of the enzyme"
+      ],
+      "answer": "They assist in catalytic activity"
+    },
+    {
+      "id": "C9Q29",
+      "statement": "Which structural feature distinguishes RNA from DNA?",
+      "options": [
+        "Presence of thymine",
+        "Double-stranded structure",
+        "Presence of 2'-OH group in ribose",
+        "Longer chain length"
+      ],
+      "answer": "Presence of 2'-OH group in ribose"
+    },
+    {
+      "id": "C9Q30",
+      "statement": "What is the effect of allosteric inhibitors on enzyme kinetics?",
+      "options": [
+        "Increase Km only",
+        "Decrease Vmax only",
+        "Both increase Km and decrease Vmax",
+        "Change the enzyme's shape and reduce activity"
+      ],
+      "answer": "Change the enzyme's shape and reduce activity"
+    },
+    {
+      "id": "C9Q31",
+      "statement": "How does the primary structure of a protein determine its final conformation?",
+      "options": [
+        "It dictates the sequence of folding events",
+        "It has no effect on protein folding",
+        "It determines the chemical properties of side chains",
+        "Both B and C"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "id": "C9Q31",
+      "statement": "What is the significance of the peptide bond's partial double bond character?",
+      "options": [
+        "It increases bond length",
+        "It restricts rotation around the bond",
+        "It decreases bond strength",
+        "It makes the bond more flexible"
+      ],
+      "answer": "It restricts rotation around the bond"
+    },
+    {
+      "id": "C9Q32",
+      "statement": "Which property of water makes it an excellent solvent for biological molecules?",
+      "options": [
+        "Polarity and hydrogen bonding",
+        "Low density as ice",
+        "High specific heat",
+        "High surface tension"
+      ],
+      "answer": "Polarity and hydrogen bonding"
+    },
+    {
+      "id": "C9Q33",
+      "statement": "What is the role of disulfide bonds in protein structure?",
+      "options": [
+        "Create alpha-helices",
+        "Stabilize tertiary structure",
+        "Initiate protein synthesis",
+        "Form primary structure"
+      ],
+      "answer": "Stabilize tertiary structure"
+    },
+    {
+      "id": "C9Q34",
+      "statement": "How do competitive and non-competitive inhibitors differ in their mechanism?",
+      "options": [
+        "Both bind to the active site",
+        "Neither affects enzyme activity",
+        "Both decrease Vmax",
+        "Competitive bind to active site, non-competitive to allosteric site"
+      ],
+      "answer": "Competitive bind to active site, non-competitive to allosteric site"
+    },
+    {
+      "id": "C9Q35",
+      "statement": "What is the significance of Chargaff's rules in DNA structure?",
+      "options": [
+        "A=T and G=C base pairing",
+        "DNA is double-stranded",
+        "DNA replication is semi-conservative",
+        "DNA has antiparallel strands"
+      ],
+      "answer": "A=T and G=C base pairing"
+    },
+    {
+      "id": "C9Q36",
+      "statement": "How do enzymes lower the activation energy of reactions?",
+      "options": [
+        "By changing the equilibrium constant",
+        "By increasing temperature",
+        "By providing an alternative reaction pathway",
+        "By consuming the products"
+      ],
+      "answer": "By providing an alternative reaction pathway"
+    },
+    {
+      "id": "C9Q37",
+      "statement": "What is the function of molecular chaperones in protein folding?",
+      "options": [
+        "Prevent improper folding and aggregation",
+        "Catalyze peptide bond formation",
+        "Synthesize new proteins",
+        "Degrade misfolded proteins"
+      ],
+      "answer": "Prevent improper folding and aggregation"
+    },
+    {
+      "id": "C9Q38",
+      "statement": "Which structural feature allows phospholipids to form bilayers spontaneously?",
+      "options": [
+        "Saturated fatty acids",
+        "Ester bonds",
+        "Hydrophilic head and hydrophobic tail",
+        "Presence of phosphate group"
+      ],
+      "answer": "Hydrophilic head and hydrophobic tail"
+    },
+    {
+      "id": "C9Q39",
+      "statement": "What is the role of ribozymes in biological systems?",
+      "options": [
+        "Transport molecules",
+        "Catalyze biochemical reactions",
+        "Provide structural support",
+        "Store genetic information"
+      ],
+      "answer": "Catalyze biochemical reactions"
+    },
+    {
+      "id": "C9Q40",
+      "statement": "How does temperature affect enzyme activity?",
+      "options": [
+        "Decreases activity constantly",
+        "Increases activity linearly",
+        "Increases to optimum then decreases",
+        "Has no effect on activity"
+      ],
+      "answer": "Increases to optimum then decreases"
+    },
+    {
+      "id": "C9Q41",
+      "statement": "What is the significance of the genetic code being degenerate?",
+      "options": [
+        "No stop codons",
+        "Universal across all organisms",
+        "One codon for multiple amino acids",
+        "Multiple codons for same amino acid"
+      ],
+      "answer": "Multiple codons for same amino acid"
+    },
+    {
+      "id": "C9Q42",
+      "statement": "Which forces maintain the tertiary structure of proteins?",
+      "options": [
+        "Glycosidic bonds",
+        "Hydrogen bonds, hydrophobic interactions, disulfide bonds",
+        "Peptide bonds only",
+        "Phosphodiester bonds"
+      ],
+      "answer": "Hydrogen bonds, hydrophobic interactions, disulfide bonds"
+    },
+    {
+      "id": "C9Q43",
+      "statement": "What is the function of regulatory enzymes in metabolic pathways?",
+      "options": [
+        "Catalyze all reactions equally",
+        "Degrade substrates",
+        "Control flux through pathways",
+        "Store energy"
+      ],
+      "answer": "Control flux through pathways"
+    },
+    {
+      "id": "C9Q44",
+      "statement": "How does pH affect enzyme activity?",
+      "options": [
+        "pH has no effect on enzymes",
+        "All enzymes have same pH optimum",
+        "Enzymes work only at neutral pH",
+        "Each enzyme has specific pH optimum"
+      ],
+      "answer": "Each enzyme has specific pH optimum"
+    },
+    {
+      "id": "C9Q45",
+      "statement": "What is the role of ATP in coupled reactions?",
+      "options": [
+        "Provides energy for endergonic reactions",
+        "Inhibits enzyme activity",
+        "Acts as substrate",
+        "Stores genetic information"
+      ],
+      "answer": "Provides energy for endergonic reactions"
+    },
+    {
+      "id": "C9Q46",
+      "statement": "Which property makes cellulose indigestible by humans?",
+      "options": [
+        "Alpha-glycosidic linkages",
+        "Branched structure",
+        "Presence of nitrogen",
+        "Beta-glycosidic linkages"
+      ],
+      "answer": "Beta-glycosidic linkages"
+    },
+    {
+      "id": "C9Q47",
+      "statement": "What is the significance of the induced fit model of enzyme action?",
+      "options": [
+        "Substrate changes to fit enzyme",
+        "Enzyme changes shape to accommodate substrate",
+        "Enzyme and substrate are rigid structures",
+        "No conformational changes occur"
+      ],
+      "answer": "Enzyme changes shape to accommodate substrate"
+    },
+    {
+      "id": "C9Q48",
+      "statement": "How do nucleic acids store and transmit genetic information?",
+      "options": [
+        "Through hydrogen bonds",
+        "Through sugar-phosphate backbone",
+        "Through phosphate groups",
+        "Through sequence of nitrogenous bases"
+      ],
+      "answer": "Through sequence of nitrogenous bases"
+    },
+    {
+      "id": "C9Q49",
+      "statement": "What is the function of lipoproteins in the body?",
+      "options": [
+        "Transport lipids in bloodstream",
+        "Form cell membranes",
+        "Store energy",
+        "Catalyze lipid synthesis"
+      ],
+      "answer": "Transport lipids in bloodstream"
+    },
+    {
+      "id": "C9Q50",
+      "statement": "Which factor primarily determines the specificity of enzyme-substrate interaction?",
+      "options": [
+        "Three-dimensional structure of active site",
+        "Temperature",
+        "pH",
+        "Enzyme concentration"
+      ],
+      "answer": "Three-dimensional structure of active site"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C9Q51",
+      "statement": "What is the thermodynamic basis for the spontaneous formation of lipid bilayers?",
+      "options": [
+        "Increase in temperature",
+        "Decrease in entropy",
+        "Decrease in free energy",
+        "Increase in enthalpy"
+      ],
+      "answer": "Decrease in free energy"
+    },
+    {
+      "id": "C9Q52",
+      "statement": "How does the Michaelis-Menten equation describe enzyme kinetics?",
+      "options": [
+        "Logarithmic increase in reaction rate",
+        "Exponential decay of enzyme activity",
+        "Hyperbolic relationship between velocity and substrate",
+        "Linear relationship between velocity and substrate"
+      ],
+      "answer": "Hyperbolic relationship between velocity and substrate"
+    },
+    {
+      "id": "C9Q53",
+      "statement": "What is the molecular basis for the cooperativity in hemoglobin oxygen binding?",
+      "options": [
+        "Allosteric regulation and conformational changes",
+        "Covalent modification",
+        "Competitive inhibition",
+        "Proteolytic cleavage"
+      ],
+      "answer": "Allosteric regulation and conformational changes"
+    },
+    {
+      "id": "C9Q54",
+      "statement": "How do prions cause disease despite having no genetic material?",
+      "options": [
+        "They produce toxins",
+        "They induce misfolding of normal proteins",
+        "They contain viral DNA",
+        "They replicate like bacteria"
+      ],
+      "answer": "They induce misfolding of normal proteins"
+    },
+    {
+      "id": "C9Q55",
+      "statement": "What is the significance of the wobble hypothesis in translation?",
+      "options": [
+        "Allows flexibility in third base pairing",
+        "Allows multiple tRNAs to recognize same codon",
+        "Prevents misreading of codons",
+        "Explains why genetic code is not universal"
+      ],
+      "answer": "Allows flexibility in third base pairing"
+    },
+    {
+      "id": "C9Q56",
+      "statement": "How does the Henderson-Hasselbalch equation relate to buffer systems in biological fluids?",
+      "options": [
+        "Measures membrane potential",
+        "Relates pH to ratio of conjugate acid-base pairs",
+        "Describes oxygen binding to hemoglobin",
+        "Calculates enzyme reaction rates"
+      ],
+      "answer": "Relates pH to ratio of conjugate acid-base pairs"
+    },
+    {
+      "id": "C9Q57",
+      "statement": "What is the structural basis for the different functions of myoglobin and hemoglobin?",
+      "options": [
+        "Different heme groups",
+        "Monomeric vs tetrameric structure",
+        "Oxygen binding capacity",
+        "Presence of iron"
+      ],
+      "answer": "Monomeric vs tetrameric structure"
+    },
+    {
+      "id": "C9Q58",
+      "statement": "How do competitive inhibitors affect the Lineweaver-Burk plot?",
+      "options": [
+        "No change in plot",
+        "Change both slope and intercept",
+        "Change intercept but not slope",
+        "Change slope but not intercept"
+      ],
+      "answer": "Change slope but not intercept"
+    },
+    {
+      "id": "C9Q59",
+      "statement": "What is the role of ubiquitin in protein degradation?",
+      "options": [
+        "Directly degrades proteins",
+        "Marks proteins for proteasomal degradation",
+        "Synthesizes new proteins",
+        "Folds proteins properly"
+      ],
+      "answer": "Marks proteins for proteasomal degradation"
+    },
+    {
+      "id": "C9Q60",
+      "statement": "How does the fluid mosaic model explain membrane dynamics?",
+      "options": [
+        "Proteins are fixed in position",
+        "Only lipids can move in membranes",
+        "Membranes are static structures",
+        "Lipids and proteins can move laterally"
+      ],
+      "answer": "Lipids and proteins can move laterally"
+    },
+    {
+      "id": "C9Q61",
+      "statement": "What is the thermodynamic driving force for protein folding?",
+      "options": [
+        "Increase in enthalpy",
+        "Decrease in entropy of protein",
+        "Decrease in temperature",
+        "Increase in system entropy (hydrophobic effect)"
+      ],
+      "answer": "Increase in system entropy (hydrophobic effect)"
+    },
+    {
+      "id": "C9Q62",
+      "statement": "How do allosteric effectors regulate enzyme activity?",
+      "options": [
+        "By covalent modification",
+        "By degrading the enzyme",
+        "By binding to active site",
+        "By inducing conformational changes"
+      ],
+      "answer": "By inducing conformational changes"
+    },
+    {
+      "id": "C9Q63",
+      "statement": "What is the molecular basis for the different melting temperatures of DNA with varying GC content?",
+      "options": [
+        "Sugar-phosphate backbone differences",
+        "GC pairs have three hydrogen bonds",
+        "GC pairs have two hydrogen bonds",
+        "AT pairs are more stable"
+      ],
+      "answer": "GC pairs have three hydrogen bonds"
+    },
+    {
+      "id": "C9Q64",
+      "statement": "How does the primary structure of collagen contribute to its tensile strength?",
+      "options": [
+        "Presence of hydroxyproline enables cross-linking",
+        "High glycine content allows tight packing",
+        "Regular repeating sequence facilitates triple helix formation",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C9Q65",
+      "statement": "What is the significance of the proteasome in cellular regulation?",
+      "options": [
+        "Degrades regulatory proteins to control cell cycle",
+        "Folds proteins properly",
+        "Transports proteins across membranes",
+        "Synthesizes proteins"
+      ],
+      "answer": "Degrades regulatory proteins to control cell cycle"
+    },
+    {
+      "id": "C9Q66",
+      "statement": "How do enzyme kinetics change in the presence of uncompetitive inhibitors?",
+      "options": [
+        "Increase Km, no change in Vmax",
+        "Decrease Km and Vmax",
+        "No change in Km, decrease Vmax",
+        "Increase both Km and Vmax"
+      ],
+      "answer": "Decrease Km and Vmax"
+    },
+    {
+      "id": "C9Q67",
+      "statement": "What is the role of molecular recognition in biological systems?",
+      "options": [
+        "Random interactions between molecules",
+        "Specific interactions based on complementary shapes",
+        "Only occurs in immune system",
+        "Involves only covalent bonds"
+      ],
+      "answer": "Specific interactions based on complementary shapes"
+    },
+    {
+      "id": "C9Q68",
+      "statement": "How does the structure of tRNA facilitate its function in translation?",
+      "options": [
+        "Branched carbohydrate structure",
+        "Double-stranded helical structure",
+        "Cloverleaf structure with anticodon and amino acid attachment sites",
+        "Linear single-stranded structure"
+      ],
+      "answer": "Cloverleaf structure with anticodon and amino acid attachment sites"
+    },
+    {
+      "id": "C9Q69",
+      "statement": "What is the biochemical basis for the different blood types in humans?",
+      "options": [
+        "Specific carbohydrate antigens on red blood cells",
+        "Different hemoglobin structures",
+        "Variations in cell membrane proteins",
+        "Different enzyme compositions"
+      ],
+      "answer": "Specific carbohydrate antigens on red blood cells"
+    },
+    {
+      "id": "C9Q70",
+      "statement": "How do molecular chaperones distinguish between properly and improperly folded proteins?",
+      "options": [
+        "By analyzing charge distribution",
+        "By recognizing specific amino acid sequences",
+        "By measuring protein size",
+        "By detecting exposed hydrophobic regions"
+      ],
+      "answer": "By detecting exposed hydrophobic regions"
+    },
+    {
+      "id": "C9Q71",
+      "statement": "What is the role of post-translational modifications in protein function?",
+      "options": [
+        "Prevent protein folding",
+        "Only for protein degradation",
+        "Determine primary structure",
+        "Regulate activity, localization, and interactions"
+      ],
+      "answer": "Regulate activity, localization, and interactions"
+    },
+    {
+      "id": "C9Q72",
+      "statement": "How does the structure of antibodies enable specific antigen recognition?",
+      "options": [
+        "Hypervariable regions in antigen-binding sites",
+        "Constant region variability",
+        "Phosphorylation sites",
+        "Carbohydrate modifications"
+      ],
+      "answer": "Hypervariable regions in antigen-binding sites"
+    },
+    {
+      "id": "C9Q73",
+      "statement": "What is the significance of alternative splicing in protein diversity?",
+      "options": [
+        "Degrades mRNA faster",
+        "Prevents protein synthesis",
+        "Increases mutation rate",
+        "Allows single gene to produce multiple proteins"
+      ],
+      "answer": "Allows single gene to produce multiple proteins"
+    },
+    {
+      "id": "C9Q74",
+      "statement": "How do lipid rafts affect membrane protein function?",
+      "options": [
+        "Synthesize new lipids",
+        "Prevent protein movement",
+        "Degrade membrane proteins",
+        "Facilitate protein clustering and signaling"
+      ],
+      "answer": "Facilitate protein clustering and signaling"
+    },
+    {
+      "id": "C9Q75",
+      "statement": "What is the molecular mechanism of enzyme catalysis?",
+      "options": [
+        "Changing reaction equilibrium",
+        "Stabilizing transition state",
+        "Consuming substrates",
+        "Increasing activation energy"
+      ],
+      "answer": "Stabilizing transition state"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C9Q76",
+      "statement": "Which biomolecule is the primary structural component of cell membranes?",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "answer": "Lipids"
+    },
+    {
+      "id": "C9Q77",
+      "statement": "What is the function of enzymes in biological systems?",
+      "options": [
+        "Energy storage",
+        "Catalyze reactions",
+        "Genetic information",
+        "Structural support"
+      ],
+      "answer": "Catalyze reactions"
+    },
+    {
+      "id": "C9Q78",
+      "statement": "Which bond joins amino acids in proteins?",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Hydrogen bond",
+        "Ester bond"
+      ],
+      "answer": "Peptide bond"
+    },
+    {
+      "id": "C9Q79",
+      "statement": "What is the monomer of nucleic acids?",
+      "options": [
+        "Monosaccharide",
+        "Amino acid",
+        "Nucleotide",
+        "Fatty acid"
+      ],
+      "answer": "Nucleotide"
+    },
+    {
+      "id": "C9Q80",
+      "statement": "Which carbohydrate is stored in liver and muscles?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Chitin"
+      ],
+      "answer": "Glycogen"
+    },
+    {
+      "id": "C9Q81",
+      "statement": "What determines the primary structure of proteins?",
+      "options": [
+        "Hydrogen bonding",
+        "Amino acid sequence",
+        "Peptide bonds",
+        "R group interactions"
+      ],
+      "answer": "Amino acid sequence"
+    },
+    {
+      "id": "C9Q82",
+      "statement": "Which nitrogenous base is unique to RNA?",
+      "options": [
+        "Thymine",
+        "Uracil",
+        "Adenine",
+        "Guanine"
+      ],
+      "answer": "Uracil"
+    },
+    {
+      "id": "C9Q83",
+      "statement": "What is the energy currency of the cell?",
+      "options": [
+        "Glucose",
+        "ATP",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": "ATP"
+    },
+    {
+      "id": "C9Q84",
+      "statement": "Which level of protein structure involves alpha-helices?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "id": "C9Q85",
+      "statement": "What type of lipid forms cell membranes?",
+      "options": [
+        "Triglycerides",
+        "Phospholipids",
+        "Steroids",
+        "Waxes"
+      ],
+      "answer": "Phospholipids"
+    },
+    {
+      "id": "C9Q86",
+      "statement": "Which process breaks down polymers into monomers?",
+      "options": [
+        "Dehydration synthesis",
+        "Hydrolysis",
+        "Condensation",
+        "Polymerization"
+      ],
+      "answer": "Hydrolysis"
+    },
+    {
+      "id": "C9Q87",
+      "statement": "What is the function of tRNA?",
+      "options": [
+        "Carries genetic information",
+        "Brings amino acids to ribosome",
+        "Forms ribosome structure",
+        "Catalyzes reactions"
+      ],
+      "answer": "Brings amino acids to ribosome"
+    },
+    {
+      "id": "C9Q88",
+      "statement": "Which factor can denature proteins?",
+      "options": [
+        "High temperature",
+        "Low pH",
+        "Organic solvents",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "C9Q89",
+      "statement": "What is the main function of carbohydrates?",
+      "options": [
+        "Energy storage and structure",
+        "Genetic information",
+        "Catalysis",
+        "Membrane formation"
+      ],
+      "answer": "Energy storage and structure"
+    },
+    {
+      "id": "C9Q90",
+      "statement": "Which base pairs with cytosine in DNA?",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Guanine",
+        "Uracil"
+      ],
+      "answer": "Guanine"
+    },
+    {
+      "id": "C9Q91",
+      "statement": "What is the role of DNA in cells?",
+      "options": [
+        "Energy production",
+        "Genetic information storage",
+        "Catalysis",
+        "Structural support"
+      ],
+      "answer": "Genetic information storage"
+    },
+    {
+      "id": "C9Q92",
+      "statement": "Which bond joins glucose molecules in starch?",
+      "options": [
+        "Alpha-glycosidic bond",
+        "Beta-glycosidic bond",
+        "Peptide bond",
+        "Ester bond"
+      ],
+      "answer": "Alpha-glycosidic bond"
+    },
+    {
+      "id": "C9Q93",
+      "statement": "What is the effect of enzymes on activation energy?",
+      "options": [
+        "Increase it",
+        "Decrease it",
+        "No effect",
+        "Eliminate it"
+      ],
+      "answer": "Decrease it"
+    },
+    {
+      "id": "C9Q94",
+      "statement": "Which structure is characteristic of steroids?",
+      "options": [
+        "Long hydrocarbon chain",
+        "Four fused rings",
+        "Phosphate group",
+        "Glycerol backbone"
+      ],
+      "answer": "Four fused rings"
+    },
+    {
+      "id": "C9Q95",
+      "statement": "What determines enzyme specificity?",
+      "options": [
+        "Temperature",
+        "pH",
+        "Active site structure",
+        "Substrate concentration"
+      ],
+      "answer": "Active site structure"
+    },
+    {
+      "id": "C9Q96",
+      "statement": "Which nucleic acid carries genetic code to ribosomes?",
+      "options": [
+        "DNA",
+        "mRNA",
+        "tRNA",
+        "rRNA"
+      ],
+      "answer": "mRNA"
+    },
+    {
+      "id": "C9Q97",
+      "statement": "What is the function of cholesterol in membranes?",
+      "options": [
+        "Energy storage",
+        "Fluidity regulation",
+        "Enzyme activity",
+        "Hormone production"
+      ],
+      "answer": "Fluidity regulation"
+    },
+    {
+      "id": "C9Q98",
+      "statement": "Which carbohydrate forms plant cell walls?",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "id": "C9Q99",
+      "statement": "What is the significance of the genetic code?",
+      "options": [
+        "Determines protein structure",
+        "Stores energy",
+        "Forms membranes",
+        "Catalyzes reactions"
+      ],
+      "answer": "Determines protein structure"
+    },
+    {
+      "id": "C9Q100",
+      "statement": "Which factor affects enzyme activity?",
+      "options": [
+        "Temperature",
+        "pH",
+        "Substrate concentration",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    }
+  ]
+}

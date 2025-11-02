@@ -1,0 +1,1128 @@
+{
+  "metadata": {
+    "chapter": "cell_the_unit_of_life",
+    "type": "mcq",
+    "subject": "biology",
+    "chapterNumber": 8,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C8Q1",
+      "statement": "Which cellular structure is primarily responsible for maintaining cell shape and providing mechanical support?",
+      "options": [
+        "Cytoskeleton",
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Cell membrane"
+      ],
+      "answer": "Cytoskeleton"
+    },
+    {
+      "id": "C8Q2",
+      "statement": "What is the primary function of ribosomes in the cell?",
+      "options": [
+        "Protein synthesis",
+        "ATP production",
+        "Lipid synthesis",
+        "Waste degradation"
+      ],
+      "answer": "Protein synthesis"
+    },
+    {
+      "id": "C8Q3",
+      "statement": "Which organelle contains its own DNA and ribosomes?",
+      "options": [
+        "Mitochondria",
+        "Lysosome",
+        "Peroxisome",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q4",
+      "statement": "The fluid mosaic model describes the structure of:",
+      "options": [
+        "Endoplasmic reticulum",
+        "Mitochondrial membrane",
+        "Nuclear envelope",
+        "Plasma membrane"
+      ],
+      "answer": "Plasma membrane"
+    },
+    {
+      "id": "C8Q5",
+      "statement": "Which cellular component is common to both prokaryotic and eukaryotic cells?",
+      "options": [
+        "Mitochondria",
+        "Endoplasmic reticulum",
+        "Nuclear membrane",
+        "Ribosomes"
+      ],
+      "answer": "Ribosomes"
+    },
+    {
+      "id": "C8Q6",
+      "statement": "What is the main function of the Golgi apparatus?",
+      "options": [
+        "Protein synthesis",
+        "DNA replication",
+        "Modification and packaging of proteins",
+        "Cellular respiration"
+      ],
+      "answer": "Modification and packaging of proteins"
+    },
+    {
+      "id": "C8Q7",
+      "statement": "Which organelle is responsible for intracellular digestion?",
+      "options": [
+        "Ribosome",
+        "Vacuole",
+        "Peroxisome",
+        "Lysosome"
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "id": "C8Q8",
+      "statement": "The presence of which structure distinguishes eukaryotic cells from prokaryotic cells?",
+      "options": [
+        "Ribosomes",
+        "Membrane-bound nucleus",
+        "Cell wall",
+        "Plasma membrane"
+      ],
+      "answer": "Membrane-bound nucleus"
+    },
+    {
+      "id": "C8Q9",
+      "statement": "Which cellular structure is involved in lipid synthesis and detoxification?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q10",
+      "statement": "What is the primary function of chloroplasts in plant cells?",
+      "options": [
+        "Protein synthesis",
+        "Storage of genetic material",
+        "Photosynthesis",
+        "Cellular respiration"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": "C8Q11",
+      "statement": "Which cellular component contains hydrolytic enzymes for breaking down macromolecules?",
+      "options": [
+        "Peroxisomes",
+        "Lysosomes",
+        "Mitochondria",
+        "Ribosomes"
+      ],
+      "answer": "Lysosomes"
+    },
+    {
+      "id": "C8Q12",
+      "statement": "The nuclear envelope is continuous with which cellular structure?",
+      "options": [
+        "Plasma membrane",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q13",
+      "statement": "Which structure is responsible for organizing microtubules during cell division?",
+      "options": [
+        "Ribosome",
+        "Lysosome",
+        "Nucleolus",
+        "Centrosome"
+      ],
+      "answer": "Centrosome"
+    },
+    {
+      "id": "C8Q14",
+      "statement": "What is the main component of the plant cell wall?",
+      "options": [
+        "Peptidoglycan",
+        "Chitin",
+        "Cellulose",
+        "Lipids"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "id": "C8Q15",
+      "statement": "Which organelle is involved in the synthesis of ribosomal RNA?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Nucleolus"
+      ],
+      "answer": "Nucleolus"
+    },
+    {
+      "id": "C8Q16",
+      "statement": "The movement of water across a semipermeable membrane is called:",
+      "options": [
+        "Osmosis",
+        "Facilitated diffusion",
+        "Diffusion",
+        "Active transport"
+      ],
+      "answer": "Osmosis"
+    },
+    {
+      "id": "C8Q17",
+      "statement": "Which cellular structure contains chromatin?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Chloroplast",
+        "Ribosome"
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "id": "C8Q18",
+      "statement": "What is the function of peroxisomes in cells?",
+      "options": [
+        "DNA replication",
+        "ATP production",
+        "Oxidative metabolism",
+        "Protein synthesis"
+      ],
+      "answer": "Oxidative metabolism"
+    },
+    {
+      "id": "C8Q19",
+      "statement": "Which type of endoplasmic reticulum has ribosomes attached to its surface?",
+      "options": [
+        "Both smooth and rough ER",
+        "Rough ER",
+        "Smooth ER",
+        "Neither smooth nor rough ER"
+      ],
+      "answer": "Rough ER"
+    },
+    {
+      "id": "C8Q20",
+      "statement": "The process by which cells engulf large particles is called:",
+      "options": [
+        "Diffusion",
+        "Phagocytosis",
+        "Osmosis",
+        "Pinocytosis"
+      ],
+      "answer": "Phagocytosis"
+    },
+    {
+      "id": "C8Q21",
+      "statement": "Which cellular structure is responsible for maintaining turgor pressure in plant cells?",
+      "options": [
+        "Chloroplast",
+        "Vacuole",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "answer": "Vacuole"
+    },
+    {
+      "id": "C8Q22",
+      "statement": "What is the primary function of the cytoskeleton?",
+      "options": [
+        "Energy production",
+        "Lipid storage",
+        "Cell division and movement",
+        "Protein synthesis"
+      ],
+      "answer": "Cell division and movement"
+    },
+    {
+      "id": "C8Q23",
+      "statement": "Which organelle is involved in the formation of acrosome during spermatogenesis?",
+      "options": [
+        "Mitochondria",
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "answer": "Golgi apparatus"
+    },
+    {
+      "id": "C8Q24",
+      "statement": "The cristae are structural features found in which organelle?",
+      "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Endoplasmic reticulum",
+        "Mitochondria"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q25",
+      "statement": "Which cellular process requires energy to move substances against their concentration gradient?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Facilitated diffusion"
+      ],
+      "answer": "Active transport"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C8Q26",
+      "statement": "In the fluid mosaic model of plasma membrane, the 'fluid' characteristic is primarily due to:",
+      "options": [
+        "Carbohydrate chains",
+        "Peripheral proteins",
+        "Integral proteins",
+        "Phospholipid bilayer"
+      ],
+      "answer": "Phospholipid bilayer"
+    },
+    {
+      "id": "C8Q27",
+      "statement": "Which statement best describes the function of tight junctions in epithelial cells?",
+      "options": [
+        "Facilitate cell recognition",
+        "Provide mechanical strength",
+        "Allow communication between adjacent cells",
+        "Prevent leakage of extracellular fluid"
+      ],
+      "answer": "Prevent leakage of extracellular fluid"
+    },
+    {
+      "id": "C8Q28",
+      "statement": "The signal recognition particle (SRP) is involved in:",
+      "options": [
+        "Ribosome assembly",
+        "mRNA processing",
+        "Protein targeting to ER",
+        "DNA replication"
+      ],
+      "answer": "Protein targeting to ER"
+    },
+    {
+      "id": "C8Q29",
+      "statement": "Which cellular structure would be most abundant in pancreatic cells that secrete digestive enzymes?",
+      "options": [
+        "Lysosomes",
+        "Rough endoplasmic reticulum",
+        "Peroxisomes",
+        "Smooth endoplasmic reticulum"
+      ],
+      "answer": "Rough endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q30",
+      "statement": "The process by which lysosomes digest worn-out organelles is called:",
+      "options": [
+        "Pinocytosis",
+        "Exocytosis",
+        "Autophagy",
+        "Phagocytosis"
+      ],
+      "answer": "Autophagy"
+    },
+    {
+      "id": "C8Q31",
+      "statement": "Which component of the cytoskeleton is primarily involved in cell movement and contraction?",
+      "options": [
+        "Microtubules",
+        "Intermediate filaments",
+        "All of the above",
+        "Microfilaments"
+      ],
+      "answer": "Microfilaments"
+    },
+    {
+      "id": "C8Q32",
+      "statement": "The nuclear pore complex allows for:",
+      "options": [
+        "Selective transport between nucleus and cytoplasm",
+        "Ribosomes to enter the nucleus",
+        "Free passage of all cellular components",
+        "DNA to exit the nucleus"
+      ],
+      "answer": "Selective transport between nucleus and cytoplasm"
+    },
+    {
+      "id": "C8Q33",
+      "statement": "Which organelle is responsible for the synthesis of most membrane lipids?",
+      "options": [
+        "Smooth endoplasmic reticulum",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q34",
+      "statement": "The chemiosmotic theory explains ATP synthesis in:",
+      "options": [
+        "Both chloroplasts and mitochondria",
+        "Chloroplasts only",
+        "Mitochondria only",
+        "Neither chloroplasts nor mitochondria"
+      ],
+      "answer": "Both chloroplasts and mitochondria"
+    },
+    {
+      "id": "C8Q35",
+      "statement": "Which type of cell junction allows for direct cytoplasmic communication between adjacent cells?",
+      "options": [
+        "Plasmodesmata",
+        "Tight junctions",
+        "Desmosomes",
+        "Gap junctions"
+      ],
+      "answer": "Gap junctions"
+    },
+    {
+      "id": "C8Q36",
+      "statement": "The endosymbiotic theory explains the origin of:",
+      "options": [
+        "Nucleus",
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria and chloroplasts"
+      ],
+      "answer": "Mitochondria and chloroplasts"
+    },
+    {
+      "id": "C8Q37",
+      "statement": "Which cellular process is responsible for the uptake of cholesterol by cells?",
+      "options": [
+        "Phagocytosis",
+        "Exocytosis",
+        "Pinocytosis",
+        "Receptor-mediated endocytosis"
+      ],
+      "answer": "Receptor-mediated endocytosis"
+    },
+    {
+      "id": "C8Q38",
+      "statement": "The stacking of thylakoids in chloroplasts forms:",
+      "options": [
+        "Cristae",
+        "Grana",
+        "Stroma",
+        "Matrix"
+      ],
+      "answer": "Grana"
+    },
+    {
+      "id": "C8Q39",
+      "statement": "Which cytoskeletal element is involved in intracellular transport of vesicles?",
+      "options": [
+        "Microtubules",
+        "Microfilaments",
+        "All of the above",
+        "Intermediate filaments"
+      ],
+      "answer": "Microtubules"
+    },
+    {
+      "id": "C8Q40",
+      "statement": "The sodium-potassium pump is an example of:",
+      "options": [
+        "Facilitated diffusion",
+        "Simple diffusion",
+        "Primary active transport",
+        "Secondary active transport"
+      ],
+      "answer": "Primary active transport"
+    },
+    {
+      "id": "C8Q41",
+      "statement": "Which organelle contains enzymes for beta-oxidation of fatty acids?",
+      "options": [
+        "Both B and C",
+        "Peroxisomes",
+        "Lysosomes",
+        "Mitochondria"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "id": "C8Q42",
+      "statement": "The process by which cells release substances to the extracellular space is called:",
+      "options": [
+        "Endocytosis",
+        "Pinocytosis",
+        "Exocytosis",
+        "Phagocytosis"
+      ],
+      "answer": "Exocytosis"
+    },
+    {
+      "id": "C8Q43",
+      "statement": "Which cellular structure is responsible for the synthesis of ATP in both plant and animal cells?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q44",
+      "statement": "The presence of peptidoglycan in cell walls is characteristic of:",
+      "options": [
+        "Bacterial cells",
+        "Plant cells",
+        "Animal cells",
+        "Fungal cells"
+      ],
+      "answer": "Bacterial cells"
+    },
+    {
+      "id": "C8Q45",
+      "statement": "Which organelle is involved in the modification of proteins by adding carbohydrate groups?",
+      "options": [
+        "Lysosomes",
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum"
+      ],
+      "answer": "Golgi apparatus"
+    },
+    {
+      "id": "C8Q46",
+      "statement": "The movement of substances through a protein channel without energy expenditure is called:",
+      "options": [
+        "Endocytosis",
+        "Osmosis",
+        "Facilitated diffusion",
+        "Active transport"
+      ],
+      "answer": "Facilitated diffusion"
+    },
+    {
+      "id": "C8Q47",
+      "statement": "Which cellular structure contains catalase enzyme for breaking down hydrogen peroxide?",
+      "options": [
+        "Ribosomes",
+        "Peroxisomes",
+        "Lysosomes",
+        "Mitochondria"
+      ],
+      "answer": "Peroxisomes"
+    },
+    {
+      "id": "C8Q48",
+      "statement": "The nuclear lamina is composed primarily of:",
+      "options": [
+        "Actin filaments",
+        "Collagen fibers",
+        "Microtubules",
+        "Intermediate filaments"
+      ],
+      "answer": "Intermediate filaments"
+    },
+    {
+      "id": "C8Q49",
+      "statement": "Which organelle is responsible for the synthesis of steroid hormones?",
+      "options": [
+        "Mitochondria",
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Smooth endoplasmic reticulum"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q50",
+      "statement": "The process by which white blood cells engulf bacteria is an example of:",
+      "options": [
+        "Pinocytosis",
+        "Receptor-mediated endocytosis",
+        "Exocytosis",
+        "Phagocytosis"
+      ],
+      "answer": "Phagocytosis"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C8Q51",
+      "statement": "In receptor-mediated endocytosis, the clathrin coat is involved in:",
+      "options": [
+        "Ligand binding",
+        "Vesicle formation",
+        "Membrane fusion",
+        "Receptor recycling"
+      ],
+      "answer": "Vesicle formation"
+    },
+    {
+      "id": "C8Q52",
+      "statement": "The targeting of proteins to peroxisomes involves which specific signal sequence?",
+      "options": [
+        "KDEL sequence",
+        "NLS sequence",
+        "Signal peptide",
+        "PTS1 sequence"
+      ],
+      "answer": "PTS1 sequence"
+    },
+    {
+      "id": "C8Q53",
+      "statement": "Which statement accurately describes the difference between prokaryotic and eukaryotic flagella?",
+      "options": [
+        "Prokaryotic flagella are composed of flagellin, eukaryotic of tubulin",
+        "Both require ATP for movement",
+        "Eukaryotic flagella rotate, prokaryotic whip back and forth",
+        "Both have 9+2 microtubule arrangement"
+      ],
+      "answer": "Prokaryotic flagella are composed of flagellin, eukaryotic of tubulin"
+    },
+    {
+      "id": "C8Q54",
+      "statement": "The process of glycosylation in the Golgi apparatus primarily involves:",
+      "options": [
+        "Protein folding",
+        "Addition of phosphate groups",
+        "Addition of carbohydrate groups",
+        "Removal of signal sequences"
+      ],
+      "answer": "Addition of carbohydrate groups"
+    },
+    {
+      "id": "C8Q55",
+      "statement": "Which cellular structure is responsible for the degradation of misfolded proteins in the cytoplasm?",
+      "options": [
+        "Proteasomes",
+        "Autophagosomes",
+        "Peroxisomes",
+        "Lysosomes"
+      ],
+      "answer": "Proteasomes"
+    },
+    {
+      "id": "C8Q56",
+      "statement": "The mitochondrial permeability transition pore is associated with:",
+      "options": [
+        "ATP synthesis",
+        "Programmed cell death",
+        "Electron transport",
+        "Protein import"
+      ],
+      "answer": "Programmed cell death"
+    },
+    {
+      "id": "C8Q57",
+      "statement": "Which type of intercellular junction in plant cells is functionally analogous to gap junctions in animal cells?",
+      "options": [
+        "Tight junctions",
+        "Adherens junctions",
+        "Plasmodesmata",
+        "Desmosomes"
+      ],
+      "answer": "Plasmodesmata"
+    },
+    {
+      "id": "C8Q58",
+      "statement": "The process of co-translational translocation refers to:",
+      "options": [
+        "Protein folding in the cytoplasm",
+        "Protein degradation in lysosomes",
+        "Protein synthesis coupled with import into ER",
+        "Protein synthesis on free ribosomes"
+      ],
+      "answer": "Protein synthesis coupled with import into ER"
+    },
+    {
+      "id": "C8Q58",
+      "statement": "Which organelle is primarily responsible for calcium storage in muscle cells?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q59",
+      "statement": "The SNARE complex is essential for:",
+      "options": [
+        "Protein synthesis",
+        "Vesicle fusion with target membranes",
+        "Nuclear pore transport",
+        "Microtubule assembly"
+      ],
+      "answer": "Vesicle fusion with target membranes"
+    },
+    {
+      "id": "C8Q60",
+      "statement": "Which statement best describes the role of chaperones in protein folding?",
+      "options": [
+        "They add carbohydrate groups to proteins",
+        "They prevent improper folding and aggregation",
+        "They catalyze peptide bond formation",
+        "They degrade misfolded proteins"
+      ],
+      "answer": "They prevent improper folding and aggregation"
+    },
+    {
+      "id": "C8Q61",
+      "statement": "The process of autophagy involves the formation of:",
+      "options": [
+        "Endosomes",
+        "Lysosomes",
+        "Autophagosomes",
+        "Phagosomes"
+      ],
+      "answer": "Autophagosomes"
+    },
+    {
+      "id": "C8Q62",
+      "statement": "Which cellular structure contains oxidases and catalase for detoxification?",
+      "options": [
+        "Mitochondria",
+        "Lysosomes",
+        "Endoplasmic reticulum",
+        "Peroxisomes"
+      ],
+      "answer": "Peroxisomes"
+    },
+    {
+      "id": "C8Q63",
+      "statement": "The nuclear localization signal (NLS) is recognized by:",
+      "options": [
+        "Importin proteins",
+        "DNA polymerase",
+        "Nuclear pore complexes",
+        "Ribosomes"
+      ],
+      "answer": "Importin proteins"
+    },
+    {
+      "id": "C8Q64",
+      "statement": "Which type of membrane transport involves the movement of two different substances in opposite directions?",
+      "options": [
+        "Symport",
+        "Antiport",
+        "Uniport",
+        "Facilitated diffusion"
+      ],
+      "answer": "Antiport"
+    },
+    {
+      "id": "C8Q65",
+      "statement": "The process of quality control for protein folding occurs primarily in:",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Cytoplasm"
+      ],
+      "answer": "Rough endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q66",
+      "statement": "Which cellular structure is responsible for the synthesis of phospholipids for all cellular membranes?",
+      "options": [
+        "Golgi apparatus",
+        "Smooth endoplasmic reticulum",
+        "Nuclear envelope",
+        "Mitochondria"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q67",
+      "statement": "The process of receptor down-regulation involves:",
+      "options": [
+        "Receptor degradation in lysosomes",
+        "Receptor recycling to plasma membrane",
+        "Increased receptor synthesis",
+        "Receptor activation"
+      ],
+      "answer": "Receptor degradation in lysosomes"
+    },
+    {
+      "id": "C8Q68",
+      "statement": "Which organelle contains enzymes for the synthesis of plasmalogens?",
+      "options": [
+        "Peroxisomes",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Lysosomes"
+      ],
+      "answer": "Peroxisomes"
+    },
+    {
+      "id": "C8Q69",
+      "statement": "The process of macropinocytosis involves:",
+      "options": [
+        "Engulfment of large particles",
+        "Receptor-mediated uptake of specific ligands",
+        "Selective transport of ions",
+        "Uptake of large volumes of extracellular fluid"
+      ],
+      "answer": "Uptake of large volumes of extracellular fluid"
+    },
+    {
+      "id": "C8Q70",
+      "statement": "Which cellular structure is involved in the breakdown of very long chain fatty acids?",
+      "options": [
+        "Mitochondria",
+        "Lysosomes",
+        "Peroxisomes",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Peroxisomes"
+    },
+    {
+      "id": "C8Q71",
+      "statement": "The process of transcytosis involves:",
+      "options": [
+        "Direct transport through membrane",
+        "Lysosomal degradation",
+        "Endocytosis followed by exocytosis",
+        "Nuclear transport"
+      ],
+      "answer": "Endocytosis followed by exocytosis"
+    },
+    {
+      "id": "C8Q72",
+      "statement": "Which organelle is responsible for the synthesis of melanin pigment?",
+      "options": [
+        "Peroxisome",
+        "Lysosome",
+        "Melanosome",
+        "Mitochondria"
+      ],
+      "answer": "Melanosome"
+    },
+    {
+      "id": "C8Q73",
+      "statement": "The process of regulated secretion involves:",
+      "options": [
+        "Constitutive release of proteins",
+        "Signal-dependent release of stored products",
+        "Lysosomal degradation",
+        "Membrane recycling"
+      ],
+      "answer": "Signal-dependent release of stored products"
+    },
+    {
+      "id": "C8Q74",
+      "statement": "Which cellular structure contains the enzyme rubisco?",
+      "options": [
+        "Nucleus",
+        "Chloroplast stroma",
+        "Mitochondria",
+        "Peroxisomes"
+      ],
+      "answer": "Chloroplast stroma"
+    },
+    {
+      "id": "C8Q75",
+      "statement": "The process of quality control in the Golgi apparatus involves:",
+      "options": [
+        "Retention of misfolded proteins",
+        "Addition of mannose-6-phosphate tags",
+        "All of the above",
+        "Recognition of KDEL sequences"
+      ],
+      "answer": "All of the above"
+    }
+  ],
+  "neet": [
+    {
+      "id": "C8Q76",
+      "statement": "Which cellular process is impaired in cells lacking functional lysosomes?",
+      "options": [
+        "Protein synthesis",
+        "Intracellular digestion",
+        "ATP production",
+        "DNA replication"
+      ],
+      "answer": "Intracellular digestion"
+    },
+    {
+      "id": "C8Q77",
+      "statement": "The presence of which structure allows plant cells to withstand hypotonic conditions without bursting?",
+      "options": [
+        "Cell wall",
+        "Plasma membrane",
+        "Vacuole",
+        "Chloroplast"
+      ],
+      "answer": "Cell wall"
+    },
+    {
+      "id": "C8Q78",
+      "statement": "Which organelle is responsible for the synthesis of ATP in animal cells?",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q79",
+      "statement": "The process by which cells take in liquid droplets is called:",
+      "options": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Receptor-mediated endocytosis",
+        "Exocytosis"
+      ],
+      "answer": "Pinocytosis"
+    },
+    {
+      "id": "C8Q80",
+      "statement": "Which cellular structure contains chromosomes?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "id": "C8Q81",
+      "statement": "The movement of substances from higher to lower concentration is called:",
+      "options": [
+        "Active transport",
+        "Diffusion",
+        "Osmosis",
+        "Facilitated diffusion"
+      ],
+      "answer": "Diffusion"
+    },
+    {
+      "id": "C8Q82",
+      "statement": "Which organelle is involved in the formation of lysosomes?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria"
+      ],
+      "answer": "Golgi apparatus"
+    },
+    {
+      "id": "C8Q83",
+      "statement": "The fluid content of the cell is called:",
+      "options": [
+        "Cytoplasm",
+        "Nucleoplasm",
+        "Protoplasm",
+        "All of the above"
+      ],
+      "answer": "Cytoplasm"
+    },
+    {
+      "id": "C8Q84",
+      "statement": "Which cellular structure is responsible for protein synthesis?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": "Ribosome"
+    },
+    {
+      "id": "C8Q85",
+      "statement": "The process by which cells engulf solid particles is called:",
+      "options": [
+        "Pinocytosis",
+        "Phagocytosis",
+        "Exocytosis",
+        "Osmosis"
+      ],
+      "answer": "Phagocytosis"
+    },
+    {
+      "id": "C8Q86",
+      "statement": "Which organelle contains digestive enzymes?",
+      "options": [
+        "Ribosome",
+        "Lysosome",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "id": "C8Q87",
+      "statement": "The power house of the cell is:",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q88",
+      "statement": "Which cellular structure is absent in animal cells?",
+      "options": [
+        "Mitochondria",
+        "Cell wall",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer": "Cell wall"
+    },
+    {
+      "id": "C8Q89",
+      "statement": "The process of cell drinking is called:",
+      "options": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Exocytosis",
+        "Osmosis"
+      ],
+      "answer": "Pinocytosis"
+    },
+    {
+      "id": "C8Q90",
+      "statement": "Which organelle is involved in lipid synthesis?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q91",
+      "statement": "The control center of the cell is:",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "id": "C8Q92",
+      "statement": "Which cellular structure is responsible for photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer": "Chloroplast"
+    },
+    {
+      "id": "C8Q93",
+      "statement": "The process by which cells release substances is called:",
+      "options": [
+        "Endocytosis",
+        "Exocytosis",
+        "Phagocytosis",
+        "Pinocytosis"
+      ],
+      "answer": "Exocytosis"
+    },
+    {
+      "id": "C8Q94",
+      "statement": "Which organelle is involved in cellular respiration?",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "id": "C8Q95",
+      "statement": "The kitchen of the cell is:",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Chloroplast"
+    },
+    {
+      "id": "C8Q96",
+      "statement": "Which cellular structure is involved in protein modification and packaging?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": "Golgi apparatus"
+    },
+    {
+      "id": "C8Q97",
+      "statement": "The suicidal bag of the cell is:",
+      "options": [
+        "Lysosome",
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "id": "C8Q98",
+      "statement": "Which organelle is involved in detoxification?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": "Smooth endoplasmic reticulum"
+    },
+    {
+      "id": "C8Q99",
+      "statement": "The process of water movement across a membrane is called:",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Facilitated diffusion"
+      ],
+      "answer": "Osmosis"
+    },
+    {
+      "id": "C8Q100",
+      "statement": "Which cellular structure contains genetic material?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Chloroplast",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    }
+  ]
+}

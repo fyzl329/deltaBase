@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P6Q01",
+      "statement": "The center of mass of a system of particles is the point where:",
+      "options": [
+        "All external forces act",
+        "Potential energy is maximum",
+        "Moment of inertia is zero",
+        "The entire mass is assumed to be concentrated"
+      ],
+      "answer": "The entire mass is assumed to be concentrated",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q02",
+      "statement": "The position vector of the center of mass for two particles of masses \\( m_1 \\) and \\( m_2 \\) at \\( \\vec{r_1} \\) and \\( \\vec{r_2} \\) is:",
+      "options": [
+        "\\( (m_1\\vec{r_1} + m_2\\vec{r_2})/(m_1 + m_2) \\)",
+        "\\( (\\vec{r_1} + \\vec{r_2})/2 \\)",
+        "\\( (m_1 - m_2)/(\\vec{r_1} + \\vec{r_2}) \\)",
+        "\\( m_1\\vec{r_1} + m_2\\vec{r_2} \\)"
+      ],
+      "answer": "\\( (m_1\\vec{r_1} + m_2\\vec{r_2})/(m_1 + m_2) \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q03",
+      "statement": "If masses \\( m_1 = m_2 \\), then the center of mass lies:",
+      "options": [
+        "At \\( \\vec{r_2} \\)",
+        "Outside the line joining them",
+        "At \\( \\vec{r_1} \\)",
+        "Midpoint of \\( \\vec{r_1} \\) and \\( \\vec{r_2} \\)"
+      ],
+      "answer": "Midpoint of \\( \\vec{r_1} \\) and \\( \\vec{r_2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q04",
+      "statement": "The center of mass of a uniform semicircular ring lies at a distance from the center equal to:",
+      "options": [
+        "\\( R/\\pi \\)",
+        "\\( R/4 \\)",
+        "\\( R/2 \\)",
+        "\\( 2R/\\pi \\)"
+      ],
+      "answer": "\\( 2R/\\pi \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q05",
+      "statement": "The center of mass of two identical spheres placed at distance \\( 2R \\) apart lies:",
+      "options": [
+        "At midpoint of line joining centers",
+        "At 2R from midpoint",
+        "At surface of one sphere",
+        "Undefined"
+      ],
+      "answer": "At midpoint of line joining centers",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q06",
+      "statement": "The motion of the center of mass of a system depends on:",
+      "options": [
+        "Both internal and external forces",
+        "None",
+        "External forces only",
+        "Internal forces only"
+      ],
+      "answer": "External forces only",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q07",
+      "statement": "The velocity of the center of mass is given by:",
+      "options": [
+        "\\( (m_1\\vec{v_1} + m_2\\vec{v_2})/(m_1 + m_2) \\)",
+        "\\( (m_1 - m_2)/(\\vec{v_1} + \\vec{v_2}) \\)",
+        "\\( m_1\\vec{v_1} + m_2\\vec{v_2} \\)",
+        "\\( \\vec{v_1} + \\vec{v_2} \\)"
+      ],
+      "answer": "\\( (m_1\\vec{v_1} + m_2\\vec{v_2})/(m_1 + m_2) \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q08",
+      "statement": "The total linear momentum of a system of particles is equal to:",
+      "options": [
+        "Sum of internal forces",
+        "Constant always",
+        "Total external force",
+        "Mass of system × velocity of center of mass"
+      ],
+      "answer": "Mass of system × velocity of center of mass",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q09",
+      "statement": "If no external force acts on a system, the velocity of its center of mass is:",
+      "options": [
+        "Increases",
+        "Zero",
+        "Constant",
+        "Decreases"
+      ],
+      "answer": "Constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q10",
+      "statement": "Moment of inertia of a particle about an axis is:",
+      "options": [
+        "\\( mr^{2} \\)",
+        "\\( m/r \\)",
+        "\\( m/r^{2} \\)",
+        "\\( mr \\)"
+      ],
+      "answer": "\\( mr^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q11",
+      "statement": "The SI unit of moment of inertia is:",
+      "options": [
+        "\\( \\,kg\\,m/s^{2} \\)",
+        "\\( \\,N\\,m^{2} \\)",
+        "\\( \\,kg\\,m \\)",
+        "\\( \\,kg\\,m^{2} \\)"
+      ],
+      "answer": "\\( \\,kg\\,m^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q12",
+      "statement": "The rotational analogue of force is:",
+      "options": [
+        "Torque",
+        "Angular momentum",
+        "Angular velocity",
+        "Moment of inertia"
+      ],
+      "answer": "Torque",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q13",
+      "statement": "Torque is defined as:",
+      "options": [
+        "\\( \\vec{r} \\times \\vec{F} \\)",
+        "\\( \\vec{r} - \\vec{F} \\)",
+        "\\( \\vec{r} + \\vec{F} \\)",
+        "\\( \\vec{F} \\times \\vec{r} \\)"
+      ],
+      "answer": "\\( \\vec{r} \\times \\vec{F} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q14",
+      "statement": "The SI unit of torque is:",
+      "options": [
+        "J s",
+        "J",
+        "N",
+        "N m"
+      ],
+      "answer": "N m",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q15",
+      "statement": "Angular momentum of a particle is given by:",
+      "options": [
+        "\\( \\vec{p}\\times\\vec{r} \\)",
+        "\\( \\vec{r}\\times\\vec{p} \\)",
+        "\\( \\vec{F}\\times\\vec{p} \\)",
+        "\\( \\vec{r}\\times\\vec{F} \\)"
+      ],
+      "answer": "\\( \\vec{r}\\times\\vec{p} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q16",
+      "statement": "The rotational analogue of Newton’s second law is:",
+      "options": [
+        "\\( \\tau = I\\alpha \\)",
+        "\\( p = mv \\)",
+        "\\( \\vec{F} = m\\vec{a} \\)",
+        "\\( L = I\\omega \\)"
+      ],
+      "answer": "\\( \\tau = I\\alpha \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q17",
+      "statement": "If a wheel rotates with constant angular velocity, its angular acceleration is:",
+      "options": [
+        "Constant",
+        "Zero",
+        "Increasing",
+        "Decreasing"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q18",
+      "statement": "The linear velocity of a point on a rotating body is given by:",
+      "options": [
+        "\\( v = r/\\omega \\)",
+        "\\( v = r\\omega^{2} \\)",
+        "\\( v = \\omega/r \\)",
+        "\\( v = r\\omega \\)"
+      ],
+      "answer": "\\( v = r\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q19",
+      "statement": "Moment of inertia depends on:",
+      "options": [
+        "Velocity",
+        "Mass only",
+        "Mass distribution and axis of rotation",
+        "Axis only"
+      ],
+      "answer": "Mass distribution and axis of rotation",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q20",
+      "statement": "The moment of inertia of a uniform rod about its center is:",
+      "options": [
+        "\\( \\tfrac{1}{3}ML^{2} \\)",
+        "\\( \\tfrac{1}{2}ML^{2} \\)",
+        "\\( ML^{2} \\)",
+        "\\( \\tfrac{1}{12}ML^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{12}ML^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q21",
+      "statement": "The perpendicular axis theorem is applicable to:",
+      "options": [
+        "Hollow sphere",
+        "Solid sphere",
+        "Plane lamina",
+        "Any body"
+      ],
+      "answer": "Plane lamina",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q22",
+      "statement": "For a rolling body, the relation between translational and angular velocity is:",
+      "options": [
+        "\\( v = \\omega^{2}r \\)",
+        "\\( v = r/\\omega \\)",
+        "\\( v = r\\omega \\)",
+        "\\( v = \\omega/r \\)"
+      ],
+      "answer": "\\( v = r\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q23",
+      "statement": "In pure rolling motion, the point of contact with the surface has:",
+      "options": [
+        "Maximum velocity",
+        "Zero velocity",
+        "Minimum momentum",
+        "Acceleration"
+      ],
+      "answer": "Zero velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q24",
+      "statement": "The moment of inertia of a solid sphere about its diameter is:",
+      "options": [
+        "\\( MR^{2} \\)",
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( \\tfrac{3}{5}MR^{2} \\)",
+        "\\( \\tfrac{2}{5}MR^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{2}{5}MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q25",
+      "statement": "The kinetic energy of a rotating body is given by:",
+      "options": [
+        "\\( \\tfrac{1}{2}I\\alpha^{2} \\)",
+        "\\( I\\omega \\)",
+        "\\( \\tfrac{1}{2}I\\omega^{2} \\)",
+        "\\( \\tfrac{1}{2}mv^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}I\\omega^{2} \\)",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P6Q26",
+      "statement": "Two particles of masses \\( 2\\,\\text{kg} \\) and \\( 3\\,\\text{kg} \\) are located at positions \\( x = 0 \\) and \\( x = 4\\,\\text{m} \\). The center of mass is at:",
+      "options": [
+        "3 m",
+        "1 m",
+        "2.4 m",
+        "2 m"
+      ],
+      "answer": "2.4 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q27",
+      "statement": "A rod of length \\( 2\\,\\text{m} \\) and mass \\( 3\\,\\text{kg} \\) has its linear mass density varying as \\( \\lambda = 2x \\). Its center of mass is at:",
+      "options": [
+        "1.5 m",
+        "1.3 m",
+        "1.0 m",
+        "1.2 m"
+      ],
+      "answer": "1.33 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q28",
+      "statement": "A body of mass 4 kg is rotating with angular velocity \\( 5\\,\\text{rad s}^{-1} \\) at a radius of 0.2 m. The kinetic energy of rotation is:",
+      "options": [
+        "4 J",
+        "2 J",
+        "3 J",
+        "1 J"
+      ],
+      "answer": "2 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q29",
+      "statement": "The torque of a force \\( 5\\,\\text{N} \\) acting at 0.2 m from the axis is:",
+      "options": [
+        "1 N m",
+        "2 N m",
+        "0.5 N m",
+        "5 N m"
+      ],
+      "answer": "1 N m",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q30",
+      "statement": "Moment of inertia of a uniform rod of mass \\( M \\) and length \\( L \\) about an axis through one end perpendicular to its length is:",
+      "options": [
+        "\\( \\tfrac{1}{12}ML^{2} \\)",
+        "\\( \\tfrac{1}{2}ML^{2} \\)",
+        "\\( \\tfrac{1}{3}ML^{2} \\)",
+        "\\( ML^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{3}ML^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q31",
+      "statement": "The rotational kinetic energy of a wheel of moment of inertia \\( 2\\,\\text{kg m}^{2} \\) rotating at \\( 10\\,\\text{rad s}^{-1} \\) is:",
+      "options": [
+        "200 J",
+        "25 J",
+        "50 J",
+        "100 J"
+      ],
+      "answer": "100 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q32",
+      "statement": "A uniform disc rolls without slipping on a surface. The ratio of its rotational to total kinetic energy is:",
+      "options": [
+        "1:2",
+        "1:1",
+        "2:3",
+        "1:3"
+      ],
+      "answer": "1:2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q33",
+      "statement": "A solid sphere rolls without slipping. The fraction of total kinetic energy that is rotational is:",
+      "options": [
+        "3/5",
+        "1/3",
+        "2/5",
+        "1/2"
+      ],
+      "answer": "2/5",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q34",
+      "statement": "Moment of inertia of a ring of mass \\( M \\) and radius \\( R \\) about a diameter is:",
+      "options": [
+        "\\( 2MR^{2} \\)",
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( \\tfrac{1}{4}MR^{2} \\)",
+        "\\( MR^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{2}MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q35",
+      "statement": "The perpendicular axis theorem states that \\( I_z = I_x + I_y \\). It applies when the body is:",
+      "options": [
+        "A solid sphere",
+        "Any 3D body",
+        "A cylinder",
+        "A plane lamina"
+      ],
+      "answer": "A plane lamina",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q36",
+      "statement": "For a ring of mass \\( M \\) and radius \\( R \\), the moment of inertia about an axis tangent to its circumference in its plane is:",
+      "options": [
+        "\\( MR^{2} \\)",
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( \\tfrac{3}{2}MR^{2} \\)",
+        "\\( 2MR^{2} \\)"
+      ],
+      "answer": "\\( 2MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q37",
+      "statement": "The torque acting on a rotating body producing angular acceleration \\( \\alpha \\) is given by:",
+      "options": [
+        "\\( I\\omega \\)",
+        "\\( I + \\alpha \\)",
+        "\\( I\\alpha \\)",
+        "\\( I/\\alpha \\)"
+      ],
+      "answer": "\\( I\\alpha \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q38",
+      "statement": "A body rotating with angular velocity \\( \\omega \\) has angular momentum \\( L \\). Its rotational kinetic energy in terms of \\( L \\) and \\( I \\) is:",
+      "options": [
+        "\\( L/I^{2} \\)",
+        "\\( L/I \\)",
+        "\\( L^{2}/I \\)",
+        "\\( L^{2}/2I \\)"
+      ],
+      "answer": "\\( L^{2}/2I \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q39",
+      "statement": "A flywheel of moment of inertia \\( 10\\,\\text{kg m}^{2} \\) is rotating at \\( 60\\,\\text{rad s}^{-1} \\). Its kinetic energy is:",
+      "options": [
+        "10 kJ",
+        "15 kJ",
+        "20 kJ",
+        "18 kJ"
+      ],
+      "answer": "18 kJ",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q40",
+      "statement": "A solid sphere of radius 0.1 m and mass 1 kg rolls without slipping at 2 m s^{-1}. Its total kinetic energy is:",
+      "options": [
+        "2 J",
+        "4 J",
+        "1 J",
+        "3 J"
+      ],
+      "answer": "1.4 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q41",
+      "statement": "Angular momentum of a particle about a point is conserved if:",
+      "options": [
+        "Force is constant",
+        "Velocity is uniform",
+        "No torque acts about that point",
+        "No external force acts"
+      ],
+      "answer": "No torque acts about that point",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q42",
+      "statement": "A uniform disc of mass 2 kg and radius 0.2 m rotates about its axis with \\( 10\\,\\text{rad s}^{-1} \\). Find its kinetic energy.",
+      "options": [
+        "2 J",
+        "3 J",
+        "5 J",
+        "4 J"
+      ],
+      "answer": "2 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q43",
+      "statement": "If angular velocity doubles, the rotational kinetic energy becomes:",
+      "options": [
+        "Same",
+        "Half",
+        "Twice",
+        "Four times"
+      ],
+      "answer": "Four times",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q44",
+      "statement": "A constant torque of 5 N m acts on a body of moment of inertia 2 kg m². The angular acceleration is:",
+      "options": [
+        "2.5 rad s^{-2}",
+        "2 rad s^{-2}",
+        "5 rad s^{-2}",
+        "1 rad s^{-2}"
+      ],
+      "answer": "2.5 rad s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q45",
+      "statement": "If torque \\( \\tau = 2t \\) acts on a body of \\( I = 4\\,\\text{kg m}^{2} \\), find its angular velocity after 2 s (initially at rest).",
+      "options": [
+        "3 rad s^{-1}",
+        "2 rad s^{-1}",
+        "4 rad s^{-1}",
+        "1 rad s^{-1}"
+      ],
+      "answer": "1 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q46",
+      "statement": "The angular momentum of a rotating disc of moment of inertia \\( I \\) and angular velocity \\( \\omega \\) is:",
+      "options": [
+        "\\( I\\omega^{2} \\)",
+        "\\( \\omega/I \\)",
+        "\\( I\\omega \\)",
+        "\\( I/\\omega \\)"
+      ],
+      "answer": "\\( I\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q47",
+      "statement": "A uniform solid cylinder of mass 4 kg and radius 0.5 m rolls without slipping with speed 2 m s^{-1}. Its total kinetic energy is:",
+      "options": [
+        "10 J",
+        "8 J",
+        "6 J",
+        "4 J"
+      ],
+      "answer": "6 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q48",
+      "statement": "A ball rotating about an axis has \\( \\omega = 6\\,\\text{rad s}^{-1} \\) and \\( I = 0.1\\,\\text{kg m}^{2} \\). Its angular momentum is:",
+      "options": [
+        "0.1 kg m²/s",
+        "0.3 kg m²/s",
+        "1.2 kg m²/s",
+        "0.6 kg m²/s"
+      ],
+      "answer": "0.6 kg m²/s",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q49",
+      "statement": "The power delivered by a torque \\( \\tau \\) at angular speed \\( \\omega \\) is:",
+      "options": [
+        "\\( \\tau/\\omega \\)",
+        "\\( \\tau + \\omega \\)",
+        "\\( \\omega/\\tau \\)",
+        "\\( \\tau\\omega \\)"
+      ],
+      "answer": "\\( \\tau\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q50",
+      "statement": "A body of moment of inertia 2 kg m² has angular momentum 10 kg m²/s. Its angular velocity is:",
+      "options": [
+        "5 rad s^{-1}",
+        "2 rad s^{-1}",
+        "4 rad s^{-1}",
+        "10 rad s^{-1}"
+      ],
+      "answer": "5 rad s^{-1}",
+      "type": "numerical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P6Q51",
+      "statement": "A wheel of radius \\( 0.4\\,\\text{m} \\) and mass \\( 4\\,\\text{kg} \\) has moment of inertia \\( 0.64\\,\\text{kg m}^{2} \\). Find the torque required to produce an angular acceleration of \\( 5\\,\\text{rad s}^{-2} \\).",
+      "options": [
+        "3.2 N m",
+        "2 N m",
+        "1.6 N m",
+        "3 N m"
+      ],
+      "answer": "3.2 N m",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q52",
+      "statement": "A flywheel of moment of inertia \\( 5\\,\\text{kg m}^{2} \\) is acted upon by a constant torque of \\( 2\\,\\text{N m} \\). Find its angular velocity after 10 s.",
+      "options": [
+        "3 rad s^{-1}",
+        "4 rad s^{-1}",
+        "2 rad s^{-1}",
+        "10 rad s^{-1}"
+      ],
+      "answer": "4 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q53",
+      "statement": "A disc rolls down an inclined plane of height 3 m without slipping. Find its speed at the bottom (\\( g = 10 \\)).",
+      "options": [
+        "6 m s^{-1}",
+        "7 m s^{-1}",
+        "10 m s^{-1}",
+        "5 m s^{-1}"
+      ],
+      "answer": "5.48 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q54",
+      "statement": "For a uniform rod of length \\( L \\) and mass \\( M \\), find the ratio of moments of inertia about its center and about one end.",
+      "options": [
+        "1:4",
+        "1:2",
+        "1:3",
+        "1:6"
+      ],
+      "answer": "1:3",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q55",
+      "statement": "A solid sphere of radius \\( R \\) rolls without slipping on a horizontal surface. Its kinetic energy is:",
+      "options": [
+        "\\( \\tfrac{7}{10}m v^{2} \\)",
+        "\\( \\tfrac{9}{10}m v^{2} \\)",
+        "\\( \\tfrac{2}{5}m v^{2} \\)",
+        "\\( \\tfrac{1}{2}m v^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{7}{10}m v^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q56",
+      "statement": "A uniform solid sphere of radius \\( R \\) and mass \\( M \\) is rotating about a diameter. Its moment of inertia is:",
+      "options": [
+        "\\( MR^{2} \\)",
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( \\tfrac{2}{5}MR^{2} \\)",
+        "\\( \\tfrac{3}{5}MR^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{2}{5}MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q57",
+      "statement": "A thin circular ring of radius \\( R \\) and mass \\( M \\) rotates about a tangent. Moment of inertia is:",
+      "options": [
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( 2MR^{2} \\)",
+        "\\( \\tfrac{3}{2}MR^{2} \\)",
+        "\\( MR^{2} \\)"
+      ],
+      "answer": "2MR^{2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q58",
+      "statement": "A constant torque of \\( 10\\,\\text{N m} \\) acts on a wheel of moment of inertia \\( 5\\,\\text{kg m}^{2} \\). Find angular velocity after 4 s.",
+      "options": [
+        "4 rad s^{-1}",
+        "6 rad s^{-1}",
+        "8 rad s^{-1}",
+        "10 rad s^{-1}"
+      ],
+      "answer": "8 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q59",
+      "statement": "The angular momentum of a rotating body of angular velocity \\( \\omega \\) and moment of inertia \\( I \\) is:",
+      "options": [
+        "\\( I\\omega \\)",
+        "\\( I/\\omega \\)",
+        "\\( \\omega/I \\)",
+        "\\( I\\omega^{2} \\)"
+      ],
+      "answer": "\\( I\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q60",
+      "statement": "A ring of mass \\( 0.5\\,\\text{kg} \\) and radius \\( 0.2\\,\\text{m} \\) rotates at \\( 10\\,\\text{rad s}^{-1} \\). Its kinetic energy is:",
+      "options": [
+        "10 J",
+        "2 J",
+        "5 J",
+        "1 J"
+      ],
+      "answer": "5 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q61",
+      "statement": "The angular momentum of a particle about a point depends on:",
+      "options": [
+        "Only speed",
+        "Only mass",
+        "Choice of axis",
+        "Choice of origin"
+      ],
+      "answer": "Choice of origin",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q62",
+      "statement": "A solid sphere and a hollow sphere of the same radius roll down an incline. Which reaches first?",
+      "options": [
+        "Depends on mass",
+        "Both together",
+        "Hollow sphere",
+        "Solid sphere"
+      ],
+      "answer": "Solid sphere",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q63",
+      "statement": "A rod of mass \\( 2\\,\\text{kg} \\) and length \\( 1\\,\\text{m} \\) is hinged at one end and held horizontally. It is released. The angular velocity when vertical is (\\( g = 10 \\)):",
+      "options": [
+        "6 rad s^{-1}",
+        "3 rad s^{-1}",
+        "5 rad s^{-1}",
+        "4 rad s^{-1}"
+      ],
+      "answer": "5 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q64",
+      "statement": "The linear velocity of a point at distance \\( r \\) from the axis in a rotating body is proportional to:",
+      "options": [
+        "\\( r \\)",
+        "\\( \\omega/r \\)",
+        "\\( r^{2} \\)",
+        "\\( 1/r \\)"
+      ],
+      "answer": "\\( r \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q65",
+      "statement": "A particle of mass 2 kg moves in a circle of radius 3 m with angular velocity 2 rad s^{-1}. Its angular momentum about the center is:",
+      "options": [
+        "12 kg m²/s",
+        "6 kg m²/s",
+        "9 kg m²/s",
+        "24 kg m²/s"
+      ],
+      "answer": "12 kg m²/s",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q66",
+      "statement": "The work done by a torque \\( \\tau \\) in rotating a body through an angle \\( \\theta \\) is:",
+      "options": [
+        "\\( \\tau + \\theta \\)",
+        "\\( \\tau/\\theta \\)",
+        "\\( \\theta/\\tau \\)",
+        "\\( \\tau\\theta \\)"
+      ],
+      "answer": "\\( \\tau\\theta \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q67",
+      "statement": "A wheel of moment of inertia \\( 0.5\\,\\text{kg m}^{2} \\) rotates at 120 rpm. Find its kinetic energy.",
+      "options": [
+        "8 J",
+        "6 J",
+        "2 J",
+        "4 J"
+      ],
+      "answer": "4 J",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q68",
+      "statement": "If a body’s angular momentum changes by \\( 10\\,\\text{kg m}^{2}/s \\) in 2 s, the torque acting is:",
+      "options": [
+        "20 N m",
+        "2 N m",
+        "10 N m",
+        "5 N m"
+      ],
+      "answer": "5 N m",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q69",
+      "statement": "A uniform solid cylinder rolls without slipping down an incline of 30°. The acceleration of its center of mass is:",
+      "options": [
+        "\\( g\\sin\\theta \\)",
+        "\\( \\tfrac{1}{2}g\\sin\\theta \\)",
+        "\\( \\tfrac{3}{4}g\\sin\\theta \\)",
+        "\\( \\tfrac{2}{3}g\\sin\\theta \\)"
+      ],
+      "answer": "\\( \\tfrac{2}{3}g\\sin\\theta \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q70",
+      "statement": "The angular momentum of Earth about its axis increases if:",
+      "options": [
+        "Day length increases",
+        "Orbit changes",
+        "Day length decreases",
+        "Mass decreases"
+      ],
+      "answer": "Day length decreases",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q71",
+      "statement": "The kinetic energy of a body rotating about a fixed axis is proportional to:",
+      "options": [
+        "\\( \\omega \\)",
+        "\\( I^{2} \\)",
+        "\\( I/\\omega \\)",
+        "\\( \\omega^{2} \\)"
+      ],
+      "answer": "\\( \\omega^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q72",
+      "statement": "A solid cylinder and a hollow cylinder roll down the same incline. The ratio of their accelerations is:",
+      "options": [
+        "3:2",
+        "1:1",
+        "2:3",
+        "1:2"
+      ],
+      "answer": "3:2",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q73",
+      "statement": "A disc of radius R and mass M has moment of inertia about an axis tangent to its rim and parallel to its diameter equal to:",
+      "options": [
+        "\\( MR^{2} \\)",
+        "\\( \\tfrac{3}{2}MR^{2} \\)",
+        "\\( \\tfrac{5}{4}MR^{2} \\)",
+        "\\( 2MR^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{3}{2}MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q74",
+      "statement": "The ratio of angular momentum to rotational kinetic energy is:",
+      "options": [
+        "\\( 1/\\omega \\)",
+        "\\( I/\\omega \\)",
+        "\\( 2/\\omega \\)",
+        "\\( \\omega \\)"
+      ],
+      "answer": "\\( 2/\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q75",
+      "statement": "A uniform solid cylinder of mass \\( M \\) and radius \\( R \\) rolls without slipping down an incline of angle \\( \\theta \\). The acceleration of its center of mass is:",
+      "options": [
+        "\\( \\tfrac{1}{2}g\\sin\\theta \\)",
+        "\\( \\tfrac{3}{4}g\\sin\\theta \\)",
+        "\\( \\tfrac{2}{3}g\\sin\\theta \\)",
+        "\\( g\\sin\\theta \\)"
+      ],
+      "answer": "\\( \\tfrac{2}{3}g\\sin\\theta \\)",
+      "type": "numerical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P6Q76",
+      "statement": "A uniform rod of mass M and length L rotates about an end. Find its angular momentum when rotating with angular speed \\( \\omega \\).",
+      "options": [
+        "\\( \\tfrac{1}{3}ML^{2}\\omega \\)",
+        "\\( \\tfrac{1}{12}ML^{2}\\omega \\)",
+        "\\( ML^{2}\\omega \\)",
+        "\\( \\tfrac{1}{2}ML^{2}\\omega \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{3}ML^{2}\\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q77",
+      "statement": "A torque of 10 N m acts on a body of moment of inertia 2 kg m². Find its angular speed after 5 s (starting from rest).",
+      "options": [
+        "20 rad s^{-1}",
+        "10 rad s^{-1}",
+        "25 rad s^{-1}",
+        "15 rad s^{-1}"
+      ],
+      "answer": "25 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q78",
+      "statement": "A disc of moment of inertia \\( 0.2\\,\\text{kg m}^{2} \\) is rotating freely at \\( 10\\,\\text{rad s}^{-1} \\). Another disc of \\( 0.3\\,\\text{kg m}^{2} \\) is gently placed on it. Find final angular speed.",
+      "options": [
+        "5 rad s^{-1}",
+        "6 rad s^{-1}",
+        "4 rad s^{-1}",
+        "8 rad s^{-1}"
+      ],
+      "answer": "6 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q79",
+      "statement": "A uniform sphere rolling without slipping on a horizontal surface has total kinetic energy \\( K = \\tfrac{7}{10}mv^{2} \\). The rotational part is:",
+      "options": [
+        "\\( \\tfrac{1}{5}mv^{2} \\)",
+        "\\( \\tfrac{4}{5}mv^{2} \\)",
+        "\\( \\tfrac{2}{5}mv^{2} \\)",
+        "\\( \\tfrac{3}{5}mv^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{2}{5}mv^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q80",
+      "statement": "A thin circular ring of radius R and mass M rotates about an axis perpendicular to its plane and passing through its edge. The moment of inertia is:",
+      "options": [
+        "\\( 2MR^{2} \\)",
+        "\\( MR^{2} \\)",
+        "\\( \\tfrac{1}{2}MR^{2} \\)",
+        "\\( 3MR^{2} \\)"
+      ],
+      "answer": "2MR^{2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q81",
+      "statement": "Two discs of masses 2M and M and radii R and 2R are made of same material. Ratio of their moments of inertia about their respective axes is:",
+      "options": [
+        "1:2",
+        "1:1",
+        "1:4",
+        "1:8"
+      ],
+      "answer": "1:8",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q82",
+      "statement": "A particle moves such that its angular momentum about the origin is constant. The torque acting on it is:",
+      "options": [
+        "Constant",
+        "Variable",
+        "Zero",
+        "Maximum"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q83",
+      "statement": "A disc rotating freely with angular velocity \\( \\omega \\) is placed on another identical stationary disc. The final angular speed is:",
+      "options": [
+        "\\( \\omega \\)",
+        "\\( 3\\omega/2 \\)",
+        "\\( \\omega/2 \\)",
+        "\\( 2\\omega \\)"
+      ],
+      "answer": "\\( \\omega/2 \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q84",
+      "statement": "A solid sphere is rotated about a tangent. Moment of inertia equals:",
+      "options": [
+        "\\( \\tfrac{3}{5}MR^{2} \\)",
+        "\\( \\tfrac{9}{5}MR^{2} \\)",
+        "\\( \\tfrac{2}{5}MR^{2} \\)",
+        "\\( \\tfrac{7}{5}MR^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{7}{5}MR^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q85",
+      "statement": "A mass of 0.5 kg is tied to a string of length 1 m and whirled in a circle at 2 revolutions per second. The angular momentum is:",
+      "options": [
+        "8π",
+        "6π",
+        "4π",
+        "2π"
+      ],
+      "answer": "4π",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q86",
+      "statement": "A uniform rod of length L is free to rotate about one end. The time period of small oscillations is:",
+      "options": [
+        "\\( 2π\\sqrt{2L/3g} \\)",
+        "\\( 2π\\sqrt{L/2g} \\)",
+        "\\( 2π\\sqrt{L/g} \\)",
+        "\\( 2π\\sqrt{L/3g} \\)"
+      ],
+      "answer": "\\( 2π\\sqrt{2L/3g} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q87",
+      "statement": "A solid sphere of radius R rolls on a rough surface without slipping. The ratio of rotational to translational kinetic energy is:",
+      "options": [
+        "2:3",
+        "3:5",
+        "2:5",
+        "1:2"
+      ],
+      "answer": "2:5",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q88",
+      "statement": "A flywheel’s kinetic energy decreases from 100 J to 25 J in 10 s. Its angular acceleration is proportional to:",
+      "options": [
+        "\\( 1/\\omega^{2} \\)",
+        "\\( \\omega \\)",
+        "\\( \\omega^{2} \\)",
+        "\\( 1/\\omega \\)"
+      ],
+      "answer": "\\( \\omega \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q89",
+      "statement": "A disc and a ring of same mass and radius are released from rest on an incline. The ratio of their accelerations is:",
+      "options": [
+        "1:1",
+        "3:2",
+        "4:3",
+        "2:3"
+      ],
+      "answer": "3:2",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q90",
+      "statement": "A gyroscope maintains its axis of rotation due to:",
+      "options": [
+        "Moment of inertia",
+        "Angular velocity",
+        "Torque",
+        "Angular momentum"
+      ],
+      "answer": "Angular momentum",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q91",
+      "statement": "A particle moves along a circle of radius 0.5 m with speed 4 m s^{-1}. Find its angular momentum about the center (mass = 0.2 kg).",
+      "options": [
+        "0.3 kg m²/s",
+        "0.4 kg m²/s",
+        "0.1 kg m²/s",
+        "0.2 kg m²/s"
+      ],
+      "answer": "0.4 kg m²/s",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q92",
+      "statement": "Moment of inertia of a thin rod about an axis through one end and perpendicular to length is \\( \\tfrac{1}{3}ML^{2} \\). About midpoint it is:",
+      "options": [
+        "\\( \\tfrac{1}{4}ML^{2} \\)",
+        "\\( \\tfrac{1}{12}ML^{2} \\)",
+        "\\( \\tfrac{1}{8}ML^{2} \\)",
+        "\\( \\tfrac{1}{6}ML^{2} \\)"
+      ],
+      "answer": "\\( \\tfrac{1}{12}ML^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q93",
+      "statement": "A small solid sphere rolls down a rough inclined plane of height h without slipping. The speed at bottom is:",
+      "options": [
+        "\\( \\sqrt{\\tfrac{10gh}{7}} \\)",
+        "\\( \\sqrt{gh} \\)",
+        "\\( \\sqrt{\\tfrac{5gh}{7}} \\)",
+        "\\( \\sqrt{2gh} \\)"
+      ],
+      "answer": "\\( \\sqrt{\\tfrac{10gh}{7}} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q94",
+      "statement": "Angular momentum of a body rotating with constant angular acceleration \\( \\alpha \\) changes with time as:",
+      "options": [
+        "Exponential",
+        "Constant",
+        "Linear",
+        "Quadratic"
+      ],
+      "answer": "Linear",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q95",
+      "statement": "A torque of 0.5 N m acts on a disc for 10 s. The change in angular momentum is:",
+      "options": [
+        "20 N m s",
+        "5 N m s",
+        "2.5 N m s",
+        "10 N m s"
+      ],
+      "answer": "5 N m s",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q96",
+      "statement": "If the kinetic energy of rotation is \\( 10\\,\\text{J} \\) and \\( I = 0.5\\,\\text{kg m}^{2} \\), the angular speed is:",
+      "options": [
+        "4 rad s^{-1}",
+        "6 rad s^{-1}",
+        "2 rad s^{-1}",
+        "√40 rad s^{-1}"
+      ],
+      "answer": "√40 rad s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q97",
+      "statement": "A uniform disc is suspended from a point on its rim and oscillates as a physical pendulum. Its time period is:",
+      "options": [
+        "\\( 2π\\sqrt{R/g} \\)",
+        "\\( 2π\\sqrt{2R/3g} \\)",
+        "\\( 2π\\sqrt{R/2g} \\)",
+        "\\( 2π\\sqrt{4R/3g} \\)"
+      ],
+      "answer": "\\( 2π\\sqrt{4R/3g} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P6Q98",
+      "statement": "For a body rotating about an axis, if torque is zero, then:",
+      "options": [
+        "Angular momentum remains constant",
+        "Angular velocity decreases",
+        "Energy decreases",
+        "Angular acceleration decreases"
+      ],
+      "answer": "Angular momentum remains constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q99",
+      "statement": "The center of mass of a rotating dumbbell follows a path:",
+      "options": [
+        "Circular",
+        "Stationary",
+        "Elliptical",
+        "Rectilinear"
+      ],
+      "answer": "Rectilinear",
+      "type": "conceptual"
+    },
+    {
+      "id": "P6Q100",
+      "statement": "The precession of a spinning top occurs due to:",
+      "options": [
+        "Torque due to gravity",
+        "Friction",
+        "Loss of angular momentum",
+        "Moment of inertia"
+      ],
+      "answer": "Torque due to gravity",
+      "type": "conceptual"
+    }
+  ]
+}

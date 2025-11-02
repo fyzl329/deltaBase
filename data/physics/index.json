@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Units and Measurements",
+    "slug": "1_units_and_measurements",
+    "icon": "📏"
+  },
+  {
+    "title": "Motion in a Straight Line",
+    "slug": "2_motion_in_a_straight_line",
+    "icon": "🛣️"
+  },
+  {
+    "title": "Motion in a Plane",
+    "slug": "3_motion_in_a_plane",
+    "icon": "🧭"
+  },
+  {
+    "title": "Laws of Motion",
+    "slug": "4_laws_of_motion",
+    "icon": "⚖️"
+  },
+  {
+    "title": "Work, Energy and Power",
+    "slug": "5_work_energy_and_power",
+    "icon": "💪"
+  },
+  {
+    "title": "System of Particles and Rotational Motion",
+    "slug": "6_system_of_particles_and_rotational_motion",
+    "icon": "🌀"
+  },
+  {
+    "title": "Gravitation",
+    "slug": "7_gravitation",
+    "icon": "🌍"
+  }
+]

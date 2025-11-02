@@ -1,0 +1,1315 @@
+{
+  "metadata": {
+    "chapter": "binomial_theorem",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 7,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M7Q1",
+      "statement": "Evaluate \\(\\binom{7}{3}\\).",
+      "options": [
+        "\\(28\\)",
+        "\\(56\\)",
+        "\\(35\\)",
+        "\\(21\\)"
+      ],
+      "answer": "\\(35\\)"
+    },
+    {
+      "id": "M7Q2",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of terms in the expansion of \\((x+1)^{8}\\) is:",
+      "options": [
+        "\\(10\\)",
+        "\\(7\\)",
+        "\\(9\\)",
+        "\\(8\\)"
+      ],
+      "answer": "\\(9\\)"
+    },
+    {
+      "id": "M7Q3",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{2}\\) in \\((1+x)^{5}\\) is:",
+      "options": [
+        "\\(5\\)",
+        "\\(20\\)",
+        "\\(15\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(10\\)"
+    },
+    {
+      "id": "M7Q4",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x\\) in \\((1+x)^{6}\\) is:",
+      "options": [
+        "\\(12\\)",
+        "\\(6\\)",
+        "\\(15\\)",
+        "\\(1\\)"
+      ],
+      "answer": "\\(6\\)"
+    },
+    {
+      "id": "M7Q5",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The constant term in \\((x+2)^{8}\\) is:",
+      "options": [
+        "\\(256\\)",
+        "\\(16\\)",
+        "\\(2^{7}\\)",
+        "\\(8\\)"
+      ],
+      "answer": "\\(256\\)"
+    },
+    {
+      "id": "M7Q6",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{4}\\) in \\((x+2)^{9}\\) is:",
+      "options": [
+        "\\(4032\\)",
+        "\\(\\binom{9}{4}\\)",
+        "\\(\\binom{9}{5}2^{4}\\)",
+        "\\(2^{9}\\)"
+      ],
+      "answer": "\\(4032\\)"
+    },
+    {
+      "id": "M7Q7",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Middle term(s) in the expansion of \\((x+1)^{7}\\) occur(s) at:",
+      "options": [
+        "\\(4^{\\text{th}}\\ \\text{and}\\ 5^{\\text{th}}\\)",
+        "\\(3^{\\text{rd}}\\ \\text{term}\\)",
+        "\\(4^{\\text{th}}\\ \\text{term}\\)",
+        "\\(5^{\\text{th}}\\ \\text{term}\\)"
+      ],
+      "answer": "\\(4^{\\text{th}}\\ \\text{term}\\)"
+    },
+    {
+      "id": "M7Q8",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Middle term(s) in the expansion of \\((x+1)^{8}\\) occur(s) at:",
+      "options": [
+        "\\(4^{\\text{th}}\\ \\text{term only}\\)",
+        "\\(5^{\\text{th}}\\ \\text{term only}\\)",
+        "\\(3^{\\text{rd}}\\ \\text{and}\\ 6^{\\text{th}}\\)",
+        "\\(4^{\\text{th}}\\ \\text{and}\\ 5^{\\text{th}}\\ \\text{terms}\\)"
+      ],
+      "answer": "\\(4^{\\text{th}}\\ \\text{and}\\ 5^{\\text{th}}\\ \\text{terms}\\)"
+    },
+    {
+      "id": "M7Q9",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{3}\\) in \\((3+x)^{10}\\) is:",
+      "options": [
+        "\\(3^{10}\\)",
+        "\\(\\binom{10}{3}3^{3}\\)",
+        "\\(\\binom{10}{7}3^{7}\\)",
+        "\\(262440\\)"
+      ],
+      "answer": "\\(262440\\)"
+    },
+    {
+      "id": "M7Q10",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Value of \\(\\binom{10}{0}\\) + \\(\\binom{10}{1}\\) + \\(\\cdots\\) + \\(\\binom{10}{10}\\) is:",
+      "options": [
+        "\\(2^{10}\\)",
+        "\\(2^{9}\\)",
+        "\\(10\\cdot 2^{9}\\)",
+        "\\(10!\\)"
+      ],
+      "answer": "\\(2^{10}\\)"
+    },
+    {
+      "id": "M7Q11",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The general term \\(T_{r+1}\\) of \\((a+b)^{n}\\) is:",
+      "options": [
+        "\\(\\binom{n}{r}a^{n-r}b^{r}\\)",
+        "\\(\\binom{n}{r}a^{r}b^{n-r}\\)",
+        "\\(\\binom{n}{r}a^{r}b^{r}\\)",
+        "\\(\\binom{n}{r}a^{n}b^{r}\\)"
+      ],
+      "answer": "\\(\\binom{n}{r}a^{n-r}b^{r}\\)"
+    },
+    {
+      "id": "M7Q12",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Simplify: \\(\\binom{9}{1}\\) =",
+      "options": [
+        "\\(8\\)",
+        "\\(9\\)",
+        "\\(10\\)",
+        "\\(\\dfrac{9!}{1!}\\)"
+      ],
+      "answer": "\\(9\\)"
+    },
+    {
+      "id": "M7Q13",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The value of \\(\\binom{12}{11}\\) equals:",
+      "options": [
+        "\\(\\binom{12}{0}\\)",
+        "\\(12\\)",
+        "\\(11\\)",
+        "\\(\\binom{12}{1}\\)"
+      ],
+      "answer": "\\(12\\)"
+    },
+    {
+      "id": "M7Q14",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{2}\\) in \\((2+x)^{7}\\) is:",
+      "options": [
+        "\\(\\binom{7}{2}2^{2}\\)",
+        "\\(672\\)",
+        "\\(2^{7}\\)",
+        "\\(\\binom{7}{5}2^{5}\\)"
+      ],
+      "answer": "\\(672\\)"
+    },
+    {
+      "id": "M7Q15",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of terms in the expansion of \\((2x-3)^{6}\\) is:",
+      "options": [
+        "\\(5\\)",
+        "\\(7\\)",
+        "\\(8\\)",
+        "\\(6\\)"
+      ],
+      "answer": "\\(7\\)"
+    },
+    {
+      "id": "M7Q16",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{3}\\) in \\((2 - x)^{6}\\) is:",
+      "options": [
+        "\\(-160\\)",
+        "\\(\\binom{6}{3}2^{3}\\)",
+        "\\(\\binom{6}{3}\\)",
+        "\\(\\binom{6}{3}(-1)^{6}\\)"
+      ],
+      "answer": "\\(-160\\)"
+    },
+    {
+      "id": "M7Q17",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The value of \\(\\binom{8}{2}\\) is:",
+      "options": [
+        "\\(56\\)",
+        "\\(36\\)",
+        "\\(28\\)",
+        "\\(14\\)"
+      ],
+      "answer": "\\(28\\)"
+    },
+    {
+      "id": "M7Q18",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Constant term in \\((3+x)^{5}\\) is:",
+      "options": [
+        "\\(243\\)",
+        "\\(x^{0}\\)",
+        "\\(\\binom{5}{0}\\)",
+        "\\(3^{4}\\)"
+      ],
+      "answer": "\\(243\\)"
+    },
+    {
+      "id": "M7Q19",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The sum of coefficients in \\((1+x)^{n}\\) equals:",
+      "options": [
+        "\\(n\\cdot 2^{n-1}\\)",
+        "\\(2^{n}\\)",
+        "\\(0\\)",
+        "\\(n!\\)"
+      ],
+      "answer": "\\(2^{n}\\)"
+    },
+    {
+      "id": "M7Q20",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x\\) in \\((2+x)^{4}\\) is:",
+      "options": [
+        "\\(32\\)",
+        "\\(2^{4}\\)",
+        "\\(\\binom{4}{3}2^{3}\\)",
+        "\\(\\binom{4}{1}2\\)"
+      ],
+      "answer": "\\(32\\)"
+    },
+    {
+      "id": "M7Q21",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Identify the relation: \\(\\binom{9}{3}\\) = \\(\\binom{9}{6}\\). It represents:",
+      "options": [
+        "Multiplication rule",
+        "Binomial approximation",
+        "Symmetry property of binomial coefficients",
+        "Pascal identity"
+      ],
+      "answer": "Symmetry property of binomial coefficients"
+    },
+    {
+      "id": "M7Q22",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((1+x)^{n}\\), the sum of even-index binomial coefficients equals:",
+      "options": [
+        "\\(\\binom{n}{2}\\)",
+        "\\(2^{n-1}\\)",
+        "\\(n\\cdot 2^{n-2}\\)",
+        "\\(2^{n}\\)"
+      ],
+      "answer": "\\(2^{n-1}\\)"
+    },
+    {
+      "id": "M7Q23",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{4}\\) in \\((x-3)^{7}\\) is:",
+      "options": [
+        "\\(3^{7}\\)",
+        "\\(\\binom{7}{3}(-3)^{3}\\)",
+        "\\(-945\\)",
+        "\\(\\binom{7}{4}(-3)^{4}\\)"
+      ],
+      "answer": "\\(-945\\)"
+    },
+    {
+      "id": "M7Q24",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The term independent of \\(x\\) in \\((x + \\tfrac{1}{x})^{6}\\) is:",
+      "options": [
+        "\\(\\binom{6}{4}\\)",
+        "\\(\\binom{6}{3}\\)",
+        "\\(\\binom{6}{2}\\)",
+        "\\(\\binom{6}{0}\\)"
+      ],
+      "answer": "\\(\\binom{6}{3}\\)"
+    },
+    {
+      "id": "M7Q25",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(T_{r+1}\\) is the general term of \\((a+b)^{n}\\), then \\(T_{1}\\) is:",
+      "options": [
+        "\\(\\binom{n}{1}ab^{n-1}\\)",
+        "\\(a^{n}\\)",
+        "\\(b^{n}\\)",
+        "\\(\\binom{n}{0}a^{n}b^{0}\\)"
+      ],
+      "answer": "\\(a^{n}\\)"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M7Q26",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Find the \\((r+1)^{\\text{th}}\\) term in the expansion of \\((2x+3)^{10}\\).",
+      "options": [
+        "\\(\\binom{10}{r}(2x)^{10-r}3^{r}\\)",
+        "\\(\\binom{10}{r}2^{r}x^{r}3^{10-r}\\)",
+        "\\(\\binom{10}{r}x^{10-r}\\)",
+        "\\(\\binom{10}{r}2^{10}x^{r}\\)"
+      ],
+      "answer": "\\(\\binom{10}{r}(2x)^{10-r}3^{r}\\)"
+    },
+    {
+      "id": "M7Q27",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((1+x)^{n}\\), the ratio of consecutive terms \\(\\dfrac{T_{r+1}}{T_{r}}\\) equals:",
+      "options": [
+        "\\(\\dfrac{r+1}{n-r}x\\)",
+        "\\(\\dfrac{r}{n}x\\)",
+        "\\(\\dfrac{n}{r}x\\)",
+        "\\(\\dfrac{n-r}{r+1}x\\)"
+      ],
+      "answer": "\\(\\dfrac{n-r}{r+1}x\\)"
+    },
+    {
+      "id": "M7Q28",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If coefficients of \\(x^{4}\\) and \\(x^{5}\\) in \\((1+x)^{n}\\) are equal, then \\(n=\\):",
+      "options": [
+        "\\(10\\)",
+        "\\(8\\)",
+        "\\(9\\)",
+        "\\(7\\)"
+      ],
+      "answer": "\\(9\\)"
+    },
+    {
+      "id": "M7Q29",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{3}\\) in \\((2+x)^{12}\\) is:",
+      "options": [
+        "\\(2^{12}\\)",
+        "\\(\\binom{12}{9}2^{9}\\)",
+        "\\(\\binom{12}{3}2^{3}\\)",
+        "\\(112640\\)"
+      ],
+      "answer": "\\(112640\\)"
+    },
+    {
+      "id": "M7Q30",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of terms in \\((x^{2}+1)^{9}\\) after simplification is:",
+      "options": [
+        "\\(9\\)",
+        "\\(19\\)",
+        "\\(11\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(10\\)"
+    },
+    {
+      "id": "M7Q31",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((1+x)^{9}\\), the middle term(s) is/are:",
+      "options": [
+        "\\(4^{\\text{th}}\\)",
+        "\\(5^{\\text{th}}\\ \\text{and}\\ 6^{\\text{th}}\\)",
+        "\\(6^{\\text{th}}\\)",
+        "\\(5^{\\text{th}}\\ \\text{term}\\)"
+      ],
+      "answer": "\\(5^{\\text{th}}\\ \\text{term}\\)"
+    },
+    {
+      "id": "M7Q32",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{5}\\) in the expansion of \\((x-2)^{8}\\) is:",
+      "options": [
+        "\\(\\binom{8}{5}2^{3}\\)",
+        "\\(\\binom{8}{3}(-2)^{3}\\)",
+        "\\(-448\\)",
+        "\\(\\binom{8}{5}(-2)^{5}\\)"
+      ],
+      "answer": "\\(-448\\)"
+    },
+    {
+      "id": "M7Q33",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Find \\(r\\) such that the coefficient of \\(x^{r}\\) in \\((1+x)^{20}\\) is maximum.",
+      "options": [
+        "\\(r=11\\)",
+        "\\(r=9\\)",
+        "\\(r=\\lfloor 20x\\rfloor\\)",
+        "\\(r=10\\)"
+      ],
+      "answer": "\\(r=10\\)"
+    },
+    {
+      "id": "M7Q34",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If in \\((1+x)^{n}\\) the ratio \\(\\dfrac{T_{r+1}}{T_{r}}=1\\) at \\(x=1\\), then \\(r=\\):",
+      "options": [
+        "\\(n\\)",
+        "\\(\\dfrac{n+1}{2}\\)",
+        "\\(\\dfrac{n-1}{2}\\)",
+        "\\(\\dfrac{n}{2}\\)"
+      ],
+      "answer": "\\(\\dfrac{n}{2}\\)"
+    },
+    {
+      "id": "M7Q35",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{4}\\) in \\((3+x)^{10}\\) is:",
+      "options": [
+        "\\(\\binom{10}{4}3^{4}\\)",
+        "\\(\\binom{10}{6}3^{6}\\)",
+        "\\(3^{10}\\)",
+        "\\(153090\\)"
+      ],
+      "answer": "\\(153090\\)"
+    },
+    {
+      "id": "M7Q36",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In the expansion of \\((a+b)^{12}\\), the coefficient of the term containing \\(a^{8}b^{4}\\) is:",
+      "options": [
+        "\\(\\binom{8}{4}\\)",
+        "\\(\\binom{12}{4}\\)",
+        "\\(\\binom{12}{8}\\)",
+        "\\(\\binom{12}{3}\\)"
+      ],
+      "answer": "\\(\\binom{12}{4}\\)"
+    },
+    {
+      "id": "M7Q37",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of terms in \\((x-1)^{12}\\) is:",
+      "options": [
+        "\\(12\\)",
+        "\\(11\\)",
+        "\\(13\\)",
+        "\\(14\\)"
+      ],
+      "answer": "\\(13\\)"
+    },
+    {
+      "id": "M7Q38",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(T_{r+1}\\) is the numerically greatest term in \\((1+x)^{n}\\) for \\(0<x<1\\), then \\(r\\) satisfies:",
+      "options": [
+        "\\(r=n\\)",
+        "\\(r=0\\)",
+        "\\(r=\\dfrac{n}{2}\\)",
+        "\\(\\dfrac{n x}{1+x}-1< r \\le \\dfrac{n x}{1+x}\\)"
+      ],
+      "answer": "\\(\\dfrac{n x}{1+x}-1< r \\le \\dfrac{n x}{1+x}\\)"
+    },
+    {
+      "id": "M7Q39",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{3}\\) in \\((2+x)^{9}\\) is:",
+      "options": [
+        "\\(2^{9}\\)",
+        "\\(5376\\)",
+        "\\(\\binom{9}{6}2^{6}\\)",
+        "\\(\\binom{9}{3}2^{3}\\)"
+      ],
+      "answer": "\\(5376\\)"
+    },
+    {
+      "id": "M7Q40",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{k}=\\binom{n}{k+1}\\), then \\(k=\\):",
+      "options": [
+        "\\(\\dfrac{n-1}{2}\\)",
+        "\\(n-1\\)",
+        "\\(\\dfrac{n+1}{2}\\)",
+        "\\(\\dfrac{n}{2}\\)"
+      ],
+      "answer": "\\(\\dfrac{n-1}{2}\\)"
+    },
+    {
+      "id": "M7Q41",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{5}\\) in \\((4+x)^{11}\\) is:",
+      "options": [
+        "\\(4^{11}\\)",
+        "\\(\\binom{11}{6}4^{6}\\)",
+        "\\(1892352\\)",
+        "\\(\\binom{11}{5}4^{5}\\)"
+      ],
+      "answer": "\\(1892352\\)"
+    },
+    {
+      "id": "M7Q42",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{n}\\) in \\((1+x)^{2n}\\) is:",
+      "options": [
+        "\\(\\binom{n}{2n}\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(\\binom{n}{n}\\)",
+        "\\(\\binom{2n}{2}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)"
+    },
+    {
+      "id": "M7Q43",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((1-x)^{10}\\), the coefficient of \\(x^{6}\\) is:",
+      "options": [
+        "\\(210\\)",
+        "\\(\\binom{10}{6}\\cdot(-1)\\)",
+        "\\(\\binom{10}{4}\\)",
+        "\\(-\\binom{10}{6}\\)"
+      ],
+      "answer": "\\(210\\)"
+    },
+    {
+      "id": "M7Q44",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If the coefficient of \\(x^{r}\\) equals that of \\(x^{r+1}\\) in \\((1+x)^{n}\\), then \\(r=\\):",
+      "options": [
+        "\\(\\dfrac{n}{2}\\)",
+        "\\(\\dfrac{n-1}{2}\\)",
+        "\\(\\dfrac{n+1}{2}\\)",
+        "\\(n\\)"
+      ],
+      "answer": "\\(\\dfrac{n-1}{2}\\)"
+    },
+    {
+      "id": "M7Q45",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Sum of coefficients of odd powers of \\(x\\) in \\((1+x)^{n}\\) equals:",
+      "options": [
+        "\\(2^{n}\\)",
+        "\\(2^{n-1}\\)",
+        "\\(0\\)",
+        "\\(n2^{n-1}\\)"
+      ],
+      "answer": "\\(2^{n-1}\\)"
+    },
+    {
+      "id": "M7Q46",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{3}\\) in \\((1-2x)^{8}\\) is:",
+      "options": [
+        "\\(\\binom{8}{3}(-2)^{8}\\)",
+        "\\(-448\\)",
+        "\\(2^{8}\\)",
+        "\\(\\binom{8}{5}(-2)^{3}\\)"
+      ],
+      "answer": "\\(-448\\)"
+    },
+    {
+      "id": "M7Q47",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(T_{r+1}\\) is the general term in \\((x+\\tfrac{1}{x})^{10}\\), then the term independent of \\(x\\) is obtained when:",
+      "options": [
+        "\\(10-2r=0\\Rightarrow r=5\\)",
+        "\\(r=6\\)",
+        "\\(10-2r=1\\)",
+        "\\(r=4\\)"
+      ],
+      "answer": "\\(10-2r=0\\Rightarrow r=5\\)"
+    },
+    {
+      "id": "M7Q48",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of terms in the expansion of \\((1+x)^{n}+(1-x)^{n}\\) is:",
+      "options": [
+        "Only even power terms survive",
+        "All terms survive",
+        "No term survives",
+        "Only odd power terms survive"
+      ],
+      "answer": "Only even power terms survive"
+    },
+    {
+      "id": "M7Q49",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "For \\((1+x)^{n}\\), the sum of coefficients of terms with index multiple of 2 equals:",
+      "options": [
+        "\\(\\binom{n}{2}\\)",
+        "\\(2^{n-1}\\)",
+        "\\(2^{n}\\)",
+        "\\(n\\)"
+      ],
+      "answer": "\\(2^{n-1}\\)"
+    },
+    {
+      "id": "M7Q50",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If the numerically greatest term in \\((1+x)^{n}\\) occurs at \\(T_{k+1}\\), then \\(k\\) satisfies:",
+      "options": [
+        "\\(k=n\\)",
+        "\\(k=\\dfrac{n}{2}\\)",
+        "\\(k=0\\)",
+        "\\(\\left|\\dfrac{T_{k+1}}{T_{k}}\\right|\\ge 1\\ \\text{and}\\ \\left|\\dfrac{T_{k+2}}{T_{k+1}}\\right|<1\\)"
+      ],
+      "answer": "\\(\\left|\\dfrac{T_{k+1}}{T_{k}}\\right|\\ge 1\\ \\text{and}\\ \\left|\\dfrac{T_{k+2}}{T_{k+1}}\\right|<1\\)"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M7Q51",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Find the coefficient of \\(x^{7}\\) in \\((1+x)^{5}(1+x)^{6}\\).",
+      "options": [
+        "\\(\\binom{11}{4}\\)",
+        "\\(\\binom{5}{2}\\binom{6}{5}\\)",
+        "\\(\\binom{6}{1}\\)",
+        "\\(\\binom{11}{7}\\)"
+      ],
+      "answer": "\\(\\binom{11}{7}\\)"
+    },
+    {
+      "id": "M7Q52",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\((1+x)^{n}\\) has equal middle terms, then \\(n\\) is:",
+      "options": [
+        "Composite",
+        "Prime",
+        "Even",
+        "Odd"
+      ],
+      "answer": "Even"
+    },
+    {
+      "id": "M7Q53",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{4}\\) in \\((1-2x)^{9}\\) is:",
+      "options": [
+        "\\(2016\\)",
+        "\\(\\binom{9}{4}(-2)^{4}(-1)\\)",
+        "\\(2^{9}\\)",
+        "\\(\\binom{9}{5}(-2)^{4}\\)"
+      ],
+      "answer": "\\(2016\\)"
+    },
+    {
+      "id": "M7Q54",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((a+b)^{12}\\), the ratio of the coefficient of \\(a^{9}b^{3}\\) to that of \\(a^{8}b^{4}\\) is:",
+      "options": [
+        "\\(\\dfrac{\\binom{12}{3}}{\\binom{12}{4}}=\\dfrac{9}{4}\\)",
+        "\\(\\dfrac{3}{4}\\)",
+        "\\(\\dfrac{12}{4}\\)",
+        "\\(\\dfrac{4}{9}\\)"
+      ],
+      "answer": "\\(\\dfrac{\\binom{12}{3}}{\\binom{12}{4}}=\\dfrac{9}{4}\\)"
+    },
+    {
+      "id": "M7Q55",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{3}=\\binom{n}{4}\\), then \\(n=\\):",
+      "options": [
+        "\\(10\\)",
+        "\\(8\\)",
+        "\\(7\\)",
+        "\\(6\\)"
+      ],
+      "answer": "\\(7\\)"
+    },
+    {
+      "id": "M7Q56",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{0}\\) in \\((x+\\tfrac{1}{x})^{12}+(x-\\tfrac{1}{x})^{12}\\) equals:",
+      "options": [
+        "\\(2\\binom{12}{6}\\)",
+        "\\(\\binom{12}{6}\\)",
+        "\\(0\\)",
+        "\\(2\\binom{12}{5}\\)"
+      ],
+      "answer": "\\(2\\binom{12}{6}\\)"
+    },
+    {
+      "id": "M7Q57",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{5}\\) in \\((1+x)^{10}(1+x)^{5}\\) is:",
+      "options": [
+        "\\(\\binom{15}{10}\\)",
+        "\\(\\binom{10}{2}\\binom{5}{3}\\)",
+        "\\(\\binom{10}{5}\\)",
+        "\\(\\binom{15}{5}\\)"
+      ],
+      "answer": "\\(\\binom{15}{5}\\)"
+    },
+    {
+      "id": "M7Q58",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If the coefficient of \\(x^{k}\\) equals that of \\(x^{k+1}\\) in \\((1+x)^{2k+1}\\), find \\(k\\).",
+      "options": [
+        "\\(k=\\dfrac{2k+1-1}{2}\\Rightarrow k=k\\) (always true)",
+        "Only for even \\(k\\)",
+        "Only for odd \\(k\\)",
+        "Never true"
+      ],
+      "answer": "\\(k=\\dfrac{2k+1-1}{2}\\Rightarrow k=k\\) (always true)"
+    },
+    {
+      "id": "M7Q59",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{3}\\) in \\((1-3x)^{7}\\) is:",
+      "options": [
+        "\\(-945\\)",
+        "\\(\\binom{7}{3}3^{3}\\)",
+        "\\(7\\cdot 3^{3}\\)",
+        "\\(\\binom{7}{4}(-3)^{3}\\)"
+      ],
+      "answer": "\\(-945\\)"
+    },
+    {
+      "id": "M7Q60",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If the coefficient of \\(x^{4}\\) in \\((1+x)^{n}\\) is 1001, then \\(n=\\):",
+      "options": [
+        "\\(12\\)",
+        "\\(14\\)",
+        "\\(15\\)",
+        "\\(13\\)"
+      ],
+      "answer": "\\(14\\)"
+    },
+    {
+      "id": "M7Q61",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{2}\\) in \\((1+x+x^{2})^{6}\\) equals:",
+      "options": [
+        "\\(\\binom{6}{3}\\)",
+        "\\(\\binom{6}{2}\\)",
+        "\\(\\binom{6}{2}+\\binom{6}{1}\\)",
+        "\\(\\binom{6}{1}\\)"
+      ],
+      "answer": "\\(\\binom{6}{2}+\\binom{6}{1}\\)"
+    },
+    {
+      "id": "M7Q62",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Number of integral terms in the expansion of \\((1+\\sqrt{x})^{10}\\) is:",
+      "options": [
+        "\\(11\\)",
+        "\\(5\\)",
+        "\\(10\\)",
+        "\\(6\\)"
+      ],
+      "answer": "\\(11\\)"
+    },
+    {
+      "id": "M7Q63",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(S=\\sum\\limits_{r=0}^{n}\\binom{n}{r}^{2}\\), then \\(S=\\):",
+      "options": [
+        "\\(\\binom{2n}{n}\\)",
+        "\\(n\\cdot 2^{n-1}\\)",
+        "\\(2^{n}\\)",
+        "\\(\\binom{2n}{2}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)"
+    },
+    {
+      "id": "M7Q64",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{6}\\) in \\((1-x)^{12}\\) is:",
+      "options": [
+        "\\(924\\)",
+        "\\(-\\binom{12}{6}\\)",
+        "\\(\\binom{12}{5}\\)",
+        "\\(\\binom{12}{7}\\)"
+      ],
+      "answer": "\\(924\\)"
+    },
+    {
+      "id": "M7Q65",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{2}:\\binom{n}{3}=3:1\\), then \\(n=\\):",
+      "options": [
+        "\\(6\\)",
+        "\\(7\\)",
+        "\\(5\\)",
+        "\\(4\\)"
+      ],
+      "answer": "\\(5\\)"
+    },
+    {
+      "id": "M7Q66",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{10}\\) in \\((1+x)^{5}(1+x)^{9}\\) is:",
+      "options": [
+        "\\(\\binom{5}{1}\\binom{9}{9}\\)",
+        "\\(\\binom{10}{4}\\)",
+        "\\(\\binom{14}{10}\\)",
+        "\\(\\binom{14}{4}\\)"
+      ],
+      "answer": "\\(\\binom{14}{10}\\)"
+    },
+    {
+      "id": "M7Q67",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(1+\\binom{n}{1}+\\binom{n}{2}+\\cdots+\\binom{n}{n}=1024\\), then \\(n=\\):",
+      "options": [
+        "\\(10\\)",
+        "\\(9\\)",
+        "\\(8\\)",
+        "\\(11\\)"
+      ],
+      "answer": "\\(10\\)"
+    },
+    {
+      "id": "M7Q68",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{4}\\) in \\((1+x)^{8}+(1-x)^{8}\\) is:",
+      "options": [
+        "\\(2\\binom{8}{3}\\)",
+        "\\(140\\)",
+        "\\(\\binom{8}{4}\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(140\\)"
+    },
+    {
+      "id": "M7Q69",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{r}=\\binom{n}{r+2}\\), then \\(\\dfrac{r}{n-r}=?\\)",
+      "options": [
+        "\\(\\dfrac{r+2}{n-r}\\)",
+        "\\(\\dfrac{r+1}{n-r}\\)",
+        "\\(\\dfrac{r}{n}\\)",
+        "\\(\\dfrac{r}{n-r+2}\\)"
+      ],
+      "answer": "\\(\\dfrac{r}{n-r+2}\\)"
+    },
+    {
+      "id": "M7Q70",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{0}\\) in \\((x^{2}+\\tfrac{1}{x})^{9}\\) is obtained when:",
+      "options": [
+        "\\(2r+(9-r)=0\\)",
+        "\\(r=4\\)",
+        "\\(r=2\\)",
+        "\\(2r-(9-r)=0\\Rightarrow r=3\\)"
+      ],
+      "answer": "\\(2r-(9-r)=0\\Rightarrow r=3\\)"
+    },
+    {
+      "id": "M7Q71",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(T_{k+1}\\) is the largest term in \\((1+x)^{n}\\) for \\(0<x<1\\), then \\(k\\approx\\):",
+      "options": [
+        "\\(\\lceil nx\\rceil\\)",
+        "\\(\\left\\lfloor \\dfrac{nx}{1+x}\\right\\rfloor\\)",
+        "\\(\\dfrac{n}{2}\\)",
+        "\\(\\lfloor nx\\rfloor\\)"
+      ],
+      "answer": "\\(\\left\\lfloor \\dfrac{nx}{1+x}\\right\\rfloor\\)"
+    },
+    {
+      "id": "M7Q72",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{5}\\) in \\((1+x)^{5}(1-x)^{5}\\) is:",
+      "options": [
+        "\\(\\binom{10}{5}\\)",
+        "\\(\\binom{5}{5}\\)",
+        "\\(\\binom{5}{4}-\\binom{5}{5}\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(0\\)"
+    },
+    {
+      "id": "M7Q73",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(f(x)=(1+x)^{n}\\), then \\(\\sum\\limits_{r=0}^{n} r\\binom{n}{r}=\\):",
+      "options": [
+        "\\(n\\cdot 2^{n-1}\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(n!\\)",
+        "\\(2^{n}\\)"
+      ],
+      "answer": "\\(n\\cdot 2^{n-1}\\)"
+    },
+    {
+      "id": "M7Q74",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{8}\\) in \\((1+x)^{10}(1-x)^{2}\\) equals:",
+      "options": [
+        "\\(\\binom{10}{8}-2\\binom{10}{7}+\\binom{10}{6}\\)",
+        "\\(\\binom{10}{8}-\\binom{10}{7}\\)",
+        "\\(\\binom{10}{8}+\\binom{10}{7}\\)",
+        "\\(\\binom{12}{8}\\)"
+      ],
+      "answer": "\\(\\binom{10}{8}-2\\binom{10}{7}+\\binom{10}{6}\\)"
+    },
+    {
+      "id": "M7Q75",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{1}+\\binom{n}{3}+\\cdots=64\\), then \\(n=\\):",
+      "options": [
+        "\\(5\\)",
+        "\\(8\\)",
+        "\\(7\\)",
+        "\\(6\\)"
+      ],
+      "answer": "\\(7\\)"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M7Q76",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{2}:\\binom{n}{3}:\\binom{n}{4}=6:4:1\\), find \\(n\\).",
+      "options": [
+        "\\(10\\)",
+        "\\(9\\)",
+        "\\(7\\)",
+        "\\(8\\)"
+      ],
+      "answer": "\\(8\\)"
+    },
+    {
+      "id": "M7Q77",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "In \\((1+x)^{2n}\\), the ratio of the middle terms is:",
+      "options": [
+        "\\(1\\)",
+        "\\(\\dfrac{2n}{2n-1}\\)",
+        "\\(2\\)",
+        "\\(\\dfrac{2n-1}{2n}\\)"
+      ],
+      "answer": "\\(1\\)"
+    },
+    {
+      "id": "M7Q78",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{r-1}=\\binom{n}{r+1}\\neq 0\\), then \\(\\dfrac{r}{n-r+1}=\\):",
+      "options": [
+        "\\(\\dfrac{r}{n-r}=\\dfrac{r+1}{n-r+1}\\)",
+        "\\(\\dfrac{n-r+1}{r+1}\\) is false; correct is \\(\\dfrac{r}{n-r+1}=\\dfrac{r+1}{n-r}\\)",
+        "\\(\\dfrac{r}{n}=\\dfrac{n-r}{r}\\)",
+        "\\(\\dfrac{r}{n-r+1}=\\dfrac{r+1}{n-r}\\)"
+      ],
+      "answer": "\\(\\dfrac{n-r+1}{r+1}\\) is false; correct is \\(\\dfrac{r}{n-r+1}=\\dfrac{r+1}{n-r}\\)"
+    },
+    {
+      "id": "M7Q79",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The sum \\(\\sum\\limits_{r=0}^{n}\\binom{n}{r}(-1)^{r}\\) equals:",
+      "options": [
+        "\\(2^{n}\\)",
+        "\\(n\\)",
+        "\\((-1)^{n}\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(0\\)"
+    },
+    {
+      "id": "M7Q80",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{k}\\) is maximum at \\(k=m\\), then \\(m=\\):",
+      "options": [
+        "\\(\\dfrac{n}{3}\\)",
+        "\\(n\\)",
+        "\\(\\dfrac{n}{4}\\)",
+        "Either \\(\\left\\lfloor \\dfrac{n}{2}\\right\\rfloor\\) or \\(\\left\\lceil \\dfrac{n}{2}\\right\\rceil\\)"
+      ],
+      "answer": "Either \\(\\left\\lfloor \\dfrac{n}{2}\\right\\rfloor\\) or \\(\\left\\lceil \\dfrac{n}{2}\\right\\rceil\\)"
+    },
+    {
+      "id": "M7Q81",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Find the coefficient of \\(x^{n}\\) in \\((1+x)^{n}(1+x)^{n}\\).",
+      "options": [
+        "\\(\\binom{n}{n}\\)",
+        "\\(\\binom{2n}{2}\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(2^{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)"
+    },
+    {
+      "id": "M7Q82",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{r}\\) and \\(\\binom{n}{r+1}\\) are consecutive terms, then \\(\\dfrac{\\binom{n}{r+1}}{\\binom{n}{r}}=\\):",
+      "options": [
+        "\\(\\dfrac{n}{r}\\)",
+        "\\(\\dfrac{n-r}{r+1}\\)",
+        "\\(\\dfrac{r+1}{n-r}\\)",
+        "\\(\\dfrac{r}{n}\\)"
+      ],
+      "answer": "\\(\\dfrac{n-r}{r+1}\\)"
+    },
+    {
+      "id": "M7Q83",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{k}\\) in \\((1+x)^{a}(1+x)^{b}\\) is:",
+      "options": [
+        "\\(\\binom{k}{a+b}\\)",
+        "\\(\\binom{a+b}{k}\\)",
+        "\\(\\binom{a}{b}\\)",
+        "\\(\\binom{a}{k}\\binom{b}{k}\\)"
+      ],
+      "answer": "\\(\\binom{a+b}{k}\\)"
+    },
+    {
+      "id": "M7Q84",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{1}+3\\binom{n}{3}+5\\binom{n}{5}+\\cdots=(2^{n-1})n\\), then the sum \\(\\binom{n}{0}+\\binom{n}{2}+\\cdots\\) equals:",
+      "options": [
+        "\\(n2^{n-2}\\)",
+        "\\(2^{n}\\)",
+        "\\(\\dfrac{n}{2}\\)",
+        "\\(2^{n-1}\\)"
+      ],
+      "answer": "\\(2^{n-1}\\)"
+    },
+    {
+      "id": "M7Q85",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If the coefficient of \\(x^{r}\\) in \\((1+x)^{n}\\) equals that of \\(x^{r}\\) in \\((1+x)^{n+1}\\), then \\(r=\\):",
+      "options": [
+        "\\(\\dfrac{n}{2}\\)",
+        "\\(n+1\\)",
+        "\\(0\\)",
+        "\\(n\\)"
+      ],
+      "answer": "\\(0\\)"
+    },
+    {
+      "id": "M7Q86",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{4}\\) in \\((1+2x)^{8}-(1-x)^{8}\\) is:",
+      "options": [
+        "\\(\\binom{8}{4}\\)",
+        "\\(\\binom{8}{4}2^{4}\\)",
+        "\\(1050\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(1050\\)"
+    },
+    {
+      "id": "M7Q87",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(S=\\sum\\limits_{r=0}^{n}\\binom{n}{r}^{3}\\), then \\(S=\\):",
+      "options": [
+        "\\(\\binom{3n}{n}\\)",
+        "\\(\\binom{2n}{n}^{2}\\)",
+        "\\(2^{3n}\\)",
+        "\\(\\binom{3n}{n,\\,n,\\,n}\\) (multinomial identity)"
+      ],
+      "answer": "\\(\\binom{3n}{n,\\,n,\\,n}\\) (multinomial identity)"
+    },
+    {
+      "id": "M7Q88",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{n}\\) in \\((1+x)^{n}(1-x)^{n}\\) is:",
+      "options": [
+        "\\(2^{n}\\)",
+        "\\(0\\) for odd \\(n\\), \\(\\binom{n}{n/2}(-1)^{n/2}\\) for even \\(n\\)",
+        "Always 0",
+        "Always \\(\\binom{n}{n/2}\\)"
+      ],
+      "answer": "\\(0\\) for odd \\(n\\), \\(\\binom{n}{n/2}(-1)^{n/2}\\) for even \\(n\\)"
+    },
+    {
+      "id": "M7Q89",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{r}=\\binom{n}{r+1}\\), then the value of \\(\\dfrac{\\binom{n}{r-1}}{\\binom{n}{r}}\\) is:",
+      "options": [
+        "\\(\\dfrac{r+1}{n-r}\\)",
+        "\\(\\dfrac{n-r}{r+1}\\)",
+        "\\(\\dfrac{r}{r+1}\\)",
+        "\\(\\dfrac{n}{r}\\)"
+      ],
+      "answer": "\\(\\dfrac{r}{r+1}\\)"
+    },
+    {
+      "id": "M7Q90",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "The coefficient of \\(x^{5}\\) in \\((1+x)^{7}(1-x)^{3}\\) is:",
+      "options": [
+        "\\(\\binom{7}{5}+\\binom{3}{5}\\)",
+        "\\(\\binom{10}{5}\\)",
+        "\\(\\binom{7}{5}-3\\binom{7}{4}+3\\binom{7}{3}-\\binom{7}{2}\\)",
+        "\\(\\binom{7}{5}-\\binom{3}{5}\\)"
+      ],
+      "answer": "\\(\\binom{7}{5}-3\\binom{7}{4}+3\\binom{7}{3}-\\binom{7}{2}\\)"
+    },
+    {
+      "id": "M7Q91",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(A=(1+x)^{n}+(1-x)^{n}\\), then the coefficient of \\(x^{k}\\) in \\(A\\) is:",
+      "options": [
+        "\\(\\binom{n}{k}\\)",
+        "\\(2\\binom{n}{k}\\) for all \\(k\\)",
+        "Zero for odd \\(k\\)",
+        "Zero for even \\(k\\)"
+      ],
+      "answer": "Zero for odd \\(k\\)"
+    },
+    {
+      "id": "M7Q92",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\sum\\limits_{r=0}^{n}\\binom{n}{r}^{2}x^{r}=(1-x)^{n} \\cdot \\sum\\limits_{r=0}^{n}\\binom{n}{r}\\left(\\dfrac{x}{1-x}\\right)^{r}\\), then the coefficient of \\(x^{n}\\) equals:",
+      "options": [
+        "\\(\\binom{2n}{2}\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(\\binom{n}{n}\\)",
+        "\\(2^{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)"
+    },
+    {
+      "id": "M7Q93",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{k}\\) in \\((1+x+x^{2})^{n}\\) equals the number of solutions of:",
+      "options": [
+        "\\(i+j+\\ell = n\\) with \\(j+2\\ell = k\\), \\(i,j,\\ell\\ge 0\\)",
+        "\\(i+j=2n\\)",
+        "\\(i+2j=k\\)",
+        "\\(i+j=n\\)"
+      ],
+      "answer": "\\(i+j+\\ell = n\\) with \\(j+2\\ell = k\\), \\(i,j,\\ell\\ge 0\\)"
+    },
+    {
+      "id": "M7Q94",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\sum\\limits_{r=0}^{n}\\binom{n}{r}^{2}=m\\), then \\(\\sum\\limits_{r=0}^{n}(-1)^{r}\\binom{n}{r}^{2}=\\):",
+      "options": [
+        "\\(0\\) for odd \\(n\\), \\((-1)^{n/2}\\binom{n}{n/2}\\) for even \\(n\\)",
+        "\\(2^{n}\\)",
+        "Always \\(m\\)",
+        "Always 0"
+      ],
+      "answer": "\\(0\\) for odd \\(n\\), \\((-1)^{n/2}\\binom{n}{n/2}\\) for even \\(n\\)"
+    },
+    {
+      "id": "M7Q95",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{n}\\) in \\((1+x)^{n}\\left(1+\\dfrac{1}{x}\\right)^{n}\\) is:",
+      "options": [
+        "\\(\\binom{2n}{n}\\)",
+        "\\(\\binom{n}{n}\\)",
+        "\\(n!\\)",
+        "\\(2^{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)"
+    },
+    {
+      "id": "M7Q96",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n+1}{k}=\\binom{n}{k}+\\binom{n}{k-1}\\), this identity is known as:",
+      "options": [
+        "Pascal's identity",
+        "Newton's identity",
+        "Vandermonde's identity",
+        "Wallis' formula"
+      ],
+      "answer": "Pascal's identity"
+    },
+    {
+      "id": "M7Q97",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Using Vandermonde's identity, the coefficient of \\(x^{r}\\) in \\((1+x)^{p}(1+x)^{q}\\) is:",
+      "options": [
+        "\\(\\binom{r}{p+q}\\)",
+        "\\(\\binom{p}{r}\\binom{q}{r}\\)",
+        "\\(\\binom{p+q}{r}\\)",
+        "\\(\\binom{p}{q}\\)"
+      ],
+      "answer": "\\(\\binom{p+q}{r}\\)"
+    },
+    {
+      "id": "M7Q98",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "If \\(\\binom{n}{r}=\\binom{n}{r+1}\\), then \\(r=\\):",
+      "options": [
+        "\\(n-1\\)",
+        "\\(\\dfrac{n+1}{2}\\)",
+        "\\(\\dfrac{n}{2}\\)",
+        "\\(\\dfrac{n-1}{2}\\)"
+      ],
+      "answer": "\\(\\dfrac{n-1}{2}\\)"
+    },
+    {
+      "id": "M7Q99",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "Coefficient of \\(x^{n}\\) in \\((1+x)^{n}(1-x)^{n}\\) equals:",
+      "options": [
+        "Always \\(\\binom{n}{n/2}\\)",
+        "\\(2^{n}\\)",
+        "Always zero",
+        "Zero if \\(n\\) odd; otherwise \\((-1)^{n/2}\\binom{n}{n/2}\\)"
+      ],
+      "answer": "Zero if \\(n\\) odd; otherwise \\((-1)^{n/2}\\binom{n}{n/2}\\)"
+    },
+    {
+      "id": "M7Q100",
+      "chapter": "binomial_theorem",
+      "type": "mcq",
+      "statement": "For integer \\(n\\ge 1\\), the identity \\(\\sum\\limits_{r=0}^{n} r\\binom{n}{r}x^{r-1}=n(1+x)^{n-1}\\) is obtained by:",
+      "options": [
+        "Setting \\(x=1\\) in \\((1+x)^{n}\\)",
+        "Using binomial inversion",
+        "Integrating \\((1+x)^{n}\\)",
+        "Differentiating \\((1+x)^{n}\\) w.r.t. \\(x\\)"
+      ],
+      "answer": "Differentiating \\((1+x)^{n}\\) w.r.t. \\(x\\)"
+    }
+  ]
+}

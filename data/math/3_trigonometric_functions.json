@@ -1,0 +1,1217 @@
+{
+  "metadata": {
+    "chapter": "trigonometric_functions",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 3,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M3Q1",
+      "statement": "The value of \\(\\sin 30^\\circ\\) is",
+      "options": [
+        "1",
+        "0",
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q2",
+      "statement": "The value of \\(\\cos 60^\\circ\\) is",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "1",
+        "0"
+      ],
+      "answer": "\\(\\tfrac{1}{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q3",
+      "statement": "The value of \\(\\tan 45^\\circ\\) is",
+      "options": [
+        "\\(\\sqrt{3}\\)",
+        "1",
+        "\\(\\tfrac{1}{\\sqrt{3}}\\)",
+        "0"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q4",
+      "statement": "Convert \\(\\dfrac{\\pi}{3}\\) radians to degrees.",
+      "options": [
+        "\\(90^\\circ\\)",
+        "\\(45^\\circ\\)",
+        "\\(60^\\circ\\)",
+        "\\(30^\\circ\\)"
+      ],
+      "answer": "\\(60^\\circ\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q5",
+      "statement": "Convert \\(150^\\circ\\) to radians.",
+      "options": [
+        "\\(\\tfrac{7\\pi}{6}\\)",
+        "\\(\\tfrac{3\\pi}{5}\\)",
+        "\\(\\tfrac{2\\pi}{3}\\)",
+        "\\(\\tfrac{5\\pi}{6}\\)"
+      ],
+      "answer": "\\(\\tfrac{5\\pi}{6}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q6",
+      "statement": "Identity: \\(\\sin^2\\theta+\\cos^2\\theta=\\)",
+      "options": [
+        "\\(\\sec^2\\theta\\)",
+        "1",
+        "\\(\\tan^2\\theta\\)",
+        "0"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q7",
+      "statement": "Reciprocal pair of \\(\\sin\\theta\\) is",
+      "options": [
+        "\\(\\csc\\theta\\)",
+        "\\(\\cot\\theta\\)",
+        "\\(\\tan\\theta\\)",
+        "\\(\\sec\\theta\\)"
+      ],
+      "answer": "\\(\\csc\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q8",
+      "statement": "For \\(\\theta\\in(0,\\tfrac{\\pi}{2})\\) (I quadrant), \\(\\sin\\theta\\) and \\(\\cos\\theta\\) are",
+      "options": [
+        "Both negative",
+        "Both positive",
+        "Zero",
+        "Opposite signs"
+      ],
+      "answer": "Both positive",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q9",
+      "statement": "If \\(\\sin\\theta=\\tfrac{3}{5}\\) with \\(\\theta\\in(0,\\tfrac{\\pi}{2})\\), then \\(\\cos\\theta=\\)",
+      "options": [
+        "\\(\\tfrac{\\sqrt{5}}{5}\\)",
+        "\\(\\tfrac{4}{5}\\)",
+        "\\(\\tfrac{3}{5}\\)",
+        "\\(\\tfrac{5}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{4}{5}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q10",
+      "statement": "\\(\\csc 30^\\circ=\\)",
+      "options": [
+        "\\(\\sqrt{3}\\)",
+        "1",
+        "\\(\\tfrac{2}{\\sqrt{3}}\\)",
+        "2"
+      ],
+      "answer": "2",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q11",
+      "statement": "Principal value of \\(\\sin^{-1}\\big(\\tfrac{\\sqrt{3}}{2}\\big)\\) is",
+      "options": [
+        "\\(\\tfrac{2\\pi}{3}\\)",
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "\\(\\tfrac{\\pi}{3}\\)",
+        "\\(\\tfrac{\\pi}{6}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{3}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q12",
+      "statement": "Quadrant where \\(\\sin\\theta>0\\) and \\(\\cos\\theta<0\\) is",
+      "options": [
+        "IV",
+        "II",
+        "III",
+        "I"
+      ],
+      "answer": "II",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q13",
+      "statement": "Simplify: \\(\\sec\\theta\\cdot\\cos\\theta=\\)",
+      "options": [
+        "\\(\\tan\\theta\\)",
+        "0",
+        "1",
+        "\\(\\csc\\theta\\)"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q14",
+      "statement": "\\(\\tan 0=\\)",
+      "options": [
+        "\\(\\infty\\)",
+        "undefined",
+        "1",
+        "0"
+      ],
+      "answer": "0",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q15",
+      "statement": "\\(\\cos(\\pi-\\theta)=\\)",
+      "options": [
+        "\\(\\sin\\theta\\)",
+        "\\(\\cos\\theta\\)",
+        "\\(-\\cos\\theta\\)",
+        "\\(-\\sin\\theta\\)"
+      ],
+      "answer": "\\(-\\cos\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q16",
+      "statement": "Range of \\(\\sin\\theta\\) is",
+      "options": [
+        "\\([0,1]\\)",
+        "\\((-1,1))",
+        "\\((0,1)\\)",
+        "\\([-1,1]\\)"
+      ],
+      "answer": "\\([-1,1]\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q17",
+      "statement": "\\(\\cot\\theta\\) is reciprocal of",
+      "options": [
+        "\\(\\sin\\theta\\)",
+        "\\(\\tan\\theta\\)",
+        "\\(\\sec\\theta\\)",
+        "\\(\\cos\\theta\\)"
+      ],
+      "answer": "\\(\\tan\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q18",
+      "statement": "If \\(\\cos\\theta=\\tfrac{\\sqrt{3}}{2}\\), \\(\\theta\\in(0,\\tfrac{\\pi}{2})\\), then \\(\\theta=\\)",
+      "options": [
+        "\\(45^\\circ\\)",
+        "\\(30^\\circ\\)",
+        "\\(60^\\circ\\)",
+        "\\(90^\\circ\\)"
+      ],
+      "answer": "\\(30^\\circ\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q19",
+      "statement": "\\(\\sin(\\pi-\\theta)=\\)",
+      "options": [
+        "\\(-\\cos\\theta\\)",
+        "\\(-\\sin\\theta\\)",
+        "\\(\\cos\\theta\\)",
+        "\\(\\sin\\theta\\)"
+      ],
+      "answer": "\\(\\sin\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q20",
+      "statement": "If \\(\\theta=\\tfrac{\\pi}{6}\\), then \\(\\sin\\theta\\cos\\theta=\\)",
+      "options": [
+        "\\(\\tfrac{3}{4}\\)",
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{1}{4}\\)",
+        "\\(\\tfrac{\\sqrt{3}}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\sqrt{3}}{4}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q21",
+      "statement": "The period of \\(\\sin\\theta\\) is",
+      "options": [
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "1",
+        "\\(2\\pi\\)",
+        "\\(\\pi\\)"
+      ],
+      "answer": "\\(2\\pi\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q22",
+      "statement": "Graph of \\(y=\\tan x\\) has vertical asymptotes at",
+      "options": [
+        "None",
+        "\\((2k+1)\\tfrac{\\pi}{2}\\)",
+        "\\(k\\pi\\)",
+        "\\(2k\\pi\\)"
+      ],
+      "answer": "\\((2k+1)\\tfrac{\\pi}{2}\\)",
+      "type": "graphical"
+    },
+    {
+      "id": "M3Q23",
+      "statement": "If \\(\\sin\\alpha=\\sin\\beta\\), then \\(\\alpha-\\beta=\\)",
+      "options": [
+        "\\(2n\\pi\\)",
+        "\\(n\\pi\\)",
+        "\\((2n+1)\\tfrac{\\pi}{2}\\)",
+        "None"
+      ],
+      "answer": "\\(n\\pi\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q24",
+      "statement": "Exact value: \\(\\cos 0=\\)",
+      "options": [
+        "\\(-1\\)",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "1",
+        "0"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q25",
+      "statement": "If \\(\\sin\\theta=1\\), principal \\(\\theta\\) equals",
+      "options": [
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "\\(\\tfrac{3\\pi}{2}\\)",
+        "\\(0\\)",
+        "\\(\\pi\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{2}\\)",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M3Q26",
+      "statement": "Using complementary angles: \\(\\sin(90^\\circ-\\theta)=\\)",
+      "options": [
+        "\\(\\cos\\theta\\)",
+        "\\(\\tan\\theta\\)",
+        "\\(\\sec\\theta\\)",
+        "\\(\\sin\\theta\\)"
+      ],
+      "answer": "\\(\\cos\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q27",
+      "statement": "Simplify: \\(\\tan\\theta\\cdot\\cot\\theta=\\)",
+      "options": [
+        "\\(\\sin\\theta\\)",
+        "\\(\\sec\\theta\\)",
+        "1",
+        "\\(\\csc\\theta\\)"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q28",
+      "statement": "If \\(\\sin\\theta=\\tfrac{5}{13}\\) with \\(\\theta\\in(0,\\tfrac{\\pi}{2})\\), find \\(\\tan\\theta\\).",
+      "options": [
+        "\\(\\tfrac{5}{12}\\)",
+        "\\(\\tfrac{13}{5}\\)",
+        "\\(\\tfrac{12}{5}\\)",
+        "\\(\\tfrac{5}{13}\\)"
+      ],
+      "answer": "\\(\\tfrac{5}{12}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q29",
+      "statement": "Identity: \\(\\sin(\\alpha+\\beta)=\\)",
+      "options": [
+        "\\(\\sin\\alpha\\cos\\beta+\\cos\\alpha\\sin\\beta\\)",
+        "\\(\\sin\\alpha\\sin\\beta+\\cos\\alpha\\cos\\beta\\)",
+        "\\(\\cos\\alpha+\\cos\\beta\\)",
+        "None"
+      ],
+      "answer": "\\(\\sin\\alpha\\cos\\beta+\\cos\\alpha\\sin\\beta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q30",
+      "statement": "Identity: \\(\\cos(\\alpha-\\beta)=\\)",
+      "options": [
+        "\\(\\cos\\alpha-\\cos\\beta\\)",
+        "\\(\\cos\\alpha\\cos\\beta+\\sin\\alpha\\sin\\beta\\)",
+        "\\(\\cos\\alpha\\cos\\beta-\\sin\\alpha\\sin\\beta\\)",
+        "None"
+      ],
+      "answer": "\\(\\cos\\alpha\\cos\\beta+\\sin\\alpha\\sin\\beta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q31",
+      "statement": "Simplify: \\(\\dfrac{1-\\cos 2\\theta}{\\sin 2\\theta}=\\)",
+      "options": [
+        "\\(\\cot\\theta\\)",
+        "\\(\\sin\\theta\\)",
+        "\\(\\cos\\theta\\)",
+        "\\(\\tan\\theta\\)"
+      ],
+      "answer": "\\(\\tan\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q32",
+      "statement": "If \\(\\tan\\theta=\\tfrac{3}{4}\\), then \\(\\sec\\theta=\\)",
+      "options": [
+        "\\(\\tfrac{3}{5}\\)",
+        "\\(\\tfrac{4}{3}\\)",
+        "\\(\\tfrac{5}{4}\\)",
+        "\\(\\tfrac{5}{3}\\)"
+      ],
+      "answer": "\\(\\tfrac{5}{4}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q33",
+      "statement": "Double-angle: \\(\\sin 2\\theta=\\)",
+      "options": [
+        "\\(\\cos2\\theta\\)",
+        "\\(\\sin^2\\theta-\\cos^2\\theta\\)",
+        "None",
+        "\\(2\\sin\\theta\\cos\\theta\\)"
+      ],
+      "answer": "\\(2\\sin\\theta\\cos\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q34",
+      "statement": "Reduction: \\(\\sin(180^\\circ+\\theta)=\\)",
+      "options": [
+        "\\(\\cos\\theta\\)",
+        "\\(-\\cos\\theta\\)",
+        "\\(\\sin\\theta\\)",
+        "\\(-\\sin\\theta\\)"
+      ],
+      "answer": "\\(-\\sin\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q35",
+      "statement": "Reduction: \\(\\cos(360^\\circ-\\theta)=\\)",
+      "options": [
+        "\\(\\cos\\theta\\)",
+        "\\(-\\sin\\theta\\)",
+        "\\(-\\cos\\theta\\)",
+        "\\(\\sin\\theta\\)"
+      ],
+      "answer": "\\(\\cos\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q36",
+      "statement": "Solve on \\([0,2\\pi)\\): \\(\\tan\\theta=1\\).",
+      "options": [
+        "\\(\\tfrac{\\pi}{2},\\tfrac{3\\pi}{2}\\)",
+        "\\(\\tfrac{\\pi}{4},\\tfrac{5\\pi}{4}\\)",
+        "\\(0,\\pi\\)",
+        "\\(\\tfrac{\\pi}{4},\\tfrac{3\\pi}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{4},\\tfrac{5\\pi}{4}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q37",
+      "statement": "Simplify: \\(\\cos^2\\theta-\\sin^2\\theta=\\)",
+      "options": [
+        "1",
+        "\\(\\sin2\\theta\\)",
+        "0",
+        "\\(\\cos2\\theta\\)"
+      ],
+      "answer": "\\(\\cos2\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q38",
+      "statement": "If \\(\\sin(\\alpha+\\beta)=1\\) with \\(\\alpha,\\beta\\in(0,\\tfrac{\\pi}{2})\\), then \\(\\alpha+\\beta=\\)",
+      "options": [
+        "\\(\\pi\\)",
+        "\\(\\tfrac{\\pi}{4}\\)",
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "0"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q39",
+      "statement": "Exact value: \\(\\cos 15^\\circ=\\)",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{\\sqrt{6}-\\sqrt{2}}{4}\\)",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "\\(\\tfrac{\\sqrt{6}+\\sqrt{2}}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\sqrt{6}+\\sqrt{2}}{4}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q40",
+      "statement": "Exact value: \\(\\sin 75^\\circ=\\)",
+      "options": [
+        "\\(\\tfrac{\\sqrt{6}-\\sqrt{2}}{4}\\)",
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "\\(\\tfrac{\\sqrt{6}+\\sqrt{2}}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\sqrt{6}+\\sqrt{2}}{4}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q41",
+      "statement": "Domain of \\(\\sec\\theta\\) is",
+      "options": [
+        "\\(\\mathbb{R}\\setminus\\{(2k+1)\\tfrac{\\pi}{2}\\}\\)",
+        "None",
+        "\\(\\mathbb{R}\\)",
+        "\\(\\mathbb{R}\\setminus\\{k\\pi\\}\\)"
+      ],
+      "answer": "\\(\\mathbb{R}\\setminus\\{(2k+1)\\tfrac{\\pi}{2}\\}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q42",
+      "statement": "If \\(\\tan(\\alpha+\\beta)=\\dfrac{\\tan\\alpha+\\tan\\beta}{1-\\tan\\alpha\\tan\\beta}\\), then for \\(\\tan\\alpha=1,\\tan\\beta=2\\) value is",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "\\(-3\\)"
+      ],
+      "answer": "\\(-3\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q43",
+      "statement": "Simplify: \\(\\sin^4\\theta+\\cos^4\\theta=\\)",
+      "options": [
+        "\\(1-\\tfrac{1}{2}\\sin^2 2\\theta\\)",
+        "\\(1\\)",
+        "\\(\\cos 4\\theta\\)",
+        "\\(\\sin 4\\theta\\)"
+      ],
+      "answer": "\\(1-\\tfrac{1}{2}\\sin^2 2\\theta\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q44",
+      "statement": "Solve in \\([0,2\\pi)\\): \\(\\sin 2\\theta=0\\).",
+      "options": [
+        "All real",
+        "\\(\\tfrac{\\pi}{2},\\tfrac{3\\pi}{2}\\)",
+        "\\(0,\\pi\\)",
+        "\\(0,\\tfrac{\\pi}{2},\\pi,\\tfrac{3\\pi}{2}\\)"
+      ],
+      "answer": "\\(0,\\tfrac{\\pi}{2},\\pi,\\tfrac{3\\pi}{2}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q45",
+      "statement": "If \\(\\sin\\theta+\\cos\\theta=1\\), find \\(\\sin^2\\theta+\\cos^2\\theta\\).",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "1",
+        "\\(\\sqrt{2}\\)",
+        "2"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q46",
+      "statement": "If \\(\\cos\\theta=\\tfrac{7}{25}\\) with \\(\\theta\\in(0,\\tfrac{\\pi}{2})\\), then \\(\\sin\\theta=\\)",
+      "options": [
+        "\\(\\tfrac{\\sqrt{7}}{25}\\)",
+        "\\(\\tfrac{25}{7}\\)",
+        "\\(\\tfrac{7}{24}\\)",
+        "\\(\\tfrac{24}{25}\\)"
+      ],
+      "answer": "\\(\\tfrac{24}{25}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q47",
+      "statement": "Evaluate: \\(\\sin(\\pi/3)\\cos(\\pi/6)+\\cos(\\pi/3)\\sin(\\pi/6)\\).",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "1",
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "\\(\\tfrac{\\sqrt{2}}{2}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q48",
+      "statement": "If \\(\\tan\\theta=2\\), compute \\(\\sin 2\\theta\\).",
+      "options": [
+        "\\(\\tfrac{1}{5}\\)",
+        "\\(\\tfrac{4}{5}\\)",
+        "\\(\\tfrac{2}{5}\\)",
+        "\\(\\tfrac{3}{5}\\)"
+      ],
+      "answer": "\\(\\tfrac{4}{5}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q49",
+      "statement": "The amplitude (max value) of \\(y=3\\sin x\\) is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "\\(\\tfrac{3}{2}\\)"
+      ],
+      "answer": "3",
+      "type": "graphical"
+    },
+    {
+      "id": "M3Q50",
+      "statement": "Period of \\(y=\\sin(2x)\\) equals",
+      "options": [
+        "\\(2\\pi\\)",
+        "\\(\\pi\\)",
+        "4\\pi",
+        "\\(\\tfrac{\\pi}{2}\\)"
+      ],
+      "answer": "\\(\\pi\\)",
+      "type": "graphical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M3Q51",
+      "statement": "Solve on \\([0,2\\pi)\\): \\(\\sin\\theta=\\tfrac{1}{2}\\).",
+      "options": [
+        "\\(\\tfrac{\\pi}{6}\\) only",
+        "\\(\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6}\\)",
+        "\\(\\tfrac{5\\pi}{6},\\tfrac{11\\pi}{6}\\)",
+        "\\(\\tfrac{\\pi}{6},\\tfrac{7\\pi}{6}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q52",
+      "statement": "General solution: \\(\\cos 2\\theta=\\cos\\alpha\\) equals",
+      "options": [
+        "\\(\\theta=\\tfrac{\\alpha}{2}+k\\tfrac{\\pi}{2}\\)",
+        "\\(\\theta=\\alpha+2k\\pi\\)",
+        "None",
+        "\\(\\theta=\\pm\\tfrac{\\alpha}{2}+k\\pi\\)"
+      ],
+      "answer": "\\(\\theta=\\pm\\tfrac{\\alpha}{2}+k\\pi\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q53",
+      "statement": "Range of \\(f(\\theta)=2\\sin\\theta-\\cos\\theta\\) is",
+      "options": [
+        "\\([-\\sqrt{5},\\sqrt{5}]\\)",
+        "\\([-2,2]\\)",
+        "\\([-3,3]\\)",
+        "\\([-1,2]\\)"
+      ],
+      "answer": "[-\\sqrt{5},\\sqrt{5}]",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q54",
+      "statement": "Simplify: \\(\\dfrac{1+\\sin\\theta}{\\cos\\theta}=\\tan\\left(\\tfrac{\\pi}{4}+\\tfrac{\\theta}{2}\\right)\\). This is",
+      "options": [
+        "False for acute angles",
+        "False",
+        "True only for I quadrant",
+        "True"
+      ],
+      "answer": "True",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q55",
+      "statement": "If \\(\\sin\\alpha=\\tfrac{3}{5}, \\cos\\beta=\\tfrac{12}{13}\\) with acute \\(\\alpha,\\beta\\), compute \\(\\sin(\\alpha+\\beta)\\).",
+      "options": [
+        "\\(\\tfrac{63}{65}\\)",
+        "\\(\\tfrac{56}{65}\\)",
+        "\\(\\tfrac{33}{65}\\)",
+        "\\(\\tfrac{36}{65}\\)"
+      ],
+      "answer": "\\(\\tfrac{63}{65}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q56",
+      "statement": "Evaluate: \\(\\sin 3\\theta\\).",
+      "options": [
+        "\\(2\\sin\\theta\\cos\\theta\\)",
+        "\\(3\\sin\\theta-4\\sin^3\\theta\\)",
+        "\\(\\cos 3\\theta\\)",
+        "\\(4\\sin^3\\theta-3\\sin\\theta\\)"
+      ],
+      "answer": "\\(3\\sin\\theta-4\\sin^3\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q57",
+      "statement": "If \\(\\tan\\alpha=\\tfrac{4}{3}\\) and \\(\\tan\\beta=\\tfrac{5}{12}\\), find \\(\\tan(\\alpha-\\beta)\\).",
+      "options": [
+        "\\(\\tfrac{20-15}{36+25}=\\tfrac{5}{61}\\)",
+        "\\(\\tfrac{5}{7}\\)",
+        "0",
+        "\\(\\tfrac{61}{5}\\)"
+      ],
+      "answer": "\\(\\tfrac{5}{61}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q58",
+      "statement": "Solve: \\(\\sin\\theta=\\sin 2\\theta\\) in \\([0,2\\pi)\\).",
+      "options": [
+        "\\(0,\\tfrac{\\pi}{2},\\pi,\\tfrac{3\\pi}{2}\\)",
+        "\\(0,\\tfrac{2\\pi}{3},\\pi,\\tfrac{4\\pi}{3}\\)",
+        "\\(0,\\tfrac{\\pi}{3},\\pi,\\tfrac{5\\pi}{3}\\)",
+        "\\(0,\\pi\\)"
+      ],
+      "answer": "0,\\pi,2\\pi/3,4\\pi/3",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q59",
+      "statement": "If \\(\\cos\\theta=\\tfrac{2}{3}\\), compute \\(\\cos 2\\theta\\).",
+      "options": [
+        "\\(\\tfrac{5}{9}\\)",
+        "\\(\\tfrac{2}{9}\\)",
+        "\\(\\tfrac{1}{9}\\)",
+        "\\(\\tfrac{7}{9}\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{9}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q60",
+      "statement": "Find maximum of \\(f(x)=\\sin x+\\sin(2x)\\).",
+      "options": [
+        "\\(\\tfrac{3}{2}\\)",
+        "\\(\\sqrt{2}\\)",
+        "1",
+        "2"
+      ],
+      "answer": "1.5",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q61",
+      "statement": "If \\(\\sin\\theta+\\cos\\theta=k\\), then \\(\\sin 2\\theta=\\)",
+      "options": [
+        "\\(k^2-1\\)",
+        "\\(2k\\)",
+        "\\(1-k^2\\)",
+        "\\(k^2\\)"
+      ],
+      "answer": "k^2-1",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q62",
+      "statement": "Solve: \\(2\\sin^2\\theta-\\sin\\theta-1=0\\) in \\([0,2\\pi)\\).",
+      "options": [
+        "\\(\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6},\\tfrac{3\\pi}{2}\\)",
+        "None",
+        "\\(\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6}\\)",
+        "\\(\\tfrac{\\pi}{2},\\tfrac{3\\pi}{2}\\)"
+      ],
+      "answer": "\\pi/6,5\\pi/6,3\\pi/2",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q63",
+      "statement": "If \\(\\sin(\\arccos x)=\\)",
+      "options": [
+        "\\(1-x\\)",
+        "\\(x\\)",
+        "\\(\\sqrt{1-x^2}\\)",
+        "\\(\\dfrac{1}{x}\\)"
+      ],
+      "answer": "\\(\\sqrt{1-x^2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q64",
+      "statement": "Range of \\(y=\\sin x+\\cos x\\) is",
+      "options": [
+        "\\([-2,2]\\)",
+        "\\([-\\sqrt{2},\\sqrt{2}]\\)",
+        "\\([-1,1]\\)",
+        "\\([0,\\sqrt{2}]\\)"
+      ],
+      "answer": "[-\\sqrt{2},\\sqrt{2}]",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q65",
+      "statement": "Compute \\(\\cos 3\\theta\\).",
+      "options": [
+        "\\(\\sin 3\\theta\\)",
+        "\\(4\\cos^3\\theta-3\\cos\\theta\\)",
+        "None",
+        "\\(3\\cos\\theta-4\\cos^3\\theta\\)"
+      ],
+      "answer": "\\(4\\cos^3\\theta-3\\cos\\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q66",
+      "statement": "Solve: \\(\\sec x=2\\) in \\([0,2\\pi)\\).",
+      "options": [
+        "All real",
+        "\\(\\tfrac{2\\pi}{3},\\tfrac{4\\pi}{3}\\)",
+        "\\(\\pm\\tfrac{\\pi}{3}\\)",
+        "\\(\\tfrac{\\pi}{3},\\tfrac{5\\pi}{3}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{3},\\tfrac{5\\pi}{3}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q67",
+      "statement": "If \\(\\tan\\theta=\\dfrac{2}{\\,1+\\cos 2\\theta\\,}\\), then \\(\\theta=\\)",
+      "options": [
+        "\\(\\tfrac{\\pi}{4}\\)",
+        "\\(\\tfrac{\\pi}{3}\\)",
+        "\\(0\\)",
+        "\\(\\tfrac{\\pi}{6}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{4}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q68",
+      "statement": "Minimum value of \\(\\sin^2x+\\sin^2( x+\\alpha)\\) is",
+      "options": [
+        "1",
+        "\\(\\tfrac{3}{2}\\)",
+        "0",
+        "\\(\\tfrac{1}{2}\\)"
+      ],
+      "answer": "1/2",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q69",
+      "statement": "If \\(\\sin\\theta=\\tfrac{4}{5}\\), compute \\(\\sin 3\\theta\\).",
+      "options": [
+        "\\(\\tfrac{36}{125}\\)",
+        "\\(\\tfrac{56}{125}\\)",
+        "\\(\\tfrac{44}{125}\\)",
+        "\\(\\tfrac{12}{25}\\)"
+      ],
+      "answer": "\\(\\tfrac{44}{125}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q70",
+      "statement": "Solve: \\(\\tan^2x-3\\tan x+2=0\\) in \\([0,2\\pi)\\).",
+      "options": [
+        "\\(x=\\tfrac{\\pi}{4},\\tfrac{\\pi}{3},\\tfrac{5\\pi}{4},\\tfrac{4\\pi}{3}\\)",
+        "None",
+        "\\(x=\\tfrac{\\pi}{2}\\)",
+        "\\(x=0,\\pi\\)"
+      ],
+      "answer": "\\pi/4,5\\pi/4,\\pi/3,4\\pi/3",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q71",
+      "statement": "If \\(\\sin^2x+\\cos^2x=1\\) and \\(\\sin x+\\cos x=\\sqrt{2}\\), then \\(x=\\)",
+      "options": [
+        "\\(\\tfrac{\\pi}{2}+2k\\pi\\)",
+        "\\(0\\)",
+        "\\(\\pi\\)",
+        "\\(\\tfrac{\\pi}{4}+2k\\pi\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{4}+2k\\pi\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q72",
+      "statement": "Evaluate: \\(\\arcsin(\\cos x)\\) principal value for \\(x\\in[0,\\pi]\\).",
+      "options": [
+        "\\(\\tfrac{\\pi}{2}-x\\)",
+        "\\(\\pi-x\\)",
+        "\\(\\tfrac{\\pi}{2}+x\\)",
+        "\\(x\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{2}-x\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q73",
+      "statement": "If \\(\\cos x=\\sin(3x)\\) with \\(x\\in(0,\\tfrac{\\pi}{2})\\), then \\(x=\\)",
+      "options": [
+        "\\(\\tfrac{\\pi}{8}\\)",
+        "\\(\\tfrac{\\pi}{6}\\)",
+        "\\(\\tfrac{\\pi}{10}\\)",
+        "\\(\\tfrac{\\pi}{12}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{8}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q74",
+      "statement": "Max value of \\(\\sin x\\cos x\\) equals",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "\\(\\tfrac{\\sqrt{2}}{2}\\)",
+        "1",
+        "\\(\\tfrac{3}{4}\\)"
+      ],
+      "answer": "1/2",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q75",
+      "statement": "If \\(\\tan(A+B)=\\sqrt{3}\\) and \\(A,B\\in(0,\\tfrac{\\pi}{2})\\) with \\(\\tan A=2\\), compute \\(\\tan B\\).",
+      "options": [
+        "\\(\\tfrac{1}{2}\\)",
+        "2",
+        "1",
+        "\\(\\sqrt{3}\\)"
+      ],
+      "answer": "1/2",
+      "type": "numerical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M3Q76",
+      "statement": "If \\(\\sin(\\alpha+\\beta)=\\tfrac{5}{13}\\) and \\(\\cos(\\alpha-\\beta)=\\tfrac{12}{13}\\) with acute angles, then \\(\\cos\\alpha\\cos\\beta=\\)",
+      "options": [
+        "\\(\\tfrac{60}{169}\\)",
+        "\\(\\tfrac{12}{13}\\)",
+        "\\(\\tfrac{119}{169}\\)",
+        "\\(\\tfrac{5}{13}\\)"
+      ],
+      "answer": "\\(\\tfrac{119}{169}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q77",
+      "statement": "Minimum of \\(f(\\theta)=\\sin\\theta+\\cos\\theta\\) is",
+      "options": [
+        "\\(-\\sqrt{2}\\)",
+        "\\(\\sqrt{2}\\)",
+        "\\(-1\\)",
+        "0"
+      ],
+      "answer": "-\\sqrt{2}",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q78",
+      "statement": "Solve: \\(\\sin x=\\cos 2x\\) on \\([0,2\\pi)\\).",
+      "options": [
+        "\\(x=\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6},\\tfrac{3\\pi}{2}\\)",
+        "\\(x=\\tfrac{\\pi}{3},\\tfrac{2\\pi}{3}\\)",
+        "\\(x=0,\\pi\\)",
+        "None"
+      ],
+      "answer": "\\pi/6,5\\pi/6,3\\pi/2",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q79",
+      "statement": "Product-to-sum: \\(\\sin A\\cos B=\\)",
+      "options": [
+        "\\(\\sin(A+B)\\)",
+        "None",
+        "\\(\\tfrac{1}{2}[\\sin(A+B)+\\sin(A-B)]\\)",
+        "\\(\\tfrac{1}{2}[\\cos(A+B)+\\cos(A-B)]\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{2}[\\sin(A+B)+\\sin(A-B)]\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q80",
+      "statement": "Sum-to-product: \\(\\sin A+\\sin B=\\)",
+      "options": [
+        "None",
+        "\\(\\sin(A+B)\\)",
+        "\\(2\\cos\\tfrac{A+B}{2}\\sin\\tfrac{A-B}{2}\\)",
+        "\\(2\\sin\\tfrac{A+B}{2}\\cos\\tfrac{A-B}{2}\\)"
+      ],
+      "answer": "\\(2\\sin\\tfrac{A+B}{2}\\cos\\tfrac{A-B}{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q81",
+      "statement": "If \\(\\sin x+\\sin y=a\\) and \\(\\cos x+\\cos y=b\\), then \\(\\sin\\tfrac{x+y}{2}=\\)",
+      "options": [
+        "\\(\\tfrac{\\sqrt{a^2+b^2}}{2}\\)",
+        "\\(\\tfrac{b}{2}\\)",
+        "\\(\\tfrac{a^2-b^2}{2}\\)",
+        "\\(\\tfrac{a}{2}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\sqrt{a^2+b^2}}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q82",
+      "statement": "Solve inequality: \\(\\sin x>\\tfrac{1}{2}\\) on \\([0,2\\pi)\\).",
+      "options": [
+        "\\(\\tfrac{5\\pi}{6}<x<\\tfrac{11\\pi}{6}\\)",
+        "\\(\\tfrac{\\pi}{6}<x<\\tfrac{5\\pi}{6}\\)",
+        "All real",
+        "\\(0<x<\\tfrac{\\pi}{6}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{6}<x<\\tfrac{5\\pi}{6}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q83",
+      "statement": "If \\(\\sin\\alpha=\\tfrac{3}{5},\\,\\sin\\beta=\\tfrac{5}{13}\\), compute \\(\\cos(\\alpha-\\beta)\\).",
+      "options": [
+        "\\(\\tfrac{56}{65}\\)",
+        "\\(\\tfrac{63}{65}\\)",
+        "\\(\\tfrac{33}{65}\\)",
+        "\\(\\tfrac{44}{65}\\)"
+      ],
+      "answer": "\\(\\tfrac{56}{65}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q84",
+      "statement": "Evaluate \\(\\arctan(\\tan x)\\) principal value for \\(x\\in(-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2})\\).",
+      "options": [
+        "\\(x\\)",
+        "0",
+        "\\(\\pi-x\\)",
+        "\\(\\tfrac{\\pi}{2}-x\\)"
+      ],
+      "answer": "x",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q85",
+      "statement": "If \\(\\sin 2x=\\sin 3x\\) and \\(x\\in(0,\\pi)\\), then \\(x=\\)",
+      "options": [
+        "\\(0,\\pi\\)",
+        "\\(\\tfrac{\\pi}{5},\\tfrac{2\\pi}{5},\\tfrac{3\\pi}{5},\\tfrac{4\\pi}{5}\\)",
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "\\(\\tfrac{\\pi}{3}\\)"
+      ],
+      "answer": "\\pi/5,2\\pi/5,3\\pi/5,4\\pi/5",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q86",
+      "statement": "If \\(\\sin x+\\cos x=\\sqrt{2}\\sin(x+\\tfrac{\\pi}{4})\\), the identity is",
+      "options": [
+        "True only for acute x",
+        "False for obtuse x",
+        "False",
+        "True"
+      ],
+      "answer": "True",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q87",
+      "statement": "Maximum of \\(\\sin x+\\sin 2x+\\sin 3x\\) equals",
+      "options": [
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "3",
+        "\\(\\tfrac{3}{2}\\)",
+        "2"
+      ],
+      "answer": "1.5",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q88",
+      "statement": "If \\(\\cos x=\\tfrac{1-\\tan^2\\tfrac{x}{2}}{1+\\tan^2\\tfrac{x}{2}}\\), this is",
+      "options": [
+        "Euler identity",
+        "Weierstrass substitution",
+        "Cauchy identity",
+        "Chebyshev form"
+      ],
+      "answer": "Weierstrass substitution",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q89",
+      "statement": "Solve: \\(\\cos x+\\sin x=1\\).",
+      "options": [
+        "\\(x=\\tfrac{\\pi}{2}\\)",
+        "\\(x=\\tfrac{\\pi}{4}\\)",
+        "No solution",
+        "\\(x=0\\)"
+      ],
+      "answer": "x=0",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q90",
+      "statement": "Compute \\(\\displaystyle\\prod_{k=1}^{n}\\sin\\frac{k\\pi}{2n+1}\\).",
+      "options": [
+        "\\(2^{-n}\\sqrt{2n+1}\\)",
+        "\\(\\tfrac{1}{2^n}\\)",
+        "None",
+        "\\(2^{-n}\\)"
+      ],
+      "answer": "2^{-n}\\sqrt{2n+1}",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q91",
+      "statement": "If \\(\\alpha,\\beta\\in(0,\\tfrac{\\pi}{2})\\) and \\(\\tan\\alpha\\tan\\beta=1\\), then \\(\\alpha+\\beta=\\)",
+      "options": [
+        "\\(\\pi\\)",
+        "0",
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "\\(\\tfrac{\\pi}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{\\pi}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q92",
+      "statement": "For \\(y=a\\sin(bx+c)\\), the phase shift equals",
+      "options": [
+        "\\(-\\tfrac{c}{b}\\)",
+        "\\(c\\)",
+        "\\(b/c\\)",
+        "\\(\\tfrac{c}{b}\\)"
+      ],
+      "answer": "-c/b",
+      "type": "graphical"
+    },
+    {
+      "id": "M3Q93",
+      "statement": "If \\(\\sin x=\\dfrac{2t}{1+t^2}\\), \\(\\cos x=\\dfrac{1-t^2}{1+t^2}\\), then \\(\\tan\\tfrac{x}{2}=\\)",
+      "options": [
+        "\\(1\\)",
+        "\\(t^2\\)",
+        "\\(\\tfrac{1}{t}\\)",
+        "\\(t\\)"
+      ],
+      "answer": "t",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q94",
+      "statement": "Value of \\(\\displaystyle\\sum_{k=0}^{n}\\binom{n}{k}\\sin(k\\theta)=\\)",
+      "options": [
+        "0",
+        "\\(n\\sin\\theta\\)",
+        "\\(2^{n-1}\\sin\\theta\\)",
+        "\\(2^{n}\\sin\\theta\\)"
+      ],
+      "answer": "2^{n-1}sin\\theta",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q95",
+      "statement": "If \\(\\arcsin x+\\arccos x=\\)",
+      "options": [
+        "\\(\\pi\\)",
+        "0",
+        "\\(\\tfrac{\\pi}{2}\\)",
+        "\\(x\\)"
+      ],
+      "answer": "\\pi/2",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q96",
+      "statement": "Given \\(\\cos\\theta=\\dfrac{m^2-n^2}{m^2+n^2}\\), \\(\\sin\\theta=\\dfrac{2mn}{m^2+n^2}\\), then \\(\\tan\\theta=\\)",
+      "options": [
+        "1",
+        "\\(\\dfrac{(m^2+n^2)^2}{2mn}\\)",
+        "\\(\\dfrac{2mn}{m^2-n^2}\\)",
+        "\\(\\dfrac{m^2-n^2}{2mn}\\)"
+      ],
+      "answer": "\\(\\dfrac{2mn}{m^2-n^2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q97",
+      "statement": "If \\(\\sin(\\arctan x)=\\)",
+      "options": [
+        "\\(x\\)",
+        "\\(\\dfrac{1}{x}\\)",
+        "\\(\\dfrac{1}{\\sqrt{1+x^2}}\\)",
+        "\\(\\dfrac{x}{\\sqrt{1+x^2}}\\)"
+      ],
+      "answer": "\\(\\dfrac{x}{\\sqrt{1+x^2}}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M3Q98",
+      "statement": "For triangle ABC with angles A,B,C, value of \\(\\sin A+\\sin B+\\sin C\\) is",
+      "options": [
+        "\\(\\le 2\\)",
+        "\\(=\\tfrac{3\\sqrt{3}}{2}\\) for all",
+        "\\(\\ge 2\\)",
+        "\\(\\le \\tfrac{3\\sqrt{3}}{2}\\)"
+      ],
+      "answer": "\\leq3\\sqrt{3/2}",
+      "type": "analytical"
+    },
+    {
+      "id": "M3Q99",
+      "statement": "If \\(\\cos x=\\tfrac{3}{5}\\) and \\(\\cos y=\\tfrac{4}{5}\\) with acute angles, \\(\\cos(x+y)=\\)",
+      "options": [
+        "\\(\\tfrac{24}{25}\\)",
+        "\\(\\tfrac{12+\\sqrt{7}}{25}\\)",
+        "\\(\\tfrac{12-\\sqrt{7}}{25}\\)",
+        "\\(\\tfrac{7}{25}\\)"
+      ],
+      "answer": "\\(\\tfrac{12-\\sqrt{7}}{25}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M3Q100",
+      "statement": "Evaluate \\(\\displaystyle\\prod_{k=1}^{n}\\cos\\frac{k\\pi}{2n+1}\\).",
+      "options": [
+        "\\(2^{-n}\\)",
+        "\\(2^{-n}\\sqrt{\\tfrac{1}{2n+1}}\\)",
+        "None",
+        "\\(\\tfrac{1}{2^n}\\)"
+      ],
+      "answer": "2^{-n}",
+      "type": "analytical"
+    }
+  ]
+}

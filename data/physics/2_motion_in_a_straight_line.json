@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P2Q01",
+      "statement": "Which quantity can be negative for one-dimensional motion along the x-axis?",
+      "options": [
+        "Path length",
+        "Displacement",
+        "Speed",
+        "Distance"
+      ],
+      "answer": "Displacement",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q02",
+      "statement": "In SI, the unit of average velocity is:",
+      "options": [
+        "m s^{-2}",
+        "m s^{-1}",
+        "km h^{-2}",
+        "cm s"
+      ],
+      "answer": "m s^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q03",
+      "statement": "A particle moves from x = 2 m to x = -3 m. Its displacement is:",
+      "options": [
+        "-1 m",
+        "-5 m",
+        "5 m",
+        "1 m"
+      ],
+      "answer": "-5 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q04",
+      "statement": "The slope of an x–t graph at any instant gives:",
+      "options": [
+        "Displacement",
+        "Speed",
+        "Acceleration",
+        "Velocity"
+      ],
+      "answer": "Velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q05",
+      "statement": "A car’s speedometer reads 36 km h^{-1}. Its speed in SI units is approximately:",
+      "options": [
+        "3.6 m s^{-1}",
+        "6 m s^{-1}",
+        "10 m s^{-1}",
+        "36 m s^{-1}"
+      ],
+      "answer": "10 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q06",
+      "statement": "Average speed equals average velocity when:",
+      "options": [
+        "Net displacement is zero",
+        "Motion is uniformly accelerated",
+        "Motion is along a straight line without change of direction",
+        "Time interval is infinitesimal"
+      ],
+      "answer": "Motion is along a straight line without change of direction",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q07",
+      "statement": "If velocity is constant, which statement is true?",
+      "options": [
+        "Speed is variable",
+        "Position is constant",
+        "Acceleration is constant nonzero",
+        "Acceleration is zero"
+      ],
+      "answer": "Acceleration is zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q08",
+      "statement": "Which graph indicates uniform velocity?",
+      "options": [
+        "x–t is a parabola",
+        "x–t is a straight line with constant slope",
+        "a–t is a straight line with nonzero value",
+        "v–t has increasing slope"
+      ],
+      "answer": "x–t is a straight line with constant slope",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q09",
+      "statement": "Dimension of velocity is:",
+      "options": [
+        "M^{0} L T^{-1}",
+        "M^{0} L^{1} T^{1}",
+        "M^{1} L^{0} T^{-1}",
+        "M^{0} L^{1} T^{-1}"
+      ],
+      "answer": "M^{0} L^{1} T^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q10",
+      "statement": "A body moves 4 m east and then 3 m west. The distance and displacement are:",
+      "options": [
+        "1 m and 7 m west",
+        "1 m and 7 m east",
+        "7 m and 1 m east",
+        "7 m and 1 m west"
+      ],
+      "answer": "7 m and 1 m east",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q11",
+      "statement": "Instantaneous acceleration is defined as:",
+      "options": [
+        "Slope of x–t graph",
+        "\\(\\Delta v/\\Delta t\\) for large \\(\\Delta t\\)",
+        "Time rate of change of velocity at an instant",
+        "Rate of change of speed only"
+      ],
+      "answer": "Time rate of change of velocity at an instant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q12",
+      "statement": "Area under a v–t graph between two instants equals:",
+      "options": [
+        "Displacement in that interval",
+        "Change in acceleration",
+        "Average velocity",
+        "Change in speed"
+      ],
+      "answer": "Displacement in that interval",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q13",
+      "statement": "Which is true for uniformly accelerated straight-line motion?",
+      "options": [
+        "a–t graph is curved",
+        "Speed is constant",
+        "x–t graph is a straight line",
+        "v–t graph is a straight line"
+      ],
+      "answer": "v–t graph is a straight line",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q14",
+      "statement": "A particle has velocity 0 at t = 0 and constant acceleration a. Its position is given by:",
+      "options": [
+        "x = vt",
+        "x = x_{0} + vt",
+        "x = x_{0} + \\tfrac{1}{2} a t^{2}",
+        "x = at"
+      ],
+      "answer": "x = x_{0} + \\tfrac{1}{2} a t^{2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q15",
+      "statement": "A car moves with uniform speed of 15 m s^{-1}. In 4 s it travels:",
+      "options": [
+        "60 m",
+        "45 m",
+        "30 m",
+        "75 m"
+      ],
+      "answer": "60 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q16",
+      "statement": "If x = 5 + 2t (in m), the motion is:",
+      "options": [
+        "Uniform velocity 2 m s^{-1}",
+        "At rest",
+        "Nonuniform acceleration",
+        "Uniform acceleration 2 m s^{-2}"
+      ],
+      "answer": "Uniform velocity 2 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q17",
+      "statement": "Which quantity does an odometer measure directly?",
+      "options": [
+        "Instantaneous speed",
+        "Acceleration",
+        "Displacement",
+        "Distance travelled"
+      ],
+      "answer": "Distance travelled",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q18",
+      "statement": "For motion with constant acceleration a, the relation \\(v^{2} - u^{2} = 2 a s\\) holds. Here s is:",
+      "options": [
+        "Displacement in the interval",
+        "Jerk",
+        "Distance per unit time",
+        "Average speed"
+      ],
+      "answer": "Displacement in the interval",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q19",
+      "statement": "Which situation guarantees zero average velocity over a time interval?",
+      "options": [
+        "Returning to the starting point",
+        "Changing direction once",
+        "Standing still half the time",
+        "Moving with constant speed"
+      ],
+      "answer": "Returning to the starting point",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q20",
+      "statement": "A v–t graph is a horizontal line at v = 8 m s^{-1}. The motion is:",
+      "options": [
+        "Uniform acceleration 8 m s^{-2}",
+        "At rest",
+        "Uniform speed 8 m s^{-1}",
+        "Nonuniform speed"
+      ],
+      "answer": "Uniform speed 8 m s^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q21",
+      "statement": "The SI unit of acceleration is:",
+      "options": [
+        "km h^{-1}",
+        "m s^{-2}",
+        "N kg^{-1}",
+        "m s^{-1}"
+      ],
+      "answer": "m s^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q22",
+      "statement": "If a particle’s x–t graph is horizontal, its velocity is:",
+      "options": [
+        "Zero",
+        "Constant nonzero",
+        "Increasing",
+        "Decreasing"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q23",
+      "statement": "A runner covers the first 100 m in 10 s and the next 100 m in 20 s on a straight track. Average speed for 200 m is:",
+      "options": [
+        "6.67 m s^{-1}",
+        "15 m s^{-1}",
+        "10 m s^{-1}",
+        "5 m s^{-1}"
+      ],
+      "answer": "6.67 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q24",
+      "statement": "Which measurement tool gives the most direct estimate of instantaneous velocity in a lab car-on-track setup?",
+      "options": [
+        "Stopwatch only",
+        "Meter scale only",
+        "Measuring tape",
+        "Photo-gate timer"
+      ],
+      "answer": "Photo-gate timer",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q25",
+      "statement": "If x = 4t^{2} (in m), instantaneous velocity at t = 3 s is:",
+      "options": [
+        "24 m s^{-1}",
+        "36 m s^{-1}",
+        "6 m s^{-1}",
+        "12 m s^{-1}"
+      ],
+      "answer": "24 m s^{-1}",
+      "type": "numerical"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P2Q26",
+      "statement": "A particle moves with \\(u = 5\\,\\text{m s}^{-1}\\) and constant acceleration \\(a = 2\\,\\text{m s}^{-2}\\). Its velocity after 4 s is:",
+      "options": [
+        "9 m s^{-1}",
+        "8 m s^{-1}",
+        "5 m s^{-1}",
+        "13 m s^{-1}"
+      ],
+      "answer": "13 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q27",
+      "statement": "For motion with constant \\(a\\), displacement in time \\(t\\) is \\(s = ut + \\tfrac{1}{2} a t^{2}\\). The dimensions of the second term are:",
+      "options": [
+        "M^{0} L^{1} T^{0}",
+        "M^{0} L^{1} T^{1}",
+        "M^{0} L^{1} T^{-1}",
+        "M^{0} L^{1} T^{-2}"
+      ],
+      "answer": "M^{0} L^{1} T^{0}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q28",
+      "statement": "A car decelerates uniformly from 20 m s^{-1} to rest in 5 s. The acceleration is:",
+      "options": [
+        "-4 m s^{-2}",
+        "4 m s^{-2}",
+        "-2 m s^{-2}",
+        "2 m s^{-2}"
+      ],
+      "answer": "-4 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q29",
+      "statement": "An object moves with \\(v = u + at\\). If \\(u=0\\), the x–t relation becomes:",
+      "options": [
+        "x = \\tfrac{1}{2} a t^{2}",
+        "x = u t + a t^{2}",
+        "x = at",
+        "x = vt"
+      ],
+      "answer": "x = \\tfrac{1}{2} a t^{2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q30",
+      "statement": "A scooter covers 60 km in 2 h and then 40 km in 1 h on a straight road. Average speed over the trip is:",
+      "options": [
+        "50 km h^{-1}",
+        "30 km h^{-1}",
+        "33.3 km h^{-1}",
+        "40 km h^{-1}"
+      ],
+      "answer": "33.3 km h^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q31",
+      "statement": "If \\(x = 3t^{2} + 2t\\) (m), the instantaneous acceleration is:",
+      "options": [
+        "2 m s^{-2}",
+        "4 m s^{-2}",
+        "6 m s^{-2}",
+        "3 m s^{-2}"
+      ],
+      "answer": "6 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q32",
+      "statement": "For a uniformly accelerated motion, the average velocity in time \\(t\\) is:",
+      "options": [
+        "\\(\\tfrac{u+v}{2}\\)",
+        "\\(\\tfrac{u+2v}{3}\\)",
+        "\\(\\sqrt{uv}\\)",
+        "\\(v\\)"
+      ],
+      "answer": "\\(\\tfrac{u+v}{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q33",
+      "statement": "A body moves with piecewise constant velocities: 10 m s^{-1} for 2 s and 20 m s^{-1} for 1 s. Average speed over 3 s is:",
+      "options": [
+        "15 m s^{-1}",
+        "13.3 m s^{-1}",
+        "10 m s^{-1}",
+        "20 m s^{-1}"
+      ],
+      "answer": "13.3 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q34",
+      "statement": "In a ticker-tape experiment with constant acceleration, the spacing of successive dots:",
+      "options": [
+        "Is constant",
+        "Increases linearly",
+        "Decreases exponentially",
+        "Oscillates with time"
+      ],
+      "answer": "Increases linearly",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q35",
+      "statement": "A car at x = 0 has \\(u=12\\,\\text{m s}^{-1}\\), \\(a=-3\\,\\text{m s}^{-2}\\). Time to come to rest is:",
+      "options": [
+        "6 s",
+        "12 s",
+        "4 s",
+        "3 s"
+      ],
+      "answer": "4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q36",
+      "statement": "With \\(u=0\\) and constant \\(a\\), the v–t graph is a straight line through origin. The area under the line from 0 to t equals:",
+      "options": [
+        "\\(at\\)",
+        "\\(a t^{2}\\)",
+        "\\(\\tfrac{1}{2} v t\\)",
+        "\\(\\tfrac{1}{2} a t^{2}\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{2} a t^{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q37",
+      "statement": "A jogger runs 400 m around a straight 400 m track out-and-back to the start. Average velocity over the trip is:",
+      "options": [
+        "1 m s^{-1}",
+        "400 m s^{-1}",
+        "Depends on time",
+        "0 m s^{-1}"
+      ],
+      "answer": "0 m s^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q38",
+      "statement": "An object travels with velocity \\(v(t) = 4 + 2t\\) (m s^{-1}). Displacement in the first 3 s is:",
+      "options": [
+        "27 m",
+        "30 m",
+        "18 m",
+        "21 m"
+      ],
+      "answer": "21 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q39",
+      "statement": "A measurement of time has an uncertainty of \\(\\pm 0.2\\,\\text{s}\\) over 5.0 s. The percentage uncertainty is:",
+      "options": [
+        "4%",
+        "10%",
+        "5%",
+        "2%"
+      ],
+      "answer": "4%",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q40",
+      "statement": "Two cars A and B move along a straight road with velocities 15 m s^{-1} and 10 m s^{-1} in the same direction. The velocity of A relative to B is:",
+      "options": [
+        "5 m s^{-1} along A",
+        "25 m s^{-1} along A",
+        "5 m s^{-1} opposite A",
+        "25 m s^{-1} opposite A"
+      ],
+      "answer": "5 m s^{-1} along A",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q41",
+      "statement": "For \\(x = A + Bt + Ct^{2}\\), which term contributes to constant acceleration?",
+      "options": [
+        "B and C",
+        "A only",
+        "C only",
+        "B only"
+      ],
+      "answer": "C only",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q42",
+      "statement": "A body moves with \\(u=8\\,\\text{m s}^{-1}\\) and \\(a=2\\,\\text{m s}^{-2}\\). Displacement in 5 s is:",
+      "options": [
+        "60 m",
+        "50 m",
+        "80 m",
+        "70 m"
+      ],
+      "answer": "70 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q43",
+      "statement": "In a lab, you estimate instantaneous velocity using finite differences from x–t data with \\(\\Delta t=0.05\\,\\text{s}\\). To reduce random error, you should:",
+      "options": [
+        "Differentiate a fitted straight line regardless of curvature",
+        "Use central differences over multiple points",
+        "Increase \\(\\Delta t\\)",
+        "Ignore timing uncertainties"
+      ],
+      "answer": "Use central differences over multiple points",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q44",
+      "statement": "Under constant deceleration, which statement is correct?",
+      "options": [
+        "Speed decreases linearly with time",
+        "Acceleration increases with time",
+        "Velocity-time graph is curved",
+        "Displacement decreases linearly with time"
+      ],
+      "answer": "Speed decreases linearly with time",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q45",
+      "statement": "A car travels first half of the distance at speed v and the second half at speed 2v. The average speed over the whole distance is:",
+      "options": [
+        "\\(\\tfrac{3}{2}v\\)",
+        "\\(\\tfrac{4}{3}v\\)",
+        "\\(\\tfrac{v+2v}{2}\\)",
+        "\\(\\sqrt{2}v\\)"
+      ],
+      "answer": "\\(\\tfrac{4}{3}v\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q46",
+      "statement": "From \\(v^{2} - u^{2} = 2 a s\\), the dimension of \\(a\\) is checked by:",
+      "options": [
+        "Ensuring both sides are \\(L^{2} T^{-2}\\)",
+        "Comparing with \\(s/t\\)",
+        "Matching \\(M L T^{-2}\\) on both sides",
+        "Equating exponents of mass"
+      ],
+      "answer": "Ensuring both sides are \\(L^{2} T^{-2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q47",
+      "statement": "A cyclist moves with speed that increases from 6 to 10 m s^{-1} uniformly in 8 s. The displacement in this interval is:",
+      "options": [
+        "72 m",
+        "64 m",
+        "80 m",
+        "32 m"
+      ],
+      "answer": "64 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q48",
+      "statement": "To calibrate a motion sensor for x–t data, the best practice is to:",
+      "options": [
+        "Hold the target by hand while moving",
+        "Rely on default factory setting",
+        "Use a reflective target and measure a known translation",
+        "Place it anywhere; distance doesn’t matter"
+      ],
+      "answer": "Use a reflective target and measure a known translation",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q49",
+      "statement": "A particle’s velocity is given by \\(v = 12 - 3t\\) (m s^{-1}). The time when it momentarily comes to rest is:",
+      "options": [
+        "t = 3 s",
+        "t = 0 s",
+        "t = 12 s",
+        "t = 4 s"
+      ],
+      "answer": "t = 4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q50",
+      "statement": "During uniform acceleration experiments, timing with a single hand-held stopwatch mainly introduces:",
+      "options": [
+        "Random error due to human reaction time",
+        "No error if repeated trials are done",
+        "Systematic error due to zero error only",
+        "Dimensional error in units"
+      ],
+      "answer": "Random error due to human reaction time",
+      "type": "experimental"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P2Q51",
+      "statement": "A car accelerates uniformly from rest to 20 m s^{-1} in 10 s. It then moves at this speed for 5 s and finally comes to rest in 5 s. The total distance covered is:",
+      "options": [
+        "300 m",
+        "250 m",
+        "350 m",
+        "400 m"
+      ],
+      "answer": "300 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q52",
+      "statement": "A particle moves along a straight line such that its velocity v varies with time t as \\(v = 6t - t^{2}\\). The time when it returns to the starting point is:",
+      "options": [
+        "5 s",
+        "6 s",
+        "3 s",
+        "4 s"
+      ],
+      "answer": "3 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q53",
+      "statement": "If x = 4t^{3} - 3t^{2} + 2, then the instantaneous acceleration at t = 2 s is:",
+      "options": [
+        "36 m s^{-2}",
+        "24 m s^{-2}",
+        "12 m s^{-2}",
+        "48 m s^{-2}"
+      ],
+      "answer": "36 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q54",
+      "statement": "In a displacement–time graph, the tangent at a point makes an angle \\(\\theta\\) with the time axis. The instantaneous velocity is proportional to:",
+      "options": [
+        "\\(\\sin \\theta\\)",
+        "\\(\\tan \\theta\\)",
+        "\\(\\cot \\theta\\)",
+        "\\(\\cos \\theta\\)"
+      ],
+      "answer": "\\(\\tan \\theta\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q55",
+      "statement": "A stone is thrown vertically upward with velocity 20 m s^{-1}. The time during which it is at least 15 m above the ground is (take g = 10 m s^{-2}):",
+      "options": [
+        "3 s",
+        "1 s",
+        "4 s",
+        "2 s"
+      ],
+      "answer": "2 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q56",
+      "statement": "A ball dropped from a height h reaches the ground in time T. If the same ball is thrown downward with speed equal to that acquired in free fall from height h, the time taken will be:",
+      "options": [
+        "T/√2",
+        "T/2",
+        "2T",
+        "T"
+      ],
+      "answer": "T/√2",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q57",
+      "statement": "A particle covers half its total distance with speed v_1 and the other half with v_2. The average speed is:",
+      "options": [
+        "\\(\\tfrac{v_1+v_2}{2}\\)",
+        "\\(\\sqrt{v_1v_2}\\)",
+        "\\(\\tfrac{v_1^2+v_2^2}{v_1+v_2}\\)",
+        "\\(\\tfrac{2v_1v_2}{v_1+v_2}\\)"
+      ],
+      "answer": "\\(\\tfrac{2v_1v_2}{v_1+v_2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q58",
+      "statement": "The displacement of a particle is given by x = 10t - 4t^{2}. The time when it comes momentarily to rest is:",
+      "options": [
+        "3 s",
+        "2.5 s",
+        "2 s",
+        "1.25 s"
+      ],
+      "answer": "1.25 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q59",
+      "statement": "A vehicle is moving with uniform acceleration. If it covers distances s_1 and s_2 in equal intervals of time, the relation between s_1 and s_2 is:",
+      "options": [
+        "s_2 - s_1 ∝ a",
+        "s_2 - s_1 ∝ (2n - 1)",
+        "s_2 - s_1 = u t",
+        "s_2 - s_1 = constant"
+      ],
+      "answer": "s_2 - s_1 ∝ (2n - 1)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q60",
+      "statement": "The jerk of a moving particle is defined as \\(\\frac{da}{dt}\\). For a = 3t^{2} - 2t, the jerk at t = 2 s is:",
+      "options": [
+        "10 m s^{-3}",
+        "6 m s^{-3}",
+        "2 m s^{-3}",
+        "4 m s^{-3}"
+      ],
+      "answer": "4 m s^{-3}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q61",
+      "statement": "For x = A + Bt + Ct^{2}, dimensional analysis confirms that B has dimensions of:",
+      "options": [
+        "L T^{-2}",
+        "L T^{-1}",
+        "T",
+        "L"
+      ],
+      "answer": "L T^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q62",
+      "statement": "A train accelerates uniformly from 20 m s^{-1} to 40 m s^{-1} while covering 600 m. Its acceleration is:",
+      "options": [
+        "1.5 m s^{-2}",
+        "0.5 m s^{-2}",
+        "1.2 m s^{-2}",
+        "1.0 m s^{-2}"
+      ],
+      "answer": "1.0 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q63",
+      "statement": "If v = at + b t^{3}, then the dimensions of b are:",
+      "options": [
+        "L T^{-2}",
+        "L T^{-4}",
+        "L T^{-5}",
+        "L T^{-3}"
+      ],
+      "answer": "L T^{-4}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q64",
+      "statement": "A body thrown upward takes t_1 to reach maximum height and t_2 to return to the ground. Air resistance neglected, the relation is:",
+      "options": [
+        "Depends on mass",
+        "t_1 < t_2",
+        "t_1 > t_2",
+        "t_1 = t_2"
+      ],
+      "answer": "t_1 = t_2",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q65",
+      "statement": "A freely falling body covers 7h in the first second and 21h in the next second. The ratio of distances is consistent with:",
+      "options": [
+        "Uniform acceleration",
+        "Retardation",
+        "Uniform speed",
+        "Variable acceleration"
+      ],
+      "answer": "Uniform acceleration",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q66",
+      "statement": "A particle starts from rest and moves with acceleration a = 6t. After 2 s, its velocity will be:",
+      "options": [
+        "6 m s^{-1}",
+        "12 m s^{-1}",
+        "24 m s^{-1}",
+        "18 m s^{-1}"
+      ],
+      "answer": "12 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q67",
+      "statement": "A car moves with \\(x = 2 + 4t + t^{3}\\). The acceleration at t = 2 s is:",
+      "options": [
+        "12 m s^{-2}",
+        "14 m s^{-2}",
+        "8 m s^{-2}",
+        "10 m s^{-2}"
+      ],
+      "answer": "12 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q68",
+      "statement": "If an object’s x–t graph is a parabola opening upwards, the acceleration is:",
+      "options": [
+        "Positive constant",
+        "Zero",
+        "Negative constant",
+        "Variable"
+      ],
+      "answer": "Positive constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q69",
+      "statement": "A ball dropped from 80 m rebounds to 20 m. Time between two consecutive impacts with the ground is (g = 10 m s^{-2}):",
+      "options": [
+        "8 s",
+        "5 s",
+        "6 s",
+        "4 s"
+      ],
+      "answer": "4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q70",
+      "statement": "Two stones are released from rest one after another with a gap of 1 s. The distance between them after 3 s of the release of the first stone is:",
+      "options": [
+        "10 m",
+        "5 m",
+        "15 m",
+        "20 m"
+      ],
+      "answer": "5 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q71",
+      "statement": "The area under an acceleration–time graph gives:",
+      "options": [
+        "Change in velocity",
+        "Speed",
+        "Displacement",
+        "Jerk"
+      ],
+      "answer": "Change in velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q72",
+      "statement": "The retardation of a car is 2 m s^{-2}. If the driver doubles the initial velocity, the stopping distance becomes:",
+      "options": [
+        "Four times",
+        "Same",
+        "Twice",
+        "Half"
+      ],
+      "answer": "Four times",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q73",
+      "statement": "An object is thrown vertically upward with speed 40 m s^{-1}. The total time of flight is (g = 10 m s^{-2}):",
+      "options": [
+        "10 s",
+        "6 s",
+        "12 s",
+        "8 s"
+      ],
+      "answer": "8 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q74",
+      "statement": "An experimental plot of v^{2} vs s for a car gives a straight line. The slope of the line represents:",
+      "options": [
+        "Acceleration",
+        "Twice acceleration",
+        "Half acceleration",
+        "Initial velocity"
+      ],
+      "answer": "2a (Twice acceleration)",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q75",
+      "statement": "For constant acceleration motion, measurement errors in time produce uncertainty in displacement proportional to:",
+      "options": [
+        "1/t",
+        "t",
+        "constant",
+        "t^{2}"
+      ],
+      "answer": "t^{2}",
+      "type": "experimental"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P2Q76",
+      "statement": "A car moving with uniform acceleration a passes two points 100 m apart in 5 s. Its speed at the first point is 10 m s^{-1}. The acceleration a is:",
+      "options": [
+        "3 m s^{-2}",
+        "4 m s^{-2}",
+        "5 m s^{-2}",
+        "2 m s^{-2}"
+      ],
+      "answer": "2 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q77",
+      "statement": "Two cars A and B start together from rest. A has constant acceleration 2 m s^{-2} and B has constant acceleration 3 m s^{-2}. The time after which their separation is 50 m is:",
+      "options": [
+        "5.5 s",
+        "6 s",
+        "5 s",
+        "4.47 s"
+      ],
+      "answer": "4.47 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q78",
+      "statement": "A ball is dropped from a height H and rebounds to \\(\\tfrac{1}{n}\\) of its height repeatedly. The total distance covered till it comes to rest is:",
+      "options": [
+        "H(1 + n)/(1 + n)",
+        "H(1 + n)/(1 - n)",
+        "H(1 + n)/(n - 1)",
+        "H(1 + 1/n)/(1 - 1/n)"
+      ],
+      "answer": "H\\left(\\frac{1 + 1/n}{1 - 1/n}\\right)",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q79",
+      "statement": "A particle moves along x-axis with \\(x = 6t^{2} - t^{3}\\). The time when it comes momentarily to rest is:",
+      "options": [
+        "3 s",
+        "6 s",
+        "4 s",
+        "2 s"
+      ],
+      "answer": "4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q80",
+      "statement": "A car moving at 20 m s^{-1} applies brakes producing uniform retardation 4 m s^{-2}. The time and distance needed to stop are respectively:",
+      "options": [
+        "5 s and 50 m",
+        "4 s and 40 m",
+        "10 s and 100 m",
+        "8 s and 80 m"
+      ],
+      "answer": "5 s and 50 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q81",
+      "statement": "A particle moves such that its velocity v depends on displacement x as \\(v = kx^{1/2}\\). The time to move from x = 0 to x = a is:",
+      "options": [
+        "\\(\\tfrac{a^{3/2}}{3k}\\)",
+        "\\(\\tfrac{2a^{1/2}}{k}\\)",
+        "\\(\\tfrac{a}{k}\\)",
+        "\\(\\tfrac{2a^{1/2}}{3k}\\)"
+      ],
+      "answer": "\\(\\tfrac{2a^{1/2}}{k}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q82",
+      "statement": "A car accelerates uniformly from rest for 10 s to reach 30 m s^{-1} and then moves at this speed for another 10 s. The average acceleration for the entire motion is:",
+      "options": [
+        "0.75 m s^{-2}",
+        "3.0 m s^{-2}",
+        "2.0 m s^{-2}",
+        "1.5 m s^{-2}"
+      ],
+      "answer": "1.5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q83",
+      "statement": "A particle moves such that its position is given by \\(x = 4t + 3t^{2}\\). The ratio of average velocity during 0–2 s to instantaneous velocity at t = 2 s is:",
+      "options": [
+        "2:3",
+        "3:2",
+        "4:3",
+        "1:1"
+      ],
+      "answer": "3:2",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q84",
+      "statement": "The displacement of a particle is given by x = 10 + 5t + 4t^{2}. The velocity becomes double of its initial value after time:",
+      "options": [
+        "2 s",
+        "0.5 s",
+        "1 s",
+        "1.25 s"
+      ],
+      "answer": "0.625 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q85",
+      "statement": "A rocket moves upward with constant acceleration a. After time t, its engine fails. It continues to move upward for time T before coming to rest. Then:",
+      "options": [
+        "T = at/g",
+        "T = t",
+        "T = (a t)/g",
+        "T = a t / 2g"
+      ],
+      "answer": "T = (a t)/g",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q86",
+      "statement": "A bus moving at 20 m s^{-1} is stopped by applying brakes, producing retardation proportional to its speed: a = -0.5v. The stopping distance is:",
+      "options": [
+        "40 m",
+        "20 m",
+        "80 m",
+        "100 m"
+      ],
+      "answer": "80 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q87",
+      "statement": "A ball thrown upward passes a window 10 m above ground at 4 m s^{-1}. Time taken to reach ground after passing the window is:",
+      "options": [
+        "1.2 s",
+        "1.6 s",
+        "2.0 s",
+        "1.4 s"
+      ],
+      "answer": "1.4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q88",
+      "statement": "The velocity of a body moving in a straight line varies as v = 4t - 2t^{2}. The distance covered in first 3 s is:",
+      "options": [
+        "9 m",
+        "10 m",
+        "15 m",
+        "12 m"
+      ],
+      "answer": "9 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q89",
+      "statement": "For a body under uniform acceleration, the ratio of distance covered in the nth second to the (n−1)th second is:",
+      "options": [
+        "\\(\\tfrac{2n + 1}{2n - 1}\\)",
+        "\\(\\tfrac{2n - 1}{2n - 3}\\)",
+        "\\(\\tfrac{n^2}{(n - 1)^2}\\)",
+        "\\(\\tfrac{n}{n - 1}\\)"
+      ],
+      "answer": "\\(\\tfrac{2n - 1}{2n - 3}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q90",
+      "statement": "A train moving with uniform acceleration passes a signal post with velocity 20 m s^{-1} and 20 s later passes another with velocity 40 m s^{-1}. The distance between the posts is:",
+      "options": [
+        "800 m",
+        "300 m",
+        "600 m",
+        "400 m"
+      ],
+      "answer": "600 m",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q91",
+      "statement": "Two bodies start moving along a straight line with velocities 2 m s^{-1} and 4 m s^{-1}. Their accelerations are 2 m s^{-2} and 1 m s^{-2}. The time after which they meet is:",
+      "options": [
+        "2 s",
+        "1 s",
+        "3 s",
+        "4 s"
+      ],
+      "answer": "2 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q92",
+      "statement": "The velocity–time graph of a body is a straight line making an angle of 135° with the time axis. The acceleration is:",
+      "options": [
+        "Positive",
+        "Zero",
+        "Increasing",
+        "Negative"
+      ],
+      "answer": "Negative",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q93",
+      "statement": "A particle moves along a straight line with an acceleration proportional to time t. If it starts from rest, the displacement varies with time as:",
+      "options": [
+        "t^{2}",
+        "t^{3}",
+        "t^{4}",
+        "t"
+      ],
+      "answer": "t^{3}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q94",
+      "statement": "A particle covers first half of total time with speed v_1 and second half with v_2. The average speed is:",
+      "options": [
+        "\\(\\tfrac{v_1+v_2}{2}\\)",
+        "\\(\\tfrac{2v_1v_2}{v_1+v_2}\\)",
+        "\\(\\tfrac{v_1v_2}{v_1+v_2}\\)",
+        "\\(\\sqrt{v_1v_2}\\)"
+      ],
+      "answer": "\\(\\tfrac{2v_1v_2}{v_1+v_2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q95",
+      "statement": "A ball is thrown vertically upward and passes a point 20 m below its maximum height at speeds 10 m s^{-1} and 10 m s^{-1} upward and downward respectively. The time interval between the two passages is:",
+      "options": [
+        "4 s",
+        "3 s",
+        "5 s",
+        "2 s"
+      ],
+      "answer": "4 s",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q96",
+      "statement": "A particle starts with velocity u and uniform acceleration a. The distance covered in nth second is:",
+      "options": [
+        "u + (a/2)(n^{2})",
+        "u + a n",
+        "u + (a/2)(2n−1)",
+        "u + (a/2)(n−1)"
+      ],
+      "answer": "u + (a/2)(2n−1)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q97",
+      "statement": "If the velocity of a body is given by v = k√x, then the acceleration is proportional to:",
+      "options": [
+        "x",
+        "√x",
+        "1/x",
+        "1/√x"
+      ],
+      "answer": "1/√x",
+      "type": "conceptual"
+    },
+    {
+      "id": "P2Q98",
+      "statement": "A car moving with constant retardation covers successive equal distances of 10 m each in 1 s, 2 s, and 3 s respectively. Its initial velocity is:",
+      "options": [
+        "12 m s^{-1}",
+        "14 m s^{-1}",
+        "10 m s^{-1}",
+        "16 m s^{-1}"
+      ],
+      "answer": "14 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P2Q99",
+      "statement": "An experiment measures displacement using ultrasonic sensors and time with a microcontroller clock. The main limitation on velocity accuracy comes from:",
+      "options": [
+        "Resolution of time measurement",
+        "Friction in the system",
+        "Precision of length calibration",
+        "Parallax error"
+      ],
+      "answer": "Resolution of time measurement",
+      "type": "experimental"
+    },
+    {
+      "id": "P2Q100",
+      "statement": "For a freely falling body from height h, the ratio of distances covered in the first and last second of fall is 1:7. The total time of fall is:",
+      "options": [
+        "4 s",
+        "3 s",
+        "5 s",
+        "6 s"
+      ],
+      "answer": "4 s",
+      "type": "numerical"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Sets",
+    "slug": "1_sets",
+    "icon": "🧮"
+  },
+  {
+    "title": "Relations and Functions",
+    "slug": "2_relations_and_functions",
+    "icon": "🔗"
+  },
+  {
+    "title": "Trigonometric Functions",
+    "slug": "3_trigonometric_functions",
+    "icon": "📐"
+  },
+  {
+    "title": "Complex Numbers and Quadratic Equations",
+    "slug": "4_complex_numbers_and_quadratic_equations",
+    "icon": "🧊"
+  },
+  {
+    "title": "Linear Inequalities",
+    "slug": "5_linear_inequalities",
+    "icon": "📈"
+  },
+  {
+    "title": "Permutations and Combinations",
+    "slug": "6_permutations_and_combinations",
+    "icon": "🎲"
+  },
+  {
+    "title": "Binomial Theorem",
+    "slug": "7_binomial_theorem",
+    "icon": "🧾"
+  },
+  {
+    "title": "Sequences and Series",
+    "slug": "8_sequences_and_series",
+    "icon": "🔢"
+  },
+  {
+    "title": "Straight Lines",
+    "slug": "9_straight_lines",
+    "icon": "📏"
+  },
+  {
+    "title": "Conic Sections",
+    "slug": "10_conic_sections",
+    "icon": "🌀"
+  },
+  {
+    "title": "Three Dimensional Geometry",
+    "slug": "11_three_d_geometry",
+    "icon": "🧱"
+  }
+]

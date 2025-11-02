@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Cell – The Unit of Life",
+    "slug": "8_cell_the_unit_of_life",
+    "icon": "🔬"
+  },
+  {
+    "title": "Biomolecules",
+    "slug": "9_biomolecules",
+    "icon": "🧫"
+  },
+  {
+    "title": "Cell Cycle and Cell Division",
+    "slug": "10_cell_cycle_and_cell_division",
+    "icon": "♻️"
+  },
+  {
+    "title": "Photosynthesis in Higher Plants",
+    "slug": "11_photosynthesis_in_higher_plants",
+    "icon": "🌞"
+  },
+  {
+    "title": "Respiration in Plants",
+    "slug": "12_respiration_in_plants",
+    "icon": "🍃"
+  },
+  {
+    "title": "Breathing and Exchange of Gases",
+    "slug": "14_breathing_and_exchange_of_gases",
+    "icon": "😤"
+  },
+  {
+    "title": "Body Fluids and Circulation",
+    "slug": "15_body_fluids_and_circulation",
+    "icon": "❤️"
+  },
+  {
+    "title": "Excretory Products and Their Elimination",
+    "slug": "16_excretory_products_and_their_elimination",
+    "icon": "🚽"
+  }
+]

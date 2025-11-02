@@ -1,0 +1,1169 @@
+{
+  "metadata": {
+    "chapter": "permutations_and_combinations",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 6,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M6Q1",
+      "statement": "The value of \\(0!\\)",
+      "options": [
+        "\\(1\\)",
+        "\\(2\\)",
+        "undefined",
+        "\\(0\\)"
+      ],
+      "answer": "\\(1\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q2",
+      "statement": "\\(^5P_2\\) equals",
+      "options": [
+        "\\(5\\)",
+        "\\(20\\)",
+        "\\(2\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(20\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q3",
+      "statement": "\\(^6C_2\\) equals",
+      "options": [
+        "\\(12\\)",
+        "\\(20\\)",
+        "\\(15\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(15\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q4",
+      "statement": "Relation between \\(^nP_r\\) and \\(^nC_r\\) is",
+      "options": [
+        "None",
+        "\\(^nP_r = \\frac{^nC_r}{r!}\\)",
+        "\\(^nP_r = r! \\cdot ^nC_r\\)",
+        "\\(^nP_r = ^nC_r\\)"
+      ],
+      "answer": "\\(^nP_r = r! \\cdot ^nC_r\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q5",
+      "statement": "Number of ways to arrange 4 distinct books on a shelf",
+      "options": [
+        "\\(16\\)",
+        "\\(12\\)",
+        "\\(8\\)",
+        "\\(24\\)"
+      ],
+      "answer": "\\(24\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q6",
+      "statement": "Number of subsets of a 6-element set is",
+      "options": [
+        "\\(128\\)",
+        "\\(16\\)",
+        "\\(64\\)",
+        "\\(32\\)"
+      ],
+      "answer": "\\(64\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q7",
+      "statement": "From 7 students choose a team of 3. Count",
+      "options": [
+        "\\(42\\)",
+        "\\(21\\)",
+        "\\(35\\)",
+        "\\(14\\)"
+      ],
+      "answer": "\\(35\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q8",
+      "statement": "If letters of CAT are arranged total arrangements",
+      "options": [
+        "\\(6\\)",
+        "\\(12\\)",
+        "\\(3\\)",
+        "\\(9\\)"
+      ],
+      "answer": "\\(6\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q9",
+      "statement": "In a permutation, order",
+      "options": [
+        "is sometimes ignored",
+        "is undefined",
+        "does not matter",
+        "matters"
+      ],
+      "answer": "matters",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q10",
+      "statement": "In a combination, order",
+      "options": [
+        "None",
+        "matters",
+        "always reverses",
+        "does not matter"
+      ],
+      "answer": "does not matter",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q11",
+      "statement": "Identity: \\(\\binom{n}{0} =\\)",
+      "options": [
+        "\\(0\\)",
+        "\\(n\\)",
+        "\\(1\\)",
+        "\\(n!\\)"
+      ],
+      "answer": "\\(1\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q12",
+      "statement": "Identity: \\(\\binom{n}{1} =\\)",
+      "options": [
+        "\\(0\\)",
+        "\\(1\\)",
+        "\\(\\frac{n}{2}\\)",
+        "\\(n\\)"
+      ],
+      "answer": "\\(n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q13",
+      "statement": "Number of ways to choose a captain from 10 players",
+      "options": [
+        "\\(20\\)",
+        "\\(9\\)",
+        "\\(10\\)",
+        "\\(45\\)"
+      ],
+      "answer": "\\(10\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q14",
+      "statement": "If \\(\\binom{8}{r} = \\binom{8}{3}\\), then \\(r =\\)",
+      "options": [
+        "\\(3\\)",
+        "\\(3\\ \\text{or}\\ 5\\)",
+        "\\(4\\)",
+        "\\(5\\)"
+      ],
+      "answer": "\\(3\\ \\text{or}\\ 5\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q15",
+      "statement": "Sum \\(\\binom{9}{0} + \\cdots + \\binom{9}{9}\\) equals",
+      "options": [
+        "\\(256\\)",
+        "\\(1024\\)",
+        "\\(512\\)",
+        "\\(128\\)"
+      ],
+      "answer": "\\(512\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q16",
+      "statement": "Number of 3-digit numbers using digits 1-5 without repetition",
+      "options": [
+        "\\(75\\)",
+        "\\(100\\)",
+        "\\(80\\)",
+        "\\(60\\)"
+      ],
+      "answer": "\\(60\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q17",
+      "statement": "Arrangements of AAA",
+      "options": [
+        "\\(1\\)",
+        "\\(6\\)",
+        "\\(3\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(1\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q18",
+      "statement": "Arrangements of LEVEL (L,E,V,E,L)",
+      "options": [
+        "\\(30\\)",
+        "\\(20\\)",
+        "\\(60\\)",
+        "\\(120\\)"
+      ],
+      "answer": "\\(30\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q19",
+      "statement": "Number of ways to choose 2 from 10 identical pens",
+      "options": [
+        "\\(10\\)",
+        "\\(1\\)",
+        "\\(\\binom{10}{2}\\)",
+        "\\(2\\)"
+      ],
+      "answer": "\\(1\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q20",
+      "statement": "Pascal identity: \\(\\binom{n}{r} =\\)",
+      "options": [
+        "None",
+        "\\(\\binom{n-1}{r} + \\binom{n-1}{r-1}\\)",
+        "\\(\\binom{n-1}{r}\\)",
+        "\\(\\binom{n+1}{r}\\)"
+      ],
+      "answer": "\\(\\binom{n-1}{r} + \\binom{n-1}{r-1}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q21",
+      "statement": "From 5 girls and 5 boys choose any 2 people",
+      "options": [
+        "\\(25\\)",
+        "\\(20\\)",
+        "\\(10\\)",
+        "\\(45\\)"
+      ],
+      "answer": "\\(45\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q22",
+      "statement": "Number of derangements of 2 objects \\(!2\\) is",
+      "options": [
+        "\\(2\\)",
+        "\\(3\\)",
+        "\\(0\\)",
+        "\\(1\\)"
+      ],
+      "answer": "\\(1\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q23",
+      "statement": "Number of ways to select a committee of 4 from 8",
+      "options": [
+        "\\(8\\)",
+        "\\(56\\)",
+        "\\(28\\)",
+        "\\(70\\)"
+      ],
+      "answer": "\\(70\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q24",
+      "statement": "\\(\\binom{n}{r} = \\binom{n}{n-r}\\) is",
+      "options": [
+        "True for even \\(n\\)",
+        "False",
+        "True for \\(r=1\\) only",
+        "True"
+      ],
+      "answer": "True",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q25",
+      "statement": "If \\(\\binom{10}{k}\\) is maximum then \\(k =\\)",
+      "options": [
+        "\\(5\\)",
+        "\\(4\\)",
+        "\\(7\\)",
+        "\\(6\\)"
+      ],
+      "answer": "\\(5\\)",
+      "type": "analytical"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M6Q26",
+      "statement": "Number of arrangements of the word BANANA",
+      "options": [
+        "\\(720\\)",
+        "\\(120\\)",
+        "\\(360\\)",
+        "\\(60\\)"
+      ],
+      "answer": "\\(60\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q27",
+      "statement": "How many 4-digit numbers from digits 0-9 with repetition allowed",
+      "options": [
+        "\\(9000\\)",
+        "\\(10000\\)",
+        "\\(900\\)",
+        "\\(6000\\)"
+      ],
+      "answer": "\\(9000\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q28",
+      "statement": "Select 3 red from 6 and 2 blue from 5 total ways",
+      "options": [
+        "\\(\\binom{6}{3}\\binom{5}{2}\\)",
+        "\\(150\\)",
+        "\\(\\binom{11}{5}\\)",
+        "\\(200\\)"
+      ],
+      "answer": "\\(\\binom{6}{3}\\binom{5}{2}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q29",
+      "statement": "In a class of 12 number of committees of 5",
+      "options": [
+        "\\(792\\)",
+        "\\(\\binom{12}{5}\\)",
+        "\\(462\\)",
+        "\\(950\\)"
+      ],
+      "answer": "\\(\\binom{12}{5}\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q30",
+      "statement": "Seats in a row: arrange 6 distinct people",
+      "options": [
+        "\\(720\\)",
+        "\\(840\\)",
+        "\\(360\\)",
+        "\\(120\\)"
+      ],
+      "answer": "\\(720\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q31",
+      "statement": "How many ways to choose a president and a secretary from 8",
+      "options": [
+        "\\(8\\)",
+        "\\(28\\)",
+        "\\(16\\)",
+        "\\(56\\)"
+      ],
+      "answer": "\\(56\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q32",
+      "statement": "Number of onto functions from a 3-set to a 2-set",
+      "options": [
+        "\\(6\\)",
+        "\\(2\\)",
+        "\\(3\\)",
+        "\\(0\\)"
+      ],
+      "answer": "\\(6\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q33",
+      "statement": "Choose 4 from 10 with at least 1 chosen: count",
+      "options": [
+        "\\(\\binom{10}{4}+1\\)",
+        "\\(\\binom{10}{4}-1\\)",
+        "\\(\\binom{10}{4}\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(\\binom{10}{4}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q34",
+      "statement": "Arrangements of MISSISSIPPI",
+      "options": [
+        "\\(3465\\)",
+        "\\(\\frac{11!}{4!4!2!1!}\\)",
+        "\\(34650\\)",
+        "\\(\\frac{11!}{4!4!2!}\\)"
+      ],
+      "answer": "\\(\\frac{11!}{4!4!2!}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q35",
+      "statement": "From digits 1-7 make 4-digit numbers without repetition",
+      "options": [
+        "\\(840\\)",
+        "\\(1260\\)",
+        "\\(5040\\)",
+        "\\(1680\\)"
+      ],
+      "answer": "\\(840\\)",
+      "type": "numerical"
+    },
+    {
+      "id": "M6Q36",
+      "statement": "Number of solutions in non-negative integers of \\(x+y+z=7\\)",
+      "options": [
+        "\\(36\\)",
+        "\\(21\\)",
+        "\\(\\binom{9}{2}\\)",
+        "\\(8\\)"
+      ],
+      "answer": "\\(\\binom{9}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q37",
+      "statement": "Select 5 cards from 52 (no condition)",
+      "options": [
+        "\\(2598960\\)",
+        "\\(\\binom{52}{5}\\)",
+        "\\(\\binom{52}{4}\\)",
+        "\\(^52P_5\\)"
+      ],
+      "answer": "\\(\\binom{52}{5}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q38",
+      "statement": "Binary strings length 8 with exactly three 1s",
+      "options": [
+        "\\(84\\)",
+        "\\(\\binom{8}{5}\\)",
+        "\\(56\\)",
+        "\\(\\binom{8}{3}\\)"
+      ],
+      "answer": "\\(\\binom{8}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q39",
+      "statement": "If \\(\\binom{n}{2} = 45\\) then \\(n =\\)",
+      "options": [
+        "\\(11\\)",
+        "\\(12\\)",
+        "\\(10\\)",
+        "\\(9\\)"
+      ],
+      "answer": "\\(10\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q40",
+      "statement": "\\(\\sum_{k=0}^n \\binom{n}{k}^2\\) equals",
+      "options": [
+        "\\(n!\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(2^n\\)",
+        "\\(\\binom{n}{\\lfloor n/2 \\rfloor}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q41",
+      "statement": "Number of anagrams of \\(n\\) distinct letters",
+      "options": [
+        "\\(n!\\)",
+        "\\(2^n\\)",
+        "\\(^nP_2\\)",
+        "\\(n^2\\)"
+      ],
+      "answer": "\\(n!\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q42",
+      "statement": "Arrangements in a circle of 6 distinct beads",
+      "options": [
+        "\\(120\\)",
+        "\\(60\\)",
+        "\\(24\\)",
+        "\\(720\\)"
+      ],
+      "answer": "\\(120\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q43",
+      "statement": "Seats around a round table: 5 persons number of arrangements",
+      "options": [
+        "\\(5!\\)",
+        "\\(6!\\)",
+        "\\(4!\\)",
+        "\\(3!\\)"
+      ],
+      "answer": "\\(24\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q44",
+      "statement": "Choose 2 committees of size 3 from disjoint groups of 5 and 6",
+      "options": [
+        "\\(\\binom{11}{3}\\)",
+        "\\(\\binom{11}{6}\\)",
+        "\\(220\\)",
+        "\\(\\binom{5}{3}\\binom{6}{3}\\)"
+      ],
+      "answer": "\\(\\binom{5}{3}\\binom{6}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q45",
+      "statement": "Integer solutions of \\(x_1+x_2+x_3 \\leq 7\\), \\(x_i \\geq 0\\)",
+      "options": [
+        "\\(\\binom{7}{3}\\)",
+        "\\(56\\)",
+        "\\(\\binom{10}{3}\\)",
+        "\\(\\binom{8}{3}\\)"
+      ],
+      "answer": "\\(\\binom{10}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q46",
+      "statement": "Coefficient of \\(x^3\\) in \\((1+x)^7\\)",
+      "options": [
+        "\\(\\binom{7}{3}\\)",
+        "\\(7\\)",
+        "\\(21\\)",
+        "\\(35\\)"
+      ],
+      "answer": "\\(\\binom{7}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q47",
+      "statement": "Number of diagonals in an \\(n\\)-gon",
+      "options": [
+        "\\(\\binom{n}{2}-n\\)",
+        "\\(\\frac{n(n-1)}{2}\\)",
+        "\\(\\binom{n}{2}\\)",
+        "\\(2n\\)"
+      ],
+      "answer": "\\(\\binom{n}{2}-n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q48",
+      "statement": "Number of 3-digit numbers with distinct digits from 1..7",
+      "options": [
+        "\\(210\\)",
+        "\\(504\\)",
+        "\\(840\\)",
+        "\\(336\\)"
+      ],
+      "answer": "\\(840\\)",
+      "type": "numerical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M6Q51",
+      "statement": "Number of onto functions from an \\(n\\)-set to a \\(k\\)-set (\\(n \\geq k\\))",
+      "options": [
+        "\\(k! S(n,k)\\)",
+        "\\(n! S(k,n)\\)",
+        "\\(\\binom{n}{k}\\)",
+        "\\(k^n\\)"
+      ],
+      "answer": "\\(k! S(n,k)\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q52",
+      "statement": "Distribute 7 identical balls into 4 distinct boxes (empty allowed)",
+      "options": [
+        "\\(\\binom{8}{3}\\)",
+        "\\(\\binom{7}{4}\\)",
+        "\\(4^7\\)",
+        "\\(\\binom{10}{3}\\)"
+      ],
+      "answer": "\\(\\binom{10}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q53",
+      "statement": "Distribute 7 identical balls into 4 distinct boxes non-empty",
+      "options": [
+        "\\(\\binom{10}{3}\\)",
+        "\\(\\binom{3}{3}\\)",
+        "\\(\\binom{6}{3}\\)",
+        "\\(\\binom{7}{3}\\)"
+      ],
+      "answer": "\\(\\binom{6}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q54",
+      "statement": "Number of solutions of \\(x_1+x_2+x_3=12\\) with \\(x_i \\geq 2\\)",
+      "options": [
+        "\\(\\binom{7}{2}\\)",
+        "\\(\\binom{10}{2}\\)",
+        "\\(\\binom{8}{2}\\)",
+        "\\(\\binom{9}{2}\\)"
+      ],
+      "answer": "\\(\\binom{9}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q55",
+      "statement": "Arrangements of the word STATISTICS",
+      "options": [
+        "\\(\\frac{10!}{3!3!2!}\\)",
+        "\\(\\frac{10!}{3!3!2!2!}\\)",
+        "\\(\\frac{10!}{3!3!2!2!}\\)",
+        "\\(\\frac{10!}{3!3!2!1!}\\)"
+      ],
+      "answer": "\\(\\frac{10!}{3!3!2!2!}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q56",
+      "statement": "Number of ways to choose an ordered triple \\((A,B,C)\\) of disjoint subsets of an \\(n\\)-set",
+      "options": [
+        "\\(n^3\\)",
+        "\\(2^n\\)",
+        "\\(4^n\\)",
+        "\\(3^n\\)"
+      ],
+      "answer": "\\(3^n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q57",
+      "statement": "Number of permutations of 1..9 with all even digits in even positions",
+      "options": [
+        "\\(3! \\cdot 4!\\)",
+        "\\(3! \\cdot 6!\\)",
+        "\\(3! \\cdot 5!\\)",
+        "\\(9!\\)"
+      ],
+      "answer": "\\(3! \\cdot 6!\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q58",
+      "statement": "From 8 different books how many ways to select 3 and arrange them on a shelf",
+      "options": [
+        "\\(8^3\\)",
+        "\\(\\binom{8}{3}\\)",
+        "\\(3! \\cdot \\binom{8}{3}\\)",
+        "\\(^8P_3\\)"
+      ],
+      "answer": "\\(^8P_3\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q59",
+      "statement": "Number of 5-letter words from A,B,C,D,E with at least one A (repetition allowed)",
+      "options": [
+        "\\(5 \\cdot 4^4\\)",
+        "\\(5^5-4^5\\)",
+        "\\(5^5\\)",
+        "\\(4^5\\)"
+      ],
+      "answer": "\\(5^5-4^5\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q60",
+      "statement": "Number of 10-bit strings with no two consecutive 1s",
+      "options": [
+        "\\(2^{10} - \\binom{9}{1}\\)",
+        "\\(F_{12}\\)",
+        "\\(512\\)",
+        "\\(233\\)"
+      ],
+      "answer": "\\(F_{12}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q61",
+      "statement": "Coefficient of \\(x^5 y^3\\) in \\((x+y)^8\\)",
+      "options": [
+        "\\(\\binom{8}{5}\\)",
+        "\\(\\binom{8}{3}\\)",
+        "\\(56\\)",
+        "\\(28\\)"
+      ],
+      "answer": "\\(\\binom{8}{5}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q62",
+      "statement": "Number of solutions to \\(x_1+\\cdots+x_5 = 20\\) with \\(x_i \\geq 0\\)",
+      "options": [
+        "\\(\\binom{25}{5}\\)",
+        "\\(\\binom{24}{4}\\)",
+        "\\(\\binom{20}{5}\\)",
+        "\\(\\binom{20}{4}\\)"
+      ],
+      "answer": "\\(\\binom{24}{4}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q63",
+      "statement": "Choose 6 from 12 with at least 2 chosen from first 4",
+      "options": [
+        "None",
+        "\\(\\binom{4}{2}\\binom{8}{4}\\)",
+        "\\(\\sum_{t=2}^4 \\binom{4}{t}\\binom{8}{6-t}\\)",
+        "\\(\\binom{12}{6}-\\binom{8}{6}\\)"
+      ],
+      "answer": "\\(\\sum_{t=2}^4 \\binom{4}{t}\\binom{8}{6-t}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q64",
+      "statement": "Number of circular permutations of 8 distinct beads with reflections distinct",
+      "options": [
+        "\\(\\frac{8!}{2}\\)",
+        "\\(\\frac{7!}{2}\\)",
+        "\\(8!\\)",
+        "\\(7!\\)"
+      ],
+      "answer": "\\(7!\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q65",
+      "statement": "Number of circular permutations of 8 beads with reflections same (necklace)",
+      "options": [
+        "\\(7!\\)",
+        "\\(\\frac{7!}{3}\\)",
+        "\\(8!\\)",
+        "\\(\\frac{7!}{2}\\)"
+      ],
+      "answer": "\\(\\frac{7!}{2}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q66",
+      "statement": "Number of integer solutions of \\(x_1+x_2+x_3=15\\) with \\(x_i \\geq 1\\) and \\(x_1 \\leq 5\\)",
+      "options": [
+        "\\(\\binom{13}{2}\\)",
+        "\\(\\binom{10}{2}\\)",
+        "\\(\\sum_{t=1}^5 \\binom{15-t-1}{1}\\)",
+        "\\(\\binom{14}{2}-\\binom{9}{2}\\)"
+      ],
+      "answer": "\\(\\binom{14}{2}-\\binom{9}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q67",
+      "statement": "Number of surjections from \\([n]\\) to \\([k]\\) equals",
+      "options": [
+        "\\(k^n\\)",
+        "\\(n^k\\)",
+        "\\(\\sum_{j=0}^k (-1)^j \\binom{k}{j} (k-j)^n\\)",
+        "\\(\\binom{n}{k}\\)"
+      ],
+      "answer": "\\(\\sum_{j=0}^k (-1)^j \\binom{k}{j} (k-j)^n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q68",
+      "statement": "Arrangements of BALLOON",
+      "options": [
+        "\\(\\frac{7!}{2!2!}\\)",
+        "\\(\\frac{7!}{2!2!2!}\\)",
+        "\\(\\frac{7!}{3!2!}\\)",
+        "\\(\\frac{7!}{2!2!1!}\\)"
+      ],
+      "answer": "\\(\\frac{7!}{2!2!2!}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q69",
+      "statement": "Number of permutations of 1..\\(n\\) with no fixed points is",
+      "options": [
+        "\\(n!-1\\)",
+        "\\(n!\\)",
+        "\\(n^n\\)",
+        "\\(!n\\)"
+      ],
+      "answer": "\\(!n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q70",
+      "statement": "Pick 5 balls from 6 red identical and 5 blue identical so that at least one of each",
+      "options": [
+        "\\(15\\)",
+        "\\(11\\)",
+        "\\(5\\)",
+        "\\(10\\)"
+      ],
+      "answer": "\\(10\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q71",
+      "statement": "Coefficient of \\(x^{10}\\) in \\((1+x)^{15}\\)",
+      "options": [
+        "\\(\\binom{15}{10}\\)",
+        "\\(1365\\)",
+        "\\(3003\\)",
+        "\\(\\binom{15}{5}\\)"
+      ],
+      "answer": "\\(\\binom{15}{10}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q72",
+      "statement": "Number of solutions to \\(x+y+z \\leq 10\\), \\(x,y,z \\geq 0\\)",
+      "options": [
+        "\\(\\binom{12}{3}\\)",
+        "\\(\\binom{11}{3}\\)",
+        "\\(\\binom{13}{3}\\)",
+        "\\(\\binom{10}{3}\\)"
+      ],
+      "answer": "\\(\\binom{13}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q73",
+      "statement": "Choose 10 from 20 with no restriction",
+      "options": [
+        "\\(184756\\)",
+        "\\(\\binom{20}{5}\\)",
+        "\\(15504\\)",
+        "\\(\\binom{20}{10}\\)"
+      ],
+      "answer": "\\(\\binom{20}{10}\\)",
+      "type": "numerical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M6Q76",
+      "statement": "Evaluate \\(\\sum_{r=0}^n \\binom{n}{r} r\\)",
+      "options": [
+        "\\(n(n-1) 2^{n-2}\\)",
+        "\\(2^n\\)",
+        "\\(n!\\)",
+        "\\(n 2^{n-1}\\)"
+      ],
+      "answer": "\\(n 2^{n-1}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q77",
+      "statement": "Number of ways to put \\(n\\) distinct balls into \\(k\\) distinct boxes (empty allowed)",
+      "options": [
+        "\\(k! S(n,k)\\)",
+        "\\(\\binom{n}{k}\\)",
+        "\\(S(n,k)\\)",
+        "\\(k^n\\)"
+      ],
+      "answer": "\\(k^n\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q78",
+      "statement": "Number of solutions to \\(x_1+\\cdots+x_k = n\\) with \\(x_i \\geq 0\\)",
+      "options": [
+        "\\(\\binom{k}{n}\\)",
+        "\\(\\binom{n+k-1}{k-1}\\)",
+        "\\(\\binom{n}{k}\\)",
+        "\\(\\binom{n+k}{k}\\)"
+      ],
+      "answer": "\\(\\binom{n+k-1}{k-1}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q79",
+      "statement": "Compute \\(\\sum_{r=0}^n (-1)^r \\binom{n}{r}\\)",
+      "options": [
+        "\\((-1)^n\\)",
+        "\\(0\\)",
+        "\\(2^n\\)",
+        "\\(1\\)"
+      ],
+      "answer": "\\(0\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q80",
+      "statement": "Select committee of 6 from 8 men and 7 women with at least 2 women",
+      "options": [
+        "\\(\\binom{15}{6}\\)",
+        "\\(\\sum_{t=2}^6 \\binom{7}{t}\\binom{8}{6-t}\\)",
+        "\\(\\binom{7}{3}\\binom{8}{3}\\)",
+        "\\(\\binom{7}{2}\\binom{8}{4}\\)"
+      ],
+      "answer": "\\(\\sum_{t=2}^6 \\binom{7}{t}\\binom{8}{6-t}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q81",
+      "statement": "\\(\\sum_{r=0}^n \\binom{n}{r}^2\\) equals",
+      "options": [
+        "\\(2^n\\)",
+        "\\(n^n\\)",
+        "\\(n!\\)",
+        "\\(\\binom{2n}{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q82",
+      "statement": "Number of permutations of 1..\\(n\\) with exactly \\(k\\) fixed points",
+      "options": [
+        "\\(\\binom{n}{k} (n-k)!\\)",
+        "\\(\\binom{n}{k} (n-k)\\)",
+        "\\(\\binom{n}{k} \\cdot !k\\)",
+        "\\(\\binom{n}{k} \\cdot !(n-k)\\)"
+      ],
+      "answer": "\\(\\binom{n}{k} \\cdot !(n-k)\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q83",
+      "statement": "Number of triangles from vertices of a convex \\(n\\)-gon",
+      "options": [
+        "\\(\\binom{n}{3}\\)",
+        "\\(\\binom{n}{4}\\)",
+        "\\(\\binom{n}{2}\\)",
+        "\\(n(n-1)\\)"
+      ],
+      "answer": "\\(\\binom{n}{3}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q84",
+      "statement": "Coefficient of \\(x^r\\) in \\((1+x)^{2n}\\) equals",
+      "options": [
+        "\\(\\binom{2n}{r}\\)",
+        "\\(\\binom{2n}{n}\\)",
+        "\\(2^n\\)",
+        "\\(\\binom{n}{r}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{r}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q85",
+      "statement": "How many 8-letter words from A-Z contain at least one vowel (repetition allowed)",
+      "options": [
+        "\\(26^8\\)",
+        "\\(21^8\\)",
+        "\\(26^8 - 21^8\\)",
+        "\\(5 \\cdot 26^7\\)"
+      ],
+      "answer": "\\(26^8 - 21^8\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q86",
+      "statement": "Number of integer solutions \\(x+y+z=20\\) with \\(x \\geq 5,y \\geq 3,z \\geq 0\\)",
+      "options": [
+        "\\(\\binom{16}{2}\\)",
+        "\\(\\binom{17}{2}\\)",
+        "\\(\\binom{18}{2}\\)",
+        "\\(\\binom{15}{2}\\)"
+      ],
+      "answer": "\\(\\binom{17}{2}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q87",
+      "statement": "Number of 10-digit numbers with digits non-decreasing",
+      "options": [
+        "\\(\\binom{10+9}{9}\\)",
+        "\\(\\binom{19}{10}\\)",
+        "\\(\\binom{9}{10}\\)",
+        "\\(\\binom{10}{9}\\)"
+      ],
+      "answer": "\\(\\binom{19}{9}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q88",
+      "statement": "Evaluate \\(\\sum_{r=0}^n r \\binom{n}{r}^2\\)",
+      "options": [
+        "\\(n 2^{n-1}\\)",
+        "\\(n \\binom{2n-1}{n-1}\\)",
+        "\\(n!\\)",
+        "\\(\\binom{2n}{n}\\)"
+      ],
+      "answer": "\\(n \\binom{2n-1}{n-1}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q89",
+      "statement": "Number of circular permutations of \\(n\\) distinct objects",
+      "options": [
+        "\\(n!\\)",
+        "\\((n-1)!\\)",
+        "\\(\\frac{n!}{2}\\)",
+        "\\((n-2)!\\)"
+      ],
+      "answer": "\\((n-1)!\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q90",
+      "statement": "Arrange PROBABILITY with vowels together",
+      "options": [
+        "\\(\\frac{8! \\cdot 4!}{2!2!}\\)",
+        "\\(\\frac{11!}{2!2!}\\)",
+        "\\(\\frac{9! \\cdot 4!}{2!2!}\\)",
+        "\\(7! \\cdot 5!\\)"
+      ],
+      "answer": "\\(\\frac{8! \\cdot 4!}{2!2!}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q91",
+      "statement": "Number of surjections from an \\(n\\)-set onto an \\(n\\)-set is",
+      "options": [
+        "\\(\\binom{n}{1}\\)",
+        "\\(n!\\)",
+        "\\(!n\\)",
+        "\\(n^n\\)"
+      ],
+      "answer": "\\(n!\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q92",
+      "statement": "From 1..12 choose 6 with no consecutive numbers",
+      "options": [
+        "\\(\\binom{12}{6}\\)",
+        "\\(\\binom{7}{5}\\)",
+        "\\(\\binom{7}{6}\\)",
+        "\\(\\binom{7}{1}\\)"
+      ],
+      "answer": "\\(\\binom{7}{6}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q93",
+      "statement": "Split 10 distinct people into 3 non-empty labeled groups",
+      "options": [
+        "\\(3! S(10,3)\\)",
+        "\\(3^{10}\\)",
+        "\\(S(10,3)\\)",
+        "\\(\\binom{10}{3}\\)"
+      ],
+      "answer": "\\(3! S(10,3)\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q94",
+      "statement": "Evaluate \\(\\sum_{k=0}^{\\lfloor n/2 \\rfloor} \\binom{n}{2k}\\)",
+      "options": [
+        "\\(\\binom{n}{n/2}\\)",
+        "\\(2^{n-1}\\)",
+        "\\(n 2^{n-1}\\)",
+        "\\(2^n\\)"
+      ],
+      "answer": "\\(2^{n-1}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q95",
+      "statement": "Number of non-negative integer solutions to \\(x_1+\\cdots+x_6=15\\)",
+      "options": [
+        "\\(\\binom{21}{6}\\)",
+        "\\(\\binom{15}{6}\\)",
+        "\\(\\binom{20}{5}\\)",
+        "\\(\\binom{19}{5}\\)"
+      ],
+      "answer": "\\(\\binom{20}{5}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q96",
+      "statement": "Select committee of 4 from 7 with at most 1 woman (3 women,4 men)",
+      "options": [
+        "\\(\\binom{4}{4}+\\binom{3}{1}\\binom{4}{3}\\)",
+        "\\(\\binom{3}{1}+\\binom{4}{3}\\)",
+        "\\(\\binom{4}{4}+\\binom{3}{0}\\binom{4}{4}\\)",
+        "\\(\\binom{7}{4}\\)"
+      ],
+      "answer": "\\(\\binom{4}{4}+\\binom{3}{1}\\binom{4}{3}\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q97",
+      "statement": "How many 6-digit numbers have exactly three even digits (first digit non-zero)",
+      "options": [
+        "\\(\\binom{5}{3}5^3 4^3\\)",
+        "\\(9 \\binom{5}{3}5^3 5^2\\)",
+        "None",
+        "\\(\\binom{6}{3}5^3 4^3\\)"
+      ],
+      "answer": "\\(\\binom{5}{3}5^3 4^3\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q98",
+      "statement": "Identity from \\((1+x)^n (1+x)^m = (1+x)^{n+m}\\)",
+      "options": [
+        "None",
+        "\\(\\sum_k \\binom{n}{k} \\binom{m}{r-k} = \\binom{n+m}{r}\\)",
+        "\\(\\binom{n}{r}=\\binom{n}{n-r}\\)",
+        "\\(\\binom{n}{r}= \\frac{n}{r} \\binom{n-1}{r-1}\\)"
+      ],
+      "answer": "\\(\\sum_k \\binom{n}{k} \\binom{m}{r-k} = \\binom{n+m}{r}\\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "M6Q99",
+      "statement": "Number of 8-letter permutations of digits 1..8 with 1 and 2 not adjacent",
+      "options": [
+        "\\(7!\\)",
+        "\\(8! - 2 \\cdot 7!\\)",
+        "\\(8! - 7!\\)",
+        "\\(8! - 6!\\)"
+      ],
+      "answer": "\\(8! - 2 \\cdot 7!\\)",
+      "type": "analytical"
+    },
+    {
+      "id": "M6Q100",
+      "statement": "Coefficient of \\(x^n\\) in \\((1+x)^n (1+x)^n\\)",
+      "options": [
+        "\\(2^n\\)",
+        "\\(\\binom{n}{n}\\)",
+        "\\(\\binom{n}{n/2}\\)",
+        "\\(\\binom{2n}{n}\\)"
+      ],
+      "answer": "\\(\\binom{2n}{n}\\)",
+      "type": "analytical"
+    }
+  ]
+}

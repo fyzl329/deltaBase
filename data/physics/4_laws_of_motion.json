@@ -1,0 +1,1211 @@
+{
+  "type": "mcq",
+  "normal": [
+    {
+      "id": "P4Q01",
+      "statement": "Force is defined as:",
+      "options": [
+        "Rate of change of momentum",
+        "Change in displacement",
+        "Product of mass and velocity",
+        "Rate of change of displacement"
+      ],
+      "answer": "Rate of change of momentum",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q02",
+      "statement": "Newton’s first law of motion gives the concept of:",
+      "options": [
+        "Energy",
+        "Force",
+        "Momentum",
+        "Inertia"
+      ],
+      "answer": "Inertia",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q03",
+      "statement": "The SI unit of force is:",
+      "options": [
+        "watt",
+        "newton",
+        "dyne",
+        "joule"
+      ],
+      "answer": "newton",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q04",
+      "statement": "1 newton is equivalent to:",
+      "options": [
+        "1 kg m s^{-2}",
+        "1 kg s^{-2}",
+        "1 kg m s^{-1}",
+        "1 m s^{-2}"
+      ],
+      "answer": "1 kg m s^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q05",
+      "statement": "A body remains at rest or in uniform motion unless acted upon by an external force. This is known as:",
+      "options": [
+        "Newton’s second law",
+        "Newton’s first law",
+        "Newton’s third law",
+        "Law of gravitation"
+      ],
+      "answer": "Newton’s first law",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q06",
+      "statement": "Momentum is the product of:",
+      "options": [
+        "Mass and velocity",
+        "Mass and speed",
+        "Mass and acceleration",
+        "Force and time"
+      ],
+      "answer": "Mass and velocity",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q07",
+      "statement": "The dimensional formula of force is:",
+      "options": [
+        "M^{1}L^{0}T^{-2}",
+        "M^{0}L^{1}T^{-1}",
+        "M^{1}L^{1}T^{-2}",
+        "M^{1}L^{2}T^{-3}"
+      ],
+      "answer": "M^{1}L^{1}T^{-2}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q08",
+      "statement": "A force of \\( 10\\,\\text{N} \\) acts on a body of mass \\( 2\\,\\text{kg} \\). The acceleration produced is:",
+      "options": [
+        "2 m s^{-2}",
+        "5 m s^{-2}",
+        "20 m s^{-2}",
+        "10 m s^{-2}"
+      ],
+      "answer": "5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q09",
+      "statement": "Newton’s second law connects force with:",
+      "options": [
+        "Acceleration",
+        "Mass",
+        "Inertia",
+        "Work"
+      ],
+      "answer": "Acceleration",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q10",
+      "statement": "If net external force on a body is zero, then its acceleration is:",
+      "options": [
+        "One",
+        "Constant",
+        "Infinite",
+        "Zero"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q11",
+      "statement": "The action and reaction forces act:",
+      "options": [
+        "In the same direction",
+        "On the same body",
+        "At the same point",
+        "On different bodies"
+      ],
+      "answer": "On different bodies",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q12",
+      "statement": "If a force acts on a moving body at right angles to its motion, then:",
+      "options": [
+        "Direction changes",
+        "Motion stops",
+        "Both speed and direction change",
+        "Speed changes"
+      ],
+      "answer": "Direction changes",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q13",
+      "statement": "The weight of a body is the force with which it is attracted by:",
+      "options": [
+        "Moon",
+        "Earth",
+        "Sun",
+        "Itself"
+      ],
+      "answer": "Earth",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q14",
+      "statement": "A spring balance measures:",
+      "options": [
+        "Mass",
+        "Force",
+        "Acceleration",
+        "Momentum"
+      ],
+      "answer": "Force",
+      "type": "experimental"
+    },
+    {
+      "id": "P4Q15",
+      "statement": "The relation between momentum and impulse is:",
+      "options": [
+        "Impulse = change in momentum",
+        "Impulse = force × acceleration",
+        "Impulse = mass × acceleration",
+        "Impulse = momentum/time"
+      ],
+      "answer": "Impulse = change in momentum",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q16",
+      "statement": "The SI unit of momentum is:",
+      "options": [
+        "kg m s^{-1}",
+        "N m",
+        "J",
+        "W"
+      ],
+      "answer": "kg m s^{-1}",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q17",
+      "statement": "A bullet of mass 0.02 kg is fired with velocity 300 m s^{-1}. Its momentum is:",
+      "options": [
+        "9 kg m s^{-1}",
+        "6 kg m s^{-1}",
+        "3 kg m s^{-1}",
+        "12 kg m s^{-1}"
+      ],
+      "answer": "6 kg m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q18",
+      "statement": "When a body is in equilibrium, the net force acting on it is:",
+      "options": [
+        "Maximum",
+        "Constant",
+        "Zero",
+        "Minimum"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q19",
+      "statement": "A block is at rest on a rough surface. The friction acting on it is:",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "Rolling friction",
+        "Zero"
+      ],
+      "answer": "Static friction",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q20",
+      "statement": "Static friction is:",
+      "options": [
+        "Greater than \\( \\mu_{s} N \\)",
+        "Independent of normal reaction",
+        "Less than \\( \\mu_{s} N \\)",
+        "Always equal to \\( \\mu_{s} N \\)"
+      ],
+      "answer": "Less than \\( \\mu_{s} N \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q21",
+      "statement": "Kinetic friction acts when:",
+      "options": [
+        "A body just begins to move",
+        "No force is applied",
+        "A body is sliding over a surface",
+        "A body is at rest"
+      ],
+      "answer": "A body is sliding over a surface",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q22",
+      "statement": "The direction of frictional force is always:",
+      "options": [
+        "Opposite to motion",
+        "Upward",
+        "Perpendicular to motion",
+        "Along motion"
+      ],
+      "answer": "Opposite to motion",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q23",
+      "statement": "The limiting value of static friction is given by:",
+      "options": [
+        "\\( f_{s} = m g \\)",
+        "\\( f_{s} = \\mu_{k} N \\)",
+        "\\( f_{s} = N/\\mu_{s} \\)",
+        "\\( f_{s} = \\mu_{s} N \\)"
+      ],
+      "answer": "\\( f_{s} = \\mu_{s} N \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q24",
+      "statement": "If no external force acts on a system, its total momentum:",
+      "options": [
+        "Becomes zero",
+        "Remains constant",
+        "Increases",
+        "Decreases"
+      ],
+      "answer": "Remains constant",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q25",
+      "statement": "Action and reaction forces are equal in magnitude and opposite in direction but:",
+      "options": [
+        "Cancel because they are simultaneous",
+        "Cancel only if both bodies are at rest",
+        "Cancel because they are equal",
+        "Do not cancel as they act on different bodies"
+      ],
+      "answer": "Do not cancel as they act on different bodies",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "P4Q26",
+      "statement": "A force of \\( 20\\,\\text{N} \\) acts on a body of mass \\( 4\\,\\text{kg} \\). The acceleration produced is:",
+      "options": [
+        "5 m s^{-2}",
+        "2 m s^{-2}",
+        "10 m s^{-2}",
+        "4 m s^{-2}"
+      ],
+      "answer": "5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q27",
+      "statement": "A constant force acting on a body changes its velocity from \\( 10\\,\\text{m s}^{-1} \\) to \\( 20\\,\\text{m s}^{-1} \\) in 4 s. The acceleration is:",
+      "options": [
+        "5 m s^{-2}",
+        "3 m s^{-2}",
+        "2.5 m s^{-2}",
+        "1 m s^{-2}"
+      ],
+      "answer": "2.5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q28",
+      "statement": "A block of mass 2 kg is pulled by a horizontal force of 10 N on a smooth surface. The acceleration is (\\( g = 10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "2 m s^{-2}",
+        "5 m s^{-2}",
+        "3 m s^{-2}",
+        "4 m s^{-2}"
+      ],
+      "answer": "5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q29",
+      "statement": "A block of weight \\( 100\\,\\text{N} \\) rests on a horizontal surface. The normal reaction is:",
+      "options": [
+        "100 N",
+        "10 N",
+        "0 N",
+        "50 N"
+      ],
+      "answer": "100 N",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q30",
+      "statement": "A block of mass 5 kg rests on a smooth horizontal surface. If a force of 20 N acts on it at an angle of 30° above the horizontal, the acceleration is:",
+      "options": [
+        "4 m s^{-2}",
+        "5 m s^{-2}",
+        "2 m s^{-2}",
+        "3 m s^{-2}"
+      ],
+      "answer": "3.46 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q31",
+      "statement": "A man of mass 60 kg stands on a scale inside an elevator accelerating upward at \\( 2\\,\\text{m s}^{-2} \\). The reading of the scale is (\\( g = 10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "720 N",
+        "480 N",
+        "600 N",
+        "0 N"
+      ],
+      "answer": "720 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q32",
+      "statement": "If the elevator in the previous question accelerates downward at \\( 2\\,\\text{m s}^{-2} \\), the scale reading is:",
+      "options": [
+        "480 N",
+        "0 N",
+        "720 N",
+        "600 N"
+      ],
+      "answer": "480 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q33",
+      "statement": "A block slides down a smooth inclined plane of angle 30°. Its acceleration is:",
+      "options": [
+        "\\( g \\)",
+        "\\( g/\\sqrt{2} \\)",
+        "\\( g/4 \\)",
+        "\\( g/2 \\)"
+      ],
+      "answer": "\\( g/2 \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q34",
+      "statement": "A 2 kg block rests on an incline of angle 30°. The component of weight parallel to the incline is (\\( g = 10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "10 N",
+        "20 N",
+        "15 N",
+        "5 N"
+      ],
+      "answer": "10 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q35",
+      "statement": "Two forces of 10 N and 6 N act at right angles. The magnitude of their resultant is:",
+      "options": [
+        "16 N",
+        "8 N",
+        "12 N",
+        "14 N"
+      ],
+      "answer": "11.66 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q36",
+      "statement": "A 10 N horizontal force is applied on a 4 kg block resting on a surface with \\( \\mu = 0.2 \\). The acceleration of the block is (\\( g=10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "0",
+        "2 m s^{-2}",
+        "5 m s^{-2}",
+        "0.5 m s^{-2}"
+      ],
+      "answer": "0.5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q37",
+      "statement": "The limiting friction between a box and the floor is 50 N. If a force of 40 N is applied, the frictional force acting is:",
+      "options": [
+        "0 N",
+        "50 N",
+        "10 N",
+        "40 N"
+      ],
+      "answer": "40 N",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q38",
+      "statement": "A 5 kg body is pulled by a force of 30 N on a horizontal surface with coefficient of kinetic friction 0.2. The acceleration is (\\( g=10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "5 m s^{-2}",
+        "3 m s^{-2}",
+        "2 m s^{-2}",
+        "4 m s^{-2}"
+      ],
+      "answer": "4 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q39",
+      "statement": "The tension in a rope pulling a 10 kg block with acceleration 2 m s^{-2} (\\( g=10\\,\\text{m s}^{-2} \\)) on a smooth surface is:",
+      "options": [
+        "12 N",
+        "40 N",
+        "20 N",
+        "10 N"
+      ],
+      "answer": "20 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q40",
+      "statement": "Two blocks of masses 3 kg and 2 kg are connected by a light string over a frictionless pulley. The acceleration of the system is (\\( g=10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "2 m s^{-2}",
+        "1 m s^{-2}",
+        "4 m s^{-2}",
+        "3 m s^{-2}"
+      ],
+      "answer": "2 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q41",
+      "statement": "In the above system, the tension in the string is:",
+      "options": [
+        "24 N",
+        "20 N",
+        "22 N",
+        "26 N"
+      ],
+      "answer": "24 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q42",
+      "statement": "A 50 kg man stands on a weighing scale in a lift moving downward with acceleration \\( 2\\,\\text{m s}^{-2} \\). The reading is:",
+      "options": [
+        "700 N",
+        "500 N",
+        "400 N",
+        "600 N"
+      ],
+      "answer": "400 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q43",
+      "statement": "A 10 kg block rests on a table. What is the maximum horizontal force that can be applied without moving it if \\( \\mu_{s}=0.4 \\)? (\\( g=10\\,\\text{m s}^{-2} \\))",
+      "options": [
+        "40 N",
+        "20 N",
+        "50 N",
+        "30 N"
+      ],
+      "answer": "40 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q44",
+      "statement": "For a body sliding down an inclined plane with friction, the acceleration is:",
+      "options": [
+        "\\( g\\sin\\theta - \\mu g\\cos\\theta \\)",
+        "\\( g(\\sin\\theta + \\mu\\cos\\theta) \\)",
+        "\\( g\\cos\\theta - \\mu g\\sin\\theta \\)",
+        "\\( g(\\cos\\theta + \\mu\\sin\\theta) \\)"
+      ],
+      "answer": "\\( g\\sin\\theta - \\mu g\\cos\\theta \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q45",
+      "statement": "A block slides down a 30° incline with acceleration \\( 2\\,\\text{m s}^{-2} \\). Find \\( \\mu \\). (\\( g=10\\,\\text{m s}^{-2} \\))",
+      "options": [
+        "0.4",
+        "0.2",
+        "0.1",
+        "0.3"
+      ],
+      "answer": "0.3",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q46",
+      "statement": "When a car moves on a level circular road, the force providing the necessary centripetal acceleration is:",
+      "options": [
+        "Weight",
+        "Frictional force",
+        "Engine force",
+        "Normal reaction"
+      ],
+      "answer": "Frictional force",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q47",
+      "statement": "A 2 kg mass experiences a net force of 6 N. If the force acts for 2 s, the change in velocity is:",
+      "options": [
+        "3 m s^{-1}",
+        "6 m s^{-1}",
+        "4 m s^{-1}",
+        "5 m s^{-1}"
+      ],
+      "answer": "6 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q48",
+      "statement": "A hockey stick striking a ball exerts a force of 100 N for 0.01 s. The impulse is:",
+      "options": [
+        "0.1 N s",
+        "1 N s",
+        "10 N s",
+        "100 N s"
+      ],
+      "answer": "1 N s",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q49",
+      "statement": "A block rests on a surface inclined at the angle of repose. If angle is increased slightly, the block will:",
+      "options": [
+        "Stay at rest",
+        "Slide down",
+        "Move randomly",
+        "Move upward"
+      ],
+      "answer": "Slide down",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q50",
+      "statement": "In an experiment, the coefficient of kinetic friction is determined using a moving block and timing its slide over a fixed distance. The primary source of error is due to:",
+      "options": [
+        "Timing reaction delay",
+        "Surface roughness variation",
+        "Distance measurement",
+        "Mass measurement"
+      ],
+      "answer": "Surface roughness variation",
+      "type": "experimental"
+    }
+  ],
+  "hard": [
+    {
+      "id": "P4Q51",
+      "statement": "Two blocks of masses \\( 3\\,\\text{kg} \\) and \\( 2\\,\\text{kg} \\) are connected by a light string and placed on a smooth surface. A force of 10 N is applied on the 3 kg block. The tension in the string is:",
+      "options": [
+        "6 N",
+        "8 N",
+        "2 N",
+        "4 N"
+      ],
+      "answer": "4 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q52",
+      "statement": "A block slides down a rough incline of angle 30° with constant velocity. The coefficient of kinetic friction is:",
+      "options": [
+        "1.732",
+        "0.173",
+        "0.577",
+        "0.268"
+      ],
+      "answer": "0.577",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q53",
+      "statement": "A 20 N force pulls a 2 kg block along a horizontal surface with \\( \\mu = 0.2 \\). The acceleration is (\\( g = 10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "4 m s^{-2}",
+        "2 m s^{-2}",
+        "6 m s^{-2}",
+        "8 m s^{-2}"
+      ],
+      "answer": "8 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q54",
+      "statement": "A 2 kg block is on a smooth table connected to a 1 kg hanging mass over a frictionless pulley. The acceleration of the system is (\\( g = 10\\,\\text{m s}^{-2} \\)):",
+      "options": [
+        "2 m s^{-2}",
+        "3.3 m s^{-2}",
+        "10 m s^{-2}",
+        "5 m s^{-2}"
+      ],
+      "answer": "3.3 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q55",
+      "statement": "In the previous system, the tension in the string is:",
+      "options": [
+        "7 N",
+        "8 N",
+        "6.6 N",
+        "5 N"
+      ],
+      "answer": "6.6 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q56",
+      "statement": "A block of mass \\( m \\) slides down an inclined plane with angle \\( \\theta \\) and friction coefficient \\( \\mu \\). The net acceleration is:",
+      "options": [
+        "\\( g\\tan\\theta \\)",
+        "\\( g(\\cos\\theta - \\mu\\sin\\theta) \\)",
+        "\\( g\\sin\\theta + \\mu g\\cos\\theta \\)",
+        "\\( g(\\sin\\theta - \\mu\\cos\\theta) \\)"
+      ],
+      "answer": "\\( g(\\sin\\theta - \\mu\\cos\\theta) \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q57",
+      "statement": "Two equal masses connected over a pulley move with constant velocity when one is on an incline of 30°. The coefficient of friction is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.577"
+      ],
+      "answer": "0.577",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q58",
+      "statement": "A 10 kg block is suspended by two strings making angles 30° and 60° with the horizontal. The tension in the 30° string is:",
+      "options": [
+        "50 N",
+        "60 N",
+        "80 N",
+        "100 N"
+      ],
+      "answer": "86.6 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q59",
+      "statement": "A body of mass \\( 5\\,\\text{kg} \\) moving with velocity \\( 10\\,\\text{m s}^{-1} \\) is brought to rest by a constant force in 4 s. The magnitude of the force is:",
+      "options": [
+        "15 N",
+        "12.5 N",
+        "20 N",
+        "10 N"
+      ],
+      "answer": "12.5 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q60",
+      "statement": "A particle of mass \\( 2\\,\\text{kg} \\) is acted upon by a constant force \\( (4\\hat{i} + 3\\hat{j}) \\). The acceleration vector is:",
+      "options": [
+        "\\( 2\\hat{i} + 1.5\\hat{j} \\)",
+        "\\( 4\\hat{i} + 3\\hat{j} \\)",
+        "\\( 1\\hat{i} + 2\\hat{j} \\)",
+        "\\( 8\\hat{i} + 6\\hat{j} \\)"
+      ],
+      "answer": "\\( 2\\hat{i} + 1.5\\hat{j} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q61",
+      "statement": "A 100 g bullet moving at 300 m s^{-1} penetrates a wooden block and comes to rest after moving 0.15 m. The average retarding force is:",
+      "options": [
+        "500 N",
+        "400 N",
+        "300 N",
+        "200 N"
+      ],
+      "answer": "300 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q62",
+      "statement": "A mass is whirled in a horizontal circle by a string. If the speed is doubled, the tension in the string becomes:",
+      "options": [
+        "Half",
+        "Twice",
+        "Same",
+        "Four times"
+      ],
+      "answer": "Four times",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q63",
+      "statement": "A 5 kg object moving with velocity 4 m s^{-1} is stopped by friction in 10 m. The coefficient of kinetic friction is:",
+      "options": [
+        "0.08",
+        "0.2",
+        "0.04",
+        "0.1"
+      ],
+      "answer": "0.08",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q64",
+      "statement": "In a banked curve, the speed for no side friction is given by:",
+      "options": [
+        "\\( v = \\sqrt{rg\\tan\\theta} \\)",
+        "\\( v = rg\\sin\\theta \\)",
+        "\\( v = r\\tan\\theta \\)",
+        "\\( v = \\sqrt{r/g\\tan\\theta} \\)"
+      ],
+      "answer": "\\( v = \\sqrt{rg\\tan\\theta} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q65",
+      "statement": "A 2 kg object under a net force moves such that its velocity changes from \\( 4\\,\\text{m s}^{-1} \\) to \\( 10\\,\\text{m s}^{-1} \\) in 3 s. The average net force is:",
+      "options": [
+        "8 N",
+        "4 N",
+        "2 N",
+        "6 N"
+      ],
+      "answer": "4 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q66",
+      "statement": "A 2 kg block slides down a rough incline with \\( \\theta = 45° \\) at constant velocity. The coefficient of kinetic friction is:",
+      "options": [
+        "0.707",
+        "0.4",
+        "0.2",
+        "0.5"
+      ],
+      "answer": "0.707",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q67",
+      "statement": "A bullet of mass 20 g moving at 300 m s^{-1} is stopped by a target in 0.01 s. The average force on the bullet is:",
+      "options": [
+        "400 N",
+        "1000 N",
+        "600 N",
+        "300 N"
+      ],
+      "answer": "600 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q68",
+      "statement": "The pseudo force on a body of mass \\( m \\) in an accelerating frame with acceleration \\( a \\) is:",
+      "options": [
+        "\\( ma \\)",
+        "\\( m/a \\)",
+        "\\( mg \\)",
+        "\\( -ma \\)"
+      ],
+      "answer": "\\( -ma \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q69",
+      "statement": "If two equal forces act at a point at right angles, their resultant is:",
+      "options": [
+        "Zero",
+        "Equal to one force",
+        "Twice one force",
+        "\\( \\sqrt{2} \\) times one force"
+      ],
+      "answer": "\\( \\sqrt{2} \\) times one force",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q70",
+      "statement": "In a lab setup, a puck on an air table is connected to a hanging weight through a pulley. The main experimental uncertainty arises from:",
+      "options": [
+        "Mass measurement error",
+        "String elasticity",
+        "Pulley friction",
+        "Air friction"
+      ],
+      "answer": "Pulley friction",
+      "type": "experimental"
+    },
+    {
+      "id": "P4Q71",
+      "statement": "A car of mass \\( 800\\,\\text{kg} \\) moves in a circle of radius 20 m with speed 10 m s^{-1}. The frictional force on it is:",
+      "options": [
+        "2000 N",
+        "3000 N",
+        "5000 N",
+        "4000 N"
+      ],
+      "answer": "4000 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q72",
+      "statement": "The impulse acting on a 2 kg body whose velocity changes from \\( 3\\,\\text{m s}^{-1} \\) to \\( -2\\,\\text{m s}^{-1} \\) is:",
+      "options": [
+        "6 N s",
+        "4 N s",
+        "10 N s",
+        "8 N s"
+      ],
+      "answer": "10 N s",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q73",
+      "statement": "A 2 kg block slides on a horizontal surface with \\( \\mu_k = 0.3 \\). The deceleration is:",
+      "options": [
+        "4 m s^{-2}",
+        "3 m s^{-2}",
+        "2 m s^{-2}",
+        "1 m s^{-2}"
+      ],
+      "answer": "3 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q74",
+      "statement": "In uniform circular motion, if radius is doubled and speed kept constant, centripetal force becomes:",
+      "options": [
+        "Same",
+        "Half",
+        "Four times",
+        "Double"
+      ],
+      "answer": "Half",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q75",
+      "statement": "A body slides down a rough incline of angle 37°. The frictional force equals half of the component of weight along the plane. Find \\( \\mu \\).",
+      "options": [
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.5"
+      ],
+      "answer": "0.3",
+      "type": "numerical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "P4Q76",
+      "statement": "A block A of mass 2 kg lies on another block B of mass 3 kg. The coefficient of friction between them is 0.4. A horizontal force of 10 N is applied to A. The acceleration of A is:",
+      "options": [
+        "0",
+        "1.6 m s^{-2}",
+        "4 m s^{-2}",
+        "2 m s^{-2}"
+      ],
+      "answer": "1.6 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q77",
+      "statement": "A body of mass \\( m \\) is suspended in an elevator. The tension in the string when the elevator moves upward with acceleration \\( a \\) is:",
+      "options": [
+        "\\( ma \\)",
+        "\\( m(g-a) \\)",
+        "\\( m(g+a) \\)",
+        "\\( mg \\)"
+      ],
+      "answer": "\\( m(g+a) \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q78",
+      "statement": "Two blocks connected by a light string pass over a frictionless pulley. The masses are 4 kg and 6 kg. The acceleration of the system is:",
+      "options": [
+        "5 m s^{-2}",
+        "4 m s^{-2}",
+        "6 m s^{-2}",
+        "2 m s^{-2}"
+      ],
+      "answer": "2 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q79",
+      "statement": "A horizontal force of 100 N is applied on a 50 kg block resting on a surface with \\( \\mu_s = 0.4, \\mu_k = 0.3 \\). The acceleration is:",
+      "options": [
+        "2 m s^{-2}",
+        "1 m s^{-2}",
+        "0.5 m s^{-2}",
+        "0"
+      ],
+      "answer": "0.5 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q80",
+      "statement": "Two blocks of masses \\( 4\\,\\text{kg} \\) and \\( 2\\,\\text{kg} \\) are connected by a light string over a frictionless pulley on a smooth incline. The acceleration is:",
+      "options": [
+        "3.3 m s^{-2}",
+        "2 m s^{-2}",
+        "6.6 m s^{-2}",
+        "5 m s^{-2}"
+      ],
+      "answer": "3.3 m s^{-2}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q81",
+      "statement": "A 5 kg mass hangs from a spring balance inside a lift. The reading when the lift falls freely is:",
+      "options": [
+        "25 N",
+        "100 N",
+        "50 N",
+        "0 N"
+      ],
+      "answer": "0 N",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q82",
+      "statement": "A mass slides down a frictionless incline of angle \\( \\theta \\). The normal reaction on it is:",
+      "options": [
+        "\\( mg \\)",
+        "\\( mg\\sin\\theta \\)",
+        "\\( mg/\\cos\\theta \\)",
+        "\\( mg\\cos\\theta \\)"
+      ],
+      "answer": "\\( mg\\cos\\theta \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q83",
+      "statement": "A mass m attached to a string rotates in a vertical circle. The tension at the lowest point is 3 times its weight. The speed at the lowest point is:",
+      "options": [
+        "\\( \\sqrt{5gr} \\)",
+        "\\( \\sqrt{2gr} \\)",
+        "\\( 2\\sqrt{gr} \\)",
+        "\\( \\sqrt{3gr} \\)"
+      ],
+      "answer": "\\( 2\\sqrt{gr} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q84",
+      "statement": "A car moves at constant speed around a circular track. Which of the following statements is correct?",
+      "options": [
+        "Velocity and acceleration are constant",
+        "Speed and acceleration are constant",
+        "Acceleration is zero",
+        "Speed is constant but velocity changes"
+      ],
+      "answer": "Speed is constant but velocity changes",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q85",
+      "statement": "A horizontal force F pulls a 10 kg block at constant speed. If \\( \\mu_k = 0.25 \\), F equals:",
+      "options": [
+        "30 N",
+        "20 N",
+        "25 N",
+        "10 N"
+      ],
+      "answer": "25 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q86",
+      "statement": "Two bodies of equal masses moving at right angles with speeds 3 m s^{-1} and 4 m s^{-1}. Their resultant momentum magnitude is:",
+      "options": [
+        "5m",
+        "8m",
+        "7m",
+        "6m"
+      ],
+      "answer": "5m",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q87",
+      "statement": "A 10 N force acts on a particle of mass 5 kg for 2 s. The change in momentum is:",
+      "options": [
+        "20 N s",
+        "5 N s",
+        "10 N s",
+        "15 N s"
+      ],
+      "answer": "20 N s",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q88",
+      "statement": "A man of weight 600 N climbs a rope at constant speed. The tension in the rope is:",
+      "options": [
+        "Zero",
+        "Greater than 600 N",
+        "600 N",
+        "Less than 600 N"
+      ],
+      "answer": "600 N",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q89",
+      "statement": "The coefficient of friction between a car’s tyres and the road is 0.25. The maximum speed to safely negotiate a curve of radius 20 m is:",
+      "options": [
+        "10 m s^{-1}",
+        "7 m s^{-1}",
+        "15 m s^{-1}",
+        "5 m s^{-1}"
+      ],
+      "answer": "7 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q90",
+      "statement": "A block of mass 1 kg is pushed against a wall with a force of 50 N. If \\( \\mu_s = 0.4 \\), the block will:",
+      "options": [
+        "Fall",
+        "Oscillate",
+        "Stay at rest",
+        "Move upward"
+      ],
+      "answer": "Stay at rest",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q91",
+      "statement": "A particle moves in a circle under uniform speed. The work done by centripetal force is:",
+      "options": [
+        "Infinite",
+        "Minimum",
+        "Maximum",
+        "Zero"
+      ],
+      "answer": "Zero",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q92",
+      "statement": "A man of mass 80 kg stands on a scale in a lift moving upward with acceleration 2 m s^{-2}. The reading on the scale is:",
+      "options": [
+        "1000 N",
+        "640 N",
+        "960 N",
+        "800 N"
+      ],
+      "answer": "960 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q93",
+      "statement": "A car of mass \\( m \\) negotiates a curve of radius \\( r \\) at speed \\( v \\). The frictional force required is:",
+      "options": [
+        "\\( mg \\)",
+        "\\( mv^{2}/r \\)",
+        "\\( mvr \\)",
+        "\\( v^{2}/g \\)"
+      ],
+      "answer": "\\( mv^{2}/r \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q94",
+      "statement": "A body of mass 5 kg moves under a force \\( F = (3\\hat{i} + 4\\hat{j}) \\) N. The acceleration vector is:",
+      "options": [
+        "\\( 0.3\\hat{i} + 0.4\\hat{j} \\)",
+        "\\( 0.6\\hat{i} + 0.8\\hat{j} \\)",
+        "\\( 3\\hat{i} + 4\\hat{j} \\)",
+        "\\( \\hat{i} + 2\\hat{j} \\)"
+      ],
+      "answer": "\\( 0.6\\hat{i} + 0.8\\hat{j} \\)",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q95",
+      "statement": "A 2 kg mass experiences a constant force such that its velocity changes from 4 m s^{-1} to 10 m s^{-1} in 3 s. The magnitude of force is:",
+      "options": [
+        "4 N",
+        "2 N",
+        "3 N",
+        "5 N"
+      ],
+      "answer": "4 N",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q96",
+      "statement": "A gun of mass 2 kg fires a 10 g bullet with velocity 400 m s^{-1}. The recoil velocity of gun is:",
+      "options": [
+        "1 m s^{-1}",
+        "2 m s^{-1}",
+        "3 m s^{-1}",
+        "4 m s^{-1}"
+      ],
+      "answer": "2 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q97",
+      "statement": "A 5 kg object moving at 10 m s^{-1} collides head-on elastically with a 10 kg object at rest. The 5 kg object’s final velocity is:",
+      "options": [
+        "6.7 m s^{-1}",
+        "0",
+        "4 m s^{-1}",
+        "2 m s^{-1}"
+      ],
+      "answer": "-3.3 m s^{-1}",
+      "type": "numerical"
+    },
+    {
+      "id": "P4Q98",
+      "statement": "In a lab, a hanging mass attached to a trolley through a pulley is used to measure acceleration due to gravity. The largest experimental uncertainty arises from:",
+      "options": [
+        "Air resistance",
+        "Pulley friction",
+        "String stretch",
+        "Timing error"
+      ],
+      "answer": "Timing error",
+      "type": "experimental"
+    },
+    {
+      "id": "P4Q99",
+      "statement": "A particle moves in uniform circular motion with radius r and period T. The tension is:",
+      "options": [
+        "\\( 2\\pi mr/T \\)",
+        "\\( 4\\pi^{2}mr/T^{2} \\)",
+        "\\( mT^{2}/r \\)",
+        "\\( mr/T \\)"
+      ],
+      "answer": "\\( 4\\pi^{2}mr/T^{2} \\)",
+      "type": "conceptual"
+    },
+    {
+      "id": "P4Q100",
+      "statement": "A car of mass 1000 kg takes a turn of radius 50 m at speed 10 m s^{-1}. The minimum coefficient of friction required is:",
+      "options": [
+        "0.1",
+        "0.4",
+        "0.2",
+        "0.5"
+      ],
+      "answer": "0.2",
+      "type": "numerical"
+    }
+  ]
+}

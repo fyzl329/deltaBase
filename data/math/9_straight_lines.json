@@ -1,0 +1,1315 @@
+{
+  "metadata": {
+    "chapter": "straight_lines",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 9,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M9Q1",
+      "statement": "Find the slope of the line through \\((2,3)\\) and \\((6,11)\\).",
+      "options": [
+        "undefined",
+        "1",
+        "3",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "M9Q2",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Find the slope of the line through \\((-1,4)\\) and \\((3,-4)\\).",
+      "options": [
+        "undefined",
+        "-1",
+        "-3",
+        "-2"
+      ],
+      "answer": "-2"
+    },
+    {
+      "id": "M9Q3",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Find the slope of the line through \\((0,0)\\) and \\((5,10)\\).",
+      "options": [
+        "undefined",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "M9Q4",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Find the slope of the line through \\((-2,-3)\\) and \\((4,3)\\).",
+      "options": [
+        "undefined",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "M9Q5",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Find the slope of the line through \\((7,2)\\) and \\((7,10)\\).",
+      "options": [
+        "0",
+        "-1",
+        "undefined",
+        "1"
+      ],
+      "answer": "undefined"
+    },
+    {
+      "id": "M9Q6",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line through \\((1,2)\\) and \\((3,6)\\) in general form \\(ax+by+c=0\\) is:",
+      "options": [
+        "\\(4x+-2y+0=0\\)",
+        "\\(-4x+2y+0=0\\)",
+        "\\(2x+-4y+0=0\\)",
+        "\\(-4x-2y+0=0\\)"
+      ],
+      "answer": "\\(-4x+2y+0=0\\)"
+    },
+    {
+      "id": "M9Q7",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line through \\((-2,5)\\) and \\((4,-1)\\) in general form \\(ax+by+c=0\\) is:",
+      "options": [
+        "\\(-6x+-6y+18=0\\)",
+        "\\(6x-6y+-18=0\\)",
+        "\\(6x+6y+-18=0\\)",
+        "\\(6x+6y+-18=0\\)"
+      ],
+      "answer": "\\(6x+6y+-18=0\\)"
+    },
+    {
+      "id": "M9Q8",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line through \\((0,4)\\) and \\((5,4)\\) in general form \\(ax+by+c=0\\) is:",
+      "options": [
+        "\\(0x-5y+-20=0\\)",
+        "\\(5x+0y+-20=0\\)",
+        "\\(0x+-5y+20=0\\)",
+        "\\(0x+5y+-20=0\\)"
+      ],
+      "answer": "\\(0x+5y+-20=0\\)"
+    },
+    {
+      "id": "M9Q9",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For the line \\(2x-3y+6=0\\), the slope \\(m\\) is:",
+      "options": [
+        "\\(\\tfrac{-1}{3}\\)",
+        "\\(\\tfrac{5}{3}\\)",
+        "\\(\\tfrac{2}{3}\\)",
+        "undefined"
+      ],
+      "answer": "\\(\\tfrac{2}{3}\\)"
+    },
+    {
+      "id": "M9Q10",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For the line \\(4y+8x-12=0\\), the slope \\(m\\) is:",
+      "options": [
+        "-1",
+        "-3",
+        "-2",
+        "undefined"
+      ],
+      "answer": "-2"
+    },
+    {
+      "id": "M9Q11",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For the line \\(5x+10=0\\), the slope \\(m\\) is:",
+      "options": [
+        "0",
+        "undefined",
+        "1",
+        "-1"
+      ],
+      "answer": "undefined"
+    },
+    {
+      "id": "M9Q12",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For the line \\(\\frac{x}{3}+\\frac{y}{2}=1\\), the x-intercept is:",
+      "options": [
+        "2",
+        "1.5",
+        "3",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M9Q13",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For \\(3x+4y-12=0\\), the y-intercept is:",
+      "options": [
+        "3",
+        "0",
+        "12",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M9Q14",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For the line \\(x-5=0\\), the y-intercept is:",
+      "options": [
+        "0",
+        "5",
+        "undefined",
+        "-5"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "M9Q15",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between points \\((1,1)\\) and \\((4,5)\\) is:",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "10"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "M9Q16",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between points \\((-3,2)\\) and \\((1,-2)\\) is:",
+      "options": [
+        "11.31",
+        "5.657",
+        "6.657",
+        "4.657"
+      ],
+      "answer": "5.657"
+    },
+    {
+      "id": "M9Q17",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between points \\((0,0)\\) and \\((0,7)\\) is:",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "14"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "M9Q18",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The midpoint of \\((2,6)\\) and \\((8,10)\\) is:",
+      "options": [
+        "\\((6,8)\\)",
+        "\\((5,9)\\)",
+        "\\((4,7)\\)",
+        "\\((5,8)\\)"
+      ],
+      "answer": "\\((5,8)\\)"
+    },
+    {
+      "id": "M9Q19",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The midpoint of \\((-4,5)\\) and \\((2,-3)\\) is:",
+      "options": [
+        "\\((-2,0)\\)",
+        "\\((-1,1)\\)",
+        "\\((-1,2)\\)",
+        "\\((0,1)\\)"
+      ],
+      "answer": "\\((-1,1)\\)"
+    },
+    {
+      "id": "M9Q20",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The midpoint of \\((0,7)\\) and \\((10,-1)\\) is:",
+      "options": [
+        "\\((5,3)\\)",
+        "\\((5,4)\\)",
+        "\\((4,2)\\)",
+        "\\((6,3)\\)"
+      ],
+      "answer": "\\((5,3)\\)"
+    },
+    {
+      "id": "M9Q21",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Lines with equations \\(y=2x+3\\) and \\(2y=4x-5\\) are:",
+      "options": [
+        "Intersecting at right angle",
+        "Parallel",
+        "Perpendicular",
+        "Coincident"
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "id": "M9Q22",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Lines \\(3x+2y-7=0\\) and \\(2x-3y+1=0\\) are:",
+      "options": [
+        "Parallel",
+        "Neither",
+        "Coincident",
+        "Perpendicular"
+      ],
+      "answer": "Perpendicular"
+    },
+    {
+      "id": "M9Q23",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Lines \\(x+2y-4=0\\) and \\(2x+4y-8=0\\) are:",
+      "options": [
+        "Coincident",
+        "Intersect at one point",
+        "Parallel distinct",
+        "Perpendicular"
+      ],
+      "answer": "Coincident"
+    },
+    {
+      "id": "M9Q24",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Convert \\(3x-4y+12=0\\) to slope-intercept form. The slope is:",
+      "options": [
+        "0",
+        "\\(\\tfrac{-4}{3}\\)",
+        "undefined",
+        "\\(\\tfrac{3}{4}\\)"
+      ],
+      "answer": "\\(\\tfrac{3}{4}\\)"
+    },
+    {
+      "id": "M9Q25",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For \\(6x+8y-24=0\\), the y-intercept (c in \\(y=mx+c\\)) is:",
+      "options": [
+        "3",
+        "-3",
+        "0",
+        "4"
+      ],
+      "answer": "3"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M9Q26",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line with slope \\(m=4\\) passing through \\((2,-3)\\) is:",
+      "options": [
+        "\\(y=4x--11\\)",
+        "\\(y=-11x+4\\)",
+        "\\(x=4y+-11\\)",
+        "\\(y=4x+-11\\)"
+      ],
+      "answer": "\\(y=4x+-11\\)"
+    },
+    {
+      "id": "M9Q27",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line with slope \\(m=\\(\\tfrac{-3}{2}\\)\\) passing through \\((-1,5)\\) is:",
+      "options": [
+        "\\(y=\\(\\tfrac{-3}{2}\\)x-\\(\\tfrac{7}{2}\\)\\)",
+        "\\(x=\\(\\tfrac{-3}{2}\\)y+\\(\\tfrac{7}{2}\\)\\)",
+        "\\(y=\\(\\tfrac{-3}{2}\\)x+\\(\\tfrac{7}{2}\\)\\)",
+        "\\(y=\\(\\tfrac{7}{2}\\)x+\\(\\tfrac{-3}{2}\\)\\)"
+      ],
+      "answer": "\\(y=\\(\\tfrac{-3}{2}\\)x+\\(\\tfrac{7}{2}\\)\\)"
+    },
+    {
+      "id": "M9Q28",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line with slope \\(m=0\\) passing through \\((3,3)\\) is:",
+      "options": [
+        "\\(y=0x-3\\)",
+        "\\(y=3x+0\\)",
+        "\\(y=0x+3\\)",
+        "\\(x=0y+3\\)"
+      ],
+      "answer": "\\(y=0x+3\\)"
+    },
+    {
+      "id": "M9Q29",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance from point \\((3,4)\\) to the line \\(3x-4y+12=0\\) is:",
+      "options": [
+        "2",
+        "0.5",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "M9Q30",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance from point \\((-2,5)\\) to the line \\(x+2y-3=0\\) is:",
+      "options": [
+        "3.236",
+        "1.118",
+        "1.236",
+        "2.236"
+      ],
+      "answer": "2.236"
+    },
+    {
+      "id": "M9Q31",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance from point \\((0,0)\\) to the line \\(4x+3y-6=0\\) is:",
+      "options": [
+        "0.6",
+        "0.2",
+        "1.2",
+        "2.2"
+      ],
+      "answer": "1.2"
+    },
+    {
+      "id": "M9Q32",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The acute angle between lines \\(y=\\tfrac{1}{2}x+1\\) and \\(y=-2x+3\\) (in degrees) is:",
+      "options": [
+        "90",
+        "80",
+        "90",
+        "100"
+      ],
+      "answer": "90"
+    },
+    {
+      "id": "M9Q33",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The acute angle between lines \\(2x-3y+5=0\\) and \\(x+3y-7=0\\) (in degrees) is:",
+      "options": [
+        "90",
+        "62.12",
+        "52.12",
+        "42.12"
+      ],
+      "answer": "52.12"
+    },
+    {
+      "id": "M9Q34",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The acute angle between lines \\(x+2y=0\\) and \\(2x+y=0\\) (in degrees) is:",
+      "options": [
+        "26.87",
+        "36.87",
+        "90",
+        "46.87"
+      ],
+      "answer": "36.87"
+    },
+    {
+      "id": "M9Q35",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line parallel to \\(3x+4y-5=0\\) passing through \\((1,2)\\) is:",
+      "options": [
+        "\\(3x+4y-10=0\\)",
+        "\\(4x-3y-11=0\\)",
+        "\\(3x+4y-11=0\\)",
+        "\\(-3x+-4y-11=0\\)"
+      ],
+      "answer": "\\(3x+4y-11=0\\)"
+    },
+    {
+      "id": "M9Q36",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line perp to \\(2x-5y+7=0\\) passing through \\((-3,1)\\) is:",
+      "options": [
+        "\\(-5x+-2y-13=0\\)",
+        "\\(-2x+-5y-13=0\\)",
+        "\\(5x+2y-13=0\\)",
+        "\\(2x+-5y-13=0\\)"
+      ],
+      "answer": "\\(-5x+-2y-13=0\\)"
+    },
+    {
+      "id": "M9Q37",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line parallel to \\(x-2y+4=0\\) passing through \\((0,0)\\) is:",
+      "options": [
+        "\\(-1x+2y+0=0\\)",
+        "\\(1x+-2y+0=0\\)",
+        "\\(1x+-2y+1=0\\)",
+        "\\(-2x-1y+0=0\\)"
+      ],
+      "answer": "\\(1x+-2y+0=0\\)"
+    },
+    {
+      "id": "M9Q38",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Point dividing \\((2,3)\\) and \\((8,9)\\) in ratio \\(1:2\\) internally is:",
+      "options": [
+        "\\((3,4)\\)",
+        "\\((4,5)\\)",
+        "\\((5,5)\\)",
+        "\\((4,6)\\)"
+      ],
+      "answer": "\\((4,5)\\)"
+    },
+    {
+      "id": "M9Q39",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Point dividing \\((-4,1)\\) and \\((5,7)\\) in ratio \\(2:3\\) internally is:",
+      "options": [
+        "\\((-0.4,3.4)\\)",
+        "\\((0.6,3.4)\\)",
+        "\\((-1.4,2.4)\\)",
+        "\\((-0.4,4.4)\\)"
+      ],
+      "answer": "\\((-0.4,3.4)\\)"
+    },
+    {
+      "id": "M9Q40",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Point dividing \\((0,0)\\) and \\((6,-6)\\) in ratio \\(3:1\\) internally is:",
+      "options": [
+        "\\((4.5,-3.5)\\)",
+        "\\((5.5,-4.5)\\)",
+        "\\((3.5,-5.5)\\)",
+        "\\((4.5,-4.5)\\)"
+      ],
+      "answer": "\\((4.5,-4.5)\\)"
+    },
+    {
+      "id": "M9Q41",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Convert \\(x\\cos\\alpha + y\\sin\\alpha = p\\) (normal form) to slope-intercept: slope equals:",
+      "options": [
+        "\\(\\cot\\alpha\\)",
+        "\\(-\\cot\\alpha\\)",
+        "\\(-\\tan\\alpha\\)",
+        "\\(\\tan\\alpha\\)"
+      ],
+      "answer": "\\(-\\cot\\alpha\\)"
+    },
+    {
+      "id": "M9Q42",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For line \\(\\frac{x}{a}+\\frac{y}{b}=1\\), the intercepts are:",
+      "options": [
+        "\\(a\\) and \\(b\\)",
+        "\\(\\frac{1}{a}\\) and \\(\\frac{1}{b}\\)",
+        "both \\(a\\)",
+        "\\(ab\\) and \\(a+b\\)"
+      ],
+      "answer": "\\(a\\) and \\(b\\)"
+    },
+    {
+      "id": "M9Q43",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If a line makes an angle \\(\\theta\\) with positive x-axis, its slope is:",
+      "options": [
+        "\\(-\\cot\\theta\\)",
+        "\\(\\cot\\theta\\)",
+        "\\(\\tan\\theta\\)",
+        "\\(\\sin\\theta\\)"
+      ],
+      "answer": "\\(\\tan\\theta\\)"
+    },
+    {
+      "id": "M9Q44",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The intersection point of \\(x+2y=6\\) and \\(x-y=1\\) is:",
+      "options": [
+        "\\((1.667,0.6667)\\)",
+        "\\((2.667,2.667)\\)",
+        "\\((3.667,1.667)\\)",
+        "\\((2.667,1.667)\\)"
+      ],
+      "answer": "\\((2.667,1.667)\\)"
+    },
+    {
+      "id": "M9Q45",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The intersection point of \\(3x-2y=5\\) and \\(x+4y=9\\) is:",
+      "options": [
+        "\\((1.714,0.5714)\\)",
+        "\\((2.714,1.571)\\)",
+        "\\((2.714,2.571)\\)",
+        "\\((3.714,1.571)\\)"
+      ],
+      "answer": "\\((2.714,1.571)\\)"
+    },
+    {
+      "id": "M9Q46",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The intersection point of \\(2x+3y=12\\) and \\(x-3y=0\\) is:",
+      "options": [
+        "\\((4,2.333)\\)",
+        "\\((5,1.333)\\)",
+        "\\((3,0.3333)\\)",
+        "\\((4,1.333)\\)"
+      ],
+      "answer": "\\((4,1.333)\\)"
+    },
+    {
+      "id": "M9Q1000",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "\\(-2/-3\\)",
+        "\\(-b/a\\)",
+        "\\(a/b\\)",
+        "undefined"
+      ],
+      "answer": "\\(-2/-3\\)"
+    },
+    {
+      "id": "M9Q1001",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "\\(-b/a\\)",
+        "undefined",
+        "\\(a/b\\)",
+        "\\(-2/-3\\)"
+      ],
+      "answer": "\\(-2/-3\\)"
+    },
+    {
+      "id": "M9Q1002",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "\\(a/b\\)",
+        "\\(-b/a\\)",
+        "\\(-2/-3\\)",
+        "undefined"
+      ],
+      "answer": "\\(-2/-3\\)"
+    },
+    {
+      "id": "M9Q1003",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "\\(a/b\\)",
+        "\\(-b/a\\)",
+        "undefined",
+        "\\(-2/-3\\)"
+      ],
+      "answer": "\\(-2/-3\\)"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M9Q47",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Internal angle bisector of lines \\(3x-4y+8=0\\) and \\(3x+4y-8=0\\) is:",
+      "options": [
+        "\\(x=0\\)",
+        "\\(3x+8=0\\)",
+        "\\(y=0\\)",
+        "\\(3x-8=0\\)"
+      ],
+      "answer": "\\(3x-8=0\\)"
+    },
+    {
+      "id": "M9Q48",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "One angle bisector of \\(x+y-4=0\\) and \\(x-y=0\\) passes through the origin. Its equation is:",
+      "options": [
+        "\\(y=-x+2\\)",
+        "\\(x=0\\)",
+        "\\(y=0\\)",
+        "\\(y=x-2\\)"
+      ],
+      "answer": "\\(y=0\\)"
+    },
+    {
+      "id": "M9Q49",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Angle bisectors of \\(2x-3y+6=0\\) and \\(2x+3y-6=0\\) are:",
+      "options": [
+        "\\(x=\\pm3\\)",
+        "\\(x=-y\\)",
+        "\\(y=\\pm3\\)",
+        "\\(x=y\\)"
+      ],
+      "answer": "\\(x=\\pm3\\)"
+    },
+    {
+      "id": "M9Q50",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of family of lines through intersection of \\(x+2y-5=0\\) and \\(3x-y+1=0\\) is:",
+      "options": [
+        "\\(x+2y-5=\\lambda\\)",
+        "\\((x+2y-5)+\\lambda(3x-y+1)=0\\)",
+        "\\(x+2y+3x-y=0\\)",
+        "\\(3x-y+1=\\lambda\\)"
+      ],
+      "answer": "\\((x+2y-5)+\\lambda(3x-y+1)=0\\)"
+    },
+    {
+      "id": "M9Q51",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "A line through intersection of \\(2x+y-6=0\\) and \\(x-3y+4=0\\) that is perpendicular to \\(x+2y+1=0\\) is:",
+      "options": [
+        "\\(2x+3y-2=0\\)",
+        "\\(3x-2y+2=0\\)",
+        "\\(3x-2y-2=0\\)",
+        "\\(x+2y+1=0\\)"
+      ],
+      "answer": "\\(3x-2y-2=0\\)"
+    },
+    {
+      "id": "M9Q52",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation of the line through intersection of \\(x-2y+3=0\\), \\(2x+y-5=0\\) and parallel to \\(3x-4y+1=0\\) is:",
+      "options": [
+        "\\(4x-3y+5=0\\)",
+        "\\(3x-4y+1=0\\)",
+        "\\(3x+4y-5=0\\)",
+        "\\(3x-4y+5=0\\)"
+      ],
+      "answer": "\\(3x-4y+5=0\\)"
+    },
+    {
+      "id": "M9Q53",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between \\(3x-4y+7=0\\) and \\(3x-4y-5=0\\) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "2.4"
+      ],
+      "answer": "2.4"
+    },
+    {
+      "id": "M9Q54",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between parallel lines \\(x+2y-9=0\\) and \\(x+2y+3=0\\) is:",
+      "options": [
+        "12",
+        "3",
+        "5.367",
+        "6"
+      ],
+      "answer": "5.367"
+    },
+    {
+      "id": "M9Q55",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Distance between lines \\(4x+3y-12=0\\) and \\(8x+6y+1=0\\) is:",
+      "options": [
+        "\\(\\tfrac{13}{5}\\)",
+        "\\(\\tfrac{1}{5}\\)",
+        "Not parallel",
+        "Equal to 0"
+      ],
+      "answer": "Not parallel"
+    },
+    {
+      "id": "M9Q56",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Shortest distance from point \\((5,-2)\\) to \\(6x-8y-24=0\\) equals:",
+      "options": [
+        "4",
+        "2.2",
+        "2",
+        "5"
+      ],
+      "answer": "2.2"
+    },
+    {
+      "id": "M9Q57",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Lines \\(x+ky-2=0\\), \\(2x-y+1=0\\), and \\(kx+y-3=0\\) are concurrent if:",
+      "options": [
+        "\\(k=-2\\)",
+        "\\(k=2\\)",
+        "\\(k=\\pm1\\)",
+        "\\(k=0\\)"
+      ],
+      "answer": "\\(k=\\pm1\\)"
+    },
+    {
+      "id": "M9Q58",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If lines \\(y=mx+1\\) and \\(y=\\frac{1}{m}x-1\\) are perpendicular, then:",
+      "options": [
+        "\\(m=0\\)",
+        "\\(m=2\\)",
+        "No real \\(m\\)",
+        "\\(m=\\pm1\\)"
+      ],
+      "answer": "No real \\(m\\)"
+    },
+    {
+      "id": "M9Q59",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The locus of a point whose sum of distances from lines \\(x=0\\) and \\(y=0\\) is 10 is:",
+      "options": [
+        "\\(x+y=10\\)",
+        "\\(|x-y|=10\\)",
+        "\\(x^2+y^2=100\\)",
+        "\\(|x|+|y|=10\\)"
+      ],
+      "answer": "\\(|x|+|y|=10\\)"
+    },
+    {
+      "id": "M9Q60",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If a line through \\((a,0)\\) cuts axes forming triangle of area \\(A\\), then:",
+      "options": [
+        "\\(A=\\tfrac{|a-b|}{2}\\)",
+        "\\(A=ab\\)",
+        "\\(A=\\tfrac{|a+b|}{2}\\)",
+        "\\(A=\\tfrac{1}{2}|ab|\\)"
+      ],
+      "answer": "\\(A=\\tfrac{1}{2}|ab|\\)"
+    },
+    {
+      "id": "M9Q61",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Under rotation of axes by \\(\\theta\\), if original slope is \\(m=1\\) and \\(\\theta=45^\\circ\\), the new slope is:",
+      "options": [
+        "\\(-1\\)",
+        "1",
+        "0",
+        "undefined"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "M9Q62",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation \\(x\\cos\\alpha + y\\sin\\alpha = p\\) represents a line at distance:",
+      "options": [
+        "\\(|p|\\) from origin",
+        "\\(|p|/2\\)",
+        "\\(\\sqrt{p}\\)",
+        "\\(p^2\\)"
+      ],
+      "answer": "\\(|p|\\) from origin"
+    },
+    {
+      "id": "M9Q63",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If a variable line cuts axes at \\(a\\) and \\(b\\) with \\(a+b=10\\), its equation is:",
+      "options": [
+        "\\(\\frac{x}{a}+\\frac{y}{10-a}=1\\)",
+        "\\(\\frac{x}{10-a}+\\frac{y}{a}=1\\)",
+        "\\(\\frac{x}{10}+\\frac{y}{a}=1\\)",
+        "\\(\\frac{x+y}{10}=1\\)"
+      ],
+      "answer": "\\(\\frac{x}{a}+\\frac{y}{10-a}=1\\)"
+    },
+    {
+      "id": "M9Q64",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Condition for \\(y=mx+c\\) and \\(Ax+By+C=0\\) to be parallel is:",
+      "options": [
+        "\\(m=\\frac{B}{A}\\)",
+        "\\(m=-\\frac{A}{B}\\)",
+        "\\(m=\\frac{A}{B}\\)",
+        "\\(m=\\frac{C}{B}\\)"
+      ],
+      "answer": "\\(m=-\\frac{A}{B}\\)"
+    },
+    {
+      "id": "M9Q65",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If \\(y=mx+c\\) is perpendicular to \\(Ax+By+C=0\\), then:",
+      "options": [
+        "\\(m=-\\frac{B}{A}\\)",
+        "\\(m=\\frac{A}{B}\\)",
+        "\\(m=-\\frac{A}{B}\\)",
+        "\\(m=\\frac{B}{A}\\)"
+      ],
+      "answer": "\\(m=\\frac{B}{A}\\)"
+    },
+    {
+      "id": "M9Q66",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Line \\(y=\\sqrt{3}x\\) makes angle (degrees) with x-axis:",
+      "options": [
+        "60",
+        "45",
+        "30",
+        "90"
+      ],
+      "answer": "60"
+    },
+    {
+      "id": "M9Q67",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If \\(x\\cos\\alpha + y\\sin\\alpha = p\\) and \\(x\\cos\\beta + y\\sin\\beta = p\\) are same line, then:",
+      "options": [
+        "\\(\\alpha+\\beta=\\pi/2\\)",
+        "\\(\\alpha-\\beta=\\pi/4\\)",
+        "Never same",
+        "\\(\\alpha=\\beta\\) or differ by \\(\\pi\\)"
+      ],
+      "answer": "\\(\\alpha=\\beta\\) or differ by \\(\\pi\\)"
+    },
+    {
+      "id": "M9Q68",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Equation with intercepts 4 and -2 on axes is:",
+      "options": [
+        "\\(2x-y=1\\)",
+        "\\(x-2y=1\\)",
+        "\\(\\frac{x}{4}+\\frac{y}{-2}=1\\)",
+        "\\(\\frac{x}{-4}+\\frac{y}{2}=1\\)"
+      ],
+      "answer": "\\(\\frac{x}{4}+\\frac{y}{-2}=1\\)"
+    },
+    {
+      "id": "M9Q69",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Slope of line \\(2x+\\sqrt{3}y=0\\) is:",
+      "options": [
+        "\\(\\tfrac{\\sqrt{3}}{2}\\)",
+        "\\(-\\sqrt{3}\\)",
+        "\\(-\\tfrac{2}{\\sqrt{3}}\\)",
+        "\\(\\tfrac{2}{\\sqrt{3}}\\)"
+      ],
+      "answer": "\\(-\\tfrac{2}{\\sqrt{3}}\\)"
+    },
+    {
+      "id": "M9Q70",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If two lines have slopes \\(m_1, m_2\\), they are perpendicular when:",
+      "options": [
+        "\\(m_1/m_2=1\\)",
+        "\\(m_1=m_2\\)",
+        "\\(m_1+m_2=0\\)",
+        "\\(m_1m_2=-1\\)"
+      ],
+      "answer": "\\(m_1m_2=-1\\)"
+    },
+    {
+      "id": "M9Q1004",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "undefined",
+        "\\(-b/a\\)",
+        "\\(-2/-3\\)",
+        "\\(a/b\\)"
+      ],
+      "answer": "\\(-2/-3\\)"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M9Q71",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If line \\(y=mx+c\\) touches circle \\(x^2+y^2=r^2\\), condition is:",
+      "options": [
+        "\\(c^2=r\\)",
+        "\\(c=r\\)",
+        "\\(|c|=r\\sqrt{1+m^2}\\)",
+        "\\(m=r\\)"
+      ],
+      "answer": "\\(|c|=r\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M9Q72",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "For fixed point \\((h,k)\\), slope of line joining to variable point on \\(ax+by+c=0\\) is:",
+      "options": [
+        "Always \\(-\\tfrac{a}{b}\\)",
+        "Always \\(\\tfrac{b}{a}\\)",
+        "Depends on parameter; at foot of perpendicular slope is negative reciprocal of \\(-\\tfrac{a}{b}\\)",
+        "Always constant"
+      ],
+      "answer": "Depends on parameter; at foot of perpendicular slope is negative reciprocal of \\(-\\tfrac{a}{b}\\)"
+    },
+    {
+      "id": "M9Q73",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If \\(L_1: a_1x+b_1y+c_1=0\\) and \\(L_2: a_2x+b_2y+c_2=0\\) are parallel, distance between them equals:",
+      "options": [
+        "\\(\\frac{|c_1-c_2|}{\\sqrt{a_1^2+b_1^2}}\\)",
+        "\\(\\sqrt{(c_1-c_2)^2}\\)",
+        "\\(\\frac{|a_1-a_2|}{\\sqrt{c_1^2+c_2^2}}\\)",
+        "\\(\\frac{|b_1-b_2|}{\\sqrt{a_1^2+b_1^2}}\\)"
+      ],
+      "answer": "\\(\\frac{|c_1-c_2|}{\\sqrt{a_1^2+b_1^2}}\\)"
+    },
+    {
+      "id": "M9Q74",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Angle between lines represented by \\((x-1)(y+2)=0\\) is:",
+      "options": [
+        "45",
+        "0",
+        "90",
+        "60"
+      ],
+      "answer": "90"
+    },
+    {
+      "id": "M9Q75",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Lines represented by \\((2x-3y+1)(x+4y-7)=0\\) are:",
+      "options": [
+        "Coincident",
+        "Perpendicular",
+        "Parallel",
+        "Intersecting; slopes \\(\\tfrac{2}{3}\\) and \\(-4\\)"
+      ],
+      "answer": "Intersecting; slopes \\(\\tfrac{2}{3}\\) and \\(-4\\)"
+    },
+    {
+      "id": "M9Q76",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If \\((x\\cos\\alpha+y\\sin\\alpha)(x\\cos\\beta+y\\sin\\beta)=0\\), then lines are perpendicular when:",
+      "options": [
+        "\\(\\alpha=\\beta\\)",
+        "\\(\\alpha=0\\)",
+        "\\(\\alpha-\\beta=\\tfrac{\\pi}{2}\\)",
+        "\\(\\alpha+\\beta=\\tfrac{\\pi}{2}\\)"
+      ],
+      "answer": "\\(\\alpha-\\beta=\\tfrac{\\pi}{2}\\)"
+    },
+    {
+      "id": "M9Q77",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Shortest distance from \\((x_0,y_0)\\) to any line through origin \\(y=mx\\) occurs when:",
+      "options": [
+        "Any \\(m\\)",
+        "\\(m=y_0/x_0\\)",
+        "None",
+        "Line is perpendicular: \\(m=-x_0/y_0\\)"
+      ],
+      "answer": "Line is perpendicular: \\(m=-x_0/y_0\\)"
+    },
+    {
+      "id": "M9Q78",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Among lines \\(y=mx+1\\) (real m), least distance from origin occurs when:",
+      "options": [
+        "\\(m=-1\\)",
+        "\\(m=0\\), distance 1",
+        "\\(m\\to\\infty\\)",
+        "\\(m=1\\)"
+      ],
+      "answer": "\\(m=0\\), distance 1"
+    },
+    {
+      "id": "M9Q79",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Foot of perpendicular from \\((x_0,y_0)\\) to \\(Ax+By+C=0\\) is given by:",
+      "options": [
+        "Intersection with axes",
+        "\\((x_0,y_0)\\)",
+        "Formula \\((x,y)=(x_0-\\tfrac{A(Ax_0+By_0+C)}{A^2+B^2},\\ y_0-\\tfrac{B(Ax_0+By_0+C)}{A^2+B^2})\\)",
+        "Midpoint with origin"
+      ],
+      "answer": "Formula \\((x,y)=(x_0-\\tfrac{A(Ax_0+By_0+C)}{A^2+B^2},\\ y_0-\\tfrac{B(Ax_0+By_0+C)}{A^2+B^2})\\)"
+    },
+    {
+      "id": "M9Q80",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If \\(y=mx+c\\) passes through \\((h,k)\\), then intercept form can be written as:",
+      "options": [
+        "\\(\\frac{x}{-c/m}+\\frac{y}{c}=1\\) (\\(m\\neq0\\))",
+        "\\(\\frac{x}{c}+\\frac{y}{m}=1\\)",
+        "\\(\\frac{x}{m} + \\frac{y}{-c}=1\\)",
+        "Cannot be written"
+      ],
+      "answer": "\\(\\frac{x}{-c/m}+\\frac{y}{c}=1\\) (\\(m\\neq0\\))"
+    },
+    {
+      "id": "M9Q81",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Three lines concurrent iff \\(\\begin{vmatrix}a_1&b_1&c_1\\a_2&b_2&c_2\\a_3&b_3&c_3\\end{vmatrix}=\\):",
+      "options": [
+        "1",
+        "0",
+        "Nonzero",
+        "Undefined"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "M9Q82",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Points \\((x_1,y_1),(x_2,y_2),(x_3,y_3)\\) are collinear iff area equals:",
+      "options": [
+        "2",
+        "1",
+        "Nonzero",
+        "0"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "M9Q83",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "If lines \\(ax+by+c=0\\) and \\(bx-ay+d=0\\) are perpendicular, then:",
+      "options": [
+        "Never",
+        "Always true",
+        "Only if \\(c=d\\)",
+        "Only if \\(a=b\\)"
+      ],
+      "answer": "Always true"
+    },
+    {
+      "id": "M9Q84",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Line \\(y=mx\\) bisects the angle between \\(y=x\\) and \\(y=-x\\) when:",
+      "options": [
+        "\\(m=-1\\)",
+        "\\(m=1\\)",
+        "It is one of \\(x=0\\) or \\(y=0\\)",
+        "\\(m=\\pm1\\)"
+      ],
+      "answer": "It is one of \\(x=0\\) or \\(y=0\\)"
+    },
+    {
+      "id": "M9Q85",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "General pair of lines through origin is represented by:",
+      "options": [
+        "\\(ax+by+c=0\\)",
+        "\\(xy=c\\)",
+        "\\(ax^2+2hxy+by^2=0\\)",
+        "\\(x^2+y^2=r^2\\)"
+      ],
+      "answer": "\\(ax^2+2hxy+by^2=0\\)"
+    },
+    {
+      "id": "M9Q86",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Foot of perpendicular from \\((2,3)\\) to \\(3x-4y+12=0\\) is:",
+      "options": [
+        "\\((1.28,3.96)\\)",
+        "\\((0.28,2.96)\\)",
+        "\\((2.28,3.96)\\)",
+        "\\((1.28,4.96)\\)"
+      ],
+      "answer": "\\((1.28,3.96)\\)"
+    },
+    {
+      "id": "M9Q87",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Foot of perpendicular from \\((4,-1)\\) to \\(x+2y-5=0\\) is:",
+      "options": [
+        "\\((5.6,0.2)\\)",
+        "\\((4.6,1.2)\\)",
+        "\\((4.6,0.2)\\)",
+        "\\((3.6,-0.8)\\)"
+      ],
+      "answer": "\\((4.6,0.2)\\)"
+    },
+    {
+      "id": "M9Q88",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Foot of perpendicular from \\((0,0)\\) to \\(-2x+y+7=0\\) is:",
+      "options": [
+        "\\((3.8,-1.4)\\)",
+        "\\((2.8,-0.4)\\)",
+        "\\((1.8,-2.4)\\)",
+        "\\((2.8,-1.4)\\)"
+      ],
+      "answer": "\\((2.8,-1.4)\\)"
+    },
+    {
+      "id": "M9Q89",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The angle (degrees, CCW from +x-axis) made by line \\(\\sqrt{3}x - y = 0\\) is:",
+      "options": [
+        "60",
+        "90",
+        "30",
+        "120"
+      ],
+      "answer": "60"
+    },
+    {
+      "id": "M9Q90",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "The angle (degrees, CCW from +x-axis) made by line \\(x + \\sqrt{3}y = 0\\) is:",
+      "options": [
+        "150",
+        "30",
+        "75",
+        "90"
+      ],
+      "answer": "150"
+    },
+    {
+      "id": "M9Q91",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "In the plane, two distinct non-parallel lines have a unique shortest distance between them.",
+      "options": [
+        "Depends on slopes",
+        "True only if both pass through origin",
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "id": "M9Q92",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Area of triangle formed by \\(\\frac{x}{a}+\\frac{y}{b}=1\\) with axes is:",
+      "options": [
+        "\\(\\tfrac{1}{2}|ab|\\)",
+        "\\(|a+b|\\)",
+        "\\(\\tfrac{|a+b|}{2}\\)",
+        "\\(|a-b|\\)"
+      ],
+      "answer": "\\(\\tfrac{1}{2}|ab|\\)"
+    },
+    {
+      "id": "M9Q93",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Pair of lines \\(ax^2+2hxy+by^2=0\\) are perpendicular when:",
+      "options": [
+        "\\(a=b\\)",
+        "\\(a+b=0\\)",
+        "\\(ab=0\\)",
+        "\\(h=0\\)"
+      ],
+      "answer": "\\(a+b=0\\)"
+    },
+    {
+      "id": "M9Q1005",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "undefined",
+        "\\(a/b\\)",
+        "\\(-b/a\\)",
+        "\\(-2/-3\\)"
+      ],
+      "answer": "\\(-2/-3\\)"
+    },
+    {
+      "id": "M9Q1006",
+      "chapter": "straight_lines",
+      "type": "mcq",
+      "statement": "Padding: Slope of line \\(2x+-3y+6=0\\) is:",
+      "options": [
+        "\\(a/b\\)",
+        "\\(-b/a\\)",
+        "\\(-2/-3\\)",
+        "undefined"
+      ],
+      "answer": "\\(-2/-3\\)"
+    }
+  ]
+}

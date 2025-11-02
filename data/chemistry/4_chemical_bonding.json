@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "chemical_bonding",
+    "type": "mcq",
+    "subject": "chemistry",
+    "chapterNumber": 4,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "C4Q1",
+      "statement": "Which of the following molecules has a linear shape?",
+      "options": [
+        "\\(\\ce{NH3}\\)",
+        "\\(\\ce{SO2}\\)",
+        "\\(\\ce{CO2}\\)",
+        "\\(\\ce{H2O}\\)"
+      ],
+      "answer": "\\(\\ce{CO2}\\)"
+    },
+    {
+      "id": "C4Q2",
+      "statement": "The bond order in \\(\\ce{O2}\\) molecule is:",
+      "options": [
+        "3",
+        "2.5",
+        "1",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C4Q3",
+      "statement": "Which of the following is an example of ionic bonding?",
+      "options": [
+        "\\(\\ce{HCl}\\)",
+        "\\(\\ce{H2}\\)",
+        "\\(\\ce{CH4}\\)",
+        "\\(\\ce{NaCl}\\)"
+      ],
+      "answer": "\\(\\ce{NaCl}\\)"
+    },
+    {
+      "id": "C4Q4",
+      "statement": "The hybridization of carbon in \\(\\ce{CH4}\\) is:",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q5",
+      "statement": "Which molecule has a dipole moment of zero?",
+      "options": [
+        "\\(\\ce{NF3}\\)",
+        "\\(\\ce{BF3}\\)",
+        "\\(\\ce{NH3}\\)",
+        "\\(\\ce{H2O}\\)"
+      ],
+      "answer": "\\(\\ce{BF3}\\)"
+    },
+    {
+      "id": "C4Q6",
+      "statement": "The number of sigma (\\(\\sigma\\)) bonds in \\(\\ce{C2H2}\\) is:",
+      "options": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q7",
+      "statement": "Which of the following has the highest bond energy?",
+      "options": [
+        "\\(\\ce{I2}\\)",
+        "\\(\\ce{Br2}\\)",
+        "\\(\\ce{F2}\\)",
+        "\\(\\ce{Cl2}\\)"
+      ],
+      "answer": "\\(\\ce{Cl2}\\)"
+    },
+    {
+      "id": "C4Q8",
+      "statement": "The shape of \\(\\ce{SF6}\\) molecule is:",
+      "options": [
+        "Octahedral",
+        "Tetrahedral",
+        "Square planar",
+        "Trigonal bipyramidal"
+      ],
+      "answer": "Octahedral"
+    },
+    {
+      "id": "C4Q9",
+      "statement": "The bond angle in \\(\\ce{H2O}\\) is approximately:",
+      "options": [
+        "\\(104.5^\\circ\\)",
+        "\\(109.5^\\circ\\)",
+        "\\(90^\\circ\\)",
+        "\\(120^\\circ\\)"
+      ],
+      "answer": "\\(104.5^\\circ\\)"
+    },
+    {
+      "id": "C4Q10",
+      "statement": "Which of the following is isoelectronic with \\(\\ce{CO}\\)?",
+      "options": [
+        "\\(\\ce{CN-}\\)",
+        "\\(\\ce{NO+}\\)",
+        "\\(\\ce{O2}\\)",
+        "\\(\\ce{N2}\\)"
+      ],
+      "answer": "\\(\\ce{CN-}\\)"
+    },
+    {
+      "id": "C4Q11",
+      "statement": "The number of lone pairs in \\(\\ce{XeF4}\\) is:",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C4Q12",
+      "statement": "Which hybrid orbitals are used by carbon in \\(\\ce{C2H4}\\)?",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3d\\)",
+        "\\(sp\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q13",
+      "statement": "The bond order of \\(\\ce{N2+}\\) is:",
+      "options": [
+        "2.5",
+        "2.0",
+        "3.0",
+        "3.5"
+      ],
+      "answer": "2.5"
+    },
+    {
+      "id": "C4Q14",
+      "statement": "Which molecule has the shortest bond length?",
+      "options": [
+        "\\(\\ce{O2}\\)",
+        "\\(\\ce{O2+}\\)",
+        "\\(\\ce{O2^{2-}}\\)",
+        "\\(\\ce{O2-}\\)"
+      ],
+      "answer": "\\(\\ce{O2+}\\)"
+    },
+    {
+      "id": "C4Q15",
+      "statement": "The hybridization of central atom in \\(\\ce{PCl5}\\) is:",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3d^2\\)",
+        "\\(sp^3\\)"
+      ],
+      "answer": "\\(sp^3d\\)"
+    },
+    {
+      "id": "C4Q16",
+      "statement": "Which of the following has the highest melting point?",
+      "options": [
+        "\\(\\ce{MgO}\\)",
+        "\\(\\ce{KCl}\\)",
+        "\\(\\ce{CaO}\\)",
+        "\\(\\ce{NaCl}\\)"
+      ],
+      "answer": "\\(\\ce{MgO}\\)"
+    },
+    {
+      "id": "C4Q17",
+      "statement": "The number of pi (\\(\\pi\\)) bonds in benzene is:",
+      "options": [
+        "12",
+        "3",
+        "9",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q18",
+      "statement": "Which of the following is paramagnetic?",
+      "options": [
+        "\\(\\ce{H2}\\)",
+        "\\(\\ce{F2}\\)",
+        "\\(\\ce{N2}\\)",
+        "\\(\\ce{O2}\\)"
+      ],
+      "answer": "\\(\\ce{O2}\\)"
+    },
+    {
+      "id": "C4Q19",
+      "statement": "The bond angle in \\(\\ce{NH3}\\) is approximately:",
+      "options": [
+        "\\(107^\\circ\\)",
+        "\\(109.5^\\circ\\)",
+        "\\(90^\\circ\\)",
+        "\\(120^\\circ\\)"
+      ],
+      "answer": "\\(107^\\circ\\)"
+    },
+    {
+      "id": "C4Q20",
+      "statement": "Which molecule has a bent shape?",
+      "options": [
+        "\\(\\ce{CO2}\\)",
+        "\\(\\ce{SO2}\\)",
+        "\\(\\ce{BF3}\\)",
+        "\\(\\ce{BeCl2}\\)"
+      ],
+      "answer": "\\(\\ce{SO2}\\)"
+    },
+    {
+      "id": "C4Q21",
+      "statement": "The formal charge on oxygen in carbon monoxide is:",
+      "options": [
+        "\\(0\\)",
+        "\\(+1\\)",
+        "\\(+2\\)",
+        "\\(-1\\)"
+      ],
+      "answer": "\\(+1\\)"
+    },
+    {
+      "id": "C4Q22",
+      "statement": "Which hybrid orbitals are used by sulfur in \\(\\ce{SF4}\\)?",
+      "options": [
+        "\\(sp^2\\)",
+        "\\(sp^3\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^3d^2\\)"
+      ],
+      "answer": "\\(sp^3d\\)"
+    },
+    {
+      "id": "C4Q23",
+      "statement": "The bond order in \\(\\ce{CO}\\) is:",
+      "options": [
+        "2",
+        "3",
+        "2.5",
+        "3.5"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q24",
+      "statement": "Which of the following has the highest covalent character?",
+      "options": [
+        "\\(\\ce{KCl}\\)",
+        "\\(\\ce{LiCl}\\)",
+        "\\(\\ce{NaCl}\\)",
+        "\\(\\ce{RbCl}\\)"
+      ],
+      "answer": "\\(\\ce{LiCl}\\)"
+    },
+    {
+      "id": "C4Q25",
+      "statement": "The number of bond pairs in \\(\\ce{NH3}\\) is:",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": "3"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "C4Q26",
+      "statement": "The correct order of bond angles in \\(\\ce{H2O}\\), \\(\\ce{NH3}\\), and \\(\\ce{CH4}\\) is:",
+      "options": [
+        "\\(\\ce{CH4} < \\ce{NH3} < \\ce{H2O}\\)",
+        "\\(\\ce{H2O} < \\ce{CH4} < \\ce{NH3}\\)",
+        "\\(\\ce{NH3} < \\ce{H2O} < \\ce{CH4}\\)",
+        "\\(\\ce{H2O} < \\ce{NH3} < \\ce{CH4}\\)"
+      ],
+      "answer": "\\(\\ce{H2O} < \\ce{NH3} < \\ce{CH4}\\)"
+    },
+    {
+      "id": "C4Q27",
+      "statement": "The hybridization of iodine in \\(\\ce{IF7}\\) is:",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp^3d^2\\)",
+        "\\(sp^3d^3\\)",
+        "\\(d^2sp^3\\)"
+      ],
+      "answer": "\\(sp^3d^3\\)"
+    },
+    {
+      "id": "C4Q28",
+      "statement": "The number of sigma and pi bonds in \\(\\ce{CH2=CH-C≡N}\\) are:",
+      "options": [
+        "\\(6\\sigma, 3\\pi\\)",
+        "\\(8\\sigma, 2\\pi\\)",
+        "\\(7\\sigma, 2\\pi\\)",
+        "\\(9\\sigma, 2\\pi\\)"
+      ],
+      "answer": "\\(6\\sigma, 3\\pi\\)"
+    },
+    {
+      "id": "C4Q29",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "\\(\\ce{NaBr}\\)",
+        "\\(\\ce{NaF}\\)",
+        "\\(\\ce{NaI}\\)",
+        "\\(\\ce{NaCl}\\)"
+      ],
+      "answer": "\\(\\ce{NaF}\\)"
+    },
+    {
+      "id": "C4Q30",
+      "statement": "The bond order in \\(\\ce{NO}\\) molecule is:",
+      "options": [
+        "2.0",
+        "3.0",
+        "3.5",
+        "2.5"
+      ],
+      "answer": "2.5"
+    },
+    {
+      "id": "C4Q31",
+      "statement": "Which molecule has the largest dipole moment?",
+      "options": [
+        "\\(\\ce{NH3}\\)",
+        "\\(\\ce{CCl4}\\)",
+        "\\(\\ce{BF3}\\)",
+        "\\(\\ce{CO2}\\)"
+      ],
+      "answer": "\\(\\ce{NH3}\\)"
+    },
+    {
+      "id": "C4Q32",
+      "statement": "The correct order of C-O bond length in \\(\\ce{CO}\\), \\(\\ce{CO3^{2-}}\\), and \\(\\ce{CO2}\\) is:",
+      "options": [
+        "\\(\\ce{CO3^{2-}} < \\ce{CO2} < \\ce{CO}\\)",
+        "\\(\\ce{CO} < \\ce{CO2} < \\ce{CO3^{2-}}\\)",
+        "\\(\\ce{CO2} < \\ce{CO} < \\ce{CO3^{2-}}\\)",
+        "\\(\\ce{CO} < \\ce{CO3^{2-}} < \\ce{CO2}\\)"
+      ],
+      "answer": "\\(\\ce{CO} < \\ce{CO2} < \\ce{CO3^{2-}}\\)"
+    },
+    {
+      "id": "C4Q33",
+      "statement": "The number of lone pairs in \\(\\ce{ClF3}\\) is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C4Q34",
+      "statement": "Which of the following has square pyramidal geometry?",
+      "options": [
+        "\\(\\ce{BrF5}\\)",
+        "\\(\\ce{SF6}\\)",
+        "\\(\\ce{PF5}\\)",
+        "\\(\\ce{XeF4}\\)"
+      ],
+      "answer": "\\(\\ce{BrF5}\\)"
+    },
+    {
+      "id": "C4Q35",
+      "statement": "The bond angle in \\(\\ce{PF5}\\) between equatorial bonds is:",
+      "options": [
+        "\\(120^\\circ\\)",
+        "\\(109.5^\\circ\\)",
+        "\\(90^\\circ\\)",
+        "\\(180^\\circ\\)"
+      ],
+      "answer": "\\(120^\\circ\\)"
+    },
+    {
+      "id": "C4Q36",
+      "statement": "The hybridization of carbon in \\(\\ce{CO3^{2-}}\\) is:",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp\\)",
+        "\\(sp^3\\)",
+        "\\(sp^2\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q37",
+      "statement": "Which of the following has the highest bond dissociation energy?",
+      "options": [
+        "\\(\\ce{F2}\\)",
+        "\\(\\ce{N2}\\)",
+        "\\(\\ce{O2}\\)",
+        "\\(\\ce{Cl2}\\)"
+      ],
+      "answer": "\\(\\ce{N2}\\)"
+    },
+    {
+      "id": "C4Q38",
+      "statement": "The number of isomeric structures possible for \\(\\ce{C2H2Cl2}\\) is:",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q39",
+      "statement": "Which molecule has the shortest bond length?",
+      "options": [
+        "\\(\\ce{C2H2}\\)",
+        "\\(\\ce{CH4}\\)",
+        "\\(\\ce{C2H6}\\)",
+        "\\(\\ce{C2H4}\\)"
+      ],
+      "answer": "\\(\\ce{C2H2}\\)"
+    },
+    {
+      "id": "C4Q40",
+      "statement": "The formal charge on nitrogen in \\(\\ce{NO3-}\\) is:",
+      "options": [
+        "\\(+2\\)",
+        "\\(0\\)",
+        "\\(+1\\)",
+        "\\(-1\\)"
+      ],
+      "answer": "\\(+1\\)"
+    },
+    {
+      "id": "C4Q41",
+      "statement": "Which hybrid orbitals are used by xenon in \\(\\ce{XeF2}\\)?",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^3d^2\\)",
+        "\\(sp^2\\)"
+      ],
+      "answer": "\\(sp^3d\\)"
+    },
+    {
+      "id": "C4Q42",
+      "statement": "The bond order in \\(\\ce{He2+}\\) is:",
+      "options": [
+        "1.5",
+        "1",
+        "0.5",
+        "0"
+      ],
+      "answer": "0.5"
+    },
+    {
+      "id": "C4Q43",
+      "statement": "Which of the following has T-shaped geometry?",
+      "options": [
+        "\\(\\ce{BF3}\\)",
+        "\\(\\ce{NH3}\\)",
+        "\\(\\ce{ClF3}\\)",
+        "\\(\\ce{PCl3}\\)"
+      ],
+      "answer": "\\(\\ce{ClF3}\\)"
+    },
+    {
+      "id": "C4Q44",
+      "statement": "The number of pi bonds in \\(\\ce{N2}\\) molecule is:",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C4Q45",
+      "statement": "Which of the following has the highest percentage of ionic character?",
+      "options": [
+        "\\(\\ce{HBr}\\)",
+        "\\(\\ce{HF}\\)",
+        "\\(\\ce{HCl}\\)",
+        "\\(\\ce{HI}\\)"
+      ],
+      "answer": "\\(\\ce{HF}\\)"
+    },
+    {
+      "id": "C4Q46",
+      "statement": "The hybridization of carbon in diamond is:",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3d\\)",
+        "\\(sp\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q47",
+      "statement": "Which molecule has zero dipole moment?",
+      "options": [
+        "\\(\\ce{CHCl3}\\)",
+        "\\(\\ce{CH3Cl}\\)",
+        "\\(\\ce{CH2Cl2}\\)",
+        "\\(\\ce{CCl4}\\)"
+      ],
+      "answer": "\\(\\ce{CCl4}\\)"
+    },
+    {
+      "id": "C4Q48",
+      "statement": "The number of sigma bonds in \\(\\ce{P4O10}\\) is:",
+      "options": [
+        "14",
+        "18",
+        "16",
+        "12"
+      ],
+      "answer": "16"
+    },
+    {
+      "id": "C4Q49",
+      "statement": "Which of the following has the highest boiling point?",
+      "options": [
+        "\\(\\ce{H2Te}\\)",
+        "\\(\\ce{H2S}\\)",
+        "\\(\\ce{H2Se}\\)",
+        "\\(\\ce{H2O}\\)"
+      ],
+      "answer": "\\(\\ce{H2O}\\)"
+    },
+    {
+      "id": "C4Q50",
+      "statement": "The bond angle in \\(\\ce{XeF4}\\) is:",
+      "options": [
+        "\\(90^\\circ\\)",
+        "\\(90^\\circ\\) and \\(180^\\circ\\)",
+        "\\(109.5^\\circ\\)",
+        "\\(120^\\circ\\)"
+      ],
+      "answer": "\\(90^\\circ\\) and \\(180^\\circ\\)"
+    }
+  ],
+  "hard": [
+    {
+      "id": "C4Q51",
+      "statement": "The correct order of bond length in \\(\\ce{C-O}\\) bond is:",
+      "options": [
+        "\\(\\ce{CH3OH} < \\ce{CO3^{2-}} < \\ce{CO2} < \\ce{CO}\\)",
+        "\\(\\ce{CO} < \\ce{CH3OH} < \\ce{CO2} < \\ce{CO3^{2-}}\\)",
+        "\\(\\ce{CH3OH} < \\ce{CO} < \\ce{CO3^{2-}} < \\ce{CO2}\\)",
+        "\\(\\ce{CO} < \\ce{CO2} < \\ce{CO3^{2-}} < \\ce{CH3OH}\\)"
+      ],
+      "answer": "\\(\\ce{CO} < \\ce{CO2} < \\ce{CO3^{2-}} < \\ce{CH3OH}\\)"
+    },
+    {
+      "id": "C4Q52",
+      "statement": "The number of bond pairs and lone pairs in \\(\\ce{I3-}\\) are:",
+      "options": [
+        "2 bond pairs, 3 lone pairs",
+        "3 bond pairs, 2 lone pairs",
+        "3 bond pairs, 3 lone pairs",
+        "2 bond pairs, 2 lone pairs"
+      ],
+      "answer": "2 bond pairs, 3 lone pairs"
+    },
+    {
+      "id": "C4Q53",
+      "statement": "Which of the following has the highest percentage of p-character in its hybrid orbitals?",
+      "options": [
+        "\\(\\ce{BF3}\\)",
+        "\\(\\ce{CH4}\\)",
+        "\\(\\ce{H2O}\\)",
+        "\\(\\ce{NH3}\\)"
+      ],
+      "answer": "\\(\\ce{BF3}\\)"
+    },
+    {
+      "id": "C4Q54",
+      "statement": "The bond order in \\(\\ce{O2^{2-}}\\) is:",
+      "options": [
+        "2",
+        "1.5",
+        "2.5",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C4Q55",
+      "statement": "Which molecule has the largest bond angle?",
+      "options": [
+        "\\(\\ce{H2O}\\)",
+        "\\(\\ce{H2S}\\)",
+        "\\(\\ce{H2Se}\\)",
+        "\\(\\ce{H2Te}\\)"
+      ],
+      "answer": "\\(\\ce{H2O}\\)"
+    },
+    {
+      "id": "C4Q56",
+      "statement": "The hybridization of sulfur in \\(\\ce{SO4^{2-}}\\) is:",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q57",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "\\(\\ce{K2O}\\)",
+        "\\(\\ce{MgO}\\)",
+        "\\(\\ce{Na2O}\\)",
+        "\\(\\ce{CaO}\\)"
+      ],
+      "answer": "\\(\\ce{MgO}\\)"
+    },
+    {
+      "id": "C4Q58",
+      "statement": "The number of pi bonds in \\(\\ce{CH3-C≡C-CH=CH2}\\) is:",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q59",
+      "statement": "Which hybrid orbitals are used by chromium in \\(\\ce{Cr(CO)6}\\)?",
+      "options": [
+        "\\(d^2sp^3\\)",
+        "\\(sp^3d^2\\)",
+        "\\(sp^3\\)",
+        "\\(dsp^2\\)"
+      ],
+      "answer": "\\(d^2sp^3\\)"
+    },
+    {
+      "id": "C4Q60",
+      "statement": "The correct order of dipole moment is:",
+      "options": [
+        "\\(\\ce{NF3} < \\ce{NH3} < \\ce{H2O}\\)",
+        "\\(\\ce{NH3} < \\ce{NF3} < \\ce{H2O}\\)",
+        "\\(\\ce{H2O} < \\ce{NH3} < \\ce{NF3}\\)",
+        "\\(\\ce{NF3} < \\ce{H2O} < \\ce{NH3}\\)"
+      ],
+      "answer": "\\(\\ce{NF3} < \\ce{NH3} < \\ce{H2O}\\)"
+    },
+    {
+      "id": "C4Q61",
+      "statement": "The bond angle in \\(\\ce{ClF3}\\) is:",
+      "options": [
+        "\\(90^\\circ\\) and \\(180^\\circ\\)",
+        "\\(120^\\circ\\) only",
+        "\\(90^\\circ\\) only",
+        "\\(90^\\circ\\) and \\(120^\\circ\\)"
+      ],
+      "answer": "\\(90^\\circ\\) and \\(180^\\circ\\)"
+    },
+    {
+      "id": "C4Q62",
+      "statement": "Which of the following has the highest covalent character?",
+      "options": [
+        "\\(\\ce{AlCl3}\\)",
+        "\\(\\ce{AlBr3}\\)",
+        "\\(\\ce{AlI3}\\)",
+        "\\(\\ce{AlF3}\\)"
+      ],
+      "answer": "\\(\\ce{AlI3}\\)"
+    },
+    {
+      "id": "C4Q63",
+      "statement": "The number of lone pairs in \\(\\ce{XeOF4}\\) is:",
+      "options": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C4Q64",
+      "statement": "Which molecule has the shortest bond length?",
+      "options": [
+        "\\(\\ce{N2-}\\)",
+        "\\(\\ce{N2^{2-}}\\)",
+        "\\(\\ce{N2+}\\)",
+        "\\(\\ce{N2}\\)"
+      ],
+      "answer": "\\(\\ce{N2}\\)"
+    },
+    {
+      "id": "C4Q65",
+      "statement": "The hybridization of carbon in graphite is:",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3d\\)",
+        "\\(sp\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q66",
+      "statement": "Which of the following has square planar geometry?",
+      "options": [
+        "\\(\\ce{SF4}\\)",
+        "\\(\\ce{BrF5}\\)",
+        "\\(\\ce{XeF4}\\)",
+        "\\(\\ce{PCl5}\\)"
+      ],
+      "answer": "\\(\\ce{XeF4}\\)"
+    },
+    {
+      "id": "C4Q67",
+      "statement": "The bond order in \\(\\ce{NO+}\\) is:",
+      "options": [
+        "3",
+        "2",
+        "2.5",
+        "3.5"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q68",
+      "statement": "Which hybrid orbitals are used by phosphorus in \\(\\ce{PCl3}\\)?",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)",
+        "\\(sp\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q69",
+      "statement": "The number of sigma bonds in \\(\\ce{C60}\\) (Buckminsterfullerene) is:",
+      "options": [
+        "60",
+        "90",
+        "30",
+        "120"
+      ],
+      "answer": "90"
+    },
+    {
+      "id": "C4Q70",
+      "statement": "Which of the following has the highest bond angle?",
+      "options": [
+        "\\(\\ce{OF2}\\)",
+        "\\(\\ce{Cl2O}\\)",
+        "\\(\\ce{H2S}\\)",
+        "\\(\\ce{H2O}\\)"
+      ],
+      "answer": "\\(\\ce{Cl2O}\\)"
+    },
+    {
+      "id": "C4Q71",
+      "statement": "The formal charge on carbon in \\(\\ce{CO}\\) is:",
+      "options": [
+        "\\(0\\)",
+        "\\(-1\\)",
+        "\\(+1\\)",
+        "\\(+2\\)"
+      ],
+      "answer": "\\(+1\\)"
+    },
+    {
+      "id": "C4Q72",
+      "statement": "Which molecule has the highest dipole moment?",
+      "options": [
+        "\\(\\ce{1,1-dichloroethene}\\)",
+        "\\(\\ce{trans-1,2-dichloroethene}\\)",
+        "\\(\\ce{cis-1,2-dichloroethene}\\)",
+        "\\(\\ce{trichloromethane}\\)"
+      ],
+      "answer": "\\(\\ce{cis-1,2-dichloroethene}\\)"
+    },
+    {
+      "id": "C4Q73",
+      "statement": "The hybridization of nitrogen in \\(\\ce{NO3-}\\) is:",
+      "options": [
+        "\\(sp\\)",
+        "\\(sp^3d\\)",
+        "\\(sp^3\\)",
+        "\\(sp^2\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q74",
+      "statement": "Which of the following has the highest percentage of ionic character?",
+      "options": [
+        "\\(\\ce{LiCl}\\)",
+        "\\(\\ce{LiBr}\\)",
+        "\\(\\ce{LiF}\\)",
+        "\\(\\ce{LiI}\\)"
+      ],
+      "answer": "\\(\\ce{LiF}\\)"
+    },
+    {
+      "id": "C4Q75",
+      "statement": "The number of pi bonds in \\(\\ce{SO3}\\) is:",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "answer": "1"
+    }
+  ],
+  "jee": [
+    {
+      "id": "C4Q76",
+      "statement": "The correct order of bond angles in \\(\\ce{PF3}\\), \\(\\ce{PH3}\\), and \\(\\ce{PCl3}\\) is:",
+      "options": [
+        "\\(\\ce{PH3} < \\ce{PCl3} < \\ce{PF3}\\)",
+        "\\(\\ce{PCl3} < \\ce{PF3} < \\ce{PH3}\\)",
+        "\\(\\ce{PF3} < \\ce{PH3} < \\ce{PCl3}\\)",
+        "\\(\\ce{PF3} < \\ce{PCl3} < \\ce{PH3}\\)"
+      ],
+      "answer": "\\(\\ce{PH3} < \\ce{PCl3} < \\ce{PF3}\\)"
+    },
+    {
+      "id": "C4Q77",
+      "statement": "The hybridization of central atom in \\(\\ce{XeO3}\\) is:",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3\\)",
+        "\\(sp^3d^2\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q78",
+      "statement": "Which of the following has the highest bond order?",
+      "options": [
+        "\\(\\ce{O2}\\)",
+        "\\(\\ce{N2}\\)",
+        "\\(\\ce{B2}\\)",
+        "\\(\\ce{C2}\\)"
+      ],
+      "answer": "\\(\\ce{N2}\\)"
+    },
+    {
+      "id": "C4Q79",
+      "statement": "The number of sigma and pi bonds in \\(\\ce{CH3-CH=CH-C≡CH}\\) are:",
+      "options": [
+        "\\(10\\sigma, 3\\pi\\)",
+        "\\(10\\sigma, 2\\pi\\)",
+        "\\(11\\sigma, 2\\pi\\)",
+        "\\(12\\sigma, 2\\pi\\)"
+      ],
+      "answer": "\\(10\\sigma, 3\\pi\\)"
+    },
+    {
+      "id": "C4Q80",
+      "statement": "Which hybrid orbitals are used by iron in \\(\\ce{Fe(CO)5}\\)?",
+      "options": [
+        "\\(d^2sp^3\\)",
+        "\\(dsp^3\\)",
+        "\\(sp^3\\)",
+        "\\(sp^3d\\)"
+      ],
+      "answer": "\\(dsp^3\\)"
+    },
+    {
+      "id": "C4Q81",
+      "statement": "The bond angle in \\(\\ce{XeF2}\\) is:",
+      "options": [
+        "\\(90^\\circ\\)",
+        "\\(180^\\circ\\)",
+        "\\(120^\\circ\\)",
+        "\\(90^\\circ\\) and \\(120^\\circ\\)"
+      ],
+      "answer": "\\(180^\\circ\\)"
+    },
+    {
+      "id": "C4Q82",
+      "statement": "Which of the following has the highest lattice energy?",
+      "options": [
+        "\\(\\ce{CaBr2}\\)",
+        "\\(\\ce{CaCl2}\\)",
+        "\\(\\ce{CaI2}\\)",
+        "\\(\\ce{CaF2}\\)"
+      ],
+      "answer": "\\(\\ce{CaF2}\\)"
+    },
+    {
+      "id": "C4Q83",
+      "statement": "The number of lone pairs in \\(\\ce{XeO2F2}\\) is:",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C4Q84",
+      "statement": "Which molecule has the shortest bond length?",
+      "options": [
+        "\\(\\ce{O2-}\\)",
+        "\\(\\ce{O2}\\)",
+        "\\(\\ce{O2+}\\)",
+        "\\(\\ce{O2^{2+}}\\)"
+      ],
+      "answer": "\\(\\ce{O2^{2+}}\\)"
+    },
+    {
+      "id": "C4Q85",
+      "statement": "The hybridization of carbon in \\(\\ce{CO2}\\) is:",
+      "options": [
+        "\\(sp^3\\)",
+        "\\(sp^2\\)",
+        "\\(sp\\)",
+        "\\(sp^3d\\)"
+      ],
+      "answer": "\\(sp\\)"
+    },
+    {
+      "id": "C4Q86",
+      "statement": "Which of the following has the highest dipole moment?",
+      "options": [
+        "\\(\\ce{m-dichlorobenzene}\\)",
+        "\\(\\ce{o-dichlorobenzene}\\)",
+        "\\(\\ce{monochlorobenzene}\\)",
+        "\\(\\ce{p-dichlorobenzene}\\)"
+      ],
+      "answer": "\\(\\ce{o-dichlorobenzene}\\)"
+    },
+    {
+      "id": "C4Q87",
+      "statement": "The bond order in \\(\\ce{C2}\\) molecule is:",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "C4Q88",
+      "statement": "Which hybrid orbitals are used by sulfur in \\(\\ce{SO2}\\)?",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3\\)",
+        "\\(sp\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q89",
+      "statement": "The number of pi bonds in \\(\\ce{C6H6}\\) (benzene) is:",
+      "options": [
+        "12",
+        "3",
+        "9",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "C4Q90",
+      "statement": "Which of the following has the highest percentage of ionic character?",
+      "options": [
+        "\\(\\ce{CsBr}\\)",
+        "\\(\\ce{CsI}\\)",
+        "\\(\\ce{CsCl}\\)",
+        "\\(\\ce{CsF}\\)"
+      ],
+      "answer": "\\(\\ce{CsF}\\)"
+    },
+    {
+      "id": "C4Q91",
+      "statement": "The formal charge on oxygen in ozone (\\(\\ce{O3}\\)) is:",
+      "options": [
+        "\\(+1\\)",
+        "\\(0\\)",
+        "\\(-1\\)",
+        "\\(+2\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "C4Q92",
+      "statement": "Which molecule has the largest bond angle?",
+      "options": [
+        "\\(\\ce{NH3}\\)",
+        "\\(\\ce{AsH3}\\)",
+        "\\(\\ce{SbH3}\\)",
+        "\\(\\ce{PH3}\\)"
+      ],
+      "answer": "\\(\\ce{NH3}\\)"
+    },
+    {
+      "id": "C4Q93",
+      "statement": "The hybridization of nitrogen in \\(\\ce{NH4+}\\) is:",
+      "options": [
+        "\\(sp^3d\\)",
+        "\\(sp\\)",
+        "\\(sp^2\\)",
+        "\\(sp^3\\)"
+      ],
+      "answer": "\\(sp^3\\)"
+    },
+    {
+      "id": "C4Q94",
+      "statement": "Which of the following has the highest covalent character?",
+      "options": [
+        "\\(\\ce{CaCl2}\\)",
+        "\\(\\ce{BeCl2}\\)",
+        "\\(\\ce{MgCl2}\\)",
+        "\\(\\ce{SrCl2}\\)"
+      ],
+      "answer": "\\(\\ce{BeCl2}\\)"
+    },
+    {
+      "id": "C4Q95",
+      "statement": "The number of sigma bonds in \\(\\ce{P4}\\) molecule is:",
+      "options": [
+        "12",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "C4Q96",
+      "statement": "Which of the following has the highest bond dissociation energy?",
+      "options": [
+        "\\(\\ce{I-I}\\)",
+        "\\(\\ce{Br-Br}\\)",
+        "\\(\\ce{Cl-Cl}\\)",
+        "\\(\\ce{F-F}\\)"
+      ],
+      "answer": "\\(\\ce{Cl-Cl}\\)"
+    },
+    {
+      "id": "C4Q97",
+      "statement": "The bond angle in \\(\\ce{SF4}\\) is:",
+      "options": [
+        "\\(90^\\circ\\) and \\(120^\\circ\\)",
+        "\\(90^\\circ\\) and \\(180^\\circ\\)",
+        "\\(120^\\circ\\) only",
+        "\\(180^\\circ\\) only"
+      ],
+      "answer": "\\(90^\\circ\\) and \\(180^\\circ\\)"
+    },
+    {
+      "id": "C4Q98",
+      "statement": "Which hybrid orbitals are used by carbon in \\(\\ce{C2H4}\\)?",
+      "options": [
+        "\\(sp^2\\)",
+        "\\(sp^3\\)",
+        "\\(sp\\)",
+        "\\(sp^3d\\)"
+      ],
+      "answer": "\\(sp^2\\)"
+    },
+    {
+      "id": "C4Q99",
+      "statement": "The number of lone pairs in \\(\\ce{SO2}\\) is:",
+      "options": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "C4Q100",
+      "statement": "Which of the following has the highest melting point?",
+      "options": [
+        "\\(\\ce{KCl}\\)",
+        "\\(\\ce{MgO}\\)",
+        "\\(\\ce{CaO}\\)",
+        "\\(\\ce{NaCl}\\)"
+      ],
+      "answer": "\\(\\ce{MgO}\\)"
+    }
+  ]
+}

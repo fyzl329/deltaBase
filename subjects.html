@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeltaBase | Subjects</title>
+    <!-- Resource hints -->
+  <link rel="preload" href="./styles.css" as="style">
+  <link rel="preload" href="./script.js" as="script">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+
+  <!-- Core styles -->
+  <link rel="stylesheet" href="./styles.css">
+
+  <!-- MathJax configuration and loading -->
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]], displayMath: [["\\[", "\\]"], ["$$", "$$"]] },
+      svg: { fontCache: "global" }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" defer></script>
+</head>
+<body data-page="subjects">
+  <header>
+    <div class="container header-inner">
+      <img src="./assets/deltabase-logo.svg" alt="DeltaBase" class="site-logo" />
+      <nav>
+        <a href="./index.html">Home</a>
+        <a href="profile.html">My Profile</a>
+        <a href="./subjects.html?subject=physics">Physics</a>
+        <a href="./subjects.html?subject=chemistry">Chemistry</a>
+        <a href="./subjects.html?subject=math">Math</a>
+        <a href="./subjects.html?subject=biology">Biology</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container" id="chapters">
+      <h2 id="subject-title"></h2>
+      <div id="chapter-grid" class="grid"></div>
+    </section>
+
+    <section id="quiz" class="hidden container">
+      <div class="quiz-card">
+        <div class="quiz-header">
+          <div class="quiz-title" id="quiz-title"></div>
+          <div class="timer" id="timer"></div>
+        </div>
+        <div id="quiz-root" class="quiz-slide"></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-overlay" id="settingsModal">
+    <div class="modal">
+      <h2>Test Settings</h2>
+      <div class="modal-controls">
+        <div class="modal-control">
+          <label for="difficulty">Difficulty Level</label>
+          <select id="difficulty">
+            <option value="normal">Normal</option>
+            <option value="moderate">Moderate</option>
+            <option value="hard">Hard</option>
+            <option value="jee">JEE</option>
+            <option value="neet">NEET</option>
+            <option value="mixed">Mixed Questions</option>
+          </select>
+        </div>
+        <div class="modal-control">
+          <label for="questionCount">Number of Questions</label>
+          <input type="number" id="questionCount" value="10" min="1" max="20" placeholder="Max 20 questions" />
+        </div>
+        <div class="modal-control">
+          <label for="minutes">Timer (minutes, 0 = disabled)</label>
+          <input type="number" id="minutes" value="0" min="0" />
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button id="cancelSettings" class="btn ghost">Cancel</button>
+        <button id="applySettings" class="btn">Start Test</button>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2025 DeltaBase • Built by Fayazul</p>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>

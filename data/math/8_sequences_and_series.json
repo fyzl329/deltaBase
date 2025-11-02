@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "chapter": "sequences_and_series",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 8,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M8Q1",
+      "statement": "Find \\(a_{10}\\) of the AP with first term \\(a_1=4\\) and common difference \\(d=7\\).",
+      "options": [
+        "74",
+        "81",
+        "67",
+        "60"
+      ],
+      "answer": "67"
+    },
+    {
+      "id": "M8Q2",
+      "statement": "Find \\(a_{11}\\) of the AP with first term \\(a_1=4\\) and common difference \\(d=7\\).",
+      "options": [
+        "67",
+        "88",
+        "74",
+        "81"
+      ],
+      "answer": "74"
+    },
+    {
+      "id": "M8Q3",
+      "statement": "Find \\(a_{12}\\) of the AP with first term \\(a_1=4\\) and common difference \\(d=7\\).",
+      "options": [
+        "88",
+        "74",
+        "81",
+        "95"
+      ],
+      "answer": "81"
+    },
+    {
+      "id": "M8Q4",
+      "statement": "Find \\(a_{13}\\) of the AP with first term \\(a_1=4\\) and common difference \\(d=7\\).",
+      "options": [
+        "95",
+        "81",
+        "102",
+        "88"
+      ],
+      "answer": "88"
+    },
+    {
+      "id": "M8Q5",
+      "statement": "Find \\(a_{14}\\) of the AP with first term \\(a_1=4\\) and common difference \\(d=7\\).",
+      "options": [
+        "88",
+        "102",
+        "95",
+        "109"
+      ],
+      "answer": "95"
+    },
+    {
+      "id": "M8Q6",
+      "statement": "Sum of first \\(10\\) terms of the AP with \\(a_1=4\\), \\(d=7\\) is:",
+      "options": [
+        "355",
+        "362",
+        "348",
+        "369"
+      ],
+      "answer": "355"
+    },
+    {
+      "id": "M8Q7",
+      "statement": "Sum of first \\(12\\) terms of the AP with \\(a_1=4\\), \\(d=7\\) is:",
+      "options": [
+        "524",
+        "510",
+        "503",
+        "517"
+      ],
+      "answer": "510"
+    },
+    {
+      "id": "M8Q8",
+      "statement": "In the AP with \\(a_1=4\\), \\(d=7\\), the last term \\(l=125\\). Find \\(n\\).",
+      "options": [
+        "17",
+        "18",
+        "20",
+        "19"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": "M8Q9",
+      "statement": "The \\(6\\)th term of the GP \\(3, 6, 12,\\dots\\) is:",
+      "options": [
+        "96",
+        "98",
+        "48",
+        "192"
+      ],
+      "answer": "96"
+    },
+    {
+      "id": "M8Q10",
+      "statement": "The \\(8\\)th term of the GP \\(3, 6, 12,\\dots\\) is:",
+      "options": [
+        "192",
+        "386",
+        "768",
+        "384"
+      ],
+      "answer": "384"
+    },
+    {
+      "id": "M8Q11",
+      "statement": "Sum of first \\(6\\) terms of the GP with \\(a=3\\), \\(r=2\\) equals:",
+      "options": [
+        "187",
+        "189",
+        "191",
+        "94.5"
+      ],
+      "answer": "189"
+    },
+    {
+      "id": "M8Q12",
+      "statement": "Sum to infinity of the GP with \\(a=12\\) and \\(r=\\tfrac{2}{3}\\) (|r|<1) is:",
+      "options": [
+        "39",
+        "36",
+        "33",
+        "72"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": "M8Q13",
+      "statement": "Between 5 and 41, 6 arithmetic means are inserted. The 3rd mean is:",
+      "options": [
+        "15.285714285714286",
+        "23",
+        "20.42857142857143",
+        "25.571428571428573"
+      ],
+      "answer": "20.42857142857143"
+    },
+    {
+      "id": "M8Q14",
+      "statement": "In an AP, \\(a_3=17\\) and \\(a_9=53\\). Find the common difference \\(d\\).",
+      "options": [
+        "6",
+        "7",
+        "12",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "M8Q15",
+      "statement": "In an AP, \\(a_{20}=79\\) with \\(d=4\\). Find \\(a_1\\).",
+      "options": [
+        "3",
+        "79",
+        "-1",
+        "7"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M8Q16",
+      "statement": "Sum of first \\(25\\) odd natural numbers equals:",
+      "options": [
+        "50",
+        "1225",
+        "625",
+        "325"
+      ],
+      "answer": "625"
+    },
+    {
+      "id": "M8Q17",
+      "statement": "In a GP, \\(a_2=12\\) and \\(a_5=96\\). The common ratio is:",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0.5"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "M8Q18",
+      "statement": "For the AP with \\(a_1=7, d=5, n=20\\) and \\(S_n=1090\\), the last term \\(l\\) is:",
+      "options": [
+        "102",
+        "97",
+        "54.5",
+        "107"
+      ],
+      "answer": "102"
+    },
+    {
+      "id": "M8Q19",
+      "statement": "Sequence 4, 7, 10, 13, ... is:",
+      "options": [
+        "AP with d=3",
+        "HP",
+        "Neither",
+        "GP with r=\\(\\tfrac{7}{4}\\)"
+      ],
+      "answer": "AP with d=3"
+    },
+    {
+      "id": "M8Q20",
+      "statement": "If \\(S_n=3n^2+n\\) is the sum of an AP, \\(a_{10}=\\):",
+      "options": [
+        "31",
+        "64",
+        "58",
+        "52"
+      ],
+      "answer": "58"
+    },
+    {
+      "id": "M8Q21",
+      "statement": "The geometric mean between 9 and 36 is:",
+      "options": [
+        "22.5",
+        "18",
+        "9",
+        "36"
+      ],
+      "answer": "18"
+    },
+    {
+      "id": "M8Q22",
+      "statement": "Sum of first \\(5\\) terms of the GP with \\(a=27\\), \\(r=\\tfrac{1}{3}\\) is:",
+      "options": [
+        "\\(\\frac{242}{3}\\)",
+        "\\(\\frac{130}{3}\\)",
+        "\\(\\frac{121}{3}\\)",
+        "\\(\\frac{112}{3}\\)"
+      ],
+      "answer": "\\(\\frac{121}{3}\\)"
+    },
+    {
+      "id": "M8Q23",
+      "statement": "For AP with \\(a_1=-11, d=2\\), find \\(n\\) such that \\(a_n=1\\).",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "M8Q24",
+      "statement": "The \\(7\\)th term of the GP with \\(a=5, r=3\\) is:",
+      "options": [
+        "3646",
+        "3645",
+        "10935",
+        "1215"
+      ],
+      "answer": "3645"
+    },
+    {
+      "id": "M8Q25",
+      "statement": "For AP with \\(a_1=2, d=3\\), find \\(n\\) such that \\(S_n=155\\).",
+      "options": [
+        "9",
+        "12",
+        "11",
+        "10"
+      ],
+      "answer": "10"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M8Q26",
+      "statement": "Between 12 and 60, 4 arithmetic means are inserted. The common difference is:",
+      "options": [
+        "9.6",
+        "8.6",
+        "10.6",
+        "19.2"
+      ],
+      "answer": "9.6"
+    },
+    {
+      "id": "M8Q27",
+      "statement": "In an AP, \\(a_3=14\\) and \\(a_{15}=62\\). Find \\(a_1\\).",
+      "options": [
+        "8",
+        "4",
+        "10",
+        "6"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "M8Q28",
+      "statement": "In an AP with \\(n=20, S_n=730, l=77\\), the first term \\(a_1\\) equals:",
+      "options": [
+        "-6",
+        "77",
+        "-2",
+        "-4"
+      ],
+      "answer": "-4"
+    },
+    {
+      "id": "M8Q29",
+      "statement": "In a GP, \\(a_4=81\\) and \\(a_7=2187\\). Find the first term \\(a\\).",
+      "options": [
+        "1",
+        "9",
+        "6",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M8Q30",
+      "statement": "Sum of first \\(25\\) terms of AP with \\(a_1=5, d=4\\) equals:",
+      "options": [
+        "1375",
+        "1325",
+        "1275",
+        "1329"
+      ],
+      "answer": "1325"
+    },
+    {
+      "id": "M8Q31",
+      "statement": "In AP with \\(a_1=9, d=5\\), find number of terms up to \\(a_n=104\\).",
+      "options": [
+        "19",
+        "21",
+        "20",
+        "22"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": "M8Q32",
+      "statement": "For a convergent GP with \\(a=12\\), if \\(S_\\infty=15\\), the common ratio \\(r\\) is:",
+      "options": [
+        "\\(\\frac{2}{5}\\)",
+        "\\(\\frac{3}{5}\\)",
+        "\\(\\frac{1}{5}\\)",
+        "\\(\\frac{1}{5}\\)"
+      ],
+      "answer": "\\(\\frac{1}{5}\\)"
+    },
+    {
+      "id": "M8Q33",
+      "statement": "Two positive numbers have arithmetic mean 10 and geometric mean 8. Their harmonic mean is:",
+      "options": [
+        "\\(\\frac{80}{17}\\)",
+        "8",
+        "\\(\\frac{80}{9}\\)",
+        "9"
+      ],
+      "answer": "\\(\\frac{80}{9}\\)"
+    },
+    {
+      "id": "M8Q34",
+      "statement": "Compute \\(1^2+2^2+\\cdots+15^2\\).",
+      "options": [
+        "120",
+        "1240",
+        "1255",
+        "1015"
+      ],
+      "answer": "1240"
+    },
+    {
+      "id": "M8Q35",
+      "statement": "Compute \\(1^3+2^3+\\cdots+12^3\\).",
+      "options": [
+        "650",
+        "7812",
+        "6084",
+        "4356"
+      ],
+      "answer": "6084"
+    },
+    {
+      "id": "M8Q36",
+      "statement": "A staircase has riser heights forming an AP: first 12 cm, last 21.5 cm, 20 steps. Average height is:",
+      "options": [
+        "21.5",
+        "18.333333333333332",
+        "16.75",
+        "12"
+      ],
+      "answer": "16.75"
+    },
+    {
+      "id": "M8Q37",
+      "statement": "In a GP with first term 5, the ratio \\(\\dfrac{S_4}{S_2}\\) equals:",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "M8Q38",
+      "statement": "Sequence with \\(a_n=\\dfrac{3n+1}{2}\\) is:",
+      "options": [
+        "AP with d=\\(\\tfrac{3}{2}\\)",
+        "Neither",
+        "GP",
+        "HP"
+      ],
+      "answer": "AP with d=\\(\\tfrac{3}{2}\\)"
+    },
+    {
+      "id": "M8Q39",
+      "statement": "For AP with \\(S_n=2n^2+3n\\), the term \\(a_{20}\\) equals:",
+      "options": [
+        "85",
+        "43",
+        "77",
+        "81"
+      ],
+      "answer": "81"
+    },
+    {
+      "id": "M8Q40",
+      "statement": "In a GP with \\(a=2\\), if \\(S_3=26.0\\) and \\(S_6=728.0\\), the common ratio is:",
+      "options": [
+        "2",
+        "0.3333333333333333",
+        "4",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M8Q41",
+      "statement": "If 3, b, 6 are in HP, then b equals:",
+      "options": [
+        "4.242640687119285",
+        "\\(\\frac{9}{2}\\)",
+        "9",
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "M8Q42",
+      "statement": "In an AP with first term 8, last term 44, number of terms 10, the sum is:",
+      "options": [
+        "250",
+        "260",
+        "270",
+        "52"
+      ],
+      "answer": "260"
+    },
+    {
+      "id": "M8Q43",
+      "statement": "In a GP with \\(a=4, r=2, n=7\\), the middle term equals:",
+      "options": [
+        "32",
+        "32",
+        "256",
+        "8"
+      ],
+      "answer": "32"
+    },
+    {
+      "id": "M8Q44",
+      "statement": "For an AP, if \\(S_8=136\\) and \\(S_{12}=300\\), the common difference is:",
+      "options": [
+        "8",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "M8Q45",
+      "statement": "If \\(S_n\\) is quadratic in \\(n\\), the sequence is:",
+      "options": [
+        "A GP",
+        "Neither",
+        "An AP",
+        "An HP"
+      ],
+      "answer": "An AP"
+    },
+    {
+      "id": "M8Q46",
+      "statement": "Sum of first 4 terms of GP 9, 3, 1, ... equals:",
+      "options": [
+        "\\(\\frac{80}{3}\\)",
+        "\\(\\frac{37}{3}\\)",
+        "\\(\\frac{40}{3}\\)",
+        "\\(\\frac{43}{3}\\)"
+      ],
+      "answer": "\\(\\frac{40}{3}\\)"
+    },
+    {
+      "id": "M8Q47",
+      "statement": "A salary starts at \\text{INR}25000 and increases by \\text{INR}1500 yearly (AP). Total earnings over 10 years:",
+      "options": [
+        "332500",
+        "250000",
+        "302500",
+        "317500"
+      ],
+      "answer": "317500"
+    },
+    {
+      "id": "M8Q48",
+      "statement": "Compound growth: starting at 10000 and growing by 10% yearly, amount after 5 years:",
+      "options": [
+        "17715.610000000008",
+        "16105.100000000006",
+        "14641",
+        "14641"
+      ],
+      "answer": "16105.100000000006"
+    },
+    {
+      "id": "M8Q49",
+      "statement": "In AP \\(a_1=2, d=7\\), find position of term equal to 86.",
+      "options": [
+        "11",
+        "15",
+        "13",
+        "14"
+      ],
+      "answer": "13"
+    },
+    {
+      "id": "M8Q50",
+      "statement": "In a GP with \\(a=6\\), if \\(S_2=18.0\\) and \\(S_3=42.0\\), then \\(r\\) equals:",
+      "options": [
+        "2",
+        "3",
+        "0.5",
+        "1"
+      ],
+      "answer": "2"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M8Q51",
+      "statement": "Sum of first \\(10\\) multiples of 5 equals:",
+      "options": [
+        "275",
+        "280",
+        "500",
+        "270"
+      ],
+      "answer": "275"
+    },
+    {
+      "id": "M8Q52",
+      "statement": "Sum of first \\(11\\) multiples of 5 equals:",
+      "options": [
+        "330",
+        "335",
+        "605",
+        "325"
+      ],
+      "answer": "330"
+    },
+    {
+      "id": "M8Q53",
+      "statement": "Sum of first \\(12\\) multiples of 5 equals:",
+      "options": [
+        "720",
+        "390",
+        "395",
+        "385"
+      ],
+      "answer": "390"
+    },
+    {
+      "id": "M8Q54",
+      "statement": "Sum of first \\(13\\) multiples of 5 equals:",
+      "options": [
+        "460",
+        "450",
+        "455",
+        "845"
+      ],
+      "answer": "455"
+    },
+    {
+      "id": "M8Q55",
+      "statement": "Sum of first \\(14\\) multiples of 5 equals:",
+      "options": [
+        "520",
+        "525",
+        "530",
+        "980"
+      ],
+      "answer": "525"
+    },
+    {
+      "id": "M8Q56",
+      "statement": "Sum of first \\(10\\) multiples of 5 equals:",
+      "options": [
+        "500",
+        "280",
+        "275",
+        "270"
+      ],
+      "answer": "275"
+    },
+    {
+      "id": "M8Q57",
+      "statement": "Sum of first \\(11\\) multiples of 5 equals:",
+      "options": [
+        "605",
+        "330",
+        "335",
+        "325"
+      ],
+      "answer": "330"
+    },
+    {
+      "id": "M8Q58",
+      "statement": "Sum of first \\(12\\) multiples of 5 equals:",
+      "options": [
+        "390",
+        "720",
+        "385",
+        "395"
+      ],
+      "answer": "390"
+    },
+    {
+      "id": "M8Q59",
+      "statement": "Sum of first \\(13\\) multiples of 5 equals:",
+      "options": [
+        "455",
+        "460",
+        "845",
+        "450"
+      ],
+      "answer": "455"
+    },
+    {
+      "id": "M8Q60",
+      "statement": "Sum of first \\(14\\) multiples of 5 equals:",
+      "options": [
+        "980",
+        "530",
+        "525",
+        "520"
+      ],
+      "answer": "525"
+    },
+    {
+      "id": "M8Q61",
+      "statement": "Sum of first \\(10\\) multiples of 5 equals:",
+      "options": [
+        "500",
+        "270",
+        "275",
+        "280"
+      ],
+      "answer": "275"
+    },
+    {
+      "id": "M8Q62",
+      "statement": "Sum of first \\(11\\) multiples of 5 equals:",
+      "options": [
+        "605",
+        "330",
+        "325",
+        "335"
+      ],
+      "answer": "330"
+    },
+    {
+      "id": "M8Q63",
+      "statement": "Sum of first \\(12\\) multiples of 5 equals:",
+      "options": [
+        "385",
+        "720",
+        "395",
+        "390"
+      ],
+      "answer": "390"
+    },
+    {
+      "id": "M8Q64",
+      "statement": "Sum of first \\(13\\) multiples of 5 equals:",
+      "options": [
+        "455",
+        "460",
+        "450",
+        "845"
+      ],
+      "answer": "455"
+    },
+    {
+      "id": "M8Q65",
+      "statement": "Sum of first \\(14\\) multiples of 5 equals:",
+      "options": [
+        "525",
+        "980",
+        "520",
+        "530"
+      ],
+      "answer": "525"
+    },
+    {
+      "id": "M8Q66",
+      "statement": "Sum of first \\(10\\) multiples of 5 equals:",
+      "options": [
+        "270",
+        "275",
+        "280",
+        "500"
+      ],
+      "answer": "275"
+    },
+    {
+      "id": "M8Q67",
+      "statement": "Sum of first \\(11\\) multiples of 5 equals:",
+      "options": [
+        "325",
+        "335",
+        "605",
+        "330"
+      ],
+      "answer": "330"
+    },
+    {
+      "id": "M8Q68",
+      "statement": "Sum of first \\(12\\) multiples of 5 equals:",
+      "options": [
+        "720",
+        "395",
+        "390",
+        "385"
+      ],
+      "answer": "390"
+    },
+    {
+      "id": "M8Q69",
+      "statement": "Sum of first \\(13\\) multiples of 5 equals:",
+      "options": [
+        "455",
+        "845",
+        "450",
+        "460"
+      ],
+      "answer": "455"
+    },
+    {
+      "id": "M8Q70",
+      "statement": "Sum of first \\(14\\) multiples of 5 equals:",
+      "options": [
+        "525",
+        "980",
+        "520",
+        "530"
+      ],
+      "answer": "525"
+    },
+    {
+      "id": "M8Q71",
+      "statement": "Sum of first \\(10\\) multiples of 5 equals:",
+      "options": [
+        "500",
+        "280",
+        "275",
+        "270"
+      ],
+      "answer": "275"
+    },
+    {
+      "id": "M8Q72",
+      "statement": "Sum of first \\(11\\) multiples of 5 equals:",
+      "options": [
+        "330",
+        "325",
+        "605",
+        "335"
+      ],
+      "answer": "330"
+    },
+    {
+      "id": "M8Q73",
+      "statement": "Sum of first \\(12\\) multiples of 5 equals:",
+      "options": [
+        "720",
+        "390",
+        "395",
+        "385"
+      ],
+      "answer": "390"
+    },
+    {
+      "id": "M8Q74",
+      "statement": "Sum of first \\(13\\) multiples of 5 equals:",
+      "options": [
+        "460",
+        "455",
+        "845",
+        "450"
+      ],
+      "answer": "455"
+    },
+    {
+      "id": "M8Q75",
+      "statement": "Sum of first \\(14\\) multiples of 5 equals:",
+      "options": [
+        "525",
+        "520",
+        "530",
+        "980"
+      ],
+      "answer": "525"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M8Q76",
+      "statement": "Compute \\(\\sum_{r=1}^6 r\\cdot 2^{r-1}\\) for \\(n=6\\).",
+      "options": [
+        "385",
+        "321",
+        "257",
+        "192"
+      ],
+      "answer": "321"
+    },
+    {
+      "id": "M8Q77",
+      "statement": "Compute \\(\\sum_{r=1}^7 r\\cdot 2^{r-1}\\) for \\(n=7\\).",
+      "options": [
+        "769",
+        "448",
+        "641",
+        "897"
+      ],
+      "answer": "769"
+    },
+    {
+      "id": "M8Q78",
+      "statement": "Compute \\(\\sum_{r=1}^8 r\\cdot 2^{r-1}\\) for \\(n=8\\).",
+      "options": [
+        "1024",
+        "2049",
+        "1537",
+        "1793"
+      ],
+      "answer": "1793"
+    },
+    {
+      "id": "M8Q79",
+      "statement": "Compute \\(\\sum_{r=1}^9 r\\cdot 2^{r-1}\\) for \\(n=9\\).",
+      "options": [
+        "4609",
+        "2304",
+        "4097",
+        "3585"
+      ],
+      "answer": "4097"
+    },
+    {
+      "id": "M8Q80",
+      "statement": "Compute \\(\\sum_{r=1}^10 r\\cdot 2^{r-1}\\) for \\(n=10\\).",
+      "options": [
+        "10241",
+        "9217",
+        "8193",
+        "5120"
+      ],
+      "answer": "9217"
+    },
+    {
+      "id": "M8Q81",
+      "statement": "Compute \\(\\sum_{r=1}^11 r\\cdot 2^{r-1}\\) for \\(n=11\\).",
+      "options": [
+        "18433",
+        "20481",
+        "11264",
+        "22529"
+      ],
+      "answer": "20481"
+    },
+    {
+      "id": "M8Q82",
+      "statement": "Compute \\(\\sum_{r=1}^6 r\\cdot 2^{r-1}\\) for \\(n=6\\).",
+      "options": [
+        "192",
+        "257",
+        "321",
+        "385"
+      ],
+      "answer": "321"
+    },
+    {
+      "id": "M8Q83",
+      "statement": "Compute \\(\\sum_{r=1}^7 r\\cdot 2^{r-1}\\) for \\(n=7\\).",
+      "options": [
+        "448",
+        "897",
+        "641",
+        "769"
+      ],
+      "answer": "769"
+    },
+    {
+      "id": "M8Q84",
+      "statement": "Compute \\(\\sum_{r=1}^8 r\\cdot 2^{r-1}\\) for \\(n=8\\).",
+      "options": [
+        "1537",
+        "1793",
+        "2049",
+        "1024"
+      ],
+      "answer": "1793"
+    },
+    {
+      "id": "M8Q85",
+      "statement": "Compute \\(\\sum_{r=1}^9 r\\cdot 2^{r-1}\\) for \\(n=9\\).",
+      "options": [
+        "4097",
+        "2304",
+        "3585",
+        "4609"
+      ],
+      "answer": "4097"
+    },
+    {
+      "id": "M8Q86",
+      "statement": "Compute \\(\\sum_{r=1}^10 r\\cdot 2^{r-1}\\) for \\(n=10\\).",
+      "options": [
+        "5120",
+        "8193",
+        "9217",
+        "10241"
+      ],
+      "answer": "9217"
+    },
+    {
+      "id": "M8Q87",
+      "statement": "Compute \\(\\sum_{r=1}^11 r\\cdot 2^{r-1}\\) for \\(n=11\\).",
+      "options": [
+        "22529",
+        "11264",
+        "20481",
+        "18433"
+      ],
+      "answer": "20481"
+    },
+    {
+      "id": "M8Q88",
+      "statement": "Compute \\(\\sum_{r=1}^6 r\\cdot 2^{r-1}\\) for \\(n=6\\).",
+      "options": [
+        "385",
+        "192",
+        "257",
+        "321"
+      ],
+      "answer": "321"
+    },
+    {
+      "id": "M8Q89",
+      "statement": "Compute \\(\\sum_{r=1}^7 r\\cdot 2^{r-1}\\) for \\(n=7\\).",
+      "options": [
+        "769",
+        "641",
+        "897",
+        "448"
+      ],
+      "answer": "769"
+    },
+    {
+      "id": "M8Q90",
+      "statement": "Compute \\(\\sum_{r=1}^8 r\\cdot 2^{r-1}\\) for \\(n=8\\).",
+      "options": [
+        "1537",
+        "2049",
+        "1793",
+        "1024"
+      ],
+      "answer": "1793"
+    },
+    {
+      "id": "M8Q91",
+      "statement": "Compute \\(\\sum_{r=1}^9 r\\cdot 2^{r-1}\\) for \\(n=9\\).",
+      "options": [
+        "4609",
+        "2304",
+        "4097",
+        "3585"
+      ],
+      "answer": "4097"
+    },
+    {
+      "id": "M8Q92",
+      "statement": "Compute \\(\\sum_{r=1}^10 r\\cdot 2^{r-1}\\) for \\(n=10\\).",
+      "options": [
+        "9217",
+        "5120",
+        "8193",
+        "10241"
+      ],
+      "answer": "9217"
+    },
+    {
+      "id": "M8Q93",
+      "statement": "Compute \\(\\sum_{r=1}^11 r\\cdot 2^{r-1}\\) for \\(n=11\\).",
+      "options": [
+        "22529",
+        "20481",
+        "11264",
+        "18433"
+      ],
+      "answer": "20481"
+    },
+    {
+      "id": "M8Q94",
+      "statement": "Compute \\(\\sum_{r=1}^6 r\\cdot 2^{r-1}\\) for \\(n=6\\).",
+      "options": [
+        "192",
+        "385",
+        "257",
+        "321"
+      ],
+      "answer": "321"
+    },
+    {
+      "id": "M8Q95",
+      "statement": "Compute \\(\\sum_{r=1}^7 r\\cdot 2^{r-1}\\) for \\(n=7\\).",
+      "options": [
+        "769",
+        "448",
+        "897",
+        "641"
+      ],
+      "answer": "769"
+    },
+    {
+      "id": "M8Q96",
+      "statement": "Compute \\(\\sum_{r=1}^8 r\\cdot 2^{r-1}\\) for \\(n=8\\).",
+      "options": [
+        "1793",
+        "1024",
+        "1537",
+        "2049"
+      ],
+      "answer": "1793"
+    },
+    {
+      "id": "M8Q97",
+      "statement": "Compute \\(\\sum_{r=1}^9 r\\cdot 2^{r-1}\\) for \\(n=9\\).",
+      "options": [
+        "2304",
+        "4609",
+        "4097",
+        "3585"
+      ],
+      "answer": "4097"
+    },
+    {
+      "id": "M8Q98",
+      "statement": "Compute \\(\\sum_{r=1}^10 r\\cdot 2^{r-1}\\) for \\(n=10\\).",
+      "options": [
+        "9217",
+        "5120",
+        "8193",
+        "10241"
+      ],
+      "answer": "9217"
+    },
+    {
+      "id": "M8Q99",
+      "statement": "Compute \\(\\sum_{r=1}^11 r\\cdot 2^{r-1}\\) for \\(n=11\\).",
+      "options": [
+        "20481",
+        "22529",
+        "11264",
+        "18433"
+      ],
+      "answer": "20481"
+    },
+    {
+      "id": "M8Q100",
+      "statement": "Compute \\(\\sum_{r=1}^6 r\\cdot 2^{r-1}\\) for \\(n=6\\).",
+      "options": [
+        "385",
+        "321",
+        "192",
+        "257"
+      ],
+      "answer": "321"
+    }
+  ]
+}

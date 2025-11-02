@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Profile – DeltaBase</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <nav>
+    <div class="nav-container">
+      <div class="nav-left">
+       <img src="./assets/deltabase-logo.svg" alt="DeltaBase" class="site-logo" />
+      </div>
+      <div class="nav-right">
+        <a href="index.html">Home</a>
+        <a href="subjects.html">Subjects</a>
+        <a href="profile.html" class="active">My Profile</a>
+      </div>
+    </div>
+  </nav>
+
+  <main id="profile-root" class="fade-in">
+    <div class="profile-wrapper">
+
+        <div class="profile-header">
+        <h1>My Profile</h1>
+        <div id="name-section" class="name-section">
+            <label for="username">Display Name:</label>
+            <input id="username" type="text" placeholder="Enter your name" />
+            <button id="saveName" class="btn small">Save</button>
+        </div>
+        <p id="saveStatus" class="save-status"></p>
+        </div>
+
+        <div id="summary"></div>
+    </div>
+
+    <div class="profile-controls">
+        <button class="btn" onclick="location.href='subjects.html'">← Back to Subjects</button>
+        <button class="btn ghost" onclick="window.Profile.resetProfile()">Reset Profile</button>
+    </div>
+    </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+  <script src="profile.js"></script>
+</body>
+</html>

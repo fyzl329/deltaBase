@@ -1,0 +1,1210 @@
+{
+  "normal": [
+    {
+      "id": "M4Q1",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "1",
+        "-1",
+        "-i",
+        "i"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q2",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "1",
+        "i",
+        "-1",
+        "-i"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q3",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "1",
+        "i",
+        "-i",
+        "-1"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q4",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "-1",
+        "-i",
+        "1",
+        "i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q5",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "-i",
+        "i",
+        "-1",
+        "1"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q6",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "i",
+        "-i",
+        "-1",
+        "1"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q7",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "-i",
+        "-1",
+        "1",
+        "i"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q8",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "i",
+        "-1",
+        "1",
+        "-i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q9",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "-1",
+        "1",
+        "i",
+        "-i"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q10",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "i",
+        "1",
+        "-i",
+        "-1"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q11",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "1",
+        "i",
+        "-1",
+        "-i"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q12",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "-1",
+        "i",
+        "1",
+        "-i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q13",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "-i",
+        "1",
+        "-1",
+        "i"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q14",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "-i",
+        "1",
+        "-1",
+        "i"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q15",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "1",
+        "i",
+        "-1",
+        "-i"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q16",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "1",
+        "-1",
+        "i",
+        "-i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q17",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "1",
+        "i",
+        "-1",
+        "-i"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q18",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "-1",
+        "-i",
+        "i",
+        "1"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q19",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "-1",
+        "1",
+        "i",
+        "-i"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q20",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "1",
+        "-1",
+        "i",
+        "-i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q21",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "i",
+        "-1",
+        "1",
+        "-i"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q22",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{3}\\)?",
+      "options": [
+        "-1",
+        "1",
+        "-i",
+        "i"
+      ],
+      "answer": "-i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q23",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{4}\\)?",
+      "options": [
+        "-1",
+        "1",
+        "i",
+        "-i"
+      ],
+      "answer": "1",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q24",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{1}\\)?",
+      "options": [
+        "1",
+        "-i",
+        "-1",
+        "i"
+      ],
+      "answer": "i",
+      "type": "conceptual"
+    },
+    {
+      "id": "M4Q25",
+      "statement": "If \\(i^2 = -1\\), then what is the value of \\(i^{2}\\)?",
+      "options": [
+        "-i",
+        "i",
+        "-1",
+        "1"
+      ],
+      "answer": "-1",
+      "type": "conceptual"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M4Q26",
+      "statement": "Find the modulus of \\(z = 6 + 1i\\).",
+      "options": [
+        "6",
+        "\\sqrt{37}",
+        "37",
+        "7"
+      ],
+      "answer": "\\sqrt{37}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q27",
+      "statement": "Find the modulus of \\(z = 7 + 2i\\).",
+      "options": [
+        "\\sqrt{53}",
+        "9",
+        "53",
+        "7"
+      ],
+      "answer": "\\sqrt{53}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q28",
+      "statement": "Find the modulus of \\(z = 8 + 3i\\).",
+      "options": [
+        "\\sqrt{73}",
+        "73",
+        "8",
+        "11"
+      ],
+      "answer": "\\sqrt{73}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q29",
+      "statement": "Find the modulus of \\(z = 9 + 4i\\).",
+      "options": [
+        "\\sqrt{97}",
+        "13",
+        "9",
+        "97"
+      ],
+      "answer": "\\sqrt{97}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q30",
+      "statement": "Find the modulus of \\(z = 10 + 5i\\).",
+      "options": [
+        "125",
+        "15",
+        "\\sqrt{125}",
+        "10"
+      ],
+      "answer": "\\sqrt{125}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q31",
+      "statement": "Find the modulus of \\(z = 11 + 6i\\).",
+      "options": [
+        "17",
+        "11",
+        "\\sqrt{157}",
+        "157"
+      ],
+      "answer": "\\sqrt{157}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q32",
+      "statement": "Find the modulus of \\(z = 12 + 7i\\).",
+      "options": [
+        "19",
+        "12",
+        "193",
+        "\\sqrt{193}"
+      ],
+      "answer": "\\sqrt{193}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q33",
+      "statement": "Find the modulus of \\(z = 13 + 8i\\).",
+      "options": [
+        "21",
+        "13",
+        "\\sqrt{233}",
+        "233"
+      ],
+      "answer": "\\sqrt{233}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q34",
+      "statement": "Find the modulus of \\(z = 14 + 9i\\).",
+      "options": [
+        "277",
+        "14",
+        "\\sqrt{277}",
+        "23"
+      ],
+      "answer": "\\sqrt{277}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q35",
+      "statement": "Find the modulus of \\(z = 15 + 10i\\).",
+      "options": [
+        "15",
+        "325",
+        "\\sqrt{325}",
+        "25"
+      ],
+      "answer": "\\sqrt{325}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q36",
+      "statement": "Find the modulus of \\(z = 16 + 11i\\).",
+      "options": [
+        "16",
+        "27",
+        "\\sqrt{377}",
+        "377"
+      ],
+      "answer": "\\sqrt{377}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q37",
+      "statement": "Find the modulus of \\(z = 17 + 12i\\).",
+      "options": [
+        "433",
+        "\\sqrt{433}",
+        "29",
+        "17"
+      ],
+      "answer": "\\sqrt{433}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q38",
+      "statement": "Find the modulus of \\(z = 18 + 13i\\).",
+      "options": [
+        "31",
+        "493",
+        "18",
+        "\\sqrt{493}"
+      ],
+      "answer": "\\sqrt{493}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q39",
+      "statement": "Find the modulus of \\(z = 19 + 14i\\).",
+      "options": [
+        "33",
+        "557",
+        "\\sqrt{557}",
+        "19"
+      ],
+      "answer": "\\sqrt{557}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q40",
+      "statement": "Find the modulus of \\(z = 20 + 15i\\).",
+      "options": [
+        "20",
+        "\\sqrt{625}",
+        "625",
+        "35"
+      ],
+      "answer": "\\sqrt{625}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q41",
+      "statement": "Find the modulus of \\(z = 21 + 16i\\).",
+      "options": [
+        "37",
+        "697",
+        "\\sqrt{697}",
+        "21"
+      ],
+      "answer": "\\sqrt{697}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q42",
+      "statement": "Find the modulus of \\(z = 22 + 17i\\).",
+      "options": [
+        "22",
+        "\\sqrt{773}",
+        "773",
+        "39"
+      ],
+      "answer": "\\sqrt{773}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q43",
+      "statement": "Find the modulus of \\(z = 23 + 18i\\).",
+      "options": [
+        "853",
+        "\\sqrt{853}",
+        "23",
+        "41"
+      ],
+      "answer": "\\sqrt{853}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q44",
+      "statement": "Find the modulus of \\(z = 24 + 19i\\).",
+      "options": [
+        "937",
+        "\\sqrt{937}",
+        "24",
+        "43"
+      ],
+      "answer": "\\sqrt{937}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q45",
+      "statement": "Find the modulus of \\(z = 25 + 20i\\).",
+      "options": [
+        "25",
+        "45",
+        "\\sqrt{1025}",
+        "1025"
+      ],
+      "answer": "\\sqrt{1025}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q46",
+      "statement": "Find the modulus of \\(z = 26 + 21i\\).",
+      "options": [
+        "\\sqrt{1117}",
+        "47",
+        "26",
+        "1117"
+      ],
+      "answer": "\\sqrt{1117}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q47",
+      "statement": "Find the modulus of \\(z = 27 + 22i\\).",
+      "options": [
+        "27",
+        "49",
+        "1213",
+        "\\sqrt{1213}"
+      ],
+      "answer": "\\sqrt{1213}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q48",
+      "statement": "Find the modulus of \\(z = 28 + 23i\\).",
+      "options": [
+        "28",
+        "1313",
+        "51",
+        "\\sqrt{1313}"
+      ],
+      "answer": "\\sqrt{1313}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q49",
+      "statement": "Find the modulus of \\(z = 29 + 24i\\).",
+      "options": [
+        "\\sqrt{1417}",
+        "29",
+        "1417",
+        "53"
+      ],
+      "answer": "\\sqrt{1417}",
+      "type": "numerical"
+    },
+    {
+      "id": "M4Q50",
+      "statement": "Find the modulus of \\(z = 30 + 25i\\).",
+      "options": [
+        "30",
+        "\\sqrt{1525}",
+        "1525",
+        "55"
+      ],
+      "answer": "\\sqrt{1525}",
+      "type": "numerical"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M4Q51",
+      "statement": "If \\(z = 11(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "11^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "11^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "11(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None"
+      ],
+      "answer": "11^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q52",
+      "statement": "If \\(z = 12(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "12^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "12^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "None",
+        "12(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "12^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q53",
+      "statement": "If \\(z = 13(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "13^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "13(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "13^3(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "13^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q54",
+      "statement": "If \\(z = 14(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "14(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "14^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "14^3(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "14^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q55",
+      "statement": "If \\(z = 15(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "15(\\cos 3\\theta + i\\sin 3\\theta)",
+        "15^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "15^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None"
+      ],
+      "answer": "15^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q56",
+      "statement": "If \\(z = 16(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "16^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "16(\\cos 3\\theta + i\\sin 3\\theta)",
+        "16^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "16^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q57",
+      "statement": "If \\(z = 17(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "17^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "17(\\cos 3\\theta + i\\sin 3\\theta)",
+        "17^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "17^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q58",
+      "statement": "If \\(z = 18(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "18^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "18^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "None",
+        "18(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "18^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q59",
+      "statement": "If \\(z = 19(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "19^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "19(\\cos 3\\theta + i\\sin 3\\theta)",
+        "19^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "19^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q60",
+      "statement": "If \\(z = 20(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "None",
+        "20^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "20(\\cos 3\\theta + i\\sin 3\\theta)",
+        "20^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "20^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q61",
+      "statement": "If \\(z = 21(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "21^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "21(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "21^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "21^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q62",
+      "statement": "If \\(z = 22(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "22^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "22^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "None",
+        "22(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "22^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q63",
+      "statement": "If \\(z = 23(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "None",
+        "23^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "23(\\cos 3\\theta + i\\sin 3\\theta)",
+        "23^3(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "23^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q64",
+      "statement": "If \\(z = 24(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "24(\\cos 3\\theta + i\\sin 3\\theta)",
+        "24^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "24^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "24^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q65",
+      "statement": "If \\(z = 25(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "25(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "25^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "25^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "25^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q66",
+      "statement": "If \\(z = 26(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "26^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "26(\\cos 3\\theta + i\\sin 3\\theta)",
+        "26^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "26^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q67",
+      "statement": "If \\(z = 27(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "27(\\cos 3\\theta + i\\sin 3\\theta)",
+        "27^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "27^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "27^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q68",
+      "statement": "If \\(z = 28(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "28(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "28^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "28^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "28^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q69",
+      "statement": "If \\(z = 29(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "29(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "29^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "29^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "29^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q70",
+      "statement": "If \\(z = 30(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "30(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "30^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "30^3(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "30^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q71",
+      "statement": "If \\(z = 31(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "31^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "31(\\cos 3\\theta + i\\sin 3\\theta)",
+        "31^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "31^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q72",
+      "statement": "If \\(z = 32(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "32(\\cos 3\\theta + i\\sin 3\\theta)",
+        "32^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "None",
+        "32^3(\\cos 3\\theta + i\\sin 3\\theta)"
+      ],
+      "answer": "32^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q73",
+      "statement": "If \\(z = 33(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "33(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "33^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "33^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "33^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q74",
+      "statement": "If \\(z = 34(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "34(\\cos 3\\theta + i\\sin 3\\theta)",
+        "34^3(\\cos 2\\theta + i\\sin 2\\theta)",
+        "34^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None"
+      ],
+      "answer": "34^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    },
+    {
+      "id": "M4Q75",
+      "statement": "If \\(z = 35(\\cos \\theta + i \\sin \\theta)\\), find \\(z^3\\) using De Moivre’s theorem.",
+      "options": [
+        "35(\\cos 3\\theta + i\\sin 3\\theta)",
+        "35^3(\\cos 3\\theta + i\\sin 3\\theta)",
+        "None",
+        "35^3(\\cos 2\\theta + i\\sin 2\\theta)"
+      ],
+      "answer": "35^3(\\cos 3\\theta + i\\sin 3\\theta)",
+      "type": "analytical"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M4Q76",
+      "statement": "If the roots of the quadratic \\(x^2 - 16x + 6 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Circle",
+        "Imaginary axis",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q77",
+      "statement": "If the roots of the quadratic \\(x^2 - 17x + 7 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Line",
+        "Imaginary axis",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q78",
+      "statement": "If the roots of the quadratic \\(x^2 - 18x + 8 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Circle",
+        "Imaginary axis",
+        "Parabola"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q79",
+      "statement": "If the roots of the quadratic \\(x^2 - 19x + 9 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Circle",
+        "Parabola",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q80",
+      "statement": "If the roots of the quadratic \\(x^2 - 20x + 10 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Parabola",
+        "Circle",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q81",
+      "statement": "If the roots of the quadratic \\(x^2 - 21x + 11 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Line",
+        "Parabola",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q82",
+      "statement": "If the roots of the quadratic \\(x^2 - 22x + 12 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Imaginary axis",
+        "Parabola",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q83",
+      "statement": "If the roots of the quadratic \\(x^2 - 23x + 13 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Line",
+        "Circle",
+        "Parabola"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q84",
+      "statement": "If the roots of the quadratic \\(x^2 - 24x + 14 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Parabola",
+        "Imaginary axis",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q85",
+      "statement": "If the roots of the quadratic \\(x^2 - 25x + 15 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Line",
+        "Imaginary axis",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q86",
+      "statement": "If the roots of the quadratic \\(x^2 - 26x + 16 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Circle",
+        "Parabola",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q87",
+      "statement": "If the roots of the quadratic \\(x^2 - 27x + 17 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Line",
+        "Circle",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q88",
+      "statement": "If the roots of the quadratic \\(x^2 - 28x + 18 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Circle",
+        "Imaginary axis",
+        "Parabola",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q89",
+      "statement": "If the roots of the quadratic \\(x^2 - 29x + 19 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Circle",
+        "Imaginary axis",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q90",
+      "statement": "If the roots of the quadratic \\(x^2 - 30x + 20 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Circle",
+        "Line",
+        "Parabola",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q91",
+      "statement": "If the roots of the quadratic \\(x^2 - 31x + 21 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Circle",
+        "Line",
+        "Imaginary axis",
+        "Parabola"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q92",
+      "statement": "If the roots of the quadratic \\(x^2 - 32x + 22 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Circle",
+        "Line",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q93",
+      "statement": "If the roots of the quadratic \\(x^2 - 33x + 23 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Line",
+        "Parabola",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q94",
+      "statement": "If the roots of the quadratic \\(x^2 - 34x + 24 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Circle",
+        "Imaginary axis",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q95",
+      "statement": "If the roots of the quadratic \\(x^2 - 35x + 25 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Line",
+        "Parabola",
+        "Imaginary axis",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q96",
+      "statement": "If the roots of the quadratic \\(x^2 - 36x + 26 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Line",
+        "Circle",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q97",
+      "statement": "If the roots of the quadratic \\(x^2 - 37x + 27 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Line",
+        "Parabola",
+        "Circle"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q98",
+      "statement": "If the roots of the quadratic \\(x^2 - 38x + 28 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Imaginary axis",
+        "Line",
+        "Circle",
+        "Parabola"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q99",
+      "statement": "If the roots of the quadratic \\(x^2 - 39x + 29 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Line",
+        "Circle",
+        "Imaginary axis"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    },
+    {
+      "id": "M4Q100",
+      "statement": "If the roots of the quadratic \\(x^2 - 40x + 30 = 0\\) are complex, determine the nature of its locus in the Argand plane.",
+      "options": [
+        "Parabola",
+        "Imaginary axis",
+        "Circle",
+        "Line"
+      ],
+      "answer": "Circle",
+      "type": "graphical"
+    }
+  ]
+}

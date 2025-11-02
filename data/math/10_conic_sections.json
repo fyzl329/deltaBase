@@ -1,0 +1,1095 @@
+{
+  "metadata": {
+    "chapter": "conic_sections",
+    "type": "mcq",
+    "subject": "mathematics",
+    "chapterNumber": 10,
+    "totalQuestions": 100
+  },
+  "normal": [
+    {
+      "id": "M10Q1",
+      "statement": "The curve \\(x^2 + y^2 = 25\\) is a:",
+      "options": [
+        "Line",
+        "Point (degenerate)",
+        "Pair of lines",
+        "Circle"
+      ],
+      "answer": "Circle"
+    },
+    {
+      "id": "M10Q2",
+      "statement": "The curve \\(y^2 = 16x\\) is a:",
+      "options": [
+        "Point (degenerate)",
+        "Line",
+        "Pair of lines",
+        "Parabola"
+      ],
+      "answer": "Parabola"
+    },
+    {
+      "id": "M10Q3",
+      "statement": "The curve \\(\\frac{x^2}{9} + \\frac{y^2}{4} = 1\\) is a:",
+      "options": [
+        "Pair of lines",
+        "Ellipse",
+        "Point (degenerate)",
+        "Line"
+      ],
+      "answer": "Ellipse"
+    },
+    {
+      "id": "M10Q4",
+      "statement": "The curve \\(\\frac{x^2}{9} - \\frac{y^2}{4} = 1\\) is a:",
+      "options": [
+        "Hyperbola",
+        "Point (degenerate)",
+        "Line",
+        "Pair of lines"
+      ],
+      "answer": "Hyperbola"
+    },
+    {
+      "id": "M10Q5",
+      "statement": "The curve \\((x-2)^2 + (y+3)^2 = 49\\) is a:",
+      "options": [
+        "Line",
+        "Pair of lines",
+        "Circle",
+        "Point (degenerate)"
+      ],
+      "answer": "Circle"
+    },
+    {
+      "id": "M10Q6",
+      "statement": "The curve \\(x^2 = -8y\\) is a:",
+      "options": [
+        "Pair of lines",
+        "Point (degenerate)",
+        "Line",
+        "Parabola"
+      ],
+      "answer": "Parabola"
+    },
+    {
+      "id": "M10Q7",
+      "statement": "For circle \\(x^2+y^2-6x+8y+9=0\\), the centre is:",
+      "options": [
+        "\\((4,-4)\\)",
+        "\\((0,0)\\)",
+        "\\((3,-4)\\)",
+        "\\((3,-3)\\)"
+      ],
+      "answer": "\\((3,-4)\\)"
+    },
+    {
+      "id": "M10Q8",
+      "statement": "For the same circle, the radius is:",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "M10Q9",
+      "statement": "For circle \\((x-5)^2+(y+1)^2=36\\), the centre is:",
+      "options": [
+        "\\((6,-1)\\)",
+        "\\((0,0)\\)",
+        "\\((5,0)\\)",
+        "\\((5,-1)\\)"
+      ],
+      "answer": "\\((5,-1)\\)"
+    },
+    {
+      "id": "M10Q10",
+      "statement": "For the same circle, the radius is:",
+      "options": [
+        "6",
+        "12",
+        "7",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "M10Q11",
+      "statement": "For circle \\(x^2+y^2=81\\), the centre is:",
+      "options": [
+        "\\((0,0)\\)",
+        "\\((0,1)\\)",
+        "\\((0,0)\\)",
+        "\\((1,0)\\)"
+      ],
+      "answer": "\\((0,0)\\)"
+    },
+    {
+      "id": "M10Q12",
+      "statement": "For the same circle, the radius is:",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "18"
+      ],
+      "answer": "9"
+    },
+    {
+      "id": "M10Q13",
+      "statement": "In \\(y^2=12x\\), the parameter \\(a\\) equals:",
+      "options": [
+        "\\(\\tfrac{a}{2}\\)",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "M10Q14",
+      "statement": "In \\(y^2=20x\\), the parameter \\(a\\) equals:",
+      "options": [
+        "6",
+        "4",
+        "\\(\\tfrac{a}{2}\\)",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "M10Q15",
+      "statement": "In \\(x^2=8y\\), the parameter \\(a\\) equals:",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "\\(\\tfrac{a}{2}\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "M10Q16",
+      "statement": "In \\(x^2=28y\\), the parameter \\(a\\) equals:",
+      "options": [
+        "8",
+        "\\(\\tfrac{a}{2}\\)",
+        "7",
+        "6"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "M10Q17",
+      "statement": "For ellipse \\(\\frac{x^2}{25}+\\frac{y^2}{9}=1\\), the eccentricity is:",
+      "options": [
+        "0.9",
+        "1.0",
+        "0.7",
+        "0.8"
+      ],
+      "answer": "0.8"
+    },
+    {
+      "id": "M10Q18",
+      "statement": "For ellipse \\(\\frac{x^2}{16}+\\frac{y^2}{9}=1\\), the eccentricity is:",
+      "options": [
+        "0.5614",
+        "1.0",
+        "0.6614",
+        "0.7614"
+      ],
+      "answer": "0.6614"
+    },
+    {
+      "id": "M10Q19",
+      "statement": "For ellipse \\(\\frac{x^2}{169}+\\frac{y^2}{25}=1\\), the eccentricity is:",
+      "options": [
+        "0.9231",
+        "0.8231",
+        "1.0",
+        "0.9999"
+      ],
+      "answer": "0.9231"
+    },
+    {
+      "id": "M10Q20",
+      "statement": "For hyperbola \\(\\frac{x^2}{9}-\\frac{y^2}{16}=1\\), the eccentricity is:",
+      "options": [
+        "1.467",
+        "1.667",
+        "1.867",
+        "0.8"
+      ],
+      "answer": "1.667"
+    },
+    {
+      "id": "M10Q21",
+      "statement": "For hyperbola \\(\\frac{x^2}{25}-\\frac{y^2}{144}=1\\), the eccentricity is:",
+      "options": [
+        "2.4",
+        "0.8",
+        "2.8",
+        "2.6"
+      ],
+      "answer": "2.6"
+    },
+    {
+      "id": "M10Q22",
+      "statement": "For hyperbola \\(\\frac{x^2}{169}-\\frac{y^2}{25}=1\\), the eccentricity is:",
+      "options": [
+        "0.8",
+        "1.071",
+        "1",
+        "1.271"
+      ],
+      "answer": "1.071"
+    },
+    {
+      "id": "M10Q23",
+      "statement": "Tangent to circle \\(x^2+y^2=25\\) at point \\((3,4)\\) is:",
+      "options": [
+        "\\(4x+3y=25\\)",
+        "\\(3x+4y=25\\)",
+        "\\(3x+4y=0\\)",
+        "\\(xx_1+yy_1=25\\)"
+      ],
+      "answer": "\\(3x+4y=25\\)"
+    },
+    {
+      "id": "M10Q24",
+      "statement": "Tangent to circle \\(x^2+y^2=100\\) at point \\((0,10)\\) is:",
+      "options": [
+        "\\(0x+10y=0\\)",
+        "\\(xx_1+yy_1=100\\)",
+        "\\(0x+10y=100\\)",
+        "\\(10x+0y=100\\)"
+      ],
+      "answer": "\\(0x+10y=100\\)"
+    },
+    {
+      "id": "M10Q25",
+      "statement": "Tangent to circle \\(x^2+y^2=169\\) at point \\((-5,12)\\) is:",
+      "options": [
+        "\\(-5x+12y=169\\)",
+        "\\(-5x+12y=0\\)",
+        "\\(xx_1+yy_1=169\\)",
+        "\\(12x+-5y=169\\)"
+      ],
+      "answer": "\\(-5x+12y=169\\)"
+    }
+  ],
+  "moderate": [
+    {
+      "id": "M10Q26",
+      "statement": "For parabola \\(y^2=4ax\\), the focus is:",
+      "options": [
+        "\\((2,0)\\)",
+        "\\((0,-{a})\\)",
+        "\\((-{a},0)\\)",
+        "\\((0,{a})\\)"
+      ],
+      "answer": "\\((2,0)\\)"
+    },
+    {
+      "id": "M10Q27",
+      "statement": "For parabola \\(y^2=4ax\\), the focus is:",
+      "options": [
+        "\\((0,{a})\\)",
+        "\\((3,0)\\)",
+        "\\((0,-{a})\\)",
+        "\\((-{a},0)\\)"
+      ],
+      "answer": "\\((3,0)\\)"
+    },
+    {
+      "id": "M10Q28",
+      "statement": "For parabola \\(y^2=4ax\\), the focus is:",
+      "options": [
+        "\\((0,{a})\\)",
+        "\\((0,-{a})\\)",
+        "\\((-{a},0)\\)",
+        "\\((5,0)\\)"
+      ],
+      "answer": "\\((5,0)\\)"
+    },
+    {
+      "id": "M10Q29",
+      "statement": "For parabola \\(y^2=4ax\\), the focus is:",
+      "options": [
+        "\\((0,-{a})\\)",
+        "\\((7,0)\\)",
+        "\\((-{a},0)\\)",
+        "\\((0,{a})\\)"
+      ],
+      "answer": "\\((7,0)\\)"
+    },
+    {
+      "id": "M10Q30",
+      "statement": "For parabola \\(y^2=4ax\\), the focus is:",
+      "options": [
+        "\\((9,0)\\)",
+        "\\((0,{a})\\)",
+        "\\((-{a},0)\\)",
+        "\\((0,-{a})\\)"
+      ],
+      "answer": "\\((9,0)\\)"
+    },
+    {
+      "id": "M10Q31",
+      "statement": "Latus rectum length of \\(y^2=4ax\\) is:",
+      "options": [
+        "\\(4a\\)",
+        "\\(2a\\)",
+        "\\(\\tfrac{b^2}{a}\\)",
+        "\\(2b\\)"
+      ],
+      "answer": "\\(4a\\)"
+    },
+    {
+      "id": "M10Q32",
+      "statement": "Latus rectum length of ellipse \\(\\dfrac{x^2}{a^2}+\\dfrac{y^2}{b^2}=1\\) is:",
+      "options": [
+        "\\(2a\\)",
+        "\\(\\tfrac{b^2}{a}\\)",
+        "\\(\\tfrac{2b^2}{a}\\)",
+        "\\(\\tfrac{2a^2}{b}\\)"
+      ],
+      "answer": "\\(\\tfrac{2b^2}{a}\\)"
+    },
+    {
+      "id": "M10Q33",
+      "statement": "For hyperbola \\(\\dfrac{x^2}{a^2}-\\dfrac{y^2}{b^2}=1\\), latus rectum length equals:",
+      "options": [
+        "\\(\\tfrac{b^2}{a}\\)",
+        "\\(\\tfrac{2a^2}{b}\\)",
+        "\\(2a\\)",
+        "\\(\\tfrac{2b^2}{a}\\)"
+      ],
+      "answer": "\\(\\tfrac{2b^2}{a}\\)"
+    },
+    {
+      "id": "M10Q34",
+      "statement": "Tangent to \\(y^2=4\\cdot4x\\) with slope \\(m=1\\) is:",
+      "options": [
+        "\\(y=1x+4/1\\)",
+        "\\(y=4x+1\\)",
+        "\\(y=1x-4/1\\)",
+        "\\(y=1x+4m\\)"
+      ],
+      "answer": "\\(y=1x+4/1\\)"
+    },
+    {
+      "id": "M10Q35",
+      "statement": "Tangent to \\(y^2=4\\cdot4x\\) with slope \\(m=2\\) is:",
+      "options": [
+        "\\(y=4x+2\\)",
+        "\\(y=2x+4m\\)",
+        "\\(y=2x-4/2\\)",
+        "\\(y=2x+4/2\\)"
+      ],
+      "answer": "\\(y=2x+4/2\\)"
+    },
+    {
+      "id": "M10Q36",
+      "statement": "Tangent to \\(y^2=4\\cdot4x\\) with slope \\(m=-2\\) is:",
+      "options": [
+        "\\(y=4x+-2\\)",
+        "\\(y=-2x-4/-2\\)",
+        "\\(y=-2x+4m\\)",
+        "\\(y=-2x+4/-2\\)"
+      ],
+      "answer": "\\(y=-2x+4/-2\\)"
+    },
+    {
+      "id": "M10Q37",
+      "statement": "Normal to \\(y^2=4\\cdot2x\\) at parameter \\(t\\) is \\(y=-tx+2at+at^3\\). For \\(t=1\\), the equation is:",
+      "options": [
+        "\\(y=-1x+2\\)",
+        "\\(y=-1x+6\\)",
+        "\\(y=1x+6\\)",
+        "\\(y=-1x+2\\)"
+      ],
+      "answer": "\\(y=-1x+6\\)"
+    },
+    {
+      "id": "M10Q38",
+      "statement": "Normal to \\(y^2=4\\cdot2x\\) at parameter \\(t\\) is \\(y=-tx+2at+at^3\\). For \\(t=2\\), the equation is:",
+      "options": [
+        "\\(y=-2x+-8\\)",
+        "\\(y=-2x+24\\)",
+        "\\(y=-2x+16\\)",
+        "\\(y=2x+24\\)"
+      ],
+      "answer": "\\(y=-2x+24\\)"
+    },
+    {
+      "id": "M10Q39",
+      "statement": "Normal to \\(y^2=4\\cdot2x\\) at parameter \\(t\\) is \\(y=-tx+2at+at^3\\). For \\(t=-1\\), the equation is:",
+      "options": [
+        "\\(y=1x+-2\\)",
+        "\\(y=1x+-2\\)",
+        "\\(y=-1x+-6\\)",
+        "\\(y=1x+-6\\)"
+      ],
+      "answer": "\\(y=1x+-6\\)"
+    },
+    {
+      "id": "M10Q40",
+      "statement": "Eccentricity of ellipse \\(\\frac{x^2}{100}+\\frac{y^2}{64}=1\\) equals:",
+      "options": [
+        "1.0",
+        "0.5",
+        "0.6",
+        "0.7"
+      ],
+      "answer": "0.6"
+    },
+    {
+      "id": "M10Q41",
+      "statement": "Eccentricity of ellipse \\(\\frac{x^2}{169}+\\frac{y^2}{25}=1\\) equals:",
+      "options": [
+        "1.0",
+        "0.9999",
+        "0.9231",
+        "0.8231"
+      ],
+      "answer": "0.9231"
+    },
+    {
+      "id": "M10Q42",
+      "statement": "Eccentricity of ellipse \\(\\frac{x^2}{25}+\\frac{y^2}{9}=1\\) equals:",
+      "options": [
+        "0.8",
+        "1.0",
+        "0.7",
+        "0.9"
+      ],
+      "answer": "0.8"
+    },
+    {
+      "id": "M10Q43",
+      "statement": "Asymptotes of \\(\\frac{x^2}{25}-\\frac{y^2}{144}=1\\) are:",
+      "options": [
+        "\\(y=\\pm \\tfrac{5}{12}x\\)",
+        "\\(x=\\pm \\tfrac{{{b}}}{{{a}}}y\\)",
+        "\\(y=\\pm \\tfrac{12}{5}x\\)",
+        "\\(y=\\pm x\\)"
+      ],
+      "answer": "\\(y=\\pm \\tfrac{12}{5}x\\)"
+    },
+    {
+      "id": "M10Q44",
+      "statement": "Asymptotes of \\(\\frac{x^2}{169}-\\frac{y^2}{25}=1\\) are:",
+      "options": [
+        "\\(y=\\pm x\\)",
+        "\\(x=\\pm \\tfrac{{{b}}}{{{a}}}y\\)",
+        "\\(y=\\pm \\tfrac{5}{13}x\\)",
+        "\\(y=\\pm \\tfrac{13}{5}x\\)"
+      ],
+      "answer": "\\(y=\\pm \\tfrac{5}{13}x\\)"
+    },
+    {
+      "id": "M10Q45",
+      "statement": "Asymptotes of \\(\\frac{x^2}{9}-\\frac{y^2}{16}=1\\) are:",
+      "options": [
+        "\\(y=\\pm x\\)",
+        "\\(y=\\pm \\tfrac{4}{3}x\\)",
+        "\\(x=\\pm \\tfrac{{{b}}}{{{a}}}y\\)",
+        "\\(y=\\pm \\tfrac{3}{4}x\\)"
+      ],
+      "answer": "\\(y=\\pm \\tfrac{4}{3}x\\)"
+    },
+    {
+      "id": "M10Q46",
+      "statement": "Tangent to \\(x^2+y^2=4\\) at \\((0,4)\\) is:",
+      "options": [
+        "\\(0x+4y=0\\)",
+        "\\(4x+0y=4\\)",
+        "\\(0x+4y=4\\)",
+        "\\(0+4=r\\)"
+      ],
+      "answer": "\\(0x+4y=4\\)"
+    },
+    {
+      "id": "M10Q47",
+      "statement": "Tangent to \\(x^2+y^2=9\\) at \\((3,0)\\) is:",
+      "options": [
+        "\\(0x+3y=9\\)",
+        "\\(3+0=r\\)",
+        "\\(3x+0y=0\\)",
+        "\\(3x+0y=9\\)"
+      ],
+      "answer": "\\(3x+0y=9\\)"
+    },
+    {
+      "id": "M10Q48",
+      "statement": "Tangent to \\(x^2+y^2=16\\) at \\((-4,0)\\) is:",
+      "options": [
+        "\\(-4+0=r\\)",
+        "\\(-4x+0y=0\\)",
+        "\\(-4x+0y=16\\)",
+        "\\(0x+-4y=16\\)"
+      ],
+      "answer": "\\(-4x+0y=16\\)"
+    },
+    {
+      "id": "M10Q97",
+      "statement": "For ellipse \\(\\dfrac{x^2}{a^2}+\\dfrac{y^2}{b^2}=1\\), the sum of distances from any point on ellipse to the two foci equals:",
+      "options": [
+        "\\(a+b\\)",
+        "\\(\\sqrt{a^2+b^2}\\)",
+        "\\(2a\\)",
+        "\\(2b\\)"
+      ],
+      "answer": "\\(2a\\)"
+    },
+    {
+      "id": "M10Q98",
+      "statement": "For hyperbola \\(\\dfrac{x^2}{a^2}-\\dfrac{y^2}{b^2}=1\\), the absolute difference of distances to the two foci equals:",
+      "options": [
+        "\\(2b\\)",
+        "\\(a+b\\)",
+        "\\(2a\\)",
+        "\\(\\sqrt{a^2+b^2}\\)"
+      ],
+      "answer": "\\(2a\\)"
+    }
+  ],
+  "hard": [
+    {
+      "id": "M10Q49",
+      "statement": "From external point \\((7,0)\\) to circle \\(x^2+y^2=25\\): number of real tangents is:",
+      "options": [
+        "No real tangents",
+        "One tangent",
+        "Two real tangents",
+        "Infinitely many"
+      ],
+      "answer": "Two real tangents"
+    },
+    {
+      "id": "M10Q50",
+      "statement": "From external point \\((0,13)\\) to circle \\(x^2+y^2=25\\): number of real tangents is:",
+      "options": [
+        "No real tangents",
+        "Infinitely many",
+        "Two real tangents",
+        "One tangent"
+      ],
+      "answer": "Two real tangents"
+    },
+    {
+      "id": "M10Q51",
+      "statement": "From external point \\((10,8)\\) to circle \\(x^2+y^2=36\\): number of real tangents is:",
+      "options": [
+        "One tangent",
+        "No real tangents",
+        "Infinitely many",
+        "Two real tangents"
+      ],
+      "answer": "Two real tangents"
+    },
+    {
+      "id": "M10Q52",
+      "statement": "From external point \\((0,-10)\\) to circle \\(x^2+y^2=49\\): number of real tangents is:",
+      "options": [
+        "No real tangents",
+        "One tangent",
+        "Infinitely many",
+        "Two real tangents"
+      ],
+      "answer": "Two real tangents"
+    },
+    {
+      "id": "M10Q53",
+      "statement": "From external point \\((-12,5)\\) to circle \\(x^2+y^2=100\\): number of real tangents is:",
+      "options": [
+        "No real tangents",
+        "Two real tangents",
+        "One tangent",
+        "Infinitely many"
+      ],
+      "answer": "Two real tangents"
+    },
+    {
+      "id": "M10Q54",
+      "statement": "Length of latus rectum of parabola \\(y^2=4\\cdot2x\\) is:",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "16"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": "M10Q55",
+      "statement": "Length of latus rectum of parabola \\(y^2=4\\cdot3x\\) is:",
+      "options": [
+        "24",
+        "3",
+        "12",
+        "6"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": "M10Q56",
+      "statement": "Length of latus rectum of parabola \\(y^2=4\\cdot5x\\) is:",
+      "options": [
+        "10",
+        "40",
+        "20",
+        "5"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": "M10Q57",
+      "statement": "Length of latus rectum of parabola \\(y^2=4\\cdot7x\\) is:",
+      "options": [
+        "14",
+        "7",
+        "56",
+        "28"
+      ],
+      "answer": "28"
+    },
+    {
+      "id": "M10Q58",
+      "statement": "Length of latus rectum of parabola \\(y^2=4\\cdot9x\\) is:",
+      "options": [
+        "36",
+        "18",
+        "72",
+        "9"
+      ],
+      "answer": "36"
+    },
+    {
+      "id": "M10Q59",
+      "statement": "Tangent to ellipse \\(\\tfrac{x^2}{25}+\\tfrac{y^2}{9}=1\\) at \\((a\\cos\\theta,b\\sin\\theta)\\) is:",
+      "options": [
+        "\\(x\\cos\\theta+y\\sin\\theta=1\\)",
+        "\\(\\tfrac{x\\sin\\theta}{a}+\\tfrac{y\\cos\\theta}{b}=1\\)",
+        "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)",
+        "\\(\\tfrac{x\\cos\\theta}{b}+\\tfrac{y\\sin\\theta}{a}=1\\)"
+      ],
+      "answer": "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)"
+    },
+    {
+      "id": "M10Q60",
+      "statement": "Tangent to ellipse \\(\\tfrac{x^2}{169}+\\tfrac{y^2}{25}=1\\) at \\((a\\cos\\theta,b\\sin\\theta)\\) is:",
+      "options": [
+        "\\(\\tfrac{x\\cos\\theta}{b}+\\tfrac{y\\sin\\theta}{a}=1\\)",
+        "\\(\\tfrac{x\\sin\\theta}{a}+\\tfrac{y\\cos\\theta}{b}=1\\)",
+        "\\(x\\cos\\theta+y\\sin\\theta=1\\)",
+        "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)"
+      ],
+      "answer": "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)"
+    },
+    {
+      "id": "M10Q61",
+      "statement": "Tangent to ellipse \\(\\tfrac{x^2}{100}+\\tfrac{y^2}{36}=1\\) at \\((a\\cos\\theta,b\\sin\\theta)\\) is:",
+      "options": [
+        "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)",
+        "\\(\\tfrac{x\\sin\\theta}{a}+\\tfrac{y\\cos\\theta}{b}=1\\)",
+        "\\(x\\cos\\theta+y\\sin\\theta=1\\)",
+        "\\(\\tfrac{x\\cos\\theta}{b}+\\tfrac{y\\sin\\theta}{a}=1\\)"
+      ],
+      "answer": "\\(\\tfrac{x\\cos\\theta}{a}+\\tfrac{y\\sin\\theta}{b}=1\\)"
+    },
+    {
+      "id": "M10Q62",
+      "statement": "Director circle of \\(x^2+y^2=9\\) is:",
+      "options": [
+        "\\(x^2+y^2=9\\)",
+        "\\(x^2+y^2={r}\\)",
+        "\\(x^2+y^2=18\\)",
+        "\\(x^2+y^2={4*r*r}\\)"
+      ],
+      "answer": "\\(x^2+y^2=18\\)"
+    },
+    {
+      "id": "M10Q63",
+      "statement": "Director circle of \\(x^2+y^2=25\\) is:",
+      "options": [
+        "\\(x^2+y^2=50\\)",
+        "\\(x^2+y^2={r}\\)",
+        "\\(x^2+y^2=25\\)",
+        "\\(x^2+y^2={4*r*r}\\)"
+      ],
+      "answer": "\\(x^2+y^2=50\\)"
+    },
+    {
+      "id": "M10Q64",
+      "statement": "Director circle of \\(x^2+y^2=49\\) is:",
+      "options": [
+        "\\(x^2+y^2={r}\\)",
+        "\\(x^2+y^2=49\\)",
+        "\\(x^2+y^2={4*r*r}\\)",
+        "\\(x^2+y^2=98\\)"
+      ],
+      "answer": "\\(x^2+y^2=98\\)"
+    },
+    {
+      "id": "M10Q65",
+      "statement": "Director circle of \\(x^2+y^2=81\\) is:",
+      "options": [
+        "\\(x^2+y^2=81\\)",
+        "\\(x^2+y^2={4*r*r}\\)",
+        "\\(x^2+y^2=162\\)",
+        "\\(x^2+y^2={r}\\)"
+      ],
+      "answer": "\\(x^2+y^2=162\\)"
+    },
+    {
+      "id": "M10Q66",
+      "statement": "Director circle of \\(x^2+y^2=121\\) is:",
+      "options": [
+        "\\(x^2+y^2=242\\)",
+        "\\(x^2+y^2={r}\\)",
+        "\\(x^2+y^2={4*r*r}\\)",
+        "\\(x^2+y^2=121\\)"
+      ],
+      "answer": "\\(x^2+y^2=242\\)"
+    },
+    {
+      "id": "M10Q67",
+      "statement": "Tangent to rectangular hyperbola \\(xy=4\\) at \\((ct,\\tfrac{c}{t})\\) is:",
+      "options": [
+        "\\(\\tfrac{x}{t}+\\tfrac{y}{t}=2c\\)",
+        "\\(tx+\\tfrac{y}{t}=2c\\)",
+        "\\(\\tfrac{x}{t}+t y=2c\\)",
+        "\\(x+ty=2c\\)"
+      ],
+      "answer": "\\(\\tfrac{x}{t}+t y=2c\\)"
+    },
+    {
+      "id": "M10Q68",
+      "statement": "Tangent to rectangular hyperbola \\(xy=9\\) at \\((ct,\\tfrac{c}{t})\\) is:",
+      "options": [
+        "\\(tx+\\tfrac{y}{t}=2c\\)",
+        "\\(\\tfrac{x}{t}+\\tfrac{y}{t}=2c\\)",
+        "\\(\\tfrac{x}{t}+t y=2c\\)",
+        "\\(x+ty=2c\\)"
+      ],
+      "answer": "\\(\\tfrac{x}{t}+t y=2c\\)"
+    },
+    {
+      "id": "M10Q69",
+      "statement": "Tangent to rectangular hyperbola \\(xy=25\\) at \\((ct,\\tfrac{c}{t})\\) is:",
+      "options": [
+        "\\(\\tfrac{x}{t}+t y=2c\\)",
+        "\\(x+ty=2c\\)",
+        "\\(\\tfrac{x}{t}+\\tfrac{y}{t}=2c\\)",
+        "\\(tx+\\tfrac{y}{t}=2c\\)"
+      ],
+      "answer": "\\(\\tfrac{x}{t}+t y=2c\\)"
+    },
+    {
+      "id": "M10Q70",
+      "statement": "Tangent to rectangular hyperbola \\(xy=49\\) at \\((ct,\\tfrac{c}{t})\\) is:",
+      "options": [
+        "\\(\\tfrac{x}{t}+\\tfrac{y}{t}=2c\\)",
+        "\\(x+ty=2c\\)",
+        "\\(\\tfrac{x}{t}+t y=2c\\)",
+        "\\(tx+\\tfrac{y}{t}=2c\\)"
+      ],
+      "answer": "\\(\\tfrac{x}{t}+t y=2c\\)"
+    },
+    {
+      "id": "M10Q71",
+      "statement": "Tangent to rectangular hyperbola \\(xy=81\\) at \\((ct,\\tfrac{c}{t})\\) is:",
+      "options": [
+        "\\(\\tfrac{x}{t}+t y=2c\\)",
+        "\\(tx+\\tfrac{y}{t}=2c\\)",
+        "\\(\\tfrac{x}{t}+\\tfrac{y}{t}=2c\\)",
+        "\\(x+ty=2c\\)"
+      ],
+      "answer": "\\(\\tfrac{x}{t}+t y=2c\\)"
+    }
+  ],
+  "jee": [
+    {
+      "id": "M10Q72",
+      "statement": "For line \\(y=mx+c\\) to be tangent to \\(x^2+y^2=25\\), the condition is:",
+      "options": [
+        "\\(c^2=R(1+m)\\)",
+        "\\(|c|=\\tfrac{R}{\\sqrt{1+m^2}}\\)",
+        "\\(c=R(1+m^2)\\)",
+        "\\(|c|=R\\sqrt{1+m^2}\\)"
+      ],
+      "answer": "\\(|c|=R\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M10Q73",
+      "statement": "For line \\(y=mx+c\\) to be tangent to \\(x^2+y^2=100\\), the condition is:",
+      "options": [
+        "\\(|c|=R\\sqrt{1+m^2}\\)",
+        "\\(|c|=\\tfrac{R}{\\sqrt{1+m^2}}\\)",
+        "\\(c=R(1+m^2)\\)",
+        "\\(c^2=R(1+m)\\)"
+      ],
+      "answer": "\\(|c|=R\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M10Q74",
+      "statement": "For line \\(y=mx+c\\) to be tangent to \\(x^2+y^2=169\\), the condition is:",
+      "options": [
+        "\\(c^2=R(1+m)\\)",
+        "\\(c=R(1+m^2)\\)",
+        "\\(|c|=\\tfrac{R}{\\sqrt{1+m^2}}\\)",
+        "\\(|c|=R\\sqrt{1+m^2}\\)"
+      ],
+      "answer": "\\(|c|=R\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M10Q75",
+      "statement": "For line \\(y=mx+c\\) to be tangent to \\(x^2+y^2=25\\), the condition is:",
+      "options": [
+        "\\(c^2=R(1+m)\\)",
+        "\\(|c|=\\tfrac{R}{\\sqrt{1+m^2}}\\)",
+        "\\(c=R(1+m^2)\\)",
+        "\\(|c|=R\\sqrt{1+m^2}\\)"
+      ],
+      "answer": "\\(|c|=R\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M10Q76",
+      "statement": "For line \\(y=mx+c\\) to be tangent to \\(x^2+y^2=100\\), the condition is:",
+      "options": [
+        "\\(|c|=R\\sqrt{1+m^2}\\)",
+        "\\(c=R(1+m^2)\\)",
+        "\\(|c|=\\tfrac{R}{\\sqrt{1+m^2}}\\)",
+        "\\(c^2=R(1+m)\\)"
+      ],
+      "answer": "\\(|c|=R\\sqrt{1+m^2}\\)"
+    },
+    {
+      "id": "M10Q77",
+      "statement": "Number of real intersections of \\(y=mx+c\\) with \\(y^2=4\\cdot2x\\) is determined by the discriminant. For \\(m=1,c=0\\):",
+      "options": [
+        "Depends on x only",
+        "Two real points",
+        "Two complex points",
+        "Infinitely many"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q78",
+      "statement": "Number of real intersections of \\(y=mx+c\\) with \\(y^2=4\\cdot3x\\) is determined by the discriminant. For \\(m=2,c=1\\):",
+      "options": [
+        "Depends on x only",
+        "Two real points",
+        "Two complex points",
+        "Infinitely many"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q79",
+      "statement": "Number of real intersections of \\(y=mx+c\\) with \\(y^2=4\\cdot5x\\) is determined by the discriminant. For \\(m=-1,c=4\\):",
+      "options": [
+        "Two real points",
+        "Infinitely many",
+        "Depends on x only",
+        "Two complex points"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q80",
+      "statement": "Number of real intersections of \\(y=mx+c\\) with \\(y^2=4\\cdot4x\\) is determined by the discriminant. For \\(m=0,c=3\\):",
+      "options": [
+        "Two real points",
+        "Depends on x only",
+        "Infinitely many",
+        "Two complex points"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q81",
+      "statement": "Slope of tangent to \\(\\tfrac{x^2}{25}+\\tfrac{y^2}{9}=1\\) at \\((4,-3)\\) is:",
+      "options": [
+        "1.48",
+        "0.48",
+        "-2.083",
+        "0"
+      ],
+      "answer": "0.48"
+    },
+    {
+      "id": "M10Q82",
+      "statement": "Slope of tangent to \\(\\tfrac{x^2}{169}+\\tfrac{y^2}{25}=1\\) at \\((12,5)\\) is:",
+      "options": [
+        "0",
+        "-0.355",
+        "2.817",
+        "0.645"
+      ],
+      "answer": "-0.355"
+    },
+    {
+      "id": "M10Q83",
+      "statement": "Slope of tangent to \\(\\tfrac{x^2}{100}+\\tfrac{y^2}{36}=1\\) at \\((8,-6)\\) is:",
+      "options": [
+        "0.48",
+        "0",
+        "-2.083",
+        "1.48"
+      ],
+      "answer": "0.48"
+    },
+    {
+      "id": "M10Q84",
+      "statement": "For \\((x^2+y^2-4x-6y+9)+\\lambda(2x-y+3)=0\\), as \\(\\lambda\\) varies the curve is:",
+      "options": [
+        "A line always",
+        "A parabola for some \\(\\lambda\\)",
+        "Always a circle (non-degenerate for most \\(\\lambda\\))",
+        "A hyperbola for all \\(\\lambda\\)"
+      ],
+      "answer": "Always a circle (non-degenerate for most \\(\\lambda\\))"
+    },
+    {
+      "id": "M10Q85",
+      "statement": "For \\((x^2+y^2-4x-6y+9)+\\lambda(2x-y+3)=0\\), as \\(\\lambda\\) varies the curve is:",
+      "options": [
+        "A parabola for some \\(\\lambda\\)",
+        "A hyperbola for all \\(\\lambda\\)",
+        "Always a circle (non-degenerate for most \\(\\lambda\\))",
+        "A line always"
+      ],
+      "answer": "Always a circle (non-degenerate for most \\(\\lambda\\))"
+    },
+    {
+      "id": "M10Q86",
+      "statement": "For \\((x^2+y^2-4x-6y+9)+\\lambda(2x-y+3)=0\\), as \\(\\lambda\\) varies the curve is:",
+      "options": [
+        "A line always",
+        "A hyperbola for all \\(\\lambda\\)",
+        "A parabola for some \\(\\lambda\\)",
+        "Always a circle (non-degenerate for most \\(\\lambda\\))"
+      ],
+      "answer": "Always a circle (non-degenerate for most \\(\\lambda\\))"
+    },
+    {
+      "id": "M10Q87",
+      "statement": "For \\((x^2+y^2-4x-6y+9)+\\lambda(2x-y+3)=0\\), as \\(\\lambda\\) varies the curve is:",
+      "options": [
+        "A hyperbola for all \\(\\lambda\\)",
+        "Always a circle (non-degenerate for most \\(\\lambda\\))",
+        "A parabola for some \\(\\lambda\\)",
+        "A line always"
+      ],
+      "answer": "Always a circle (non-degenerate for most \\(\\lambda\\))"
+    },
+    {
+      "id": "M10Q88",
+      "statement": "From point \\((10,0)\\) to parabola \\(y^2=4\\cdot3x\\): number of tangents is:",
+      "options": [
+        "Cannot be determined",
+        "Two tangents",
+        "Depends on y only",
+        "Infinitely many"
+      ],
+      "answer": "Two tangents"
+    },
+    {
+      "id": "M10Q89",
+      "statement": "From point \\((3,0)\\) to parabola \\(y^2=4\\cdot3x\\): number of tangents is:",
+      "options": [
+        "Cannot be determined",
+        "Infinitely many",
+        "Exactly one tangent",
+        "Depends on y only"
+      ],
+      "answer": "Exactly one tangent"
+    },
+    {
+      "id": "M10Q90",
+      "statement": "From point \\((0,0)\\) to parabola \\(y^2=4\\cdot3x\\): number of tangents is:",
+      "options": [
+        "Cannot be determined",
+        "Depends on y only",
+        "Infinitely many",
+        "No real tangent"
+      ],
+      "answer": "No real tangent"
+    },
+    {
+      "id": "M10Q91",
+      "statement": "From point \\((-2,0)\\) to parabola \\(y^2=4\\cdot3x\\): number of tangents is:",
+      "options": [
+        "No real tangent",
+        "Infinitely many",
+        "Cannot be determined",
+        "Depends on y only"
+      ],
+      "answer": "No real tangent"
+    },
+    {
+      "id": "M10Q92",
+      "statement": "Line \\(y=1x+0\\) with ellipse \\(\\tfrac{x^2}{25}+\\tfrac{y^2}{9}=1\\): relation is:",
+      "options": [
+        "Coincident",
+        "Two real points",
+        "Cannot say",
+        "Always parallel"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q93",
+      "statement": "Line \\(y=2x+1\\) with ellipse \\(\\tfrac{x^2}{169}+\\tfrac{y^2}{25}=1\\): relation is:",
+      "options": [
+        "Cannot say",
+        "Two real points",
+        "Coincident",
+        "Always parallel"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q94",
+      "statement": "Line \\(y=-1x+4\\) with ellipse \\(\\tfrac{x^2}{100}+\\tfrac{y^2}{36}=1\\): relation is:",
+      "options": [
+        "Coincident",
+        "Always parallel",
+        "Cannot say",
+        "Two real points"
+      ],
+      "answer": "Two real points"
+    },
+    {
+      "id": "M10Q95",
+      "statement": "Line \\(y=0x+3\\) with ellipse \\(\\tfrac{x^2}{25}+\\tfrac{y^2}{9}=1\\): relation is:",
+      "options": [
+        "Coincident",
+        "Always parallel",
+        "Cannot say",
+        "Tangent"
+      ],
+      "answer": "Tangent"
+    },
+    {
+      "id": "M10Q96",
+      "statement": "Line \\(y=1x+-2\\) with ellipse \\(\\tfrac{x^2}{100}+\\tfrac{y^2}{36}=1\\): relation is:",
+      "options": [
+        "Cannot say",
+        "Always parallel",
+        "Coincident",
+        "Two real points"
+      ],
+      "answer": "Two real points"
+    }
+  ]
+}
